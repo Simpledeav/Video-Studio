@@ -1,0 +1,182 @@
+{
+  "source": "public/audio/episodes/lego/voice.mp3",
+  "voice": "en-US-BrianMultilingualNeural",
+  "segments": [
+    {
+      "id": "hook",
+      "start": 0.25,
+      "duration": 5.76,
+      "end": 6.01,
+      "words": 14
+    },
+    {
+      "id": "crisis",
+      "start": 8.25,
+      "duration": 12.624,
+      "end": 20.874,
+      "words": 33
+    },
+    {
+      "id": "complexity",
+      "start": 21.15,
+      "duration": 10.584,
+      "end": 31.734,
+      "words": 27
+    },
+    {
+      "id": "turning-point",
+      "start": 32.05,
+      "duration": 10.728,
+      "end": 42.778,
+      "words": 29
+    },
+    {
+      "id": "strategy",
+      "start": 43.25,
+      "duration": 12.912,
+      "end": 56.162,
+      "words": 31
+    },
+    {
+      "id": "comeback",
+      "start": 57.25,
+      "duration": 13.584,
+      "end": 70.834,
+      "words": 35
+    },
+    {
+      "id": "lesson",
+      "start": 71.25,
+      "duration": 6.288,
+      "end": 77.538,
+      "words": 19
+    }
+  ],
+  "cues": [
+    {
+      "start": 0.325,
+      "end": 3.573,
+      "text": "Imagine building one of the world's most loved toy brands\u2026"
+    },
+    {
+      "start": 4.025,
+      "end": 5.81,
+      "text": "then almost losing everything."
+    },
+    {
+      "start": 8.314,
+      "end": 12.012,
+      "text": "By 2004, LEGO was in its worst financial crisis."
+    },
+    {
+      "start": 12.167,
+      "end": 13.688,
+      "text": "Its business had become complicated,"
+    },
+    {
+      "start": 13.808,
+      "end": 16.702,
+      "text": "expensive, and increasingly difficult to manage."
+    },
+    {
+      "start": 16.873,
+      "end": 20.719,
+      "text": "That year, it reported a net loss of nearly two billion Danish kroner."
+    },
+    {
+      "start": 21.231,
+      "end": 24.099,
+      "text": "LEGO had expanded into too many directions."
+    },
+    {
+      "start": 24.31,
+      "end": 26.981,
+      "text": "More products, more complexity, more costs."
+    },
+    {
+      "start": 27.161,
+      "end": 28.964,
+      "text": "It was trying to become everything,"
+    },
+    {
+      "start": 29.105,
+      "end": 31.545,
+      "text": "while losing focus on what made it special."
+    },
+    {
+      "start": 32.107,
+      "end": 33.676,
+      "text": "Then came a major change."
+    },
+    {
+      "start": 33.848,
+      "end": 37.178,
+      "text": "In 2004, J\u00f8rgen Vig Knudstorp became CEO."
+    },
+    {
+      "start": 37.368,
+      "end": 40.505,
+      "text": "His mission wasn't to make LEGO bigger in every direction."
+    },
+    {
+      "start": 40.68,
+      "end": 42.601,
+      "text": "It was to make the business stronger."
+    },
+    {
+      "start": 43.331,
+      "end": 45.829,
+      "text": "LEGO started cutting unnecessary complexity,"
+    },
+    {
+      "start": 46.143,
+      "end": 49.139,
+      "text": "selling non-core assets, reducing costs,"
+    },
+    {
+      "start": 49.269,
+      "end": 52.6,
+      "text": "and returning its attention to its core product: the brick."
+    },
+    {
+      "start": 52.81,
+      "end": 55.968,
+      "text": "It also worked to reconnect with the customers who loved it."
+    },
+    {
+      "start": 57.305,
+      "end": 58.583,
+      "text": "The turnaround worked."
+    },
+    {
+      "start": 58.774,
+      "end": 63.117000000000004,
+      "text": "By 2015, LEGO's revenue had reached 35.8 billion"
+    },
+    {
+      "start": 63.237,
+      "end": 64.099,
+      "text": "Danish kroner."
+    },
+    {
+      "start": 64.289,
+      "end": 66.44999999999999,
+      "text": "A company that had once faced a serious fight for"
+    },
+    {
+      "start": 66.57,
+      "end": 70.656,
+      "text": "survival had rebuilt itself into one of the world's leading toy businesses."
+    },
+    {
+      "start": 71.325,
+      "end": 74.621,
+      "text": "Here's the lesson: growth isn't always about doing more."
+    },
+    {
+      "start": 74.777,
+      "end": 77.362,
+      "text": "Sometimes, it's about getting back to what you do best."
+    }
+  ]
+}

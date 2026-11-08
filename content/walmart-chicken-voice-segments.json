@@ -1,0 +1,143 @@
+{
+  "voiceId": "SD_VOICE_03",
+  "voiceName": "Nathan Cole",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "direction": "Energetic, warm, amused documentary read. Playful disbelief in the hook, curiosity in the social-listening beat, delight in the build, a clean reveal on the price, and a confident, memorable close.",
+  "totalDurationSeconds": 80,
+  "leadInSeconds": 0,
+  "maxInternalPauseSeconds": 0.26,
+  "segments": [
+    {
+      "id": "story",
+      "text": "Walmart noticed something strange. People weren't just buying its rotisserie chicken. They were joking about carrying the bag like a fashion accessory.",
+      "emotion": "amused-curiosity",
+      "rate": "+9%",
+      "pitch": "-2Hz",
+      "volume": "+2%",
+      "sceneStartSeconds": 4.4,
+      "voiceOffsetSeconds": 0.15,
+      "pauseAfterSeconds": 0.06
+    },
+    {
+      "id": "signal",
+      "text": "Fifteen thousand social mentions later, the deli bag had a fan base.",
+      "emotion": "rising",
+      "rate": "+10%",
+      "pitch": "-2Hz",
+      "volume": "+2%",
+      "sceneStartSeconds": 14.2,
+      "voiceOffsetSeconds": 0.15,
+      "pauseAfterSeconds": 0
+    },
+    {
+      "id": "decision",
+      "text": "Instead of ignoring the joke, the brand made it real. A chicken-shaped purse. Complete with the packaging-inspired design.",
+      "emotion": "revelation",
+      "rate": "+9%",
+      "pitch": "-2Hz",
+      "volume": "+3%",
+      "sceneStartSeconds": 19.8,
+      "voiceOffsetSeconds": 0.15,
+      "pauseAfterSeconds": 0.04
+    },
+    {
+      "id": "build",
+      "text": "Same type. Same colors. Same chicken. Then they added a strap.",
+      "emotion": "delight",
+      "rate": "+10%",
+      "pitch": "-1Hz",
+      "volume": "+2%",
+      "sceneStartSeconds": 27.4,
+      "voiceOffsetSeconds": 0.15,
+      "pauseAfterSeconds": 0.08
+    },
+    {
+      "id": "flavors",
+      "text": "Two flavors: Traditional, with purple trim. And Lemon Pepper, in orange.",
+      "emotion": "playful",
+      "rate": "+9%",
+      "pitch": "-1Hz",
+      "volume": "+2%",
+      "sceneStartSeconds": 33.2,
+      "voiceOffsetSeconds": 0.15,
+      "pauseAfterSeconds": 0.04
+    },
+    {
+      "id": "price",
+      "text": "And the price? Just five ninety-seven. The same price as the rotisserie chicken that inspired it.",
+      "emotion": "clean-reveal",
+      "rate": "+8%",
+      "pitch": "-3Hz",
+      "volume": "+3%",
+      "sceneStartSeconds": 39.8,
+      "voiceOffsetSeconds": 0.15,
+      "pauseAfterSeconds": 0.12
+    },
+    {
+      "id": "drop",
+      "text": "Five thousand purses. One drop. September first.",
+      "emotion": "momentum",
+      "rate": "+10%",
+      "pitch": "-1Hz",
+      "volume": "+2%",
+      "sceneStartSeconds": 47.2,
+      "voiceOffsetSeconds": 0.15,
+      "pauseAfterSeconds": 0.06
+    },
+    {
+      "id": "charms",
+      "text": "Plus matching bag charms, because of course.",
+      "emotion": "humor",
+      "rate": "+9%",
+      "pitch": "-1Hz",
+      "volume": "+2%",
+      "sceneStartSeconds": 51.0,
+      "voiceOffsetSeconds": 0.15,
+      "pauseAfterSeconds": 0.04
+    },
+    {
+      "id": "viral",
+      "text": "When it launched online, the purse sold out in just ninety minutes.",
+      "emotion": "impact",
+      "rate": "+9%",
+      "pitch": "-3Hz",
+      "volume": "+4%",
+      "sceneStartSeconds": 55.0,
+      "voiceOffsetSeconds": 0.1,
+      "pauseAfterSeconds": 0.1
+    },
+    {
+      "id": "after",
+      "text": "A second drop followed. Resale listings climbed to several times the original price.",
+      "emotion": "consequence",
+      "rate": "+9%",
+      "pitch": "-2Hz",
+      "volume": "+2%",
+      "sceneStartSeconds": 61.2,
+      "voiceOffsetSeconds": 0.15,
+      "pauseAfterSeconds": 0.06
+    },
+    {
+      "id": "turn",
+      "text": "The joke had become merch. The merch had become a moment.",
+      "emotion": "insight",
+      "rate": "+8%",
+      "pitch": "-2Hz",
+      "volume": "+2%",
+      "sceneStartSeconds": 65.3,
+      "voiceOffsetSeconds": 0.15,
+      "pauseAfterSeconds": 0.08
+    },
+    {
+      "id": "ending",
+      "text": "Sometimes, your next big product isn't hiding in a boardroom. It's hiding inside a customer joke.",
+      "emotion": "resolve",
+      "rate": "+6%",
+      "pitch": "-3Hz",
+      "volume": "+2%",
+      "sceneStartSeconds": 70.2,
+      "voiceOffsetSeconds": 0.15,
+      "pauseAfterSeconds": 0
+    }
+  ]
+}

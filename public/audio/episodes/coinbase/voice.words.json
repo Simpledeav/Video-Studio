@@ -1,0 +1,943 @@
+{
+  "voice": "en-US-BrianMultilingualNeural",
+  "leadInSeconds": 0.5,
+  "segments": [
+    {
+      "id": "hook",
+      "start": 0.7,
+      "end": 4.708,
+      "duration": 4.008,
+      "rawDuration": 4.008,
+      "trimmedSilence": 0.0,
+      "rate": "+10%",
+      "words": 12
+    },
+    {
+      "id": "bottleneck",
+      "start": 7.7,
+      "end": 19.468,
+      "duration": 11.768,
+      "rawDuration": 12.528,
+      "trimmedSilence": 0.76,
+      "rate": "+10%",
+      "words": 29
+    },
+    {
+      "id": "shift",
+      "start": 20.6,
+      "end": 33.584,
+      "duration": 12.984,
+      "rawDuration": 13.704,
+      "trimmedSilence": 0.72,
+      "rate": "+10%",
+      "words": 29
+    },
+    {
+      "id": "seventyfive",
+      "start": 35.9,
+      "end": 43.648,
+      "duration": 7.748,
+      "rawDuration": 8.208,
+      "trimmedSilence": 0.46,
+      "rate": "+10%",
+      "words": 20
+    },
+    {
+      "id": "speed",
+      "start": 48.8,
+      "end": 57.928,
+      "duration": 9.128,
+      "rawDuration": 9.288,
+      "trimmedSilence": 0.16,
+      "rate": "+10%",
+      "words": 27
+    },
+    {
+      "id": "productivity",
+      "start": 62.7,
+      "end": 73.16,
+      "duration": 10.46,
+      "rawDuration": 10.92,
+      "trimmedSilence": 0.46,
+      "rate": "+10%",
+      "words": 29
+    },
+    {
+      "id": "conclusion",
+      "start": 76.7,
+      "end": 84.248,
+      "duration": 7.548,
+      "rawDuration": 7.848,
+      "trimmedSilence": 0.3,
+      "rate": "+10%",
+      "words": 27
+    }
+  ],
+  "words": [
+    {
+      "text": "What",
+      "start": 0.78,
+      "end": 0.973
+    },
+    {
+      "text": "if",
+      "start": 0.984,
+      "end": 1.109
+    },
+    {
+      "text": "your",
+      "start": 1.12,
+      "end": 1.257
+    },
+    {
+      "text": "software",
+      "start": 1.268,
+      "end": 1.734
+    },
+    {
+      "text": "engineers",
+      "start": 1.745,
+      "end": 2.291
+    },
+    {
+      "text": "stopped",
+      "start": 2.302,
+      "end": 2.723
+    },
+    {
+      "text": "writing",
+      "start": 2.734,
+      "end": 3.098
+    },
+    {
+      "text": "most",
+      "start": 3.109,
+      "end": 3.37
+    },
+    {
+      "text": "of",
+      "start": 3.382,
+      "end": 3.427
+    },
+    {
+      "text": "the",
+      "start": 3.439,
+      "end": 3.518
+    },
+    {
+      "text": "code",
+      "start": 3.53,
+      "end": 3.768
+    },
+    {
+      "text": "themselves?",
+      "start": 3.78,
+      "end": 4.359
+    },
+    {
+      "text": "Software",
+      "start": 7.768,
+      "end": 8.291
+    },
+    {
+      "text": "was",
+      "start": 8.302,
+      "end": 8.473
+    },
+    {
+      "text": "never",
+      "start": 8.484,
+      "end": 8.757
+    },
+    {
+      "text": "just",
+      "start": 8.768,
+      "end": 9.03
+    },
+    {
+      "text": "code.",
+      "start": 9.041,
+      "end": 9.473
+    },
+    {
+      "text": "Planning,",
+      "start": 9.74,
+      "end": 10.148
+    },
+    {
+      "text": "testing,",
+      "start": 10.16,
+      "end": 10.705
+    },
+    {
+      "text": "reviewing,",
+      "start": 10.728,
+      "end": 11.307
+    },
+    {
+      "text": "shipping.",
+      "start": 11.319,
+      "end": 11.853
+    },
+    {
+      "text": "Each",
+      "start": 12.16,
+      "end": 12.332
+    },
+    {
+      "text": "step",
+      "start": 12.344,
+      "end": 12.673
+    },
+    {
+      "text": "adds",
+      "start": 12.696,
+      "end": 12.969
+    },
+    {
+      "text": "time,",
+      "start": 12.98,
+      "end": 13.457
+    },
+    {
+      "text": "turning",
+      "start": 13.76,
+      "end": 14.005
+    },
+    {
+      "text": "a",
+      "start": 14.016,
+      "end": 14.073
+    },
+    {
+      "text": "simple",
+      "start": 14.084,
+      "end": 14.448
+    },
+    {
+      "text": "idea",
+      "start": 14.459,
+      "end": 14.88
+    },
+    {
+      "text": "into",
+      "start": 14.891,
+      "end": 15.164
+    },
+    {
+      "text": "a",
+      "start": 15.175,
+      "end": 15.22
+    },
+    {
+      "text": "twenty-day",
+      "start": 15.232,
+      "end": 15.686
+    },
+    {
+      "text": "cycle.",
+      "start": 15.698,
+      "end": 16.186
+    },
+    {
+      "text": "The",
+      "start": 16.48,
+      "end": 16.518
+    },
+    {
+      "text": "bottleneck",
+      "start": 16.53,
+      "end": 17.109
+    },
+    {
+      "text": "wasn't",
+      "start": 17.12,
+      "end": 17.507
+    },
+    {
+      "text": "effort.",
+      "start": 17.53,
+      "end": 18.007
+    },
+    {
+      "text": "It",
+      "start": 18.18,
+      "end": 18.217
+    },
+    {
+      "text": "was",
+      "start": 18.229,
+      "end": 18.399
+    },
+    {
+      "text": "the",
+      "start": 18.41,
+      "end": 18.513
+    },
+    {
+      "text": "process.",
+      "start": 18.524,
+      "end": 19.138
+    },
+    {
+      "text": "So",
+      "start": 20.648,
+      "end": 20.795
+    },
+    {
+      "text": "Coinbase",
+      "start": 20.807,
+      "end": 21.398
+    },
+    {
+      "text": "changed",
+      "start": 21.409,
+      "end": 21.852
+    },
+    {
+      "text": "the",
+      "start": 21.864,
+      "end": 21.932
+    },
+    {
+      "text": "workflow.",
+      "start": 21.943,
+      "end": 22.5
+    },
+    {
+      "text": "More",
+      "start": 22.82,
+      "end": 23.068
+    },
+    {
+      "text": "than",
+      "start": 23.08,
+      "end": 23.239
+    },
+    {
+      "text": "twenty-four",
+      "start": 23.25,
+      "end": 23.727
+    },
+    {
+      "text": "hundred",
+      "start": 23.739,
+      "end": 23.989
+    },
+    {
+      "text": "developers",
+      "start": 24.0,
+      "end": 24.534
+    },
+    {
+      "text": "adopted",
+      "start": 24.545,
+      "end": 25.0
+    },
+    {
+      "text": "Cursor,",
+      "start": 25.011,
+      "end": 25.489
+    },
+    {
+      "text": "directing",
+      "start": 25.784,
+      "end": 26.159
+    },
+    {
+      "text": "agents",
+      "start": 26.17,
+      "end": 26.625
+    },
+    {
+      "text": "through",
+      "start": 26.636,
+      "end": 26.897
+    },
+    {
+      "text": "implementation,",
+      "start": 26.909,
+      "end": 27.772
+    },
+    {
+      "text": "testing,",
+      "start": 28.022,
+      "end": 28.536
+    },
+    {
+      "text": "and",
+      "start": 28.559,
+      "end": 28.741
+    },
+    {
+      "text": "review.",
+      "start": 28.752,
+      "end": 29.195
+    },
+    {
+      "text": "The",
+      "start": 29.5,
+      "end": 29.505
+    },
+    {
+      "text": "engineer",
+      "start": 29.516,
+      "end": 29.982
+    },
+    {
+      "text": "moved",
+      "start": 29.993,
+      "end": 30.277
+    },
+    {
+      "text": "up",
+      "start": 30.289,
+      "end": 30.391
+    },
+    {
+      "text": "a",
+      "start": 30.402,
+      "end": 30.448
+    },
+    {
+      "text": "level:",
+      "start": 30.459,
+      "end": 30.811
+    },
+    {
+      "text": "define",
+      "start": 31.16,
+      "end": 31.517
+    },
+    {
+      "text": "intent,",
+      "start": 31.529,
+      "end": 31.949
+    },
+    {
+      "text": "validate",
+      "start": 32.28,
+      "end": 32.71
+    },
+    {
+      "text": "results.",
+      "start": 32.721,
+      "end": 33.244
+    },
+    {
+      "text": "In",
+      "start": 35.945,
+      "end": 36.059
+    },
+    {
+      "text": "Coinbase's",
+      "start": 36.07,
+      "end": 36.627
+    },
+    {
+      "text": "reported",
+      "start": 36.639,
+      "end": 37.014
+    },
+    {
+      "text": "workflow,",
+      "start": 37.025,
+      "end": 37.559
+    },
+    {
+      "text": "agents",
+      "start": 37.9,
+      "end": 38.237
+    },
+    {
+      "text": "created",
+      "start": 38.248,
+      "end": 38.6
+    },
+    {
+      "text": "three",
+      "start": 38.612,
+      "end": 38.964
+    },
+    {
+      "text": "out",
+      "start": 38.975,
+      "end": 39.191
+    },
+    {
+      "text": "of",
+      "start": 39.203,
+      "end": 39.305
+    },
+    {
+      "text": "every",
+      "start": 39.328,
+      "end": 39.578
+    },
+    {
+      "text": "four",
+      "start": 39.589,
+      "end": 39.85
+    },
+    {
+      "text": "pull",
+      "start": 39.862,
+      "end": 40.089
+    },
+    {
+      "text": "requests.",
+      "start": 40.1,
+      "end": 40.646
+    },
+    {
+      "text": "Not",
+      "start": 40.96,
+      "end": 41.145
+    },
+    {
+      "text": "a",
+      "start": 41.157,
+      "end": 41.214
+    },
+    {
+      "text": "side",
+      "start": 41.225,
+      "end": 41.555
+    },
+    {
+      "text": "experiment.",
+      "start": 41.566,
+      "end": 42.27
+    },
+    {
+      "text": "The",
+      "start": 42.5,
+      "end": 42.52
+    },
+    {
+      "text": "new",
+      "start": 42.531,
+      "end": 42.77
+    },
+    {
+      "text": "default.",
+      "start": 42.781,
+      "end": 43.304
+    },
+    {
+      "text": "Some",
+      "start": 48.88,
+      "end": 49.118
+    },
+    {
+      "text": "teams",
+      "start": 49.13,
+      "end": 49.482
+    },
+    {
+      "text": "cut",
+      "start": 49.493,
+      "end": 49.732
+    },
+    {
+      "text": "the",
+      "start": 49.743,
+      "end": 49.811
+    },
+    {
+      "text": "time",
+      "start": 49.823,
+      "end": 50.164
+    },
+    {
+      "text": "from",
+      "start": 50.175,
+      "end": 50.357
+    },
+    {
+      "text": "idea",
+      "start": 50.368,
+      "end": 50.732
+    },
+    {
+      "text": "to",
+      "start": 50.743,
+      "end": 50.845
+    },
+    {
+      "text": "production",
+      "start": 50.857,
+      "end": 51.357
+    },
+    {
+      "text": "from",
+      "start": 51.368,
+      "end": 51.55
+    },
+    {
+      "text": "twenty",
+      "start": 51.561,
+      "end": 51.823
+    },
+    {
+      "text": "days",
+      "start": 51.834,
+      "end": 52.141
+    },
+    {
+      "text": "to",
+      "start": 52.152,
+      "end": 52.266
+    },
+    {
+      "text": "less",
+      "start": 52.277,
+      "end": 52.516
+    },
+    {
+      "text": "than",
+      "start": 52.527,
+      "end": 52.664
+    },
+    {
+      "text": "two.",
+      "start": 52.675,
+      "end": 53.005
+    },
+    {
+      "text": "A",
+      "start": 53.32,
+      "end": 53.322
+    },
+    {
+      "text": "ninety",
+      "start": 53.334,
+      "end": 53.675
+    },
+    {
+      "text": "percent",
+      "start": 53.686,
+      "end": 54.118
+    },
+    {
+      "text": "reduction.",
+      "start": 54.129,
+      "end": 54.731
+    },
+    {
+      "text": "Not",
+      "start": 55.04,
+      "end": 55.254
+    },
+    {
+      "text": "by",
+      "start": 55.265,
+      "end": 55.401
+    },
+    {
+      "text": "typing",
+      "start": 55.413,
+      "end": 55.799
+    },
+    {
+      "text": "faster,",
+      "start": 55.81,
+      "end": 56.345
+    },
+    {
+      "text": "by",
+      "start": 56.356,
+      "end": 56.549
+    },
+    {
+      "text": "removing",
+      "start": 56.56,
+      "end": 57.004
+    },
+    {
+      "text": "handoffs.",
+      "start": 57.015,
+      "end": 57.595
+    },
+    {
+      "text": "The",
+      "start": 62.768,
+      "end": 62.825
+    },
+    {
+      "text": "results",
+      "start": 62.836,
+      "end": 63.28
+    },
+    {
+      "text": "weren't",
+      "start": 63.291,
+      "end": 63.62
+    },
+    {
+      "text": "just",
+      "start": 63.632,
+      "end": 63.893
+    },
+    {
+      "text": "about",
+      "start": 63.905,
+      "end": 64.166
+    },
+    {
+      "text": "speed.",
+      "start": 64.177,
+      "end": 64.689
+    },
+    {
+      "text": "Engineers",
+      "start": 64.94,
+      "end": 65.392
+    },
+    {
+      "text": "merged",
+      "start": 65.404,
+      "end": 65.779
+    },
+    {
+      "text": "fifty-five",
+      "start": 65.79,
+      "end": 66.279
+    },
+    {
+      "text": "percent",
+      "start": 66.29,
+      "end": 66.676
+    },
+    {
+      "text": "more",
+      "start": 66.688,
+      "end": 66.904
+    },
+    {
+      "text": "pull",
+      "start": 66.915,
+      "end": 67.12
+    },
+    {
+      "text": "requests,",
+      "start": 67.131,
+      "end": 67.722
+    },
+    {
+      "text": "and",
+      "start": 68.006,
+      "end": 68.068
+    },
+    {
+      "text": "saved",
+      "start": 68.079,
+      "end": 68.375
+    },
+    {
+      "text": "seven",
+      "start": 68.386,
+      "end": 68.693
+    },
+    {
+      "text": "hours",
+      "start": 68.704,
+      "end": 69.068
+    },
+    {
+      "text": "every",
+      "start": 69.079,
+      "end": 69.329
+    },
+    {
+      "text": "week.",
+      "start": 69.34,
+      "end": 69.738
+    },
+    {
+      "text": "Small",
+      "start": 69.98,
+      "end": 70.274
+    },
+    {
+      "text": "teams",
+      "start": 70.285,
+      "end": 70.672
+    },
+    {
+      "text": "started",
+      "start": 70.683,
+      "end": 70.979
+    },
+    {
+      "text": "shipping",
+      "start": 70.99,
+      "end": 71.422
+    },
+    {
+      "text": "what",
+      "start": 71.433,
+      "end": 71.604
+    },
+    {
+      "text": "once",
+      "start": 71.615,
+      "end": 71.899
+    },
+    {
+      "text": "took",
+      "start": 71.91,
+      "end": 72.092
+    },
+    {
+      "text": "a",
+      "start": 72.104,
+      "end": 72.16
+    },
+    {
+      "text": "full",
+      "start": 72.172,
+      "end": 72.399
+    },
+    {
+      "text": "team.",
+      "start": 72.41,
+      "end": 72.82
+    },
+    {
+      "text": "The",
+      "start": 76.78,
+      "end": 76.859
+    },
+    {
+      "text": "biggest",
+      "start": 76.87,
+      "end": 77.132
+    },
+    {
+      "text": "shift",
+      "start": 77.143,
+      "end": 77.461
+    },
+    {
+      "text": "may",
+      "start": 77.473,
+      "end": 77.586
+    },
+    {
+      "text": "not",
+      "start": 77.598,
+      "end": 77.791
+    },
+    {
+      "text": "be",
+      "start": 77.802,
+      "end": 77.939
+    },
+    {
+      "text": "how",
+      "start": 77.95,
+      "end": 78.098
+    },
+    {
+      "text": "fast",
+      "start": 78.109,
+      "end": 78.484
+    },
+    {
+      "text": "we",
+      "start": 78.495,
+      "end": 78.575
+    },
+    {
+      "text": "write",
+      "start": 78.586,
+      "end": 78.802
+    },
+    {
+      "text": "code,",
+      "start": 78.814,
+      "end": 79.223
+    },
+    {
+      "text": "but",
+      "start": 79.52,
+      "end": 79.568
+    },
+    {
+      "text": "how",
+      "start": 79.58,
+      "end": 79.773
+    },
+    {
+      "text": "well",
+      "start": 79.784,
+      "end": 79.977
+    },
+    {
+      "text": "we",
+      "start": 79.989,
+      "end": 80.114
+    },
+    {
+      "text": "direct",
+      "start": 80.125,
+      "end": 80.545
+    },
+    {
+      "text": "and",
+      "start": 80.557,
+      "end": 80.67
+    },
+    {
+      "text": "review",
+      "start": 80.682,
+      "end": 81.023
+    },
+    {
+      "text": "what",
+      "start": 81.034,
+      "end": 81.216
+    },
+    {
+      "text": "AI",
+      "start": 81.227,
+      "end": 81.5
+    },
+    {
+      "text": "builds.",
+      "start": 81.511,
+      "end": 81.955
+    },
+    {
+      "text": "The",
+      "start": 82.26,
+      "end": 82.264
+    },
+    {
+      "text": "next",
+      "start": 82.275,
+      "end": 82.616
+    },
+    {
+      "text": "era",
+      "start": 82.627,
+      "end": 82.957
+    },
+    {
+      "text": "is",
+      "start": 82.968,
+      "end": 83.139
+    },
+    {
+      "text": "already",
+      "start": 83.15,
+      "end": 83.491
+    },
+    {
+      "text": "here.",
+      "start": 83.502,
+      "end": 83.911
+    }
+  ]
+}

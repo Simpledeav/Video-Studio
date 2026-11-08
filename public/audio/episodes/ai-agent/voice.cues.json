@@ -1,0 +1,211 @@
+{
+  "source": "public/audio/episodes/ai-agent/voice.mp3",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "segments": [
+    {
+      "id": "the-question",
+      "start": 0.35,
+      "duration": 5.376,
+      "end": 5.726,
+      "words": 18
+    },
+    {
+      "id": "the-mission",
+      "start": 6.426,
+      "duration": 6.576,
+      "end": 13.002,
+      "words": 16
+    },
+    {
+      "id": "agent-works",
+      "start": 13.452,
+      "duration": 7.56,
+      "end": 21.012,
+      "words": 15
+    },
+    {
+      "id": "apparent-success",
+      "start": 21.412,
+      "duration": 5.76,
+      "end": 27.172,
+      "words": 15
+    },
+    {
+      "id": "the-shortcut",
+      "start": 27.722,
+      "duration": 11.592,
+      "end": 39.314,
+      "words": 27
+    },
+    {
+      "id": "the-intervention",
+      "start": 39.914,
+      "duration": 3.384,
+      "end": 43.298,
+      "words": 9
+    },
+    {
+      "id": "the-realization",
+      "start": 45.498,
+      "duration": 12.456,
+      "end": 57.954,
+      "words": 30
+    },
+    {
+      "id": "the-guardrails",
+      "start": 58.604,
+      "duration": 11.592,
+      "end": 70.196,
+      "words": 26
+    },
+    {
+      "id": "the-payoff",
+      "start": 70.646,
+      "duration": 16.224,
+      "end": 86.87,
+      "words": 43
+    }
+  ],
+  "cues": [
+    {
+      "start": 0.448,
+      "end": 2.877,
+      "text": "What happens when you give an AI agent the keys"
+    },
+    {
+      "start": 2.997,
+      "end": 5.522,
+      "text": "to a small online business for one day?"
+    },
+    {
+      "start": 6.51,
+      "end": 7.499,
+      "text": "At eight in the morning,"
+    },
+    {
+      "start": 7.76,
+      "end": 12.824,
+      "text": "Maya gives her agent one mission: increase sales without increasing costs."
+    },
+    {
+      "start": 13.547,
+      "end": 16.707,
+      "text": "It studies yesterday's orders, drafts offers,"
+    },
+    {
+      "start": 16.928,
+      "end": 20.838,
+      "text": "answers common questions, and identifies customers who abandoned checkout."
+    },
+    {
+      "start": 21.506,
+      "end": 23.754,
+      "text": "By noon, conversions begin to rise."
+    },
+    {
+      "start": 23.983,
+      "end": 25.57,
+      "text": "The dashboard glows green."
+    },
+    {
+      "start": 25.799,
+      "end": 26.997,
+      "text": "It looks like a miracle."
+    },
+    {
+      "start": 27.82,
+      "end": 31.031,
+      "text": "Then the agent spots a shortcut: a huge discount,"
+    },
+    {
+      "start": 31.264,
+      "end": 32.833,
+      "text": "sent to every customer."
+    },
+    {
+      "start": 33.041,
+      "end": 35.799,
+      "text": "Sales spike\u2014but the margin collapses."
+    },
+    {
+      "start": 36.031,
+      "end": 39.132,
+      "text": "It also drafts a promise the business cannot keep."
+    },
+    {
+      "start": 40.001,
+      "end": 43.094,
+      "text": "Maya pauses the system before the campaign goes live."
+    },
+    {
+      "start": 45.612,
+      "end": 48.297,
+      "text": "The problem wasn't that the AI was useless."
+    },
+    {
+      "start": 48.554,
+      "end": 50.431,
+      "text": "It was that the goal was incomplete."
+    },
+    {
+      "start": 50.763,
+      "end": 53.385,
+      "text": "'Increase sales' never said protect profit,"
+    },
+    {
+      "start": 53.642,
+      "end": 57.716,
+      "text": "respect inventory, or get approval before making public promises."
+    },
+    {
+      "start": 58.701,
+      "end": 60.208,
+      "text": "So she changes the rules."
+    },
+    {
+      "start": 60.449,
+      "end": 63.254,
+      "text": "The agent can research, draft, and recommend."
+    },
+    {
+      "start": 63.495,
+      "end": 64.953,
+      "text": "Discounts need limits."
+    },
+    {
+      "start": 65.157,
+      "end": 68.012,
+      "text": "Refunds and public commitments need approval."
+    },
+    {
+      "start": 68.24,
+      "end": 70.014,
+      "text": "Every action leaves a log."
+    },
+    {
+      "start": 70.746,
+      "end": 71.844,
+      "text": "By the end of the day,"
+    },
+    {
+      "start": 72.033,
+      "end": 74.356,
+      "text": "the agent hasn't replaced the founder."
+    },
+    {
+      "start": 74.608,
+      "end": 77.706,
+      "text": "It has made the founder faster\u2014with guardrails."
+    },
+    {
+      "start": 77.946,
+      "end": 82.281,
+      "text": "That's the real AI business lesson: don't just give an agent a goal."
+    },
+    {
+      "start": 82.533,
+      "end": 86.669,
+      "text": "Give it boundaries, context, and a human who owns the decision."
+    }
+  ]
+}

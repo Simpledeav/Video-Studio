@@ -1,0 +1,19 @@
+Imagine it's 2028. A startup launches with one employee. You.
+
+No team. No office. Just a laptop, a strong idea, and an army of AI agents working while you sleep.
+
+They answer support tickets, write the code, chase invoices, and ship the updates. By morning, your company has done a week of work.
+
+At first, it feels like magic. Then it feels like leverage. One person, doing what used to take fifty. A solo founder with a clear system can now ship like a team of twenty, and pivot before a committee finishes its first meeting.
+
+The tools are already here. The agents are getting better every month. The cost of starting is collapsing. And the old advantage, headcount, is becoming a liability. That doesn't make people worthless. It makes coordination cheap, and judgment scarce.
+
+But here's the part nobody puts in the demo.
+
+Automation can multiply a good decision. It can also multiply a bad one, faster than anyone can catch it. One careless prompt can become a thousand bad emails, or a headline.
+
+So the skill that matters isn't typing prompts. It's knowing which decisions should never be delegated.
+
+The one-person company is coming. The question is not whether you can run it alone. It's whether you'll know what still needs a human. Not because you can do everything. Because you know what not to automate.
+
+That's the future worth building.

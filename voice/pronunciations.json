@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "1.0.0",
+  "description": "Optional pronunciation overrides applied before synthesis. Longest match wins, matching is case-insensitive and only whole terms are replaced. Keep entries conservative: a bad respelling is worse than a small accent imperfection.",
+  "entries": [
+    { "term": "PocketLedger", "spoken": "Pocket Ledger", "note": "Product name" },
+    { "term": "Paynova", "spoken": "Pay noh vah", "note": "Product name" },
+    { "term": "Paystack", "spoken": "Pay stack", "note": "Nigerian fintech" },
+    { "term": "Flutterwave", "spoken": "Flutter wave", "note": "Nigerian fintech" },
+    { "term": "PiggyVest", "spoken": "Piggy Vest", "note": "Nigerian fintech" },
+    { "term": "GTBank", "spoken": "G T Bank", "note": "Nigerian bank" },
+    { "term": "OPay", "spoken": "Oh Pay", "note": "Nigerian fintech" },
+    { "term": "MTN", "spoken": "M T N", "note": "Telecom" },
+    { "term": "Lagos", "spoken": "Lay gos", "note": "City" },
+    { "term": "Ngozi", "spoken": "N goh zee", "note": "Given name" },
+    { "term": "Okonjo-Iweala", "spoken": "Oh kon jo Ee way ah lah", "note": "Surname" },
+    { "term": "Dangote", "spoken": "Dan goh tay", "note": "Surname / company" },
+    { "term": "Abeokuta", "spoken": "Ah beh oh koo tah", "note": "City" },
+    { "term": "Chioma", "spoken": "Chee oh mah", "note": "Given name" },
+    { "term": "Emeka", "spoken": "Eh meh kah", "note": "Given name" },
+    { "term": "Tunde", "spoken": "Toon deh", "note": "Given name" },
+    { "term": "naira", "spoken": "naira", "note": "Currency; kept as-is" }
+  ]
+}

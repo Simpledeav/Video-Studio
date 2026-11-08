@@ -1,0 +1,211 @@
+{
+  "voiceId": "SD_VOICE_03",
+  "voiceName": "Nathan Cole",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "direction": "Conversational business documentary. A curious, confident open; a light, knowing smile on the order mistakes; complete seriousness at the 2024 decision; calm conviction in the lesson. Never a trailer voice.",
+  "totalDurationSeconds": 90,
+  "leadInSeconds": 0.45,
+  "maxInternalPauseSeconds": 0.34,
+  "segments": [
+    {
+      "id": "hook-speaker",
+      "text": "McDonald's put AI on the drive-thru speaker.",
+      "rate": "+6%",
+      "pitch": "-3Hz",
+      "volume": "+1%",
+      "sceneStartSeconds": 0.45,
+      "voiceOffsetSeconds": 0,
+      "pauseAfterSeconds": 0.18
+    },
+    {
+      "id": "hook-order",
+      "text": "Imagine asking for ice cream, and getting nine sweet teas, butter, and ketchup.",
+      "rate": "+8%",
+      "pitch": "-1Hz",
+      "volume": "+1%",
+      "sceneStartSeconds": 3.55,
+      "voiceOffsetSeconds": 0,
+      "pauseAfterSeconds": 0.12
+    },
+    {
+      "id": "idea-smart",
+      "text": "The idea was smart.",
+      "rate": "+7%",
+      "pitch": "+0Hz",
+      "volume": "+0%",
+      "sceneStartSeconds": 8.95,
+      "voiceOffsetSeconds": 0,
+      "pauseAfterSeconds": 0.1
+    },
+    {
+      "id": "idea-test",
+      "text": "In 2021, McDonald's and IBM began testing voice ordering at over a hundred locations.",
+      "rate": "+9%",
+      "pitch": "+0Hz",
+      "volume": "+0%",
+      "sceneStartSeconds": 10.5,
+      "voiceOffsetSeconds": 0,
+      "pauseAfterSeconds": 0.14
+    },
+    {
+      "id": "idea-flow",
+      "text": "Speak. The AI understands. The order reaches the kitchen.",
+      "rate": "+10%",
+      "pitch": "+1Hz",
+      "volume": "+0%",
+      "sceneStartSeconds": 15.35,
+      "voiceOffsetSeconds": 0,
+      "pauseAfterSeconds": 0.1
+    },
+    {
+      "id": "idea-benefit",
+      "text": "Faster service. Less manual work.",
+      "rate": "+9%",
+      "pitch": "+0Hz",
+      "volume": "+0%",
+      "sceneStartSeconds": 18.25,
+      "voiceOffsetSeconds": 0,
+      "pauseAfterSeconds": 0.2
+    },
+    {
+      "id": "chaos-script",
+      "text": "But the AI went off script.",
+      "rate": "+6%",
+      "pitch": "-3Hz",
+      "volume": "+1%",
+      "sceneStartSeconds": 21.1,
+      "voiceOffsetSeconds": 0,
+      "pauseAfterSeconds": 0.18
+    },
+    {
+      "id": "chaos-tea",
+      "text": "One customer asked for a sweet tea; the system added nine.",
+      "rate": "+9%",
+      "pitch": "-1Hz",
+      "volume": "+1%",
+      "sceneStartSeconds": 23.2,
+      "voiceOffsetSeconds": 0,
+      "pauseAfterSeconds": 0.16
+    },
+    {
+      "id": "chaos-butter",
+      "text": "Another wanted water and vanilla ice cream, and got butter and ketchup.",
+      "rate": "+9%",
+      "pitch": "-1Hz",
+      "volume": "+1%",
+      "sceneStartSeconds": 27.15,
+      "voiceOffsetSeconds": 0,
+      "pauseAfterSeconds": 0.18
+    },
+    {
+      "id": "internet-spread",
+      "text": "The clips spread.",
+      "rate": "+7%",
+      "pitch": "-2Hz",
+      "volume": "+0%",
+      "sceneStartSeconds": 33.9,
+      "voiceOffsetSeconds": 0,
+      "pauseAfterSeconds": 0.12
+    },
+    {
+      "id": "internet-reality",
+      "text": "What was sold as the future of fast food became a public reminder that AI can fail in ordinary moments.",
+      "rate": "+8%",
+      "pitch": "-2Hz",
+      "volume": "+0%",
+      "sceneStartSeconds": 35.55,
+      "voiceOffsetSeconds": 0,
+      "pauseAfterSeconds": 0.16
+    },
+    {
+      "id": "decision-end",
+      "text": "In June 2024, McDonald's ended the current IBM order-taking test.",
+      "rate": "+7%",
+      "pitch": "-3Hz",
+      "volume": "+1%",
+      "sceneStartSeconds": 44.0,
+      "voiceOffsetSeconds": 0,
+      "pauseAfterSeconds": 0.16
+    },
+    {
+      "id": "decision-not-over",
+      "text": "But it didn't abandon voice AI.",
+      "rate": "+8%",
+      "pitch": "-2Hz",
+      "volume": "+0%",
+      "sceneStartSeconds": 49.15,
+      "voiceOffsetSeconds": 0,
+      "pauseAfterSeconds": 0.12
+    },
+    {
+      "id": "decision-future",
+      "text": "It said voice ordering could still be part of its future.",
+      "rate": "+8%",
+      "pitch": "-2Hz",
+      "volume": "+0%",
+      "sceneStartSeconds": 51.15,
+      "voiceOffsetSeconds": 0,
+      "pauseAfterSeconds": 0.2
+    },
+    {
+      "id": "lesson-not-useless",
+      "text": "The lesson isn't that AI is useless.",
+      "rate": "+5%",
+      "pitch": "-2Hz",
+      "volume": "+1%",
+      "sceneStartSeconds": 54.55,
+      "voiceOffsetSeconds": 0,
+      "pauseAfterSeconds": 0.2
+    },
+    {
+      "id": "lesson-reliable",
+      "text": "Building AI is one thing; making it reliable is another.",
+      "rate": "+7%",
+      "pitch": "-2Hz",
+      "volume": "+0%",
+      "sceneStartSeconds": 57.65,
+      "voiceOffsetSeconds": 0,
+      "pauseAfterSeconds": 0.16
+    },
+    {
+      "id": "lesson-design",
+      "text": "A better design confirms the order, knows when it's unsure, lets the customer correct it, and hands hard cases to a human.",
+      "rate": "+8%",
+      "pitch": "-1Hz",
+      "volume": "+0%",
+      "sceneStartSeconds": 62.09,
+      "voiceOffsetSeconds": 0,
+      "pauseAfterSeconds": 0.16
+    },
+    {
+      "id": "lesson-help",
+      "text": "The smartest software isn't the one that does everything. It's the one that knows when to ask for help.",
+      "rate": "+6%",
+      "pitch": "-2Hz",
+      "volume": "+1%",
+      "sceneStartSeconds": 69.51,
+      "voiceOffsetSeconds": 0,
+      "pauseAfterSeconds": 0.2
+    },
+    {
+      "id": "takeaway-founders",
+      "text": "For founders and developers, that's the opportunity.",
+      "rate": "+8%",
+      "pitch": "+0Hz",
+      "volume": "+0%",
+      "sceneStartSeconds": 75.5,
+      "voiceOffsetSeconds": 0,
+      "pauseAfterSeconds": 0.12
+    },
+    {
+      "id": "takeaway-trust",
+      "text": "Don't build AI because it sounds impressive. Build something people can trust.",
+      "rate": "+8%",
+      "pitch": "+0Hz",
+      "volume": "+1%",
+      "sceneStartSeconds": 79.0,
+      "voiceOffsetSeconds": 0,
+      "pauseAfterSeconds": 0
+    }
+  ]
+}

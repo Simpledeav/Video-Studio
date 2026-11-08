@@ -1,0 +1,955 @@
+{
+  "schemaVersion": "1.0.0",
+  "episodeId": "lego-turnaround",
+  "title": "LEGO Nearly Went Bankrupt. Then It Did Something Brilliant.",
+  "topic": "A cinematic business case study about focus, simplification and the LEGO turnaround.",
+  "durationSeconds": 80,
+  "fps": 30,
+  "themeId": "WARM_EDITORIAL",
+  "fontFamily": "poppins",
+  "narration": {
+    "text": "Imagine building one of the world's most loved toy brands\u2026 then almost losing everything.\n\nBy 2004, LEGO was in its worst financial crisis. Its business had become complicated, expensive, and increasingly difficult to manage. That year, it reported a net loss of nearly two billion Danish kroner.\n\nLEGO had expanded into too many directions. More products, more complexity, more costs. It was trying to become everything, while losing focus on what made it special.\n\nThen came a major change. In 2004, J\u00f8rgen Vig Knudstorp became CEO. His mission wasn't to make LEGO bigger in every direction. It was to make the business stronger.\n\nLEGO started cutting unnecessary complexity, selling non-core assets, reducing costs, and returning its attention to its core product: the brick. It also worked to reconnect with the customers who loved it.\n\nThe turnaround worked. By 2015, LEGO's revenue had reached 35.8 billion Danish kroner. A company that had once faced a serious fight for survival had rebuilt itself into one of the world's leading toy businesses.\n\nHere's the lesson: growth isn't always about doing more. Sometimes, it's about getting back to what you do best.",
+    "voice": "en-US-BrianMultilingualNeural",
+    "voiceAudioPath": "/audio/episodes/lego/voice.mp3",
+    "subtitlePath": "/audio/episodes/lego/voice.vtt",
+    "wordTimingsPath": "/audio/episodes/lego/voice.words.json",
+    "audioDurationSeconds": 80.0,
+    "subtitles": [
+      {
+        "start": 0.325,
+        "end": 3.573,
+        "text": "Imagine building one of the world's most loved toy brands\u2026"
+      },
+      {
+        "start": 4.025,
+        "end": 5.81,
+        "text": "then almost losing everything."
+      },
+      {
+        "start": 8.314,
+        "end": 12.012,
+        "text": "By 2004, LEGO was in its worst financial crisis."
+      },
+      {
+        "start": 12.167,
+        "end": 13.688,
+        "text": "Its business had become complicated,"
+      },
+      {
+        "start": 13.808,
+        "end": 16.702,
+        "text": "expensive, and increasingly difficult to manage."
+      },
+      {
+        "start": 16.873,
+        "end": 20.719,
+        "text": "That year, it reported a net loss of nearly two billion Danish kroner."
+      },
+      {
+        "start": 21.231,
+        "end": 24.099,
+        "text": "LEGO had expanded into too many directions."
+      },
+      {
+        "start": 24.31,
+        "end": 26.981,
+        "text": "More products, more complexity, more costs."
+      },
+      {
+        "start": 27.161,
+        "end": 28.964,
+        "text": "It was trying to become everything,"
+      },
+      {
+        "start": 29.105,
+        "end": 31.545,
+        "text": "while losing focus on what made it special."
+      },
+      {
+        "start": 32.107,
+        "end": 33.676,
+        "text": "Then came a major change."
+      },
+      {
+        "start": 33.848,
+        "end": 37.178,
+        "text": "In 2004, J\u00f8rgen Vig Knudstorp became CEO."
+      },
+      {
+        "start": 37.368,
+        "end": 40.505,
+        "text": "His mission wasn't to make LEGO bigger in every direction."
+      },
+      {
+        "start": 40.68,
+        "end": 42.601,
+        "text": "It was to make the business stronger."
+      },
+      {
+        "start": 43.331,
+        "end": 45.829,
+        "text": "LEGO started cutting unnecessary complexity,"
+      },
+      {
+        "start": 46.143,
+        "end": 49.139,
+        "text": "selling non-core assets, reducing costs,"
+      },
+      {
+        "start": 49.269,
+        "end": 52.6,
+        "text": "and returning its attention to its core product: the brick."
+      },
+      {
+        "start": 52.81,
+        "end": 55.968,
+        "text": "It also worked to reconnect with the customers who loved it."
+      },
+      {
+        "start": 57.305,
+        "end": 58.583,
+        "text": "The turnaround worked."
+      },
+      {
+        "start": 58.774,
+        "end": 63.117000000000004,
+        "text": "By 2015, LEGO's revenue had reached 35.8 billion"
+      },
+      {
+        "start": 63.237,
+        "end": 64.099,
+        "text": "Danish kroner."
+      },
+      {
+        "start": 64.289,
+        "end": 66.44999999999999,
+        "text": "A company that had once faced a serious fight for"
+      },
+      {
+        "start": 66.57,
+        "end": 70.656,
+        "text": "survival had rebuilt itself into one of the world's leading toy businesses."
+      },
+      {
+        "start": 71.325,
+        "end": 74.621,
+        "text": "Here's the lesson: growth isn't always about doing more."
+      },
+      {
+        "start": 74.777,
+        "end": 77.362,
+        "text": "Sometimes, it's about getting back to what you do best."
+      }
+    ]
+  },
+  "music": {
+    "path": "/audio/episodes/lego/music/the-journey-80s.mp3",
+    "volume": 0.16,
+    "fadeInSeconds": 2.5,
+    "fadeOutSeconds": 3.0,
+    "duckUnderNarration": true,
+    "volumeAutomation": [
+      {
+        "timeSeconds": 0,
+        "volume": 0.12
+      },
+      {
+        "timeSeconds": 8,
+        "volume": 0.12
+      },
+      {
+        "timeSeconds": 20.9,
+        "volume": 0.14
+      },
+      {
+        "timeSeconds": 31.8,
+        "volume": 0.16
+      },
+      {
+        "timeSeconds": 43,
+        "volume": 0.18
+      },
+      {
+        "timeSeconds": 57,
+        "volume": 0.22
+      },
+      {
+        "timeSeconds": 71,
+        "volume": 0.2
+      },
+      {
+        "timeSeconds": 77.3,
+        "volume": 0.18
+      },
+      {
+        "timeSeconds": 80,
+        "volume": 0.08
+      }
+    ]
+  },
+  "soundEffects": [
+    {
+      "id": "room-tone",
+      "path": "/audio/episodes/ai-agent/sfx/office-room-tone.mp3",
+      "startSeconds": 0,
+      "durationSeconds": 40,
+      "volume": 0.035,
+      "fadeInSeconds": 1.5,
+      "fadeOutSeconds": 4
+    },
+    {
+      "id": "impact-open",
+      "path": "/audio/episodes/lego/sfx/impact-deep.mp3",
+      "startSeconds": 0.05,
+      "durationSeconds": 3.0,
+      "volume": 0.24,
+      "fadeInSeconds": 0.02,
+      "fadeOutSeconds": 1.4
+    },
+    {
+      "id": "brick-place",
+      "path": "/audio/episodes/lego/sfx/plastic-click.mp3",
+      "startSeconds": 4.8,
+      "durationSeconds": 0.2,
+      "volume": 0.3,
+      "fadeInSeconds": 0.01,
+      "fadeOutSeconds": 0.05
+    },
+    {
+      "id": "crisis-transition",
+      "path": "/audio/sfx/transition-whoosh.mp3",
+      "startSeconds": 7.95,
+      "durationSeconds": 0.8,
+      "volume": 0.2,
+      "fadeInSeconds": 0.03,
+      "fadeOutSeconds": 0.4
+    },
+    {
+      "id": "factory-hit",
+      "path": "/audio/episodes/lego/sfx/factory-hit.mp3",
+      "startSeconds": 11.8,
+      "durationSeconds": 1.2,
+      "volume": 0.14,
+      "fadeInSeconds": 0.02,
+      "fadeOutSeconds": 0.5
+    },
+    {
+      "id": "paper",
+      "path": "/audio/episodes/lego/sfx/paper-slide.mp3",
+      "startSeconds": 16.2,
+      "durationSeconds": 0.9,
+      "volume": 0.2,
+      "fadeInSeconds": 0.02,
+      "fadeOutSeconds": 0.3
+    },
+    {
+      "id": "loss-impact",
+      "path": "/audio/episodes/lego/sfx/impact-deep.mp3",
+      "startSeconds": 18.6,
+      "durationSeconds": 1.6,
+      "volume": 0.17,
+      "fadeInSeconds": 0.04,
+      "fadeOutSeconds": 0.8
+    },
+    {
+      "id": "mechanical",
+      "path": "/audio/episodes/lego/sfx/mechanical-move.mp3",
+      "startSeconds": 22.6,
+      "durationSeconds": 1.6,
+      "volume": 0.13,
+      "fadeInSeconds": 0.03,
+      "fadeOutSeconds": 0.5
+    },
+    {
+      "id": "object-move",
+      "path": "/audio/sfx/transition-whoosh.mp3",
+      "startSeconds": 26.4,
+      "durationSeconds": 0.8,
+      "volume": 0.1,
+      "fadeInSeconds": 0.03,
+      "fadeOutSeconds": 0.4
+    },
+    {
+      "id": "turn-transition",
+      "path": "/audio/sfx/transition-whoosh.mp3",
+      "startSeconds": 31.6,
+      "durationSeconds": 0.9,
+      "volume": 0.2,
+      "fadeInSeconds": 0.03,
+      "fadeOutSeconds": 0.45
+    },
+    {
+      "id": "document",
+      "path": "/audio/episodes/lego/sfx/paper-slide.mp3",
+      "startSeconds": 35.2,
+      "durationSeconds": 0.9,
+      "volume": 0.18,
+      "fadeInSeconds": 0.02,
+      "fadeOutSeconds": 0.3
+    },
+    {
+      "id": "riser",
+      "path": "/audio/episodes/lego/sfx/riser.mp3",
+      "startSeconds": 39.3,
+      "durationSeconds": 3.8,
+      "volume": 0.1,
+      "fadeInSeconds": 0.2,
+      "fadeOutSeconds": 0.9
+    },
+    {
+      "id": "strategy-whoosh",
+      "path": "/audio/sfx/transition-whoosh.mp3",
+      "startSeconds": 42.9,
+      "durationSeconds": 0.8,
+      "volume": 0.16,
+      "fadeInSeconds": 0.03,
+      "fadeOutSeconds": 0.4
+    },
+    {
+      "id": "object-remove",
+      "path": "/audio/episodes/lego/sfx/plastic-click.mp3",
+      "startSeconds": 47.8,
+      "durationSeconds": 0.2,
+      "volume": 0.18,
+      "fadeInSeconds": 0.01,
+      "fadeOutSeconds": 0.05
+    },
+    {
+      "id": "brick-connect",
+      "path": "/audio/episodes/lego/sfx/plastic-click.mp3",
+      "startSeconds": 52.9,
+      "durationSeconds": 0.2,
+      "volume": 0.28,
+      "fadeInSeconds": 0.01,
+      "fadeOutSeconds": 0.05
+    },
+    {
+      "id": "comeback-impact",
+      "path": "/audio/episodes/lego/sfx/impact-deep.mp3",
+      "startSeconds": 57.2,
+      "durationSeconds": 1.8,
+      "volume": 0.16,
+      "fadeInSeconds": 0.04,
+      "fadeOutSeconds": 0.9
+    },
+    {
+      "id": "structure",
+      "path": "/audio/episodes/lego/sfx/plastic-hit.mp3",
+      "startSeconds": 66.2,
+      "durationSeconds": 1.0,
+      "volume": 0.16,
+      "fadeInSeconds": 0.02,
+      "fadeOutSeconds": 0.4
+    },
+    {
+      "id": "final-click",
+      "path": "/audio/episodes/lego/sfx/plastic-click.mp3",
+      "startSeconds": 77.15,
+      "durationSeconds": 0.2,
+      "volume": 0.34,
+      "fadeInSeconds": 0.01,
+      "fadeOutSeconds": 0.05
+    },
+    {
+      "id": "brand-accent",
+      "path": "/audio/episodes/ai-agent/sfx/warm-bell.mp3",
+      "startSeconds": 77.55,
+      "durationSeconds": 2.4,
+      "volume": 0.22,
+      "fadeInSeconds": 0.05,
+      "fadeOutSeconds": 0.7
+    },
+    {
+      "id": "room-tone-late",
+      "path": "/audio/episodes/ai-agent/sfx/office-room-tone.mp3",
+      "startSeconds": 41.8,
+      "durationSeconds": 35,
+      "volume": 0.03,
+      "fadeInSeconds": 1.5,
+      "fadeOutSeconds": 4
+    }
+  ],
+  "scenes": [
+    {
+      "id": "the-hook",
+      "startSeconds": 0.0,
+      "durationSeconds": 8.0,
+      "layout": "documentary",
+      "background": {
+        "imagePath": "/images/lego/bricks-scattered.jpg",
+        "imageObjectPosition": "50% 45%",
+        "imageOpacity": 0.23,
+        "grade": "night",
+        "parallax": 0.035
+      },
+      "headlines": [
+        {
+          "text": "THE BRAND\nEVERYONE LOVED.",
+          "preset": "maskedUp",
+          "startSeconds": 0.55,
+          "size": "display",
+          "align": "left",
+          "accentWords": [],
+          "maxWidth": 912,
+          "endSeconds": 3.7
+        },
+        {
+          "text": "ALMOST LOST\nEVERYTHING.",
+          "preset": "maskedUp",
+          "startSeconds": 3.95,
+          "size": "hero",
+          "align": "left",
+          "accentWords": [
+            "LOST"
+          ],
+          "maxWidth": 912,
+          "accentTone": "warning",
+          "endSeconds": 7.7
+        }
+      ],
+      "character": {
+        "action": "idle",
+        "x": 540,
+        "y": 960,
+        "scale": 1,
+        "facing": "front",
+        "expression": "neutral"
+      },
+      "camera": {
+        "motion": "pushIn",
+        "intensity": 0.5
+      },
+      "transitionIn": "fade",
+      "visual": {
+        "kind": "documentary",
+        "documentaryMode": "hook"
+      }
+    },
+    {
+      "id": "the-crisis",
+      "startSeconds": 8.0,
+      "durationSeconds": 12.9,
+      "layout": "documentary",
+      "background": {
+        "imagePath": "/images/lego/warehouse.jpg",
+        "imageObjectPosition": "50% 46%",
+        "imageOpacity": 0.56,
+        "grade": "night",
+        "parallax": 0.03
+      },
+      "headlines": [
+        {
+          "text": "THE CRISIS.",
+          "preset": "charReveal",
+          "startSeconds": 0.35,
+          "size": "hero",
+          "align": "left",
+          "accentWords": [
+            "CRISIS"
+          ],
+          "maxWidth": 912,
+          "accentTone": "warning"
+        }
+      ],
+      "character": {
+        "action": "idle",
+        "x": 540,
+        "y": 960,
+        "scale": 1,
+        "facing": "front",
+        "expression": "neutral"
+      },
+      "camera": {
+        "motion": "panRight",
+        "intensity": 0.18
+      },
+      "transitionIn": "cut",
+      "visual": {
+        "kind": "documentary",
+        "documentaryMode": "crisis"
+      }
+    },
+    {
+      "id": "the-problem",
+      "startSeconds": 20.9,
+      "durationSeconds": 10.9,
+      "layout": "documentary",
+      "background": {
+        "imagePath": "/images/lego/bricks-scattered.jpg",
+        "imageObjectPosition": "50% 38%",
+        "imageOpacity": 0.3,
+        "grade": "night",
+        "parallax": 0.04
+      },
+      "headlines": [
+        {
+          "text": "LESS\nFOCUS.",
+          "preset": "splitLine",
+          "startSeconds": 4.2,
+          "size": "hero",
+          "align": "left",
+          "accentWords": [
+            "FOCUS"
+          ],
+          "maxWidth": 912,
+          "accentTone": "warning"
+        }
+      ],
+      "character": {
+        "action": "idle",
+        "x": 540,
+        "y": 960,
+        "scale": 1,
+        "facing": "front",
+        "expression": "neutral"
+      },
+      "camera": {
+        "motion": "pushIn",
+        "intensity": 0.26
+      },
+      "transitionIn": "wipe",
+      "visual": {
+        "kind": "documentary",
+        "documentaryMode": "complexity",
+        "labels": [
+          "MORE PRODUCTS",
+          "MORE COMPLEXITY",
+          "LESS FOCUS"
+        ]
+      }
+    },
+    {
+      "id": "the-turning-point",
+      "startSeconds": 31.8,
+      "durationSeconds": 11.2,
+      "layout": "documentary",
+      "background": {
+        "grade": "night",
+        "parallax": 0.02
+      },
+      "headlines": [
+        {
+          "text": "A NEW\nDIRECTION.",
+          "preset": "staggeredPhrase",
+          "startSeconds": 0.5,
+          "size": "display",
+          "align": "left",
+          "accentWords": [
+            "DIRECTION"
+          ],
+          "maxWidth": 912,
+          "accentTone": "positive"
+        }
+      ],
+      "character": {
+        "action": "idle",
+        "x": 540,
+        "y": 960,
+        "scale": 1,
+        "facing": "front",
+        "expression": "neutral"
+      },
+      "camera": {
+        "motion": "drift",
+        "intensity": 0.2
+      },
+      "transitionIn": "fade",
+      "visual": {
+        "kind": "documentary",
+        "documentaryMode": "turning",
+        "labels": [
+          "2004",
+          "A NEW CEO",
+          "A NEW DIRECTION"
+        ]
+      }
+    },
+    {
+      "id": "the-strategy",
+      "startSeconds": 43.0,
+      "durationSeconds": 14.0,
+      "layout": "documentary",
+      "background": {
+        "imagePath": "/images/lego/hands-building.jpg",
+        "imageObjectPosition": "50% 55%",
+        "imageOpacity": 0.56,
+        "grade": "warm",
+        "parallax": 0.03
+      },
+      "headlines": [
+        {
+          "text": "BACK TO\nTHE BRICK.",
+          "preset": "maskedUp",
+          "startSeconds": 8.3,
+          "size": "hero",
+          "align": "left",
+          "accentWords": [
+            "BRICK"
+          ],
+          "maxWidth": 912,
+          "accentTone": "warning"
+        }
+      ],
+      "character": {
+        "action": "idle",
+        "x": 540,
+        "y": 960,
+        "scale": 1,
+        "facing": "front",
+        "expression": "neutral"
+      },
+      "camera": {
+        "motion": "panLeft",
+        "intensity": 0.18
+      },
+      "transitionIn": "cut",
+      "visual": {
+        "kind": "documentary",
+        "documentaryMode": "strategy",
+        "labels": [
+          "Simplify",
+          "Focus",
+          "Reconnect"
+        ]
+      }
+    },
+    {
+      "id": "the-comeback",
+      "startSeconds": 57.0,
+      "durationSeconds": 14.0,
+      "layout": "documentary",
+      "background": {
+        "grade": "warm",
+        "parallax": 0.02
+      },
+      "headlines": [
+        {
+          "text": "THE\nCOMEBACK.",
+          "preset": "kineticEmphasis",
+          "startSeconds": 8.0,
+          "size": "hero",
+          "align": "left",
+          "accentWords": [
+            "COMEBACK"
+          ],
+          "maxWidth": 912,
+          "accentTone": "positive"
+        }
+      ],
+      "character": {
+        "action": "idle",
+        "x": 540,
+        "y": 960,
+        "scale": 1,
+        "facing": "front",
+        "expression": "neutral"
+      },
+      "camera": {
+        "motion": "pushIn",
+        "intensity": 0.24
+      },
+      "transitionIn": "bloom",
+      "visual": {
+        "kind": "documentary",
+        "documentaryMode": "comeback",
+        "labels": [
+          "2015",
+          "DKK 35.8 BILLION",
+          "REVENUE"
+        ]
+      }
+    },
+    {
+      "id": "the-lesson",
+      "startSeconds": 71.0,
+      "durationSeconds": 9.0,
+      "layout": "documentary",
+      "background": {
+        "imagePath": "/images/lego/bricks-scattered.jpg",
+        "imageObjectPosition": "50% 42%",
+        "imageOpacity": 0.27,
+        "grade": "night",
+        "parallax": 0.04
+      },
+      "headlines": [
+        {
+          "text": "GROWTH ISN'T ALWAYS\nABOUT DOING MORE.",
+          "preset": "maskedUp",
+          "startSeconds": 0.4,
+          "size": "display",
+          "align": "left",
+          "accentWords": [
+            "MORE"
+          ],
+          "maxWidth": 912,
+          "accentTone": "warning",
+          "endSeconds": 4.0
+        },
+        {
+          "text": "GET BACK TO WHAT\nYOU DO BEST.",
+          "preset": "finalReveal",
+          "startSeconds": 4.2,
+          "size": "hero",
+          "align": "left",
+          "accentWords": [
+            "BEST"
+          ],
+          "maxWidth": 912,
+          "accentTone": "positive",
+          "endSeconds": 6.42
+        }
+      ],
+      "character": {
+        "action": "idle",
+        "x": 540,
+        "y": 960,
+        "scale": 1,
+        "facing": "front",
+        "expression": "neutral"
+      },
+      "camera": {
+        "motion": "pushIn",
+        "intensity": 0.2
+      },
+      "transitionIn": "fade",
+      "visual": {
+        "kind": "documentary",
+        "documentaryMode": "lesson"
+      }
+    }
+  ],
+  "brand": {
+    "enabled": true,
+    "signatureEnabled": true,
+    "avatarEnabled": true,
+    "treatment": "social",
+    "revealDurationSeconds": 2.45,
+    "startSeconds": 77.55
+  },
+  "assets": [
+    {
+      "path": "/images/lego/bricks-scattered.jpg",
+      "kind": "image",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Building_block_design-6.jpg",
+      "creator": "SAHAYA RAJAN S",
+      "license": "CC0 1.0",
+      "notes": "Building-block table study. Generic plastic bricks; illustrative, not an official LEGO facility or campaign."
+    },
+    {
+      "path": "/images/lego/warehouse.jpg",
+      "kind": "image",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sklady_alza_cz2.jpg",
+      "creator": "Alza",
+      "license": "Public domain",
+      "notes": "Warehouse aisle. Illustrative manufacturing/logistics environment."
+    },
+    {
+      "path": "/images/lego/factory.jpg",
+      "kind": "image",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clics_Toys_fabriek.jpg",
+      "creator": "Lore Van Aert",
+      "license": "CC BY-SA 4.0",
+      "notes": "Toy factory floor, cropped. Illustrative re-creation, not a LEGO facility. Attribution required."
+    },
+    {
+      "path": "/images/lego/hands-building.jpg",
+      "kind": "image",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_child_is_focused_on_creating_with_vibrant_building_blocks_on_a_table.jpg",
+      "creator": "Shixart1985",
+      "license": "CC BY 2.0",
+      "notes": "Child building with generic blocks, hands close-up. Illustrative; attribution required."
+    },
+    {
+      "path": "/images/city-fog.jpg",
+      "kind": "image",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:San_Francisco_in_fog.jpg",
+      "creator": "Jon Sullivan / Wikimedia Commons",
+      "license": "Public domain",
+      "notes": "Existing local city texture used behind the boardroom window."
+    },
+    {
+      "path": "/images/grain.png",
+      "kind": "image",
+      "sourceUrl": "Generated locally",
+      "creator": "Simpledeav Studio",
+      "license": "Generated asset for this project",
+      "notes": "Existing film-grain overlay."
+    },
+    {
+      "path": "/brand/simpledeav-avatar.png",
+      "kind": "avatar",
+      "sourceUrl": "https://avatars.githubusercontent.com/u/88326987?s=64&v=4",
+      "creator": "Simpledeav",
+      "license": "Channel owner profile image; used locally with the owner's authorization",
+      "notes": "Local profile image used in the closing signature."
+    },
+    {
+      "path": "/audio/episodes/lego/voice.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://github.com/rany2/edge-tts",
+      "creator": "Edge TTS / Microsoft neural voice en-US-BrianMultilingualNeural",
+      "license": "Synthetic narration generated for this project; Microsoft Edge TTS terms apply",
+      "notes": "80.000s male documentary read, scene-segmented and lightly EQ/compressed. AI-generated, not human recorded."
+    },
+    {
+      "path": "/audio/episodes/lego/voice.vtt",
+      "kind": "subtitle",
+      "sourceUrl": "Generated by scripts/generate-episode-voice.py",
+      "creator": "Simpledeav Studio + Edge TTS word boundaries",
+      "license": "Generated data for this project",
+      "notes": "Phrase-level WebVTT from actual word boundaries."
+    },
+    {
+      "path": "/audio/episodes/lego/voice.words.json",
+      "kind": "data",
+      "sourceUrl": "Generated by scripts/generate-episode-voice.py",
+      "creator": "Simpledeav Studio + Edge TTS word boundaries",
+      "license": "Generated data for this project",
+      "notes": "Word-level timing metadata."
+    },
+    {
+      "path": "/audio/episodes/lego/voice.cues.json",
+      "kind": "data",
+      "sourceUrl": "Generated by scripts/generate-episode-voice.py",
+      "creator": "Simpledeav Studio + Edge TTS word boundaries",
+      "license": "Generated data for this project",
+      "notes": "Phrase cues embedded in narration.subtitles."
+    },
+    {
+      "path": "/audio/episodes/lego/music/the-journey-80s.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://assets.mixkit.co/music/79/79.mp3",
+      "creator": "Mixkit",
+      "license": "Mixkit Stock Music Free License",
+      "notes": "Track \"The Journey\", trimmed to 80.5s with fades. Single music bed."
+    },
+    {
+      "path": "/audio/episodes/lego/sfx/impact-deep.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://assets.mixkit.co/active_storage/sfx/788/788-preview.mp3",
+      "creator": "Mixkit",
+      "license": "Mixkit Sound Effects Free License",
+      "notes": "Track \"Big cinematic impact\"."
+    },
+    {
+      "path": "/audio/episodes/lego/sfx/factory-hit.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://assets.mixkit.co/active_storage/sfx/2980/2980-preview.mp3",
+      "creator": "Mixkit",
+      "license": "Mixkit Sound Effects Free License",
+      "notes": "Track \"Factory metal hard hit\"."
+    },
+    {
+      "path": "/audio/episodes/lego/sfx/mechanical-move.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://assets.mixkit.co/active_storage/sfx/3117/3117-preview.mp3",
+      "creator": "Mixkit",
+      "license": "Mixkit Sound Effects Free License",
+      "notes": "Track \"Mechanical technology movements\"."
+    },
+    {
+      "path": "/audio/episodes/lego/sfx/paper-slide.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://assets.mixkit.co/active_storage/sfx/1530/1530-preview.mp3",
+      "creator": "Mixkit",
+      "license": "Mixkit Sound Effects Free License",
+      "notes": "Track \"Paper slide\"."
+    },
+    {
+      "path": "/audio/episodes/lego/sfx/plastic-click.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://assets.mixkit.co/active_storage/sfx/1124/1124-preview.mp3",
+      "creator": "Mixkit",
+      "license": "Mixkit Sound Effects Free License",
+      "notes": "Track \"Plastic bubble click\", used as brick placement/connection."
+    },
+    {
+      "path": "/audio/episodes/lego/sfx/plastic-hit.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://assets.mixkit.co/active_storage/sfx/3204/3204-preview.mp3",
+      "creator": "Mixkit",
+      "license": "Mixkit Sound Effects Free License",
+      "notes": "Track \"Plastic hit\", used for the finished structure."
+    },
+    {
+      "path": "/audio/episodes/lego/sfx/riser.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://assets.mixkit.co/active_storage/sfx/786/786-preview.mp3",
+      "creator": "Mixkit",
+      "license": "Mixkit Sound Effects Free License",
+      "notes": "Track \"Cinematic suspense swell\", trimmed as a rise into the strategy."
+    },
+    {
+      "path": "/audio/sfx/transition-whoosh.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://assets.mixkit.co/active_storage/sfx/1492/1492-preview.mp3",
+      "creator": "Mixkit",
+      "license": "Mixkit Sound Effects Free License",
+      "notes": "Existing local transition whoosh."
+    },
+    {
+      "path": "/audio/episodes/ai-agent/sfx/office-room-tone.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://assets.mixkit.co/active_storage/sfx/447/447-preview.mp3",
+      "creator": "Mixkit",
+      "license": "Mixkit Sound Effects Free License",
+      "notes": "Existing local quiet room tone, used at low level under the first half."
+    },
+    {
+      "path": "/audio/episodes/ai-agent/sfx/warm-bell.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://assets.mixkit.co/active_storage/sfx/933/933-preview.mp3",
+      "creator": "Mixkit",
+      "license": "Mixkit Sound Effects Free License",
+      "notes": "Existing local warm bell for the brand close."
+    },
+    {
+      "path": "/fonts/Poppins-Regular.ttf",
+      "kind": "font",
+      "sourceUrl": "https://github.com/google/fonts/tree/main/ofl/poppins",
+      "creator": "Indian Type Foundry / Jonny Pinhorn",
+      "license": "SIL Open Font License 1.1",
+      "notes": "Local Poppins supporting used throughout this episode."
+    },
+    {
+      "path": "/fonts/Poppins-Medium.ttf",
+      "kind": "font",
+      "sourceUrl": "https://github.com/google/fonts/tree/main/ofl/poppins",
+      "creator": "Indian Type Foundry / Jonny Pinhorn",
+      "license": "SIL Open Font License 1.1",
+      "notes": "Local Poppins captions used throughout this episode."
+    },
+    {
+      "path": "/fonts/Poppins-SemiBold.ttf",
+      "kind": "font",
+      "sourceUrl": "https://github.com/google/fonts/tree/main/ofl/poppins",
+      "creator": "Indian Type Foundry / Jonny Pinhorn",
+      "license": "SIL Open Font License 1.1",
+      "notes": "Local Poppins headlines used throughout this episode."
+    },
+    {
+      "path": "/fonts/Poppins-Bold.ttf",
+      "kind": "font",
+      "sourceUrl": "https://github.com/google/fonts/tree/main/ofl/poppins",
+      "creator": "Indian Type Foundry / Jonny Pinhorn",
+      "license": "SIL Open Font License 1.1",
+      "notes": "Local Poppins emphasis used throughout this episode."
+    },
+    {
+      "path": "/fonts/Poppins-ExtraBold.ttf",
+      "kind": "font",
+      "sourceUrl": "https://github.com/google/fonts/tree/main/ofl/poppins",
+      "creator": "Indian Type Foundry / Jonny Pinhorn",
+      "license": "SIL Open Font License 1.1",
+      "notes": "Local Poppins display used throughout this episode."
+    },
+    {
+      "path": "/fonts/Poppins-Italic.ttf",
+      "kind": "font",
+      "sourceUrl": "https://github.com/google/fonts/tree/main/ofl/poppins",
+      "creator": "Indian Type Foundry / Jonny Pinhorn",
+      "license": "SIL Open Font License 1.1",
+      "notes": "Local Poppins accents used throughout this episode."
+    }
+  ]
+}

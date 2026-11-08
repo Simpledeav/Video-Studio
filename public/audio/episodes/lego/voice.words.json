@@ -1,0 +1,997 @@
+{
+  "voice": "en-US-BrianMultilingualNeural",
+  "leadInSeconds": 0.0,
+  "segments": [
+    {
+      "id": "hook",
+      "start": 0.25,
+      "duration": 5.76,
+      "end": 6.01,
+      "words": 14
+    },
+    {
+      "id": "crisis",
+      "start": 8.25,
+      "duration": 12.624,
+      "end": 20.874,
+      "words": 33
+    },
+    {
+      "id": "complexity",
+      "start": 21.15,
+      "duration": 10.584,
+      "end": 31.734,
+      "words": 27
+    },
+    {
+      "id": "turning-point",
+      "start": 32.05,
+      "duration": 10.728,
+      "end": 42.778,
+      "words": 29
+    },
+    {
+      "id": "strategy",
+      "start": 43.25,
+      "duration": 12.912,
+      "end": 56.162,
+      "words": 31
+    },
+    {
+      "id": "comeback",
+      "start": 57.25,
+      "duration": 13.584,
+      "end": 70.834,
+      "words": 35
+    },
+    {
+      "id": "lesson",
+      "start": 71.25,
+      "duration": 6.288,
+      "end": 77.538,
+      "words": 19
+    }
+  ],
+  "words": [
+    {
+      "text": "Imagine",
+      "start": 0.325,
+      "end": 0.812
+    },
+    {
+      "text": "building",
+      "start": 0.825,
+      "end": 1.225
+    },
+    {
+      "text": "one",
+      "start": 1.238,
+      "end": 1.387
+    },
+    {
+      "text": "of",
+      "start": 1.4,
+      "end": 1.462
+    },
+    {
+      "text": "the",
+      "start": 1.475,
+      "end": 1.562
+    },
+    {
+      "text": "world's",
+      "start": 1.575,
+      "end": 1.975
+    },
+    {
+      "text": "most",
+      "start": 1.988,
+      "end": 2.3
+    },
+    {
+      "text": "loved",
+      "start": 2.312,
+      "end": 2.587
+    },
+    {
+      "text": "toy",
+      "start": 2.6,
+      "end": 2.837
+    },
+    {
+      "text": "brands\u2026",
+      "start": 2.85,
+      "end": 3.413
+    },
+    {
+      "text": "then",
+      "start": 4.025,
+      "end": 4.263
+    },
+    {
+      "text": "almost",
+      "start": 4.275,
+      "end": 4.688
+    },
+    {
+      "text": "losing",
+      "start": 4.7,
+      "end": 5.062
+    },
+    {
+      "text": "everything.",
+      "start": 5.075,
+      "end": 5.65
+    },
+    {
+      "text": "By",
+      "start": 8.314,
+      "end": 9.309
+    },
+    {
+      "text": "2004,",
+      "start": 8.314,
+      "end": 9.309
+    },
+    {
+      "text": "LEGO",
+      "start": 9.638,
+      "end": 10.051
+    },
+    {
+      "text": "was",
+      "start": 10.061,
+      "end": 10.263
+    },
+    {
+      "text": "in",
+      "start": 10.273,
+      "end": 10.39
+    },
+    {
+      "text": "its",
+      "start": 10.4,
+      "end": 10.549
+    },
+    {
+      "text": "worst",
+      "start": 10.559,
+      "end": 10.898
+    },
+    {
+      "text": "financial",
+      "start": 10.909,
+      "end": 11.333
+    },
+    {
+      "text": "crisis.",
+      "start": 11.343,
+      "end": 11.852
+    },
+    {
+      "text": "Its",
+      "start": 12.167,
+      "end": 12.325
+    },
+    {
+      "text": "business",
+      "start": 12.336,
+      "end": 12.675
+    },
+    {
+      "text": "had",
+      "start": 12.686,
+      "end": 12.813
+    },
+    {
+      "text": "become",
+      "start": 12.823,
+      "end": 13.109
+    },
+    {
+      "text": "complicated,",
+      "start": 13.12,
+      "end": 13.798
+    },
+    {
+      "text": "expensive,",
+      "start": 13.808,
+      "end": 14.508
+    },
+    {
+      "text": "and",
+      "start": 14.741,
+      "end": 14.953
+    },
+    {
+      "text": "increasingly",
+      "start": 14.963,
+      "end": 15.567
+    },
+    {
+      "text": "difficult",
+      "start": 15.578,
+      "end": 15.959
+    },
+    {
+      "text": "to",
+      "start": 15.97,
+      "end": 16.044
+    },
+    {
+      "text": "manage.",
+      "start": 16.054,
+      "end": 16.542
+    },
+    {
+      "text": "That",
+      "start": 16.873,
+      "end": 17.032
+    },
+    {
+      "text": "year,",
+      "start": 17.042,
+      "end": 17.371
+    },
+    {
+      "text": "it",
+      "start": 17.763,
+      "end": 17.837
+    },
+    {
+      "text": "reported",
+      "start": 17.847,
+      "end": 18.208
+    },
+    {
+      "text": "a",
+      "start": 18.218,
+      "end": 18.261
+    },
+    {
+      "text": "net",
+      "start": 18.271,
+      "end": 18.515
+    },
+    {
+      "text": "loss",
+      "start": 18.525,
+      "end": 18.843
+    },
+    {
+      "text": "of",
+      "start": 18.854,
+      "end": 18.96
+    },
+    {
+      "text": "nearly",
+      "start": 18.97,
+      "end": 19.256
+    },
+    {
+      "text": "two",
+      "start": 19.267,
+      "end": 19.511
+    },
+    {
+      "text": "billion",
+      "start": 19.521,
+      "end": 19.85
+    },
+    {
+      "text": "Danish",
+      "start": 19.86,
+      "end": 20.157
+    },
+    {
+      "text": "kroner.",
+      "start": 20.167,
+      "end": 20.559
+    },
+    {
+      "text": "LEGO",
+      "start": 21.231,
+      "end": 21.671
+    },
+    {
+      "text": "had",
+      "start": 21.682,
+      "end": 21.868
+    },
+    {
+      "text": "expanded",
+      "start": 21.879,
+      "end": 22.527
+    },
+    {
+      "text": "into",
+      "start": 22.539,
+      "end": 22.851
+    },
+    {
+      "text": "too",
+      "start": 22.863,
+      "end": 23.025
+    },
+    {
+      "text": "many",
+      "start": 23.037,
+      "end": 23.256
+    },
+    {
+      "text": "directions.",
+      "start": 23.268,
+      "end": 23.939
+    },
+    {
+      "text": "More",
+      "start": 24.31,
+      "end": 24.553
+    },
+    {
+      "text": "products,",
+      "start": 24.564,
+      "end": 25.12
+    },
+    {
+      "text": "more",
+      "start": 25.132,
+      "end": 25.386
+    },
+    {
+      "text": "complexity,",
+      "start": 25.398,
+      "end": 26.069
+    },
+    {
+      "text": "more",
+      "start": 26.081,
+      "end": 26.324
+    },
+    {
+      "text": "costs.",
+      "start": 26.335,
+      "end": 26.821
+    },
+    {
+      "text": "It",
+      "start": 27.161,
+      "end": 27.288
+    },
+    {
+      "text": "was",
+      "start": 27.3,
+      "end": 27.404
+    },
+    {
+      "text": "trying",
+      "start": 27.415,
+      "end": 27.681
+    },
+    {
+      "text": "to",
+      "start": 27.693,
+      "end": 27.786
+    },
+    {
+      "text": "become",
+      "start": 27.797,
+      "end": 28.144
+    },
+    {
+      "text": "everything,",
+      "start": 28.168,
+      "end": 28.804
+    },
+    {
+      "text": "while",
+      "start": 29.105,
+      "end": 29.383
+    },
+    {
+      "text": "losing",
+      "start": 29.394,
+      "end": 29.742
+    },
+    {
+      "text": "focus",
+      "start": 29.753,
+      "end": 30.216
+    },
+    {
+      "text": "on",
+      "start": 30.228,
+      "end": 30.413
+    },
+    {
+      "text": "what",
+      "start": 30.425,
+      "end": 30.587
+    },
+    {
+      "text": "made",
+      "start": 30.598,
+      "end": 30.76
+    },
+    {
+      "text": "it",
+      "start": 30.772,
+      "end": 30.841
+    },
+    {
+      "text": "special.",
+      "start": 30.853,
+      "end": 31.385
+    },
+    {
+      "text": "Then",
+      "start": 32.107,
+      "end": 32.3
+    },
+    {
+      "text": "came",
+      "start": 32.311,
+      "end": 32.561
+    },
+    {
+      "text": "a",
+      "start": 32.573,
+      "end": 32.641
+    },
+    {
+      "text": "major",
+      "start": 32.652,
+      "end": 32.993
+    },
+    {
+      "text": "change.",
+      "start": 33.005,
+      "end": 33.516
+    },
+    {
+      "text": "In",
+      "start": 33.848,
+      "end": 34.825
+    },
+    {
+      "text": "2004,",
+      "start": 33.848,
+      "end": 34.825
+    },
+    {
+      "text": "J\u00f8rgen",
+      "start": 34.848,
+      "end": 35.28
+    },
+    {
+      "text": "Vig",
+      "start": 35.291,
+      "end": 35.507
+    },
+    {
+      "text": "Knudstorp",
+      "start": 35.518,
+      "end": 36.098
+    },
+    {
+      "text": "became",
+      "start": 36.109,
+      "end": 36.427
+    },
+    {
+      "text": "CEO.",
+      "start": 36.439,
+      "end": 37.018
+    },
+    {
+      "text": "His",
+      "start": 37.368,
+      "end": 37.527
+    },
+    {
+      "text": "mission",
+      "start": 37.539,
+      "end": 37.902
+    },
+    {
+      "text": "wasn't",
+      "start": 37.914,
+      "end": 38.232
+    },
+    {
+      "text": "to",
+      "start": 38.243,
+      "end": 38.334
+    },
+    {
+      "text": "make",
+      "start": 38.345,
+      "end": 38.595
+    },
+    {
+      "text": "LEGO",
+      "start": 38.607,
+      "end": 38.936
+    },
+    {
+      "text": "bigger",
+      "start": 38.948,
+      "end": 39.334
+    },
+    {
+      "text": "in",
+      "start": 39.345,
+      "end": 39.505
+    },
+    {
+      "text": "every",
+      "start": 39.516,
+      "end": 39.789
+    },
+    {
+      "text": "direction.",
+      "start": 39.8,
+      "end": 40.345
+    },
+    {
+      "text": "It",
+      "start": 40.68,
+      "end": 40.816
+    },
+    {
+      "text": "was",
+      "start": 40.827,
+      "end": 40.998
+    },
+    {
+      "text": "to",
+      "start": 41.009,
+      "end": 41.111
+    },
+    {
+      "text": "make",
+      "start": 41.123,
+      "end": 41.384
+    },
+    {
+      "text": "the",
+      "start": 41.395,
+      "end": 41.498
+    },
+    {
+      "text": "business",
+      "start": 41.509,
+      "end": 41.839
+    },
+    {
+      "text": "stronger.",
+      "start": 41.85,
+      "end": 42.441
+    },
+    {
+      "text": "LEGO",
+      "start": 43.331,
+      "end": 43.678
+    },
+    {
+      "text": "started",
+      "start": 43.69,
+      "end": 44.025
+    },
+    {
+      "text": "cutting",
+      "start": 44.037,
+      "end": 44.384
+    },
+    {
+      "text": "unnecessary",
+      "start": 44.396,
+      "end": 44.998
+    },
+    {
+      "text": "complexity,",
+      "start": 45.009,
+      "end": 45.669
+    },
+    {
+      "text": "selling",
+      "start": 46.143,
+      "end": 46.537
+    },
+    {
+      "text": "non-core",
+      "start": 46.549,
+      "end": 47.035
+    },
+    {
+      "text": "assets,",
+      "start": 47.046,
+      "end": 47.59
+    },
+    {
+      "text": "reducing",
+      "start": 47.961,
+      "end": 48.424
+    },
+    {
+      "text": "costs,",
+      "start": 48.435,
+      "end": 48.979
+    },
+    {
+      "text": "and",
+      "start": 49.269,
+      "end": 49.477
+    },
+    {
+      "text": "returning",
+      "start": 49.488,
+      "end": 49.882
+    },
+    {
+      "text": "its",
+      "start": 49.894,
+      "end": 50.021
+    },
+    {
+      "text": "attention",
+      "start": 50.032,
+      "end": 50.472
+    },
+    {
+      "text": "to",
+      "start": 50.484,
+      "end": 50.6
+    },
+    {
+      "text": "its",
+      "start": 50.611,
+      "end": 50.715
+    },
+    {
+      "text": "core",
+      "start": 50.727,
+      "end": 50.947
+    },
+    {
+      "text": "product:",
+      "start": 50.958,
+      "end": 51.456
+    },
+    {
+      "text": "the",
+      "start": 51.896,
+      "end": 52.012
+    },
+    {
+      "text": "brick.",
+      "start": 52.023,
+      "end": 52.44
+    },
+    {
+      "text": "It",
+      "start": 52.81,
+      "end": 52.891
+    },
+    {
+      "text": "also",
+      "start": 52.903,
+      "end": 53.25
+    },
+    {
+      "text": "worked",
+      "start": 53.262,
+      "end": 53.597
+    },
+    {
+      "text": "to",
+      "start": 53.609,
+      "end": 53.725
+    },
+    {
+      "text": "reconnect",
+      "start": 53.736,
+      "end": 54.303
+    },
+    {
+      "text": "with",
+      "start": 54.315,
+      "end": 54.442
+    },
+    {
+      "text": "the",
+      "start": 54.454,
+      "end": 54.535
+    },
+    {
+      "text": "customers",
+      "start": 54.546,
+      "end": 55.09
+    },
+    {
+      "text": "who",
+      "start": 55.102,
+      "end": 55.241
+    },
+    {
+      "text": "loved",
+      "start": 55.252,
+      "end": 55.53
+    },
+    {
+      "text": "it.",
+      "start": 55.542,
+      "end": 55.808
+    },
+    {
+      "text": "The",
+      "start": 57.305,
+      "end": 57.36
+    },
+    {
+      "text": "turnaround",
+      "start": 57.371,
+      "end": 57.93
+    },
+    {
+      "text": "worked.",
+      "start": 57.941,
+      "end": 58.423
+    },
+    {
+      "text": "By",
+      "start": 58.774,
+      "end": 59.893
+    },
+    {
+      "text": "2015,",
+      "start": 58.774,
+      "end": 59.893
+    },
+    {
+      "text": "LEGO's",
+      "start": 60.441,
+      "end": 60.77
+    },
+    {
+      "text": "revenue",
+      "start": 60.781,
+      "end": 61.143
+    },
+    {
+      "text": "had",
+      "start": 61.154,
+      "end": 61.34
+    },
+    {
+      "text": "reached",
+      "start": 61.351,
+      "end": 61.614
+    },
+    {
+      "text": "35.8",
+      "start": 61.625,
+      "end": 62.831
+    },
+    {
+      "text": "billion",
+      "start": 62.842,
+      "end": 63.226
+    },
+    {
+      "text": "Danish",
+      "start": 63.237,
+      "end": 63.544
+    },
+    {
+      "text": "kroner.",
+      "start": 63.555,
+      "end": 63.939
+    },
+    {
+      "text": "A",
+      "start": 64.289,
+      "end": 64.344
+    },
+    {
+      "text": "company",
+      "start": 64.355,
+      "end": 64.706
+    },
+    {
+      "text": "that",
+      "start": 64.717,
+      "end": 64.827
+    },
+    {
+      "text": "had",
+      "start": 64.838,
+      "end": 65.002
+    },
+    {
+      "text": "once",
+      "start": 65.013,
+      "end": 65.309
+    },
+    {
+      "text": "faced",
+      "start": 65.32,
+      "end": 65.627
+    },
+    {
+      "text": "a",
+      "start": 65.638,
+      "end": 65.682
+    },
+    {
+      "text": "serious",
+      "start": 65.693,
+      "end": 66.132
+    },
+    {
+      "text": "fight",
+      "start": 66.143,
+      "end": 66.428
+    },
+    {
+      "text": "for",
+      "start": 66.439,
+      "end": 66.559
+    },
+    {
+      "text": "survival",
+      "start": 66.57,
+      "end": 67.107
+    },
+    {
+      "text": "had",
+      "start": 67.129,
+      "end": 67.612
+    },
+    {
+      "text": "rebuilt",
+      "start": 67.623,
+      "end": 67.963
+    },
+    {
+      "text": "itself",
+      "start": 67.974,
+      "end": 68.401
+    },
+    {
+      "text": "into",
+      "start": 68.423,
+      "end": 68.664
+    },
+    {
+      "text": "one",
+      "start": 68.675,
+      "end": 68.818
+    },
+    {
+      "text": "of",
+      "start": 68.829,
+      "end": 68.895
+    },
+    {
+      "text": "the",
+      "start": 68.906,
+      "end": 68.982
+    },
+    {
+      "text": "world's",
+      "start": 68.993,
+      "end": 69.344
+    },
+    {
+      "text": "leading",
+      "start": 69.355,
+      "end": 69.64
+    },
+    {
+      "text": "toy",
+      "start": 69.651,
+      "end": 69.871
+    },
+    {
+      "text": "businesses.",
+      "start": 69.882,
+      "end": 70.496
+    },
+    {
+      "text": "Here's",
+      "start": 71.325,
+      "end": 71.53
+    },
+    {
+      "text": "the",
+      "start": 71.541,
+      "end": 71.627
+    },
+    {
+      "text": "lesson:",
+      "start": 71.638,
+      "end": 72.015
+    },
+    {
+      "text": "growth",
+      "start": 72.608,
+      "end": 72.974
+    },
+    {
+      "text": "isn't",
+      "start": 72.996,
+      "end": 73.233
+    },
+    {
+      "text": "always",
+      "start": 73.244,
+      "end": 73.61
+    },
+    {
+      "text": "about",
+      "start": 73.621,
+      "end": 73.869
+    },
+    {
+      "text": "doing",
+      "start": 73.879,
+      "end": 74.095
+    },
+    {
+      "text": "more.",
+      "start": 74.106,
+      "end": 74.461
+    },
+    {
+      "text": "Sometimes,",
+      "start": 74.777,
+      "end": 75.327
+    },
+    {
+      "text": "it's",
+      "start": 75.348,
+      "end": 75.467
+    },
+    {
+      "text": "about",
+      "start": 75.478,
+      "end": 75.715
+    },
+    {
+      "text": "getting",
+      "start": 75.725,
+      "end": 75.952
+    },
+    {
+      "text": "back",
+      "start": 75.963,
+      "end": 76.189
+    },
+    {
+      "text": "to",
+      "start": 76.2,
+      "end": 76.329
+    },
+    {
+      "text": "what",
+      "start": 76.34,
+      "end": 76.501
+    },
+    {
+      "text": "you",
+      "start": 76.512,
+      "end": 76.598
+    },
+    {
+      "text": "do",
+      "start": 76.609,
+      "end": 76.749
+    },
+    {
+      "text": "best.",
+      "start": 76.76,
+      "end": 77.202
+    }
+  ]
+}

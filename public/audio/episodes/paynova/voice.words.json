@@ -1,0 +1,974 @@
+{
+  "voice": "en-US-BrianMultilingualNeural",
+  "leadInSeconds": 0.35,
+  "segments": [
+    {
+      "id": "hook",
+      "start": 0.35,
+      "duration": 6.192,
+      "end": 6.542,
+      "words": 16
+    },
+    {
+      "id": "growth",
+      "start": 6.742,
+      "duration": 9.168,
+      "end": 15.91,
+      "words": 17
+    },
+    {
+      "id": "problem",
+      "start": 16.11,
+      "duration": 10.968,
+      "end": 27.078,
+      "words": 28
+    },
+    {
+      "id": "struggle",
+      "start": 27.278,
+      "duration": 11.304,
+      "end": 38.582,
+      "words": 26
+    },
+    {
+      "id": "discovery",
+      "start": 38.782,
+      "duration": 10.224,
+      "end": 49.006,
+      "words": 28
+    },
+    {
+      "id": "solution",
+      "start": 49.206,
+      "duration": 11.664,
+      "end": 60.87,
+      "words": 30
+    },
+    {
+      "id": "recovery",
+      "start": 61.07,
+      "duration": 11.832,
+      "end": 72.902,
+      "words": 25
+    },
+    {
+      "id": "cta",
+      "start": 73.102,
+      "duration": 4.848,
+      "end": 77.95,
+      "words": 12
+    }
+  ],
+  "words": [
+    {
+      "text": "One",
+      "start": 0.437,
+      "end": 0.712
+    },
+    {
+      "text": "database",
+      "start": 0.725,
+      "end": 1.213
+    },
+    {
+      "text": "query",
+      "start": 1.225,
+      "end": 1.662
+    },
+    {
+      "text": "can",
+      "start": 1.675,
+      "end": 1.9
+    },
+    {
+      "text": "wreck",
+      "start": 1.912,
+      "end": 2.2
+    },
+    {
+      "text": "a",
+      "start": 2.225,
+      "end": 2.325
+    },
+    {
+      "text": "growing",
+      "start": 2.338,
+      "end": 2.738
+    },
+    {
+      "text": "fintech",
+      "start": 2.75,
+      "end": 3.225
+    },
+    {
+      "text": "app.",
+      "start": 3.238,
+      "end": 3.613
+    },
+    {
+      "text": "The",
+      "start": 3.988,
+      "end": 4.05
+    },
+    {
+      "text": "problem",
+      "start": 4.062,
+      "end": 4.538
+    },
+    {
+      "text": "might",
+      "start": 4.55,
+      "end": 4.8
+    },
+    {
+      "text": "not",
+      "start": 4.813,
+      "end": 5.075
+    },
+    {
+      "text": "even",
+      "start": 5.087,
+      "end": 5.325
+    },
+    {
+      "text": "be",
+      "start": 5.337,
+      "end": 5.45
+    },
+    {
+      "text": "traffic.",
+      "start": 5.462,
+      "end": 6.175
+    },
+    {
+      "text": "Meet",
+      "start": 6.804,
+      "end": 7.042
+    },
+    {
+      "text": "PAYNOVA.",
+      "start": 7.054,
+      "end": 7.705
+    },
+    {
+      "text": "A",
+      "start": 8.105,
+      "end": 8.18
+    },
+    {
+      "text": "fast-growing",
+      "start": 8.192,
+      "end": 8.892
+    },
+    {
+      "text": "fintech",
+      "start": 8.905,
+      "end": 9.405
+    },
+    {
+      "text": "startup",
+      "start": 9.417,
+      "end": 9.792
+    },
+    {
+      "text": "processing",
+      "start": 9.804,
+      "end": 10.304
+    },
+    {
+      "text": "transactions,",
+      "start": 10.317,
+      "end": 11.117
+    },
+    {
+      "text": "balances,",
+      "start": 11.604,
+      "end": 12.255
+    },
+    {
+      "text": "and",
+      "start": 12.279,
+      "end": 12.417
+    },
+    {
+      "text": "transaction",
+      "start": 12.43,
+      "end": 13.08
+    },
+    {
+      "text": "histories",
+      "start": 13.092,
+      "end": 13.617
+    },
+    {
+      "text": "for",
+      "start": 13.654,
+      "end": 13.804
+    },
+    {
+      "text": "thousands",
+      "start": 13.817,
+      "end": 14.404
+    },
+    {
+      "text": "of",
+      "start": 14.417,
+      "end": 14.505
+    },
+    {
+      "text": "active",
+      "start": 14.517,
+      "end": 14.879
+    },
+    {
+      "text": "customers.",
+      "start": 14.892,
+      "end": 15.529
+    },
+    {
+      "text": "But",
+      "start": 16.223,
+      "end": 16.41
+    },
+    {
+      "text": "one",
+      "start": 16.422,
+      "end": 16.672
+    },
+    {
+      "text": "history",
+      "start": 16.685,
+      "end": 17.06
+    },
+    {
+      "text": "query",
+      "start": 17.073,
+      "end": 17.523
+    },
+    {
+      "text": "kept",
+      "start": 17.535,
+      "end": 17.872
+    },
+    {
+      "text": "pulling",
+      "start": 17.885,
+      "end": 18.21
+    },
+    {
+      "text": "far",
+      "start": 18.222,
+      "end": 18.51
+    },
+    {
+      "text": "too",
+      "start": 18.523,
+      "end": 18.648
+    },
+    {
+      "text": "much",
+      "start": 18.66,
+      "end": 18.885
+    },
+    {
+      "text": "data.",
+      "start": 18.898,
+      "end": 19.322
+    },
+    {
+      "text": "Instead",
+      "start": 19.722,
+      "end": 20.085
+    },
+    {
+      "text": "of",
+      "start": 20.097,
+      "end": 20.198
+    },
+    {
+      "text": "an",
+      "start": 20.21,
+      "end": 20.285
+    },
+    {
+      "text": "efficient",
+      "start": 20.298,
+      "end": 20.748
+    },
+    {
+      "text": "access",
+      "start": 20.76,
+      "end": 21.147
+    },
+    {
+      "text": "path,",
+      "start": 21.16,
+      "end": 21.647
+    },
+    {
+      "text": "the",
+      "start": 21.935,
+      "end": 22.085
+    },
+    {
+      "text": "database",
+      "start": 22.097,
+      "end": 22.685
+    },
+    {
+      "text": "repeatedly",
+      "start": 22.698,
+      "end": 23.198
+    },
+    {
+      "text": "scanned",
+      "start": 23.21,
+      "end": 23.772
+    },
+    {
+      "text": "the",
+      "start": 23.785,
+      "end": 23.847
+    },
+    {
+      "text": "entire",
+      "start": 23.86,
+      "end": 24.272
+    },
+    {
+      "text": "transactions",
+      "start": 24.285,
+      "end": 24.922
+    },
+    {
+      "text": "table",
+      "start": 24.935,
+      "end": 25.298
+    },
+    {
+      "text": "for",
+      "start": 25.31,
+      "end": 25.522
+    },
+    {
+      "text": "one",
+      "start": 25.535,
+      "end": 25.747
+    },
+    {
+      "text": "user's",
+      "start": 25.76,
+      "end": 26.147
+    },
+    {
+      "text": "records.",
+      "start": 26.16,
+      "end": 26.698
+    },
+    {
+      "text": "As",
+      "start": 27.378,
+      "end": 27.553
+    },
+    {
+      "text": "traffic",
+      "start": 27.565,
+      "end": 28.04
+    },
+    {
+      "text": "increased,",
+      "start": 28.053,
+      "end": 28.716
+    },
+    {
+      "text": "that",
+      "start": 28.74,
+      "end": 29.016
+    },
+    {
+      "text": "inefficient",
+      "start": 29.04,
+      "end": 29.603
+    },
+    {
+      "text": "query",
+      "start": 29.615,
+      "end": 30.028
+    },
+    {
+      "text": "consumed",
+      "start": 30.041,
+      "end": 30.603
+    },
+    {
+      "text": "more",
+      "start": 30.615,
+      "end": 30.853
+    },
+    {
+      "text": "resources.",
+      "start": 30.865,
+      "end": 31.578
+    },
+    {
+      "text": "Requests",
+      "start": 31.978,
+      "end": 32.541
+    },
+    {
+      "text": "began",
+      "start": 32.553,
+      "end": 32.953
+    },
+    {
+      "text": "piling",
+      "start": 32.966,
+      "end": 33.39
+    },
+    {
+      "text": "up",
+      "start": 33.403,
+      "end": 33.565
+    },
+    {
+      "text": "in",
+      "start": 33.578,
+      "end": 33.69
+    },
+    {
+      "text": "queues.",
+      "start": 33.703,
+      "end": 34.253
+    },
+    {
+      "text": "The",
+      "start": 34.628,
+      "end": 34.69
+    },
+    {
+      "text": "API",
+      "start": 34.703,
+      "end": 35.216
+    },
+    {
+      "text": "slowed",
+      "start": 35.228,
+      "end": 35.616
+    },
+    {
+      "text": "down,",
+      "start": 35.628,
+      "end": 36.053
+    },
+    {
+      "text": "and",
+      "start": 36.078,
+      "end": 36.228
+    },
+    {
+      "text": "the",
+      "start": 36.241,
+      "end": 36.29
+    },
+    {
+      "text": "whole",
+      "start": 36.303,
+      "end": 36.603
+    },
+    {
+      "text": "application",
+      "start": 36.616,
+      "end": 37.278
+    },
+    {
+      "text": "felt",
+      "start": 37.29,
+      "end": 37.565
+    },
+    {
+      "text": "the",
+      "start": 37.578,
+      "end": 37.665
+    },
+    {
+      "text": "pressure.",
+      "start": 37.678,
+      "end": 38.216
+    },
+    {
+      "text": "Daniel",
+      "start": 38.869,
+      "end": 39.407
+    },
+    {
+      "text": "opened",
+      "start": 39.432,
+      "end": 39.782
+    },
+    {
+      "text": "the",
+      "start": 39.794,
+      "end": 39.844
+    },
+    {
+      "text": "execution",
+      "start": 39.857,
+      "end": 40.507
+    },
+    {
+      "text": "plan",
+      "start": 40.52,
+      "end": 40.945
+    },
+    {
+      "text": "and",
+      "start": 40.97,
+      "end": 41.132
+    },
+    {
+      "text": "found",
+      "start": 41.144,
+      "end": 41.482
+    },
+    {
+      "text": "the",
+      "start": 41.494,
+      "end": 41.557
+    },
+    {
+      "text": "real",
+      "start": 41.57,
+      "end": 41.857
+    },
+    {
+      "text": "bottleneck.",
+      "start": 41.869,
+      "end": 42.557
+    },
+    {
+      "text": "The",
+      "start": 42.957,
+      "end": 43.045
+    },
+    {
+      "text": "database",
+      "start": 43.057,
+      "end": 43.67
+    },
+    {
+      "text": "was",
+      "start": 43.682,
+      "end": 43.87
+    },
+    {
+      "text": "performing",
+      "start": 43.882,
+      "end": 44.42
+    },
+    {
+      "text": "a",
+      "start": 44.432,
+      "end": 44.519
+    },
+    {
+      "text": "full",
+      "start": 44.532,
+      "end": 44.819
+    },
+    {
+      "text": "table",
+      "start": 44.832,
+      "end": 45.144
+    },
+    {
+      "text": "scan",
+      "start": 45.157,
+      "end": 45.632
+    },
+    {
+      "text": "instead",
+      "start": 45.657,
+      "end": 46.045
+    },
+    {
+      "text": "of",
+      "start": 46.057,
+      "end": 46.157
+    },
+    {
+      "text": "an",
+      "start": 46.17,
+      "end": 46.245
+    },
+    {
+      "text": "efficient",
+      "start": 46.257,
+      "end": 46.707
+    },
+    {
+      "text": "indexed",
+      "start": 46.72,
+      "end": 47.232
+    },
+    {
+      "text": "lookup",
+      "start": 47.245,
+      "end": 47.594
+    },
+    {
+      "text": "on",
+      "start": 47.62,
+      "end": 47.745
+    },
+    {
+      "text": "the",
+      "start": 47.757,
+      "end": 47.819
+    },
+    {
+      "text": "right",
+      "start": 47.832,
+      "end": 48.069
+    },
+    {
+      "text": "columns.",
+      "start": 48.082,
+      "end": 48.632
+    },
+    {
+      "text": "The",
+      "start": 49.293,
+      "end": 49.381
+    },
+    {
+      "text": "team",
+      "start": 49.394,
+      "end": 49.718
+    },
+    {
+      "text": "optimized",
+      "start": 49.806,
+      "end": 50.406
+    },
+    {
+      "text": "the",
+      "start": 50.418,
+      "end": 50.494
+    },
+    {
+      "text": "query",
+      "start": 50.506,
+      "end": 51.006
+    },
+    {
+      "text": "and",
+      "start": 51.018,
+      "end": 51.194
+    },
+    {
+      "text": "added",
+      "start": 51.206,
+      "end": 51.494
+    },
+    {
+      "text": "an",
+      "start": 51.506,
+      "end": 51.581
+    },
+    {
+      "text": "appropriate",
+      "start": 51.594,
+      "end": 52.131
+    },
+    {
+      "text": "composite",
+      "start": 52.144,
+      "end": 52.656
+    },
+    {
+      "text": "index",
+      "start": 52.668,
+      "end": 53.056
+    },
+    {
+      "text": "based",
+      "start": 53.068,
+      "end": 53.394
+    },
+    {
+      "text": "on",
+      "start": 53.406,
+      "end": 53.481
+    },
+    {
+      "text": "the",
+      "start": 53.493,
+      "end": 53.568
+    },
+    {
+      "text": "query",
+      "start": 53.581,
+      "end": 53.931
+    },
+    {
+      "text": "pattern,",
+      "start": 53.943,
+      "end": 54.394
+    },
+    {
+      "text": "selectivity,",
+      "start": 54.894,
+      "end": 55.618
+    },
+    {
+      "text": "and",
+      "start": 55.868,
+      "end": 56.018
+    },
+    {
+      "text": "sort",
+      "start": 56.031,
+      "end": 56.294
+    },
+    {
+      "text": "order.",
+      "start": 56.306,
+      "end": 56.631
+    },
+    {
+      "text": "The",
+      "start": 57.018,
+      "end": 57.081
+    },
+    {
+      "text": "new",
+      "start": 57.094,
+      "end": 57.306
+    },
+    {
+      "text": "plan",
+      "start": 57.319,
+      "end": 57.718
+    },
+    {
+      "text": "retrieved",
+      "start": 57.731,
+      "end": 58.356
+    },
+    {
+      "text": "the",
+      "start": 58.368,
+      "end": 58.444
+    },
+    {
+      "text": "right",
+      "start": 58.456,
+      "end": 58.768
+    },
+    {
+      "text": "records",
+      "start": 58.781,
+      "end": 59.268
+    },
+    {
+      "text": "far",
+      "start": 59.281,
+      "end": 59.593
+    },
+    {
+      "text": "more",
+      "start": 59.606,
+      "end": 59.819
+    },
+    {
+      "text": "efficiently.",
+      "start": 59.831,
+      "end": 60.506
+    },
+    {
+      "text": "The",
+      "start": 61.132,
+      "end": 61.208
+    },
+    {
+      "text": "application",
+      "start": 61.22,
+      "end": 61.982
+    },
+    {
+      "text": "recovered.",
+      "start": 61.995,
+      "end": 62.695
+    },
+    {
+      "text": "But",
+      "start": 63.083,
+      "end": 63.233
+    },
+    {
+      "text": "the",
+      "start": 63.245,
+      "end": 63.32
+    },
+    {
+      "text": "real",
+      "start": 63.333,
+      "end": 63.657
+    },
+    {
+      "text": "lesson",
+      "start": 63.67,
+      "end": 64.07
+    },
+    {
+      "text": "was",
+      "start": 64.083,
+      "end": 64.295
+    },
+    {
+      "text": "bigger.",
+      "start": 64.307,
+      "end": 64.782
+    },
+    {
+      "text": "Database",
+      "start": 65.182,
+      "end": 65.708
+    },
+    {
+      "text": "performance",
+      "start": 65.72,
+      "end": 66.283
+    },
+    {
+      "text": "has",
+      "start": 66.295,
+      "end": 66.508
+    },
+    {
+      "text": "to",
+      "start": 66.52,
+      "end": 66.607
+    },
+    {
+      "text": "be",
+      "start": 66.62,
+      "end": 66.758
+    },
+    {
+      "text": "monitored,",
+      "start": 66.77,
+      "end": 67.458
+    },
+    {
+      "text": "tested,",
+      "start": 67.82,
+      "end": 68.432
+    },
+    {
+      "text": "and",
+      "start": 68.783,
+      "end": 68.982
+    },
+    {
+      "text": "designed",
+      "start": 68.995,
+      "end": 69.558
+    },
+    {
+      "text": "before",
+      "start": 69.57,
+      "end": 69.945
+    },
+    {
+      "text": "rapid",
+      "start": 69.957,
+      "end": 70.295
+    },
+    {
+      "text": "growth",
+      "start": 70.308,
+      "end": 70.745
+    },
+    {
+      "text": "exposes",
+      "start": 70.77,
+      "end": 71.433
+    },
+    {
+      "text": "the",
+      "start": 71.445,
+      "end": 71.533
+    },
+    {
+      "text": "hidden",
+      "start": 71.545,
+      "end": 71.832
+    },
+    {
+      "text": "weaknesses.",
+      "start": 71.845,
+      "end": 72.52
+    },
+    {
+      "text": "What",
+      "start": 73.189,
+      "end": 73.352
+    },
+    {
+      "text": "would",
+      "start": 73.365,
+      "end": 73.502
+    },
+    {
+      "text": "you",
+      "start": 73.514,
+      "end": 73.652
+    },
+    {
+      "text": "investigate",
+      "start": 73.664,
+      "end": 74.327
+    },
+    {
+      "text": "first:",
+      "start": 74.34,
+      "end": 74.914
+    },
+    {
+      "text": "the",
+      "start": 75.377,
+      "end": 75.527
+    },
+    {
+      "text": "database,",
+      "start": 75.54,
+      "end": 76.164
+    },
+    {
+      "text": "the",
+      "start": 76.189,
+      "end": 76.265
+    },
+    {
+      "text": "API,",
+      "start": 76.277,
+      "end": 76.914
+    },
+    {
+      "text": "or",
+      "start": 76.939,
+      "end": 77.102
+    },
+    {
+      "text": "the",
+      "start": 77.115,
+      "end": 77.19
+    },
+    {
+      "text": "queue?",
+      "start": 77.202,
+      "end": 77.577
+    }
+  ]
+}

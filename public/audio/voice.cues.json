@@ -1,0 +1,186 @@
+{
+  "source": "public/audio/voice.mp3",
+  "voice": "en-US-AndrewNeural",
+  "cues": [
+    {
+      "start": 0.104,
+      "end": 1.736,
+      "text": "Imagine it's 2028."
+    },
+    {
+      "start": 2.005,
+      "end": 4.092,
+      "text": "A startup launches with one employee."
+    },
+    {
+      "start": 4.362,
+      "end": 4.782,
+      "text": "You."
+    },
+    {
+      "start": 5.052,
+      "end": 5.746,
+      "text": "No team."
+    },
+    {
+      "start": 6.016,
+      "end": 6.827,
+      "text": "No office."
+    },
+    {
+      "start": 7.096,
+      "end": 9.34,
+      "text": "Just a laptop, a strong idea,"
+    },
+    {
+      "start": 9.492,
+      "end": 12.334,
+      "text": "and an army of AI agents working while you sleep."
+    },
+    {
+      "start": 12.617,
+      "end": 15.043,
+      "text": "They answer support tickets, write the code,"
+    },
+    {
+      "start": 15.26,
+      "end": 17.79,
+      "text": "chase invoices, and ship the updates."
+    },
+    {
+      "start": 18.073,
+      "end": 20.72,
+      "text": "By morning, your company has done a week of work."
+    },
+    {
+      "start": 20.99,
+      "end": 22.946,
+      "text": "At first, it feels like magic."
+    },
+    {
+      "start": 23.216,
+      "end": 24.613,
+      "text": "Then it feels like leverage."
+    },
+    {
+      "start": 24.896,
+      "end": 27.295,
+      "text": "One person, doing what used to take fifty."
+    },
+    {
+      "start": 27.565,
+      "end": 30.413999999999998,
+      "text": "A solo founder with a clear system can now ship"
+    },
+    {
+      "start": 30.534,
+      "end": 31.814,
+      "text": "like a team of twenty,"
+    },
+    {
+      "start": 31.979,
+      "end": 34.874,
+      "text": "and pivot before a committee finishes its first meeting."
+    },
+    {
+      "start": 35.156,
+      "end": 36.566,
+      "text": "The tools are already here."
+    },
+    {
+      "start": 36.836,
+      "end": 39.014,
+      "text": "The agents are getting better every month."
+    },
+    {
+      "start": 39.297,
+      "end": 41.267,
+      "text": "The cost of starting is collapsing."
+    },
+    {
+      "start": 41.536,
+      "end": 43.624,
+      "text": "And the old advantage, headcount,"
+    },
+    {
+      "start": 43.906,
+      "end": 45.473,
+      "text": "is becoming a liability."
+    },
+    {
+      "start": 45.755,
+      "end": 47.426,
+      "text": "That doesn't make people worthless."
+    },
+    {
+      "start": 47.695,
+      "end": 50.668,
+      "text": "It makes coordination cheap, and judgment scarce."
+    },
+    {
+      "start": 50.951,
+      "end": 53.116,
+      "text": "But here's the part nobody puts in the demo."
+    },
+    {
+      "start": 53.385,
+      "end": 55.811,
+      "text": "Automation can multiply a good decision."
+    },
+    {
+      "start": 56.081,
+      "end": 58.038,
+      "text": "It can also multiply a bad one,"
+    },
+    {
+      "start": 58.255,
+      "end": 59.991,
+      "text": "faster than anyone can catch it."
+    },
+    {
+      "start": 60.273,
+      "end": 64.431,
+      "text": "One careless prompt can become a thousand bad emails, or a headline."
+    },
+    {
+      "start": 64.701,
+      "end": 67.321,
+      "text": "So the skill that matters isn't typing prompts."
+    },
+    {
+      "start": 67.591,
+      "end": 70.551,
+      "text": "It's knowing which decisions should never be delegated."
+    },
+    {
+      "start": 70.82,
+      "end": 72.491,
+      "text": "The one-person company is coming."
+    },
+    {
+      "start": 72.773,
+      "end": 75.303,
+      "text": "The question is not whether you can run it alone."
+    },
+    {
+      "start": 75.573,
+      "end": 77.777,
+      "text": "It's whether you'll know what still needs a human."
+    },
+    {
+      "start": 78.047,
+      "end": 79.639,
+      "text": "Not because you can do everything."
+    },
+    {
+      "start": 79.909,
+      "end": 81.566,
+      "text": "Because you know what not to automate."
+    },
+    {
+      "start": 81.849,
+      "end": 83.337,
+      "text": "That's the future worth building."
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "source": "public/audio/episodes/walmart-chicken/voice.mp3",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "segments": [
+    {
+      "id": "story",
+      "start": 4.55,
+      "end": 12.058,
+      "duration": 7.508,
+      "rawDuration": 7.728,
+      "trimmedSilence": 0.22,
+      "rate": "+9%",
+      "words": 22
+    },
+    {
+      "id": "signal",
+      "start": 14.35,
+      "end": 18.71,
+      "duration": 4.36,
+      "rawDuration": 4.44,
+      "trimmedSilence": 0.08,
+      "rate": "+10%",
+      "words": 12
+    },
+    {
+      "id": "decision",
+      "start": 19.95,
+      "end": 26.746,
+      "duration": 6.796,
+      "rawDuration": 7.056,
+      "trimmedSilence": 0.26,
+      "rate": "+9%",
+      "words": 18
+    },
+    {
+      "id": "build",
+      "start": 27.55,
+      "end": 31.578,
+      "duration": 4.028,
+      "rawDuration": 4.368,
+      "trimmedSilence": 0.34,
+      "rate": "+10%",
+      "words": 11
+    },
+    {
+      "id": "flavors",
+      "start": 33.35,
+      "end": 38.386,
+      "duration": 5.036,
+      "rawDuration": 5.136,
+      "trimmedSilence": 0.1,
+      "rate": "+9%",
+      "words": 11
+    },
+    {
+      "id": "price",
+      "start": 39.95,
+      "end": 45.954,
+      "duration": 6.004,
+      "rawDuration": 6.264,
+      "trimmedSilence": 0.26,
+      "rate": "+8%",
+      "words": 16
+    },
+    {
+      "id": "drop",
+      "start": 47.35,
+      "end": 50.734,
+      "duration": 3.384,
+      "rawDuration": 3.624,
+      "trimmedSilence": 0.24,
+      "rate": "+10%",
+      "words": 7
+    },
+    {
+      "id": "charms",
+      "start": 51.15,
+      "end": 53.982,
+      "duration": 2.832,
+      "rawDuration": 2.832,
+      "trimmedSilence": 0.0,
+      "rate": "+9%",
+      "words": 7
+    },
+    {
+      "id": "viral",
+      "start": 55.1,
+      "end": 58.892,
+      "duration": 3.792,
+      "rawDuration": 3.792,
+      "trimmedSilence": 0.0,
+      "rate": "+9%",
+      "words": 12
+    },
+    {
+      "id": "after",
+      "start": 61.35,
+      "end": 66.602,
+      "duration": 5.252,
+      "rawDuration": 5.352,
+      "trimmedSilence": 0.1,
+      "rate": "+9%",
+      "words": 13
+    },
+    {
+      "id": "turn",
+      "start": 66.662,
+      "end": 69.542,
+      "duration": 2.88,
+      "rawDuration": 3.0,
+      "trimmedSilence": 0.12,
+      "rate": "+8%",
+      "words": 11
+    },
+    {
+      "id": "ending",
+      "start": 70.35,
+      "end": 76.11,
+      "duration": 5.76,
+      "rawDuration": 5.88,
+      "trimmedSilence": 0.12,
+      "rate": "+6%",
+      "words": 16
+    }
+  ],
+  "cues": [
+    {
+      "start": 4.642,
+      "end": 6.278,
+      "text": "Walmart noticed something strange."
+    },
+    {
+      "start": 6.47,
+      "end": 8.509,
+      "text": "People weren't just buying its rotisserie chicken."
+    },
+    {
+      "start": 8.71,
+      "end": 11.815,
+      "text": "They were joking about carrying the bag like a fashion accessory."
+    },
+    {
+      "start": 14.475,
+      "end": 16.495,
+      "text": "Fifteen thousand social mentions later,"
+    },
+    {
+      "start": 16.75,
+      "end": 18.472,
+      "text": "the deli bag had a fan base."
+    },
+    {
+      "start": 20.03,
+      "end": 21.449,
+      "text": "Instead of ignoring the joke,"
+    },
+    {
+      "start": 21.567,
+      "end": 22.688,
+      "text": "the brand made it real."
+    },
+    {
+      "start": 22.85,
+      "end": 26.51,
+      "text": "A chicken-shaped purse. Complete with the packaging-inspired design."
+    },
+    {
+      "start": 27.641,
+      "end": 30.151,
+      "text": "Same type. Same colors. Same chicken."
+    },
+    {
+      "start": 30.37,
+      "end": 31.344,
+      "text": "Then they added a strap."
+    },
+    {
+      "start": 33.442,
+      "end": 36.134,
+      "text": "Two flavors: Traditional, with purple trim."
+    },
+    {
+      "start": 36.35,
+      "end": 38.155,
+      "text": "And Lemon Pepper, in orange."
+    },
+    {
+      "start": 40.043,
+      "end": 42.352,
+      "text": "And the price? Just five ninety-seven."
+    },
+    {
+      "start": 42.55,
+      "end": 45.75,
+      "text": "The same price as the rotisserie chicken that inspired it."
+    },
+    {
+      "start": 47.52,
+      "end": 48.82,
+      "text": "Five thousand purses."
+    },
+    {
+      "start": 48.91,
+      "end": 50.55,
+      "text": "One drop. September first."
+    },
+    {
+      "start": 51.242,
+      "end": 53.727,
+      "text": "Plus matching bag charms, because of course."
+    },
+    {
+      "start": 55.192,
+      "end": 58.652,
+      "text": "When it launched online, the purse sold out in just ninety minutes."
+    },
+    {
+      "start": 61.442,
+      "end": 62.677,
+      "text": "A second drop followed."
+    },
+    {
+      "start": 62.89,
+      "end": 66.361,
+      "text": "Resale listings climbed to several times the original price."
+    },
+    {
+      "start": 66.766,
+      "end": 67.954,
+      "text": "The joke had become merch."
+    },
+    {
+      "start": 68.162,
+      "end": 69.304,
+      "text": "The merch had become a moment."
+    },
+    {
+      "start": 70.456,
+      "end": 73.752,
+      "text": "Sometimes, your next big product isn't hiding in a boardroom."
+    },
+    {
+      "start": 73.95,
+      "end": 75.861,
+      "text": "It's hiding inside a customer joke."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "episode": "voice-profile-demo",
+  "slug": "voice-profile-demo",
+  "generatedAt": "2026-11-06T05:01:01.341Z",
+  "audioDurationSeconds": 70.81,
+  "videoDurationSeconds": 76,
+  "brandStartSeconds": 72.01,
+  "sceneCount": 7,
+  "warnings": [],
+  "notes": [
+    "Scene visuals expand to the generated audio; audio is never time-stretched to hit a target.",
+    "Narration, music and SFX remain separate Remotion audio layers."
+  ]
+}

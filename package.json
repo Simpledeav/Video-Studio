@@ -1,0 +1,45 @@
+{
+  "name": "simpledeav-studio-v2",
+  "version": "2.0.0",
+  "description": "Simpledeav Studio v2 — well-structured Remotion studio with memory, presets, voice library and per-video writing records",
+  "repository": {},
+  "license": "UNLICENSED",
+  "engines": {
+    "node": "^20.19.0 || ^22.13.0 || >=24"
+  },
+  "private": true,
+  "dependencies": {
+    "@remotion/cli": "4.0.539",
+    "@remotion/media": "4.0.539",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.539",
+    "zod": "^4.5.4"
+  },
+  "devDependencies": {
+    "@remotion/eslint-config-flat": "4.0.539",
+    "@types/react": "19.2.7",
+    "@types/web": "0.0.166",
+    "eslint": "10.12.0",
+    "prettier": "3.8.1",
+    "typescript": "5.9.3"
+  },
+  "scripts": {
+    "dev": "remotion studio",
+    "build": "remotion bundle",
+    "lint": "eslint src && tsc",
+    "typecheck": "tsc",
+    "validate": "node scripts/validate-episode.mjs --episode content/demo-episode.json && node scripts/validate-episode.mjs --episode content/episode-ai-agent-guardrails.json && node scripts/validate-episode.mjs --episode content/episode-lego-turnaround.json && node scripts/validate-airbnb-episode.mjs && node scripts/validate-defaults.mjs",
+    "check": "npm run lint && npm run validate",
+    "upgrade": "remotion upgrade",
+    "validate-defaults": "node scripts/validate-defaults.mjs",
+    "check:coinbase": "node scripts/check-coinbase.mjs",
+    "check:memory": "node scripts/validate-memory.mjs",
+    "new:video": "node scripts/new-video.mjs",
+    "voice:lookup": "node scripts/voice-lookup.mjs",
+    "voice:say": "python3 scripts/voice-say.py"
+  },
+  "allowScripts": {
+    "esbuild": false
+  }
+}

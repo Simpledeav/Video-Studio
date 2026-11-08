@@ -1,0 +1,908 @@
+{
+  "voice": "en-US-AndrewMultilingualNeural",
+  "leadInSeconds": 0.0,
+  "segments": [
+    {
+      "id": "story",
+      "start": 4.55,
+      "end": 12.058,
+      "duration": 7.508,
+      "rawDuration": 7.728,
+      "trimmedSilence": 0.22,
+      "rate": "+9%",
+      "words": 22
+    },
+    {
+      "id": "signal",
+      "start": 14.35,
+      "end": 18.71,
+      "duration": 4.36,
+      "rawDuration": 4.44,
+      "trimmedSilence": 0.08,
+      "rate": "+10%",
+      "words": 12
+    },
+    {
+      "id": "decision",
+      "start": 19.95,
+      "end": 26.746,
+      "duration": 6.796,
+      "rawDuration": 7.056,
+      "trimmedSilence": 0.26,
+      "rate": "+9%",
+      "words": 18
+    },
+    {
+      "id": "build",
+      "start": 27.55,
+      "end": 31.578,
+      "duration": 4.028,
+      "rawDuration": 4.368,
+      "trimmedSilence": 0.34,
+      "rate": "+10%",
+      "words": 11
+    },
+    {
+      "id": "flavors",
+      "start": 33.35,
+      "end": 38.386,
+      "duration": 5.036,
+      "rawDuration": 5.136,
+      "trimmedSilence": 0.1,
+      "rate": "+9%",
+      "words": 11
+    },
+    {
+      "id": "price",
+      "start": 39.95,
+      "end": 45.954,
+      "duration": 6.004,
+      "rawDuration": 6.264,
+      "trimmedSilence": 0.26,
+      "rate": "+8%",
+      "words": 16
+    },
+    {
+      "id": "drop",
+      "start": 47.35,
+      "end": 50.734,
+      "duration": 3.384,
+      "rawDuration": 3.624,
+      "trimmedSilence": 0.24,
+      "rate": "+10%",
+      "words": 7
+    },
+    {
+      "id": "charms",
+      "start": 51.15,
+      "end": 53.982,
+      "duration": 2.832,
+      "rawDuration": 2.832,
+      "trimmedSilence": 0.0,
+      "rate": "+9%",
+      "words": 7
+    },
+    {
+      "id": "viral",
+      "start": 55.1,
+      "end": 58.892,
+      "duration": 3.792,
+      "rawDuration": 3.792,
+      "trimmedSilence": 0.0,
+      "rate": "+9%",
+      "words": 12
+    },
+    {
+      "id": "after",
+      "start": 61.35,
+      "end": 66.602,
+      "duration": 5.252,
+      "rawDuration": 5.352,
+      "trimmedSilence": 0.1,
+      "rate": "+9%",
+      "words": 13
+    },
+    {
+      "id": "turn",
+      "start": 66.662,
+      "end": 69.542,
+      "duration": 2.88,
+      "rawDuration": 3.0,
+      "trimmedSilence": 0.12,
+      "rate": "+8%",
+      "words": 11
+    },
+    {
+      "id": "ending",
+      "start": 70.35,
+      "end": 76.11,
+      "duration": 5.76,
+      "rawDuration": 5.88,
+      "trimmedSilence": 0.12,
+      "rate": "+6%",
+      "words": 16
+    }
+  ],
+  "words": [
+    {
+      "text": "Walmart",
+      "start": 4.642,
+      "end": 4.986
+    },
+    {
+      "text": "noticed",
+      "start": 4.997,
+      "end": 5.295
+    },
+    {
+      "text": "something",
+      "start": 5.295,
+      "end": 5.559
+    },
+    {
+      "text": "strange.",
+      "start": 5.571,
+      "end": 6.178
+    },
+    {
+      "text": "People",
+      "start": 6.47,
+      "end": 6.655
+    },
+    {
+      "text": "weren't",
+      "start": 6.655,
+      "end": 6.861
+    },
+    {
+      "text": "just",
+      "start": 6.861,
+      "end": 7.045
+    },
+    {
+      "text": "buying",
+      "start": 7.045,
+      "end": 7.308
+    },
+    {
+      "text": "its",
+      "start": 7.32,
+      "end": 7.423
+    },
+    {
+      "text": "rotisserie",
+      "start": 7.435,
+      "end": 8.031
+    },
+    {
+      "text": "chicken.",
+      "start": 8.042,
+      "end": 8.409
+    },
+    {
+      "text": "They",
+      "start": 8.71,
+      "end": 8.722
+    },
+    {
+      "text": "were",
+      "start": 8.722,
+      "end": 8.802
+    },
+    {
+      "text": "joking",
+      "start": 8.802,
+      "end": 9.146
+    },
+    {
+      "text": "about",
+      "start": 9.146,
+      "end": 9.376
+    },
+    {
+      "text": "carrying",
+      "start": 9.376,
+      "end": 9.835
+    },
+    {
+      "text": "the",
+      "start": 9.835,
+      "end": 9.903
+    },
+    {
+      "text": "bag",
+      "start": 9.903,
+      "end": 10.339
+    },
+    {
+      "text": "like",
+      "start": 10.351,
+      "end": 10.5
+    },
+    {
+      "text": "a",
+      "start": 10.511,
+      "end": 10.546
+    },
+    {
+      "text": "fashion",
+      "start": 10.546,
+      "end": 11.073
+    },
+    {
+      "text": "accessory.",
+      "start": 11.073,
+      "end": 11.715
+    },
+    {
+      "text": "Fifteen",
+      "start": 14.475,
+      "end": 14.884
+    },
+    {
+      "text": "thousand",
+      "start": 14.895,
+      "end": 15.384
+    },
+    {
+      "text": "social",
+      "start": 15.384,
+      "end": 15.725
+    },
+    {
+      "text": "mentions",
+      "start": 15.725,
+      "end": 16.066
+    },
+    {
+      "text": "later,",
+      "start": 16.077,
+      "end": 16.395
+    },
+    {
+      "text": "the",
+      "start": 16.75,
+      "end": 16.781
+    },
+    {
+      "text": "deli",
+      "start": 16.793,
+      "end": 17.043
+    },
+    {
+      "text": "bag",
+      "start": 17.043,
+      "end": 17.361
+    },
+    {
+      "text": "had",
+      "start": 17.361,
+      "end": 17.486
+    },
+    {
+      "text": "a",
+      "start": 17.486,
+      "end": 17.52
+    },
+    {
+      "text": "fan",
+      "start": 17.531,
+      "end": 17.872
+    },
+    {
+      "text": "base.",
+      "start": 17.884,
+      "end": 18.372
+    },
+    {
+      "text": "Instead",
+      "start": 20.03,
+      "end": 20.351
+    },
+    {
+      "text": "of",
+      "start": 20.351,
+      "end": 20.409
+    },
+    {
+      "text": "ignoring",
+      "start": 20.409,
+      "end": 20.867
+    },
+    {
+      "text": "the",
+      "start": 20.867,
+      "end": 20.936
+    },
+    {
+      "text": "joke,",
+      "start": 20.936,
+      "end": 21.349
+    },
+    {
+      "text": "the",
+      "start": 21.567,
+      "end": 21.647
+    },
+    {
+      "text": "brand",
+      "start": 21.647,
+      "end": 21.991
+    },
+    {
+      "text": "made",
+      "start": 21.991,
+      "end": 22.14
+    },
+    {
+      "text": "it",
+      "start": 22.152,
+      "end": 22.244
+    },
+    {
+      "text": "real.",
+      "start": 22.255,
+      "end": 22.588
+    },
+    {
+      "text": "A",
+      "start": 22.85,
+      "end": 22.86
+    },
+    {
+      "text": "chicken-shaped",
+      "start": 22.872,
+      "end": 23.422
+    },
+    {
+      "text": "purse.",
+      "start": 23.422,
+      "end": 23.984
+    },
+    {
+      "text": "Complete",
+      "start": 24.27,
+      "end": 24.679
+    },
+    {
+      "text": "with",
+      "start": 24.69,
+      "end": 24.805
+    },
+    {
+      "text": "the",
+      "start": 24.816,
+      "end": 24.908
+    },
+    {
+      "text": "packaging-inspired",
+      "start": 24.919,
+      "end": 25.986
+    },
+    {
+      "text": "design.",
+      "start": 25.997,
+      "end": 26.41
+    },
+    {
+      "text": "Same",
+      "start": 27.641,
+      "end": 27.857
+    },
+    {
+      "text": "type.",
+      "start": 27.868,
+      "end": 28.164
+    },
+    {
+      "text": "Same",
+      "start": 28.43,
+      "end": 28.649
+    },
+    {
+      "text": "colors.",
+      "start": 28.649,
+      "end": 29.16
+    },
+    {
+      "text": "Same",
+      "start": 29.45,
+      "end": 29.688
+    },
+    {
+      "text": "chicken.",
+      "start": 29.699,
+      "end": 30.051
+    },
+    {
+      "text": "Then",
+      "start": 30.37,
+      "end": 30.415
+    },
+    {
+      "text": "they",
+      "start": 30.426,
+      "end": 30.505
+    },
+    {
+      "text": "added",
+      "start": 30.517,
+      "end": 30.721
+    },
+    {
+      "text": "a",
+      "start": 30.721,
+      "end": 30.755
+    },
+    {
+      "text": "strap.",
+      "start": 30.755,
+      "end": 31.244
+    },
+    {
+      "text": "Two",
+      "start": 33.442,
+      "end": 33.614
+    },
+    {
+      "text": "flavors:",
+      "start": 33.614,
+      "end": 34.256
+    },
+    {
+      "text": "Traditional,",
+      "start": 34.451,
+      "end": 35.013
+    },
+    {
+      "text": "with",
+      "start": 35.219,
+      "end": 35.334
+    },
+    {
+      "text": "purple",
+      "start": 35.345,
+      "end": 35.678
+    },
+    {
+      "text": "trim.",
+      "start": 35.678,
+      "end": 36.034
+    },
+    {
+      "text": "And",
+      "start": 36.35,
+      "end": 36.415
+    },
+    {
+      "text": "Lemon",
+      "start": 36.427,
+      "end": 36.667
+    },
+    {
+      "text": "Pepper,",
+      "start": 36.679,
+      "end": 37.092
+    },
+    {
+      "text": "in",
+      "start": 37.298,
+      "end": 37.447
+    },
+    {
+      "text": "orange.",
+      "start": 37.459,
+      "end": 38.055
+    },
+    {
+      "text": "And",
+      "start": 40.043,
+      "end": 40.089
+    },
+    {
+      "text": "the",
+      "start": 40.089,
+      "end": 40.135
+    },
+    {
+      "text": "price?",
+      "start": 40.135,
+      "end": 40.679
+    },
+    {
+      "text": "Just",
+      "start": 40.95,
+      "end": 41.118
+    },
+    {
+      "text": "five",
+      "start": 41.129,
+      "end": 41.523
+    },
+    {
+      "text": "ninety-seven.",
+      "start": 41.592,
+      "end": 42.252
+    },
+    {
+      "text": "The",
+      "start": 42.55,
+      "end": 42.56
+    },
+    {
+      "text": "same",
+      "start": 42.56,
+      "end": 42.838
+    },
+    {
+      "text": "price",
+      "start": 42.838,
+      "end": 43.359
+    },
+    {
+      "text": "as",
+      "start": 43.428,
+      "end": 43.533
+    },
+    {
+      "text": "the",
+      "start": 43.533,
+      "end": 43.602
+    },
+    {
+      "text": "rotisserie",
+      "start": 43.602,
+      "end": 44.204
+    },
+    {
+      "text": "chicken",
+      "start": 44.215,
+      "end": 44.644
+    },
+    {
+      "text": "that",
+      "start": 44.806,
+      "end": 44.933
+    },
+    {
+      "text": "inspired",
+      "start": 44.933,
+      "end": 45.442
+    },
+    {
+      "text": "it.",
+      "start": 45.442,
+      "end": 45.616
+    },
+    {
+      "text": "Five",
+      "start": 47.52,
+      "end": 47.702
+    },
+    {
+      "text": "thousand",
+      "start": 47.702,
+      "end": 48.043
+    },
+    {
+      "text": "purses.",
+      "start": 48.055,
+      "end": 48.611
+    },
+    {
+      "text": "One",
+      "start": 48.91,
+      "end": 49.011
+    },
+    {
+      "text": "drop.",
+      "start": 49.011,
+      "end": 49.33
+    },
+    {
+      "text": "September",
+      "start": 49.59,
+      "end": 49.928
+    },
+    {
+      "text": "first.",
+      "start": 49.928,
+      "end": 50.394
+    },
+    {
+      "text": "Plus",
+      "start": 51.242,
+      "end": 51.494
+    },
+    {
+      "text": "matching",
+      "start": 51.505,
+      "end": 51.872
+    },
+    {
+      "text": "bag",
+      "start": 51.872,
+      "end": 52.136
+    },
+    {
+      "text": "charms,",
+      "start": 52.136,
+      "end": 52.664
+    },
+    {
+      "text": "because",
+      "start": 52.79,
+      "end": 53.065
+    },
+    {
+      "text": "of",
+      "start": 53.077,
+      "end": 53.134
+    },
+    {
+      "text": "course.",
+      "start": 53.134,
+      "end": 53.627
+    },
+    {
+      "text": "When",
+      "start": 55.192,
+      "end": 55.261
+    },
+    {
+      "text": "it",
+      "start": 55.272,
+      "end": 55.352
+    },
+    {
+      "text": "launched",
+      "start": 55.352,
+      "end": 55.696
+    },
+    {
+      "text": "online,",
+      "start": 55.696,
+      "end": 56.235
+    },
+    {
+      "text": "the",
+      "start": 56.499,
+      "end": 56.602
+    },
+    {
+      "text": "purse",
+      "start": 56.614,
+      "end": 56.866
+    },
+    {
+      "text": "sold",
+      "start": 56.866,
+      "end": 57.13
+    },
+    {
+      "text": "out",
+      "start": 57.13,
+      "end": 57.348
+    },
+    {
+      "text": "in",
+      "start": 57.359,
+      "end": 57.474
+    },
+    {
+      "text": "just",
+      "start": 57.474,
+      "end": 57.738
+    },
+    {
+      "text": "ninety",
+      "start": 57.749,
+      "end": 58.036
+    },
+    {
+      "text": "minutes.",
+      "start": 58.047,
+      "end": 58.552
+    },
+    {
+      "text": "A",
+      "start": 61.442,
+      "end": 61.488
+    },
+    {
+      "text": "second",
+      "start": 61.499,
+      "end": 61.855
+    },
+    {
+      "text": "drop",
+      "start": 61.855,
+      "end": 62.095
+    },
+    {
+      "text": "followed.",
+      "start": 62.107,
+      "end": 62.577
+    },
+    {
+      "text": "Resale",
+      "start": 62.89,
+      "end": 63.28
+    },
+    {
+      "text": "listings",
+      "start": 63.28,
+      "end": 63.716
+    },
+    {
+      "text": "climbed",
+      "start": 63.727,
+      "end": 64.22
+    },
+    {
+      "text": "to",
+      "start": 64.323,
+      "end": 64.392
+    },
+    {
+      "text": "several",
+      "start": 64.392,
+      "end": 64.839
+    },
+    {
+      "text": "times",
+      "start": 64.839,
+      "end": 65.298
+    },
+    {
+      "text": "the",
+      "start": 65.298,
+      "end": 65.367
+    },
+    {
+      "text": "original",
+      "start": 65.367,
+      "end": 65.711
+    },
+    {
+      "text": "price.",
+      "start": 65.711,
+      "end": 66.261
+    },
+    {
+      "text": "The",
+      "start": 66.766,
+      "end": 66.812
+    },
+    {
+      "text": "joke",
+      "start": 66.812,
+      "end": 67.044
+    },
+    {
+      "text": "had",
+      "start": 67.044,
+      "end": 67.125
+    },
+    {
+      "text": "become",
+      "start": 67.137,
+      "end": 67.426
+    },
+    {
+      "text": "merch.",
+      "start": 67.426,
+      "end": 67.854
+    },
+    {
+      "text": "The",
+      "start": 68.162,
+      "end": 68.174
+    },
+    {
+      "text": "merch",
+      "start": 68.174,
+      "end": 68.429
+    },
+    {
+      "text": "had",
+      "start": 68.429,
+      "end": 68.521
+    },
+    {
+      "text": "become",
+      "start": 68.521,
+      "end": 68.741
+    },
+    {
+      "text": "a",
+      "start": 68.741,
+      "end": 68.764
+    },
+    {
+      "text": "moment.",
+      "start": 68.776,
+      "end": 69.204
+    },
+    {
+      "text": "Sometimes,",
+      "start": 70.456,
+      "end": 71.046
+    },
+    {
+      "text": "your",
+      "start": 71.081,
+      "end": 71.175
+    },
+    {
+      "text": "next",
+      "start": 71.187,
+      "end": 71.482
+    },
+    {
+      "text": "big",
+      "start": 71.482,
+      "end": 71.647
+    },
+    {
+      "text": "product",
+      "start": 71.659,
+      "end": 72.107
+    },
+    {
+      "text": "isn't",
+      "start": 72.355,
+      "end": 72.602
+    },
+    {
+      "text": "hiding",
+      "start": 72.602,
+      "end": 73.062
+    },
+    {
+      "text": "in",
+      "start": 73.062,
+      "end": 73.121
+    },
+    {
+      "text": "a",
+      "start": 73.133,
+      "end": 73.168
+    },
+    {
+      "text": "boardroom.",
+      "start": 73.168,
+      "end": 73.652
+    },
+    {
+      "text": "It's",
+      "start": 73.95,
+      "end": 73.98
+    },
+    {
+      "text": "hiding",
+      "start": 73.98,
+      "end": 74.31
+    },
+    {
+      "text": "inside",
+      "start": 74.31,
+      "end": 74.876
+    },
+    {
+      "text": "a",
+      "start": 74.888,
+      "end": 74.935
+    },
+    {
+      "text": "customer",
+      "start": 74.947,
+      "end": 75.348
+    },
+    {
+      "text": "joke.",
+      "start": 75.348,
+      "end": 75.761
+    }
+  ]
+}

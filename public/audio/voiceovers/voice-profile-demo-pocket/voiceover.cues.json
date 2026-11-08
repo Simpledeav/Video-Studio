@@ -1,0 +1,86 @@
+{
+  "schemaVersion": "1.0.0",
+  "slug": "voice-profile-demo-pocket",
+  "cues": [
+    {
+      "start": 0.25,
+      "end": 4.41,
+      "text": "In Lagos, two software developers kept hearing the same complaint from small businesses."
+    },
+    {
+      "start": 5.112,
+      "end": 6.932,
+      "text": "Taking payments online was slow,"
+    },
+    {
+      "start": 7.212,
+      "end": 10.032,
+      "text": "expensive, and built for companies much larger than theirs."
+    },
+    {
+      "start": 10.698,
+      "end": 12.858,
+      "text": "So they built a simpler checkout."
+    },
+    {
+      "start": 13.318,
+      "end": 15.098,
+      "text": "One integration, one dashboard,"
+    },
+    {
+      "start": 15.398,
+      "end": 17.418,
+      "text": "and money that arrived where it was needed."
+    },
+    {
+      "start": 18.038,
+      "end": 19.218,
+      "text": "The market was crowded."
+    },
+    {
+      "start": 19.798,
+      "end": 20.778,
+      "text": "Trust was scarce."
+    },
+    {
+      "start": 21.198,
+      "end": 23.738,
+      "text": "And every merchant wanted proof before switching."
+    },
+    {
+      "start": 24.396,
+      "end": 25.436,
+      "text": "Then the numbers moved."
+    },
+    {
+      "start": 26.136,
+      "end": 27.956,
+      "text": "Developers adopted it, investors noticed,"
+    },
+    {
+      "start": 28.456,
+      "end": 32.256,
+      "text": "and in 2020 Stripe acquired Paystack for about two hundred million dollars."
+    },
+    {
+      "start": 33.243,
+      "end": 35.723,
+      "text": "The lesson is not that payments are glamorous."
+    },
+    {
+      "start": 36.123,
+      "end": 36.843,
+      "text": "It is that a clear,"
+    },
+    {
+      "start": 36.903,
+      "end": 39.903,
+      "text": "useful tool can travel farther than a loud idea."
+    },
+    {
+      "start": 40.55,
+      "end": 44.57,
+      "text": "Small problems, solved properly, can build something the whole world uses."
+    }
+  ]
+}

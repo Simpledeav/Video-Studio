@@ -1,0 +1,233 @@
+{
+  "id": "walmart",
+  "name": "Walmart — Editorial Pop",
+  "version": "1.0.0",
+  "derivedFrom": "Walmart — The Chicken Purse That Sold Out in 90 Minutes (2026)",
+  "summary": "Premium hybrid of business documentary and viral retail commercial. Huge Poppins display on saturated Walmart blue, clean white product cards, price tags, receipts, sold-out stamps, halftone and grain, hard-cut kinetic editing with mask reveals and yellow highlighter emphasis.",
+  "format": {
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "aspect": "9:16"
+    },
+    "fps": 30,
+    "durationSeconds": 80,
+    "durationFrames": 2400,
+    "safe": {
+      "sideMargin": 68,
+      "top": 90,
+      "bottom": 90
+    },
+    "captionBox": {
+      "bottom": 168,
+      "maxWidth": 930,
+      "fontSize": 30,
+      "radius": 10
+    }
+  },
+  "palette": {
+    "roles": {
+      "primary": "#0071DC",
+      "primaryDeep": "#003B8E",
+      "ink": "#041E42",
+      "night": "#02132B",
+      "secondary": "#FFC220",
+      "secondarySoft": "#FFE08A",
+      "accent": "#E07A2F",
+      "accentDeep": "#B4531F",
+      "support": "#4B2A8A",
+      "supportLight": "#7B5BB8",
+      "paper": "#FFF8EC",
+      "paper2": "#F6EBD8",
+      "white": "#FFFFFF",
+      "danger": "#E23B2E",
+      "success": "#2E9E6B"
+    },
+    "usage": {
+      "blue": "Primary stage, Walmart/retail brand moments, product UI.",
+      "yellow": "Price, emphasis, highlighter blocks, CTA, key numbers.",
+      "orange": "Food, heat, energy, viral moments, secondary cards.",
+      "purple": "Traditional flavor trim, fashion, premium counterpoint.",
+      "cream": "Editorial pause, paper cards, receipts, comparison stage.",
+      "red": "Sold out, scarcity, urgency. Use once per film."
+    },
+    "maxAccentsPerFrame": 2,
+    "gradients": {
+      "blue": "linear-gradient(156deg, #0A57B8 0%, #0071DC 36%, #003B8E 76%, #00245C 100%)",
+      "cream": "linear-gradient(156deg, #FFFDF7 0%, #FFF8EC 48%, #EFDFC2 100%)",
+      "orange": "linear-gradient(156deg, #F19A45 0%, #E07A2F 44%, #B4531F 100%)",
+      "purple": "linear-gradient(156deg, #6E4BB0 0%, #4B2A8A 48%, #2A1454 100%)",
+      "night": "linear-gradient(156deg, #082D63 0%, #041E42 48%, #02132B 100%)"
+    }
+  },
+  "typography": {
+    "family": "Poppins",
+    "fallback": "SF Pro Display, SF Pro Text, -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif",
+    "displayWeights": [
+      700,
+      800
+    ],
+    "labelWeights": [
+      600,
+      700
+    ],
+    "case": "UPPERCASE for display and labels, sentence case for captions and body",
+    "tracking": {
+      "display": "-0.045em to -0.075em",
+      "label": "0.12em to 0.26em"
+    },
+    "scale": {
+      "hook": 150,
+      "actHeadline": "78-150",
+      "body": "17-31",
+      "label": "9-16",
+      "price": "190-260"
+    },
+    "maxSizesPerScene": 3,
+    "highlighter": "yellow block behind one word or one line, dark ink text, 8-12px radius",
+    "shadow": "drop-shadow(0 5px 24px rgba(0,0,0,0.28))"
+  },
+  "components": {
+    "stage": "Full-bleed gradient + two radial glows + halftone dots + film grain + vignette.",
+    "photo": "Ken Burns still, 1.02-1.26 scale, warm/vivid grade, bottom color wash.",
+    "photoCard": "White 4-8px border, 16-22px radius, hard shadow, optional cream label chip.",
+    "maskLine": "Display line rises inside an overflow mask, 0.55-0.75s, easeOut.",
+    "headline": "2-4 uppercase lines, last line may sit on a yellow highlighter block.",
+    "tag": "Small glass chip, uppercase Poppins 700, 10-14px, 0.16em tracking.",
+    "priceTag": "Oversized yellow hang tag, 3D rotateY entry, blue WALMART chip, punched hole.",
+    "stamp": "Double-outline rubber stamp, rotated -9deg, slams from 2.4x scale.",
+    "receipt": "Cream thermal receipt with torn edge clip-path, barcode, item rows.",
+    "commentCard": "White social card, avatar disc, handle, large sentence, engagement row.",
+    "phoneUI": "Product page card, stock bar, countdown, ADD TO CART, sold-out state.",
+    "sketch": "Blueprint line drawing with animated stroke-dashoffset and callouts.",
+    "confetti": "46 paper rectangles, seeded positions, 1.6s fall.",
+    "atmosphere": "Grain 0.055-0.08, halftone 0.22-0.28, vignette 0.9, soft sweeps."
+  },
+  "motion": {
+    "easing": {
+      "easeOut": "cubic-bezier(0.16, 1, 0.3, 1)",
+      "easeInOut": "cubic-bezier(0.65, 0, 0.35, 1)",
+      "easeIn": "cubic-bezier(0.55, 0, 1, 0.45)",
+      "snap": "cubic-bezier(0.2, 0.9, 0.24, 1.16)"
+    },
+    "beatLengthSeconds": "2-4",
+    "transitions": [
+      "hard cut with a 0.1-0.3s yellow or blue flash mask",
+      "whip-pan slide (-112% to 0)",
+      "mask-line rise",
+      "product card slam from 0.9x to 1x with 26px rise",
+      "stamp slam from 2.4x to 1x",
+      "vertical panel slide for full-screen statements"
+    ],
+    "camera": "slow 2-8% push or pull on every still; never a static frame for more than 4s",
+    "holds": "end every scene on a 0.4-0.8s held frame before the cut"
+  },
+  "sceneSpine": {
+    "hook": {
+      "seconds": "0-5",
+      "job": "Impossible product claim, product slam, record scratch, cluck."
+    },
+    "story": {
+      "seconds": "5-20",
+      "job": "Real context, social-listening interface, countable proof."
+    },
+    "build": {
+      "seconds": "20-40",
+      "job": "Idea, packaging spec, sketch, material, product reveal."
+    },
+    "price": {
+      "seconds": "40-55",
+      "job": "Price tag, grounded comparison, receipt, unit count, accessories."
+    },
+    "viral": {
+      "seconds": "55-70",
+      "job": "Launch UI, countdown, sold-out stamp, resale consequence."
+    },
+    "ending": {
+      "seconds": "70-80",
+      "job": "Product hero, customer-joke insight, lesson card, CTA."
+    }
+  },
+  "sound": {
+    "music": "Energetic funk-pop bed, -19 LUFS before mix, 2.6kHz speech carve, duck 54% under narration.",
+    "voice": "Deep confident documentary voice; keep SD_VOICE_03 unless the brief names another.",
+    "sfx": [
+      "record scratch",
+      "chicken cluck",
+      "cash register / coins",
+      "receipt print",
+      "camera shutter",
+      "whoosh and riser",
+      "crowd laugh and cheer",
+      "UI pop and click",
+      "brand sting"
+    ],
+    "mix": "Voice 0.92, music 0.16-0.24 linear, SFX global 0.7, no two impacts within 0.12s."
+  },
+  "rules": {
+    "do": [
+      "Use one idea per scene.",
+      "Let the headline be the first thing the eye finds.",
+      "Use official product photography and real brand marks for editorial case studies.",
+      "Label any reconstructed social feed or illustrative UI.",
+      "Keep every number traceable to a named source.",
+      "Keep captions simple, bottom-anchored, 1-2 lines.",
+      "Animate the product, not the frame: cards, tags, stamps and receipts."
+    ],
+    "dont": [
+      "No progress bars, scene numbers, top labels or bottom title bars.",
+      "No fake statistics, fake executive quotes or invented dialogue.",
+      "No generic stock footage repeated across beats.",
+      "No more than two accent colors in one frame.",
+      "No rainbow gradients or soft corporate blur.",
+      "No caption over a bottom-anchored chip; keep scene content above the caption band."
+    ]
+  },
+  "code": {
+    "tokens": "src/config/presets/editorialPop.ts",
+    "kit": "src/components/presets/editorialPop/kit.tsx",
+    "referenceFilm": "src/compositions/WalmartChickenCaseStudy.tsx",
+    "referenceScenes": "src/components/walmartchicken/scenes/",
+    "usage": "import { C, FONT, BRAND, useStage, STAGE } from './config/presets/editorialPop'; import { Stage, Headline, PhotoCard, MaskLine, Tag, PriceTag, Stamp, Receipt, CommentCard } from './components/presets/editorialPop/kit';"
+  },
+  "aliases": [
+    "editorial-pop",
+    "editorial pop",
+    "walmart",
+    "walmart-chicken"
+  ],
+  "status": "approved",
+  "role": "alternate preset",
+  "updated": "2026-11-08",
+  "useWhen": "Use when the brief wants bright retail colour, viral product storytelling, price/receipt proof, sold-out urgency, or a Walmart/retail case study. For serious incident/lesson films, use the house preset instead.",
+  "voice": {
+    "default": "SD_VOICE_03",
+    "alternate": "SD_VOICE_09",
+    "gain": 0.92,
+    "note": "Keep SD_VOICE_03 unless the brief names SD_VOICE_09."
+  },
+  "formats": {
+    "vertical": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "aspect": "9:16"
+    },
+    "horizontal": {
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "aspect": "16:9",
+      "note": "Recompose; never crop the vertical."
+    },
+    "cover": {
+      "width": 1080,
+      "height": 1350,
+      "fps": 30,
+      "durationInFrames": 1,
+      "aspect": "4:5"
+    }
+  },
+  "memoryPath": "memory/presets/walmart/style.json",
+  "derivedFromFilm": "Walmart — The Chicken Purse That Sold Out in 90 Minutes (2026)"
+}

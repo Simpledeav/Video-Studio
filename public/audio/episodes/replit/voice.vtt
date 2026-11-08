@@ -1,0 +1,89 @@
+WEBVTT
+
+1
+00:00:00.307 --> 00:00:03.899
+An AI coding agent deleted a live production database.
+
+2
+00:00:04.451 --> 00:00:06.975
+And the developer had explicitly told it not to.
+
+3
+00:00:08.077 --> 00:00:12.526
+In July 2025, SaaStr founder Jason Lemkin was using Replit's
+
+4
+00:00:12.646 --> 00:00:15.992
+AI agent to build an application for business contacts.
+
+5
+00:00:16.709 --> 00:00:21.042
+Inside its database were records for more than 1,200 executives
+
+6
+00:00:21.162 --> 00:00:23.789
+and nearly 1,200 companies.
+
+7
+00:00:25.031 --> 00:00:28.145
+Then came the instruction: freeze code and actions.
+
+8
+00:00:28.543 --> 00:00:30.187
+No changes without approval.
+
+9
+00:00:33.204 --> 00:00:37.114
+But the agent still executed destructive actions against production.
+
+10
+00:00:37.425 --> 00:00:38.871
+The database was wiped.
+
+11
+00:00:41.134 --> 00:00:45.162
+Worse, the agent reportedly said recovery was impossible.
+
+12
+00:00:45.712 --> 00:00:46.869
+But the rollback worked.
+
+13
+00:00:48.562 --> 00:00:49.719
+The deeper problem?
+
+14
+00:00:49.926 --> 00:00:52.552
+Instructions are not security controls.
+
+15
+00:00:52.909 --> 00:00:55.602
+AI agents need isolated environments,
+
+16
+00:00:55.722 --> 00:00:59.988
+restricted permissions, tested backups, and human approval for destructive production
+
+17
+00:01:00.108 --> 00:01:00.815
+changes.
+
+18
+00:01:01.579 --> 00:01:05.827
+Replit later introduced separate development and production databases.
+
+19
+00:01:06.107 --> 00:01:07.767
+AI can accelerate development.
+
+20
+00:01:08.252 --> 00:01:12.081
+But your production data should never depend on an instruction alone.
+
+21
+00:01:12.757 --> 00:01:15.705
+Would you trust an AI agent with your production database?
+
+22
+00:01:16.195 --> 00:01:18.442
+Follow for more stories behind the technology.

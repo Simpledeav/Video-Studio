@@ -1,0 +1,83 @@
+{
+  "schemaVersion": "1.0.0",
+  "project": "simpledeav-studio-v2",
+  "updated": "2026-11-08",
+  "purpose": "Canonical, human-readable and machine-readable memory for every Simpledeav video. Read this folder before creating or changing a film.",
+  "defaults": {
+    "voice": {
+      "id": "SD_VOICE_03",
+      "name": "Nathan Cole",
+      "path": "memory/voice/default.json",
+      "rule": "Always use SD_VOICE_03 unless the brief explicitly names SD_VOICE_09."
+    },
+    "alternateVoice": {
+      "id": "SD_VOICE_09",
+      "name": "James Carter",
+      "path": "memory/voice/voices/SD_VOICE_09.md"
+    },
+    "preset": {
+      "id": "house",
+      "name": "Kinetic Tech Incident",
+      "path": "memory/presets/house/style.json"
+    },
+    "alternatePreset": {
+      "id": "walmart",
+      "name": "Walmart — Editorial Pop",
+      "path": "memory/presets/walmart/style.json",
+      "codeName": "editorial-pop"
+    },
+    "formats": [
+      {
+        "id": "vertical",
+        "width": 1080,
+        "height": 1920,
+        "fps": 30,
+        "description": "Primary short-form film for TikTok, Reels, Shorts."
+      },
+      {
+        "id": "horizontal",
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "description": "Dedicated 16:9 recomposition. Never crop, stretch or letterbox the vertical."
+      },
+      {
+        "id": "cover",
+        "width": 1080,
+        "height": 1350,
+        "fps": 30,
+        "durationInFrames": 1,
+        "description": "Static 4:5 cover image for the feed and archive."
+      }
+    ],
+    "rendering": {
+      "browserPreviewOnly": true,
+      "renderMp4": false,
+      "render4k": false,
+      "rule": "Design and preview in Remotion Studio only. Do not render video files or 4K output."
+    }
+  },
+  "paths": {
+    "voiceDefaults": "memory/voice/default.json",
+    "voiceLibrary": "public/audio/voice-library",
+    "voiceManifest": "public/audio/voice-library/manifest.json",
+    "designTokens": "memory/design/tokens.json",
+    "houseStyle": "memory/design/house-style.md",
+    "presets": "memory/presets",
+    "brand": "memory/brand",
+    "process": "memory/process",
+    "videoRecords": "videos",
+    "videoRecordTemplate": "memory/templates/video-record",
+    "recordScaffold": "scripts/new-video.mjs",
+    "memoryValidator": "scripts/validate-memory.mjs"
+  },
+  "rules": [
+    "Read memory/README.md and memory/process/rules.md before starting a video.",
+    "Use SD_VOICE_03 — Nathan Cole by default. Use SD_VOICE_09 — James Carter only when the brief names it.",
+    "Start from the house preset unless the brief asks for the Walmart Editorial Pop look.",
+    "Every film gets three Studio compositions: vertical, horizontal and cover.",
+    "Never render an MP4, WebM, 4K or any heavy export. Browser preview is the delivery.",
+    "Every finished film gets a record in videos/<slug>/ with the prompt, description and social captions.",
+    "Never commit heavy media. Keep public/audio, public/images and public/video out of Git."
+  ]
+}

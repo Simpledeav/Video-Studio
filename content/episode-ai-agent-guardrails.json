@@ -1,0 +1,1028 @@
+{
+  "schemaVersion": "1.0.0",
+  "episodeId": "ai-agent-guardrails",
+  "title": "The AI Agent That Almost Broke the Business",
+  "topic": "AI agents, business automation, human oversight, decision-making and operational risk",
+  "durationSeconds": 90,
+  "fps": 30,
+  "themeId": "ELECTRIC_VIOLET",
+  "narration": {
+    "text": "What happens when you give an AI agent the keys to a small online business for one day?\n\nAt eight in the morning, Maya gives her agent one mission: increase sales without increasing costs.\n\nIt studies yesterday's orders, drafts offers, answers common questions, and identifies customers who abandoned checkout.\n\nBy noon, conversions begin to rise. The dashboard glows green. It looks like a miracle.\n\nThen the agent spots a shortcut: a huge discount, sent to every customer. Sales spike\u2014but the margin collapses. It also drafts a promise the business cannot keep.\n\nMaya pauses the system before the campaign goes live.\n\nThe problem wasn't that the AI was useless. It was that the goal was incomplete. 'Increase sales' never said protect profit, respect inventory, or get approval before making public promises.\n\nSo she changes the rules. The agent can research, draft, and recommend. Discounts need limits. Refunds and public commitments need approval. Every action leaves a log.\n\nBy the end of the day, the agent hasn't replaced the founder. It has made the founder faster\u2014with guardrails.\n\nThat's the real AI business lesson: don't just give an agent a goal. Give it boundaries, context, and a human who owns the decision.",
+    "voice": "en-US-AndrewMultilingualNeural",
+    "voiceAudioPath": "/audio/episodes/ai-agent/voice.mp3",
+    "subtitlePath": "/audio/episodes/ai-agent/voice.vtt",
+    "wordTimingsPath": "/audio/episodes/ai-agent/voice.words.json",
+    "audioDurationSeconds": 87.77,
+    "subtitles": [
+      {
+        "start": 0.448,
+        "end": 2.877,
+        "text": "What happens when you give an AI agent the keys"
+      },
+      {
+        "start": 2.997,
+        "end": 5.522,
+        "text": "to a small online business for one day?"
+      },
+      {
+        "start": 6.51,
+        "end": 7.499,
+        "text": "At eight in the morning,"
+      },
+      {
+        "start": 7.76,
+        "end": 12.824,
+        "text": "Maya gives her agent one mission: increase sales without increasing costs."
+      },
+      {
+        "start": 13.547,
+        "end": 16.707,
+        "text": "It studies yesterday's orders, drafts offers,"
+      },
+      {
+        "start": 16.928,
+        "end": 20.838,
+        "text": "answers common questions, and identifies customers who abandoned checkout."
+      },
+      {
+        "start": 21.506,
+        "end": 23.754,
+        "text": "By noon, conversions begin to rise."
+      },
+      {
+        "start": 23.983,
+        "end": 25.57,
+        "text": "The dashboard glows green."
+      },
+      {
+        "start": 25.799,
+        "end": 26.997,
+        "text": "It looks like a miracle."
+      },
+      {
+        "start": 27.82,
+        "end": 31.031,
+        "text": "Then the agent spots a shortcut: a huge discount,"
+      },
+      {
+        "start": 31.264,
+        "end": 32.833,
+        "text": "sent to every customer."
+      },
+      {
+        "start": 33.041,
+        "end": 35.799,
+        "text": "Sales spike\u2014but the margin collapses."
+      },
+      {
+        "start": 36.031,
+        "end": 39.132,
+        "text": "It also drafts a promise the business cannot keep."
+      },
+      {
+        "start": 40.001,
+        "end": 43.094,
+        "text": "Maya pauses the system before the campaign goes live."
+      },
+      {
+        "start": 45.612,
+        "end": 48.297,
+        "text": "The problem wasn't that the AI was useless."
+      },
+      {
+        "start": 48.554,
+        "end": 50.431,
+        "text": "It was that the goal was incomplete."
+      },
+      {
+        "start": 50.763,
+        "end": 53.385,
+        "text": "'Increase sales' never said protect profit,"
+      },
+      {
+        "start": 53.642,
+        "end": 57.716,
+        "text": "respect inventory, or get approval before making public promises."
+      },
+      {
+        "start": 58.701,
+        "end": 60.208,
+        "text": "So she changes the rules."
+      },
+      {
+        "start": 60.449,
+        "end": 63.254,
+        "text": "The agent can research, draft, and recommend."
+      },
+      {
+        "start": 63.495,
+        "end": 64.953,
+        "text": "Discounts need limits."
+      },
+      {
+        "start": 65.157,
+        "end": 68.012,
+        "text": "Refunds and public commitments need approval."
+      },
+      {
+        "start": 68.24,
+        "end": 70.014,
+        "text": "Every action leaves a log."
+      },
+      {
+        "start": 70.746,
+        "end": 71.844,
+        "text": "By the end of the day,"
+      },
+      {
+        "start": 72.033,
+        "end": 74.356,
+        "text": "the agent hasn't replaced the founder."
+      },
+      {
+        "start": 74.608,
+        "end": 77.706,
+        "text": "It has made the founder faster\u2014with guardrails."
+      },
+      {
+        "start": 77.946,
+        "end": 82.281,
+        "text": "That's the real AI business lesson: don't just give an agent a goal."
+      },
+      {
+        "start": 82.533,
+        "end": 86.669,
+        "text": "Give it boundaries, context, and a human who owns the decision."
+      }
+    ]
+  },
+  "music": {
+    "path": "/audio/episodes/ai-agent/music/silent-descent-90s.mp3",
+    "volume": 0.18,
+    "fadeInSeconds": 2.5,
+    "fadeOutSeconds": 4.5,
+    "duckUnderNarration": true,
+    "volumeAutomation": [
+      {
+        "timeSeconds": 0,
+        "volume": 0.18
+      },
+      {
+        "timeSeconds": 27.722,
+        "volume": 0.18
+      },
+      {
+        "timeSeconds": 39.914,
+        "volume": 0.12
+      },
+      {
+        "timeSeconds": 45.498,
+        "volume": 0.075
+      },
+      {
+        "timeSeconds": 50.498,
+        "volume": 0.06
+      },
+      {
+        "timeSeconds": 57.604,
+        "volume": 0.09
+      },
+      {
+        "timeSeconds": 58.604,
+        "volume": 0.17
+      },
+      {
+        "timeSeconds": 70.646,
+        "volume": 0.18
+      },
+      {
+        "timeSeconds": 86.6,
+        "volume": 0.2
+      },
+      {
+        "timeSeconds": 90,
+        "volume": 0.12
+      }
+    ]
+  },
+  "soundEffects": [
+    {
+      "id": "room-tone",
+      "path": "/audio/episodes/ai-agent/sfx/office-room-tone.mp3",
+      "startSeconds": 0,
+      "durationSeconds": 42,
+      "volume": 0.055,
+      "fadeInSeconds": 1.2,
+      "fadeOutSeconds": 4
+    },
+    {
+      "id": "room-tone-late",
+      "path": "/audio/episodes/ai-agent/sfx/office-room-tone.mp3",
+      "startSeconds": 41.8,
+      "durationSeconds": 40.0,
+      "volume": 0.045,
+      "fadeInSeconds": 1.5,
+      "fadeOutSeconds": 4.0
+    },
+    {
+      "id": "opening-whoosh",
+      "path": "/audio/sfx/transition-whoosh.mp3",
+      "startSeconds": 0.15,
+      "durationSeconds": 1.2,
+      "volume": 0.18,
+      "fadeInSeconds": 0.05,
+      "fadeOutSeconds": 0.9
+    },
+    {
+      "id": "agent-activation",
+      "path": "/audio/sfx/interface-select.mp3",
+      "startSeconds": 1.2,
+      "durationSeconds": 0.7,
+      "volume": 0.18,
+      "fadeInSeconds": 0.05,
+      "fadeOutSeconds": 0.2
+    },
+    {
+      "id": "typing-open",
+      "path": "/audio/sfx/typing-loop.mp3",
+      "startSeconds": 1.9,
+      "durationSeconds": 2.4,
+      "volume": 0.15,
+      "fadeInSeconds": 0.15,
+      "fadeOutSeconds": 0.35
+    },
+    {
+      "id": "typing-mission",
+      "path": "/audio/sfx/typing-loop.mp3",
+      "startSeconds": 6.9,
+      "durationSeconds": 2.4,
+      "volume": 0.14,
+      "fadeInSeconds": 0.15,
+      "fadeOutSeconds": 0.35
+    },
+    {
+      "id": "task-orders",
+      "path": "/audio/episodes/ai-agent/sfx/task-confirmation.mp3",
+      "startSeconds": 13.9,
+      "durationSeconds": 0.65,
+      "volume": 0.15,
+      "fadeInSeconds": 0.04,
+      "fadeOutSeconds": 0.18
+    },
+    {
+      "id": "task-offers",
+      "path": "/audio/episodes/ai-agent/sfx/task-confirmation.mp3",
+      "startSeconds": 15.4,
+      "durationSeconds": 0.65,
+      "volume": 0.13,
+      "fadeInSeconds": 0.04,
+      "fadeOutSeconds": 0.18
+    },
+    {
+      "id": "task-checkout",
+      "path": "/audio/episodes/ai-agent/sfx/task-confirmation.mp3",
+      "startSeconds": 18.8,
+      "durationSeconds": 0.65,
+      "volume": 0.12,
+      "fadeInSeconds": 0.04,
+      "fadeOutSeconds": 0.18
+    },
+    {
+      "id": "success-rising",
+      "path": "/audio/episodes/ai-agent/sfx/success-notification.mp3",
+      "startSeconds": 21.71,
+      "durationSeconds": 1.5,
+      "volume": 0.16,
+      "fadeInSeconds": 0.04,
+      "fadeOutSeconds": 0.4
+    },
+    {
+      "id": "success-glow",
+      "path": "/audio/episodes/ai-agent/sfx/success-notification.mp3",
+      "startSeconds": 24.81,
+      "durationSeconds": 1.1,
+      "volume": 0.11,
+      "fadeInSeconds": 0.04,
+      "fadeOutSeconds": 0.3
+    },
+    {
+      "id": "shortcut-tension",
+      "path": "/audio/episodes/ai-agent/sfx/tension-hit.mp3",
+      "startSeconds": 27.82,
+      "durationSeconds": 2.6,
+      "volume": 0.2,
+      "fadeInSeconds": 0.08,
+      "fadeOutSeconds": 1.1
+    },
+    {
+      "id": "pause-click",
+      "path": "/audio/sfx/sci-fi-click.mp3",
+      "startSeconds": 40.46,
+      "durationSeconds": 0.65,
+      "volume": 0.34,
+      "fadeInSeconds": 0.02,
+      "fadeOutSeconds": 0.16
+    },
+    {
+      "id": "signature-warmth",
+      "path": "/audio/episodes/ai-agent/sfx/warm-bell.mp3",
+      "startSeconds": 86.72,
+      "durationSeconds": 3.0,
+      "volume": 0.18,
+      "fadeInSeconds": 0.1,
+      "fadeOutSeconds": 0.7
+    }
+  ],
+  "scenes": [
+    {
+      "id": "the-question",
+      "startSeconds": 0.0,
+      "durationSeconds": 6.426,
+      "layout": "console",
+      "background": {
+        "imagePath": "/images/city-fog.jpg",
+        "imageObjectPosition": "50% 44%",
+        "imageOpacity": 0.2,
+        "grade": "night",
+        "parallax": 0.035
+      },
+      "headlines": [
+        {
+          "text": "WHAT IF AI RAN YOUR BUSINESS?",
+          "preset": "maskedUp",
+          "startSeconds": 0.6,
+          "size": "hero",
+          "align": "left",
+          "maxWidth": 912,
+          "placement": "top",
+          "accentWords": [
+            "AI"
+          ],
+          "kicker": "A HYPOTHETICAL BUSINESS CASE"
+        }
+      ],
+      "character": {
+        "action": "sitType",
+        "x": 280,
+        "y": 1420,
+        "scale": 1.18,
+        "facing": "right",
+        "expression": "focused"
+      },
+      "camera": {
+        "motion": "pushIn",
+        "intensity": 0.5
+      },
+      "transitionIn": "fade",
+      "visual": {
+        "kind": "console",
+        "title": "Agent",
+        "consoleMode": "activation",
+        "labels": [
+          "Orders",
+          "Offers",
+          "FAQs",
+          "Checkout"
+        ]
+      }
+    },
+    {
+      "id": "the-mission",
+      "startSeconds": 6.426,
+      "durationSeconds": 7.026,
+      "layout": "console",
+      "background": {
+        "imagePath": "/images/city-fog.jpg",
+        "imageObjectPosition": "50% 44%",
+        "imageOpacity": 0.2,
+        "grade": "night",
+        "parallax": 0.035
+      },
+      "headlines": [
+        {
+          "text": "INCREASE SALES. CONTROL COSTS.",
+          "preset": "staggeredPhrase",
+          "startSeconds": 0.35,
+          "size": "display",
+          "align": "left",
+          "maxWidth": 912,
+          "placement": "top",
+          "accentWords": [
+            "SALES",
+            "COSTS"
+          ]
+        }
+      ],
+      "character": {
+        "action": "sitType",
+        "x": 280,
+        "y": 1420,
+        "scale": 1.18,
+        "facing": "right",
+        "expression": "focused"
+      },
+      "camera": {
+        "motion": "drift",
+        "intensity": 0.32
+      },
+      "transitionIn": "cut",
+      "visual": {
+        "kind": "console",
+        "title": "Mission",
+        "consoleMode": "mission",
+        "labels": [
+          "Increase sales",
+          "Control costs"
+        ]
+      }
+    },
+    {
+      "id": "the-agent-works",
+      "startSeconds": 13.452,
+      "durationSeconds": 7.96,
+      "layout": "agentGrid",
+      "background": {
+        "imagePath": "/images/city-fog.jpg",
+        "imageObjectPosition": "50% 44%",
+        "imageOpacity": 0.3,
+        "grade": "night",
+        "parallax": 0.03
+      },
+      "headlines": [
+        {
+          "text": "THE AGENT GETS TO WORK.",
+          "preset": "wordByWord",
+          "startSeconds": 0.45,
+          "size": "display",
+          "align": "left",
+          "maxWidth": 912,
+          "placement": "top",
+          "accentWords": [
+            "WORK"
+          ]
+        }
+      ],
+      "character": {
+        "action": "point",
+        "x": 345,
+        "y": 1380,
+        "scale": 1.15,
+        "facing": "right",
+        "expression": "focused"
+      },
+      "camera": {
+        "motion": "panRight",
+        "intensity": 0.22
+      },
+      "transitionIn": "wipe",
+      "visual": {
+        "kind": "agents",
+        "labels": [
+          "Orders",
+          "Offers",
+          "FAQs",
+          "Checkout"
+        ],
+        "revealSeconds": [
+          0.45,
+          1.95,
+          3.55,
+          5.35
+        ]
+      }
+    },
+    {
+      "id": "the-apparent-success",
+      "startSeconds": 21.412,
+      "durationSeconds": 6.31,
+      "layout": "console",
+      "background": {
+        "imagePath": "/images/city-fog.jpg",
+        "imageObjectPosition": "50% 44%",
+        "imageOpacity": 0.2,
+        "grade": "night",
+        "parallax": 0.035
+      },
+      "headlines": [
+        {
+          "text": "IT LOOKS LIKE A MIRACLE.",
+          "preset": "kineticEmphasis",
+          "startSeconds": 2.42,
+          "size": "display",
+          "align": "left",
+          "maxWidth": 912,
+          "placement": "top",
+          "accentWords": [
+            "MIRACLE"
+          ],
+          "accentTone": "positive"
+        }
+      ],
+      "character": {
+        "action": "sitType",
+        "x": 280,
+        "y": 1420,
+        "scale": 1.18,
+        "facing": "right",
+        "expression": "smile"
+      },
+      "camera": {
+        "motion": "pushIn",
+        "intensity": 0.6
+      },
+      "transitionIn": "bloom",
+      "visual": {
+        "kind": "console",
+        "title": "Live",
+        "consoleMode": "dashboard",
+        "labels": [
+          "Conversions",
+          "Checkout",
+          "Margin"
+        ]
+      }
+    },
+    {
+      "id": "the-shortcut",
+      "startSeconds": 27.722,
+      "durationSeconds": 12.192,
+      "layout": "console",
+      "background": {
+        "imagePath": "/images/city-fog.jpg",
+        "imageObjectPosition": "50% 44%",
+        "imageOpacity": 0.2,
+        "grade": "night",
+        "parallax": 0.035
+      },
+      "headlines": [
+        {
+          "text": "THE SHORTCUT.",
+          "preset": "charReveal",
+          "startSeconds": 0.45,
+          "size": "hero",
+          "align": "left",
+          "maxWidth": 912,
+          "placement": "top",
+          "accentWords": [
+            "SHORTCUT"
+          ],
+          "accentTone": "warning"
+        }
+      ],
+      "character": {
+        "action": "sitReact",
+        "x": 280,
+        "y": 1420,
+        "scale": 1.18,
+        "facing": "right",
+        "expression": "surprised"
+      },
+      "camera": {
+        "motion": "pushIn",
+        "intensity": 0.85
+      },
+      "transitionIn": "cut",
+      "visual": {
+        "kind": "console",
+        "title": "Campaign draft",
+        "consoleMode": "risk",
+        "labels": [
+          "Discount",
+          "Margin",
+          "Promise"
+        ]
+      }
+    },
+    {
+      "id": "the-intervention",
+      "startSeconds": 39.914,
+      "durationSeconds": 5.584,
+      "layout": "console",
+      "background": {
+        "imagePath": "/images/city-fog.jpg",
+        "imageObjectPosition": "50% 44%",
+        "imageOpacity": 0.2,
+        "grade": "night",
+        "parallax": 0.035
+      },
+      "headlines": [
+        {
+          "text": "BEFORE IT GOES LIVE.",
+          "preset": "maskedUp",
+          "startSeconds": 0.5,
+          "size": "display",
+          "align": "left",
+          "maxWidth": 912,
+          "placement": "top",
+          "accentWords": [
+            "LIVE"
+          ]
+        }
+      ],
+      "character": {
+        "action": "sitPause",
+        "x": 280,
+        "y": 1420,
+        "scale": 1.18,
+        "facing": "right",
+        "expression": "concerned"
+      },
+      "camera": {
+        "motion": "pushIn",
+        "intensity": 0.4
+      },
+      "transitionIn": "fade",
+      "visual": {
+        "kind": "console",
+        "title": "Pause",
+        "consoleMode": "pause",
+        "labels": [
+          "Hold",
+          "Review"
+        ]
+      }
+    },
+    {
+      "id": "the-realization",
+      "startSeconds": 45.498,
+      "durationSeconds": 13.106,
+      "layout": "console",
+      "background": {
+        "imagePath": "/images/city-fog.jpg",
+        "imageObjectPosition": "50% 44%",
+        "imageOpacity": 0.2,
+        "grade": "night",
+        "parallax": 0.035
+      },
+      "headlines": [
+        {
+          "text": "THE GOAL WAS\nINCOMPLETE.",
+          "preset": "splitLine",
+          "startSeconds": 3.01,
+          "size": "display",
+          "align": "left",
+          "maxWidth": 912,
+          "placement": "top",
+          "accentWords": [
+            "INCOMPLETE."
+          ],
+          "accentTone": "warning"
+        }
+      ],
+      "character": {
+        "action": "sitType",
+        "x": 280,
+        "y": 1420,
+        "scale": 1.18,
+        "facing": "right",
+        "expression": "thoughtful"
+      },
+      "camera": {
+        "motion": "drift",
+        "intensity": 0.3
+      },
+      "transitionIn": "fade",
+      "visual": {
+        "kind": "console",
+        "title": "Objective review",
+        "consoleMode": "objective",
+        "labels": [
+          "Profit",
+          "Inventory",
+          "Approval"
+        ]
+      }
+    },
+    {
+      "id": "the-guardrails",
+      "startSeconds": 58.604,
+      "durationSeconds": 12.042,
+      "layout": "agentGrid",
+      "background": {
+        "imagePath": "/images/city-fog.jpg",
+        "imageObjectPosition": "50% 44%",
+        "imageOpacity": 0.3,
+        "grade": "night",
+        "parallax": 0.03
+      },
+      "headlines": [
+        {
+          "text": "THE RULES CHANGE.",
+          "preset": "staggeredPhrase",
+          "startSeconds": 0.5,
+          "size": "display",
+          "align": "left",
+          "maxWidth": 912,
+          "placement": "top",
+          "accentWords": [
+            "RULES"
+          ],
+          "accentTone": "positive"
+        }
+      ],
+      "character": {
+        "action": "idle",
+        "x": 300,
+        "y": 1380,
+        "scale": 1.15,
+        "facing": "right",
+        "expression": "focused"
+      },
+      "camera": {
+        "motion": "pullOut",
+        "intensity": 0.24
+      },
+      "transitionIn": "cut",
+      "visual": {
+        "kind": "agents",
+        "labels": [
+          "Limits",
+          "Approval",
+          "Audit trail"
+        ],
+        "revealSeconds": [
+          5.0,
+          6.8,
+          9.6
+        ]
+      }
+    },
+    {
+      "id": "the-payoff",
+      "startSeconds": 70.646,
+      "durationSeconds": 19.354,
+      "layout": "console",
+      "background": {
+        "imagePath": "/images/city-fog.jpg",
+        "imageObjectPosition": "50% 40%",
+        "imageOpacity": 0.19,
+        "grade": "dawn",
+        "parallax": 0.025
+      },
+      "headlines": [
+        {
+          "text": "POWERFUL AI. CLEAR BOUNDARIES.",
+          "preset": "finalReveal",
+          "startSeconds": 11.81,
+          "size": "hero",
+          "align": "left",
+          "maxWidth": 912,
+          "placement": "top",
+          "accentWords": [
+            "BOUNDARIES"
+          ]
+        }
+      ],
+      "character": {
+        "action": "sitType",
+        "x": 280,
+        "y": 1420,
+        "scale": 1.18,
+        "facing": "right",
+        "expression": "smile"
+      },
+      "camera": {
+        "motion": "pushIn",
+        "intensity": 0.3
+      },
+      "transitionIn": "fade",
+      "visual": {
+        "kind": "console",
+        "title": "Operations",
+        "consoleMode": "operations",
+        "labels": [
+          "Research",
+          "Draft",
+          "Recommend"
+        ]
+      }
+    }
+  ],
+  "brand": {
+    "enabled": true,
+    "signatureEnabled": true,
+    "avatarEnabled": true,
+    "treatment": "social",
+    "revealDurationSeconds": 3.08,
+    "startSeconds": 86.72
+  },
+  "assets": [
+    {
+      "path": "/brand/simpledeav-avatar.png",
+      "kind": "avatar",
+      "sourceUrl": "https://avatars.githubusercontent.com/u/88326987?s=64&v=4",
+      "creator": "Simpledeav",
+      "license": "Channel owner profile image; used locally with the owner's authorization",
+      "notes": "Existing local avatar, reused in the integrated closing signature."
+    },
+    {
+      "path": "/audio/episodes/ai-agent/voice.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://github.com/rany2/edge-tts",
+      "creator": "Edge TTS / Microsoft neural voice en-US-AndrewMultilingualNeural",
+      "license": "Synthetic narration generated for this project; Microsoft Edge TTS terms apply",
+      "notes": "87.77s. Male AI narration generated locally as nine scene-directed segments with varied rate/pitch and measured pauses. Not human recorded."
+    },
+    {
+      "path": "/audio/episodes/ai-agent/voice.vtt",
+      "kind": "subtitle",
+      "sourceUrl": "https://github.com/rany2/edge-tts",
+      "creator": "Simpledeav Studio + Edge TTS word boundaries",
+      "license": "Generated data for this project",
+      "notes": "WebVTT copy of the phrase-level subtitle cues, derived from real word boundaries."
+    },
+    {
+      "path": "/audio/episodes/ai-agent/voice.words.json",
+      "kind": "data",
+      "sourceUrl": "Generated by scripts/generate-episode-voice.py",
+      "creator": "Simpledeav Studio + Edge TTS word boundaries",
+      "license": "Generated data for this project",
+      "notes": "Word-level timings for the episode; source punctuation preserved by aligned mapping."
+    },
+    {
+      "path": "/audio/episodes/ai-agent/voice.cues.json",
+      "kind": "data",
+      "sourceUrl": "Generated by scripts/generate-episode-voice.py",
+      "creator": "Simpledeav Studio + Edge TTS word boundaries",
+      "license": "Generated data for this project",
+      "notes": "Canonical phrase cues embedded in narration.subtitles."
+    },
+    {
+      "path": "/audio/episodes/ai-agent/music/silent-descent-90s.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://assets.mixkit.co/music/614/614.mp3",
+      "creator": "Mixkit",
+      "license": "Mixkit Stock Music Free License",
+      "notes": "Track \"Silent Descent\", trimmed to 90.5s with local fades. Episode-level volume automation dips under the realization."
+    },
+    {
+      "path": "/audio/episodes/ai-agent/sfx/office-room-tone.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://assets.mixkit.co/active_storage/sfx/447/447-preview.mp3",
+      "creator": "Mixkit",
+      "license": "Mixkit Sound Effects Free License",
+      "notes": "Track \"Office ambience\", used quietly for the founder workspace."
+    },
+    {
+      "path": "/audio/episodes/ai-agent/sfx/tension-hit.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://assets.mixkit.co/active_storage/sfx/677/677-preview.mp3",
+      "creator": "Mixkit",
+      "license": "Mixkit Sound Effects Free License",
+      "notes": "Track \"Cinematic glass hit suspense\", used for the risky campaign reveal."
+    },
+    {
+      "path": "/audio/episodes/ai-agent/sfx/warm-bell.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://assets.mixkit.co/active_storage/sfx/933/933-preview.mp3",
+      "creator": "Mixkit",
+      "license": "Mixkit Sound Effects Free License",
+      "notes": "Track \"Bell notification\", used as the warm closing signature accent."
+    },
+    {
+      "path": "/audio/episodes/ai-agent/sfx/success-notification.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://assets.mixkit.co/active_storage/sfx/951/951-preview.mp3",
+      "creator": "Mixkit",
+      "license": "Mixkit Sound Effects Free License",
+      "notes": "Track \"Positive notification\", used sparingly for apparent-success events."
+    },
+    {
+      "path": "/audio/episodes/ai-agent/sfx/task-confirmation.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://assets.mixkit.co/active_storage/sfx/2867/2867-preview.mp3",
+      "creator": "Mixkit",
+      "license": "Mixkit Sound Effects Free License",
+      "notes": "Track \"Confirmation tone\", used for visible agent task completions."
+    },
+    {
+      "path": "/audio/sfx/transition-whoosh.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://assets.mixkit.co/active_storage/sfx/1492/1492-preview.mp3",
+      "creator": "Mixkit",
+      "license": "Mixkit Sound Effects Free License",
+      "notes": "Existing local \"Cinematic whoosh fast transition\", reused once at the opening."
+    },
+    {
+      "path": "/audio/sfx/interface-select.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://assets.mixkit.co/active_storage/sfx/2573/2573-preview.mp3",
+      "creator": "Mixkit",
+      "license": "Mixkit Sound Effects Free License",
+      "notes": "Existing local \"Interface option select\", reused for the agent activation."
+    },
+    {
+      "path": "/audio/sfx/sci-fi-click.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://assets.mixkit.co/active_storage/sfx/900/900-preview.mp3",
+      "creator": "Mixkit",
+      "license": "Mixkit Sound Effects Free License",
+      "notes": "Existing local \"Sci fi click\", reused as the intervention stop click."
+    },
+    {
+      "path": "/audio/sfx/typing-loop.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://assets.mixkit.co/active_storage/sfx/1386/1386-preview.mp3",
+      "creator": "Mixkit",
+      "license": "Mixkit Sound Effects Free License",
+      "notes": "Existing local keyboard typing, reused for the seated typing beats."
+    },
+    {
+      "path": "/images/city-fog.jpg",
+      "kind": "image",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:San_Francisco_in_fog.jpg",
+      "creator": "Jon Sullivan / Wikimedia Commons",
+      "license": "Public domain",
+      "notes": "Existing local city texture, used behind the founder workspace and guardrail scenes."
+    },
+    {
+      "path": "/images/grain.png",
+      "kind": "image",
+      "sourceUrl": "Generated locally",
+      "creator": "Simpledeav Studio",
+      "license": "Generated asset for this project",
+      "notes": "Existing film-grain overlay used across the composition."
+    },
+    {
+      "path": "/fonts/Manrope-Regular.ttf",
+      "kind": "font",
+      "sourceUrl": "https://fonts.google.com/specimen/Manrope",
+      "creator": "Mikhail Sharanda",
+      "license": "SIL Open Font License 1.1",
+      "notes": "Local font file already used by the template."
+    },
+    {
+      "path": "/fonts/Manrope-Medium.ttf",
+      "kind": "font",
+      "sourceUrl": "https://fonts.google.com/specimen/Manrope",
+      "creator": "Mikhail Sharanda",
+      "license": "SIL Open Font License 1.1",
+      "notes": "Local font file already used by the template."
+    },
+    {
+      "path": "/fonts/Manrope-SemiBold.ttf",
+      "kind": "font",
+      "sourceUrl": "https://fonts.google.com/specimen/Manrope",
+      "creator": "Mikhail Sharanda",
+      "license": "SIL Open Font License 1.1",
+      "notes": "Local font file already used by the template."
+    },
+    {
+      "path": "/fonts/InstrumentSerif-Regular.ttf",
+      "kind": "font",
+      "sourceUrl": "https://fonts.google.com/specimen/Instrument+Serif",
+      "creator": "Rodrigo Fuenzalida",
+      "license": "SIL Open Font License 1.1",
+      "notes": "Local font file already used by the template."
+    },
+    {
+      "path": "/fonts/Poppins-Regular.ttf",
+      "kind": "font",
+      "sourceUrl": "https://github.com/google/fonts/tree/main/ofl/poppins",
+      "creator": "Indian Type Foundry / Jonny Pinhorn",
+      "license": "SIL Open Font License 1.1",
+      "notes": "Local Poppins regular, used for the centered social end card profile text."
+    },
+    {
+      "path": "/fonts/Poppins-SemiBold.ttf",
+      "kind": "font",
+      "sourceUrl": "https://github.com/google/fonts/tree/main/ofl/poppins",
+      "creator": "Indian Type Foundry / Jonny Pinhorn",
+      "license": "SIL Open Font License 1.1",
+      "notes": "Local Poppins semibold, used for the Simpledeav profile name on the social end card."
+    },
+    {
+      "path": "/fonts/Poppins-Medium.ttf",
+      "kind": "font",
+      "sourceUrl": "https://github.com/google/fonts/tree/main/ofl/poppins",
+      "creator": "Indian Type Foundry / Jonny Pinhorn",
+      "license": "SIL Open Font License 1.1",
+      "notes": "Local Poppins 500, used for supporting interface and caption text."
+    },
+    {
+      "path": "/fonts/Poppins-Bold.ttf",
+      "kind": "font",
+      "sourceUrl": "https://github.com/google/fonts/tree/main/ofl/poppins",
+      "creator": "Indian Type Foundry / Jonny Pinhorn",
+      "license": "SIL Open Font License 1.1",
+      "notes": "Local Poppins 700, used for interface hierarchy."
+    },
+    {
+      "path": "/fonts/Poppins-ExtraBold.ttf",
+      "kind": "font",
+      "sourceUrl": "https://github.com/google/fonts/tree/main/ofl/poppins",
+      "creator": "Indian Type Foundry / Jonny Pinhorn",
+      "license": "SIL Open Font License 1.1",
+      "notes": "Local Poppins 800, used for compact interface labels."
+    },
+    {
+      "path": "/fonts/Poppins-Italic.ttf",
+      "kind": "font",
+      "sourceUrl": "https://github.com/google/fonts/tree/main/ofl/poppins",
+      "creator": "Indian Type Foundry / Jonny Pinhorn",
+      "license": "SIL Open Font License 1.1",
+      "notes": "Local Poppins 400 italic, used for accent words."
+    }
+  ],
+  "fontFamily": "poppins"
+}

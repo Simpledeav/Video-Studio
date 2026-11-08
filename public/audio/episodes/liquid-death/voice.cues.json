@@ -1,0 +1,266 @@
+{
+  "source": "public/audio/episodes/liquid-death/voice.mp3",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "segments": [
+    {
+      "id": "impossible-product",
+      "text": "Imagine trying to sell water in a beer can, calling it Liquid Death, and convincing people to actually buy it.",
+      "emotion": "hook",
+      "rate": "+5%",
+      "pitch": "-2Hz",
+      "start": 0.2,
+      "duration": 6.744,
+      "end": 6.944,
+      "words": 20
+    },
+    {
+      "id": "boring-aisle",
+      "text": "In 2017, advertising creative Mike Cessario noticed something. Beer and energy drinks had exciting marketing. Healthy drinks? Mostly boring.",
+      "emotion": "observation",
+      "rate": "+7%",
+      "pitch": "-2Hz",
+      "start": 7.3,
+      "duration": 9.792,
+      "end": 17.092,
+      "words": 19
+    },
+    {
+      "id": "crazy-idea",
+      "text": "So he tried something different. What if water looked like a heavy-metal energy drink? What if the name was so outrageous, people couldn't ignore it? He called it Liquid Death.",
+      "emotion": "idea",
+      "rate": "+5%",
+      "pitch": "-2Hz",
+      "start": 17.3,
+      "duration": 9.504,
+      "end": 26.804,
+      "words": 30
+    },
+    {
+      "id": "manufacturing",
+      "text": "But there was a problem. Finding someone to put still mountain water into aluminum cans, at scale, wasn't easy. And investors weren't automatically convinced anyone wanted it. The product was simple. The packaging was not.",
+      "emotion": "tension",
+      "rate": "+8%",
+      "pitch": "-3Hz",
+      "start": 28.3,
+      "duration": 12.912,
+      "end": 41.212,
+      "words": 35
+    },
+    {
+      "id": "attention-first",
+      "text": "Instead of waiting, they launched a provocative video before selling their first cans. Millions watched. Suddenly, retailers and distributors wanted to know how to get it. They sold the idea before the product existed.",
+      "emotion": "momentum",
+      "rate": "+8%",
+      "pitch": "-2Hz",
+      "start": 42.3,
+      "duration": 12.336,
+      "end": 54.636,
+      "words": 34
+    },
+    {
+      "id": "shipping",
+      "text": "Going viral doesn't guarantee profit. The water was canned in Austria, then shipped to America. When COVID disrupted shipping, container costs jumped from four thousand to thirteen thousand dollars. They sold more, and lost money on every case.",
+      "emotion": "problem",
+      "rate": "+16%",
+      "pitch": "-3Hz",
+      "start": 55.3,
+      "duration": 13.92,
+      "end": 69.22,
+      "words": 38
+    },
+    {
+      "id": "lesson",
+      "text": "That's what many people miss. A brilliant brand can attract customers, but manufacturing, distribution and margins decide whether the business works. Liquid Death was selling identity.",
+      "emotion": "insight",
+      "rate": "+10%",
+      "pitch": "-2Hz",
+      "start": 69.8,
+      "duration": 11.208,
+      "end": 81.008,
+      "words": 26
+    },
+    {
+      "id": "punchline",
+      "text": "The biggest opportunity isn't inventing something new. It's making people excited about what they already buy.",
+      "emotion": "resolve",
+      "rate": "+12%",
+      "pitch": "-2Hz",
+      "start": 81.1,
+      "duration": 5.64,
+      "end": 86.74,
+      "words": 16
+    }
+  ],
+  "cues": [
+    {
+      "start": 0.295,
+      "end": 2.574,
+      "text": "Imagine trying to sell water in a beer can,"
+    },
+    {
+      "start": 2.783,
+      "end": 6.765,
+      "text": "calling it Liquid Death, and convincing people to actually buy it."
+    },
+    {
+      "start": 7.382,
+      "end": 11.969,
+      "text": "In 2017, advertising creative Mike Cessario noticed something."
+    },
+    {
+      "start": 12.183,
+      "end": 14.773,
+      "text": "Beer and energy drinks had exciting marketing."
+    },
+    {
+      "start": 15.01,
+      "end": 15.848,
+      "text": "Healthy drinks?"
+    },
+    {
+      "start": 16.062,
+      "end": 16.899,
+      "text": "Mostly boring."
+    },
+    {
+      "start": 17.395,
+      "end": 18.65,
+      "text": "So he tried something different."
+    },
+    {
+      "start": 18.871,
+      "end": 21.424,
+      "text": "What if water looked like a heavy-metal energy drink?"
+    },
+    {
+      "start": 21.645,
+      "end": 23.823,
+      "text": "What if the name was so outrageous,"
+    },
+    {
+      "start": 23.943,
+      "end": 25.186,
+      "text": "people couldn't ignore it?"
+    },
+    {
+      "start": 25.431,
+      "end": 26.615,
+      "text": "He called it Liquid Death."
+    },
+    {
+      "start": 28.381,
+      "end": 29.259,
+      "text": "But there was a problem."
+    },
+    {
+      "start": 29.515,
+      "end": 32.972,
+      "text": "Finding someone to put still mountain water into aluminum cans,"
+    },
+    {
+      "start": 33.092,
+      "end": 34.768,
+      "text": "at scale, wasn't easy."
+    },
+    {
+      "start": 34.99,
+      "end": 38.136,
+      "text": "And investors weren't automatically convinced anyone wanted it."
+    },
+    {
+      "start": 38.358,
+      "end": 39.583,
+      "text": "The product was simple."
+    },
+    {
+      "start": 39.805,
+      "end": 41.029,
+      "text": "The packaging was not."
+    },
+    {
+      "start": 42.393,
+      "end": 45.768,
+      "text": "Instead of waiting, they launched a provocative video before selling"
+    },
+    {
+      "start": 45.888,
+      "end": 47.066,
+      "text": "their first cans."
+    },
+    {
+      "start": 47.288,
+      "end": 48.189,
+      "text": "Millions watched."
+    },
+    {
+      "start": 48.4,
+      "end": 51.823,
+      "text": "Suddenly, retailers and distributors wanted to know how to get it."
+    },
+    {
+      "start": 52.034,
+      "end": 54.451,
+      "text": "They sold the idea before the product existed."
+    },
+    {
+      "start": 55.386,
+      "end": 57.454,
+      "text": "Going viral doesn't guarantee profit."
+    },
+    {
+      "start": 57.628,
+      "end": 59.102,
+      "text": "The water was canned in Austria,"
+    },
+    {
+      "start": 59.33,
+      "end": 60.568,
+      "text": "then shipped to America."
+    },
+    {
+      "start": 60.753,
+      "end": 64.609,
+      "text": "When COVID disrupted shipping, container costs jumped from four thousand"
+    },
+    {
+      "start": 64.729,
+      "end": 66.322,
+      "text": "to thirteen thousand dollars."
+    },
+    {
+      "start": 66.518,
+      "end": 69.059,
+      "text": "They sold more, and lost money on every case."
+    },
+    {
+      "start": 69.891,
+      "end": 71.221,
+      "text": "That's what many people miss."
+    },
+    {
+      "start": 71.425,
+      "end": 73.926,
+      "text": "A brilliant brand can attract customers,"
+    },
+    {
+      "start": 74.141,
+      "end": 78.755,
+      "text": "but manufacturing, distribution and margins decide whether the business works."
+    },
+    {
+      "start": 78.959,
+      "end": 80.824,
+      "text": "Liquid Death was selling identity."
+    },
+    {
+      "start": 81.189,
+      "end": 83.916,
+      "text": "The biggest opportunity isn't inventing something new."
+    },
+    {
+      "start": 84.113,
+      "end": 86.595,
+      "text": "It's making people excited about what they already buy."
+    }
+  ]
+}

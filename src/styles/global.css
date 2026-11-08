@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: #000;
+}
+
+.simpledeav-root {
+  font-family: var(--sd-font, "Manrope", "Helvetica Neue", sans-serif);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: geometricPrecision;
+}
+
+.simpledeav-serif {
+  font-family: var(--sd-accent-font, "Instrument Serif", "Times New Roman", serif);
+}
+
+.simpledeav-kicker {
+  font-family: var(--sd-font, "Manrope", "Helvetica Neue", sans-serif);
+  font-weight: 600;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+}

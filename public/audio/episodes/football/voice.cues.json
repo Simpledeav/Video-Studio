@@ -1,0 +1,268 @@
+{
+  "source": "public/audio/episodes/football/voice.mp3",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "segments": [
+    {
+      "id": "hook-retirement",
+      "text": "Ronaldo has retired from international football...",
+      "emotion": "dramatic",
+      "rate": "+4%",
+      "pitch": "-5Hz",
+      "start": 0.22,
+      "duration": 3.0,
+      "end": 3.22,
+      "words": 6
+    },
+    {
+      "id": "hook-leagues",
+      "text": "But some men are still playing in three different leagues.",
+      "emotion": "suspense",
+      "rate": "+8%",
+      "pitch": "-3Hz",
+      "start": 3.65,
+      "duration": 2.736,
+      "end": 6.386,
+      "words": 10
+    },
+    {
+      "id": "transfer-market",
+      "text": "In the relationship transfer market, some players don't scout one club. They send DMs to five, negotiate with three, and sign nowhere exclusively.",
+      "emotion": "curiosity",
+      "rate": "+22%",
+      "pitch": "+0Hz",
+      "start": 7.05,
+      "duration": 8.472,
+      "end": 15.522,
+      "words": 23
+    },
+    {
+      "id": "signing",
+      "text": "First comes scouting. That's the talking stage. Then the signing ceremony. Suddenly, you're officially his number one striker.",
+      "emotion": "playful",
+      "rate": "+13%",
+      "pitch": "+0Hz",
+      "start": 15.9,
+      "duration": 7.104,
+      "end": 23.004,
+      "words": 18
+    },
+    {
+      "id": "preseason",
+      "text": "Then comes pre-season. Training sessions. Friendly matches. Chemistry building. Everybody is suddenly playing like they're chasing the Ballon d'Or.",
+      "emotion": "confidence",
+      "rate": "+12%",
+      "pitch": "+0Hz",
+      "start": 23.98,
+      "duration": 8.832,
+      "end": 32.812,
+      "words": 19
+    },
+    {
+      "id": "league",
+      "text": "But after the first major trophy? Some managers lose interest. The player starts getting fewer minutes. Suddenly, there are transfer rumors.",
+      "emotion": "savage",
+      "rate": "+11%",
+      "pitch": "-2Hz",
+      "start": 33.2,
+      "duration": 8.496,
+      "end": 41.696,
+      "words": 21
+    },
+    {
+      "id": "sale",
+      "text": "Then comes the breakup. Official statement: we have mutually agreed to terminate the contract. But somehow, the player is still on loan and available for friendly matches.",
+      "emotion": "deadpan",
+      "rate": "+14%",
+      "pitch": "-1Hz",
+      "start": 44.35,
+      "duration": 9.48,
+      "end": 53.83,
+      "words": 27
+    },
+    {
+      "id": "return",
+      "text": "And just when you think the transfer window is closed... the former club sends a late-night offer. Can we talk? The player is suddenly back in negotiations.",
+      "emotion": "suspense",
+      "rate": "+13%",
+      "pitch": "-2Hz",
+      "start": 55.15,
+      "duration": 8.544,
+      "end": 63.694,
+      "words": 27
+    },
+    {
+      "id": "reveal",
+      "text": "At this point, forget the Premier League, forget Champions League... this is clearly a situationship with football terminology.",
+      "emotion": "reflection",
+      "rate": "+11%",
+      "pitch": "-2Hz",
+      "start": 66.0,
+      "duration": 6.864,
+      "end": 72.864,
+      "words": 18
+    },
+    {
+      "id": "punchline",
+      "text": "And somehow... this is not a football conversation.",
+      "emotion": "deadpan",
+      "rate": "-2%",
+      "pitch": "-4Hz",
+      "start": 74.4,
+      "duration": 3.816,
+      "end": 78.216,
+      "words": 8
+    }
+  ],
+  "cues": [
+    {
+      "start": 0.304,
+      "end": 3.012,
+      "text": "Ronaldo has retired from international football..."
+    },
+    {
+      "start": 3.731,
+      "end": 6.229,
+      "text": "But some men are still playing in three different leagues."
+    },
+    {
+      "start": 7.132,
+      "end": 8.47,
+      "text": "In the relationship transfer market,"
+    },
+    {
+      "start": 8.628,
+      "end": 10.458,
+      "text": "some players don't scout one club."
+    },
+    {
+      "start": 10.636,
+      "end": 12.292,
+      "text": "They send DMs to five,"
+    },
+    {
+      "start": 12.439,
+      "end": 15.376,
+      "text": "negotiate with three, and sign nowhere exclusively."
+    },
+    {
+      "start": 16.033,
+      "end": 16.934,
+      "text": "First comes scouting."
+    },
+    {
+      "start": 17.139,
+      "end": 18.372,
+      "text": "That's the talking stage."
+    },
+    {
+      "start": 18.566,
+      "end": 19.932,
+      "text": "Then the signing ceremony."
+    },
+    {
+      "start": 20.126,
+      "end": 22.852,
+      "text": "Suddenly, you're officially his number one striker."
+    },
+    {
+      "start": 24.069,
+      "end": 25.312,
+      "text": "Then comes pre-season."
+    },
+    {
+      "start": 25.52,
+      "end": 26.629,
+      "text": "Training sessions."
+    },
+    {
+      "start": 26.871,
+      "end": 27.812,
+      "text": "Friendly matches."
+    },
+    {
+      "start": 28.009,
+      "end": 28.95,
+      "text": "Chemistry building."
+    },
+    {
+      "start": 29.147,
+      "end": 32.633,
+      "text": "Everybody is suddenly playing like they're chasing the Ballon d'Or."
+    },
+    {
+      "start": 33.301,
+      "end": 35.128,
+      "text": "But after the first major trophy?"
+    },
+    {
+      "start": 35.328,
+      "end": 37.301,
+      "text": "Some managers lose interest."
+    },
+    {
+      "start": 37.524,
+      "end": 39.25,
+      "text": "The player starts getting fewer minutes."
+    },
+    {
+      "start": 39.461,
+      "end": 41.536,
+      "text": "Suddenly, there are transfer rumors."
+    },
+    {
+      "start": 44.438,
+      "end": 45.563,
+      "text": "Then comes the breakup."
+    },
+    {
+      "start": 45.753,
+      "end": 49.664,
+      "text": "Official statement: we have mutually agreed to terminate the contract."
+    },
+    {
+      "start": 49.865,
+      "end": 53.677,
+      "text": "But somehow, the player is still on loan and available for friendly matches."
+    },
+    {
+      "start": 55.238,
+      "end": 57.807,
+      "text": "And just when you think the transfer window is closed..."
+    },
+    {
+      "start": 57.927,
+      "end": 60.144,
+      "text": "the former club sends a late-night offer."
+    },
+    {
+      "start": 60.327,
+      "end": 60.985,
+      "text": "Can we talk?"
+    },
+    {
+      "start": 61.157,
+      "end": 63.529,
+      "text": "The player is suddenly back in negotiations."
+    },
+    {
+      "start": 66.09,
+      "end": 69.426,
+      "text": "At this point, forget the Premier League, forget Champions League..."
+    },
+    {
+      "start": 69.795,
+      "end": 72.703,
+      "text": "this is clearly a situationship with football terminology."
+    },
+    {
+      "start": 74.502,
+      "end": 75.733,
+      "text": "And somehow..."
+    },
+    {
+      "start": 76.147,
+      "end": 78.004,
+      "text": "this is not a football conversation."
+    }
+  ]
+}

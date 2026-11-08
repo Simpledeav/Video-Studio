@@ -1,0 +1,1248 @@
+{
+  "voice": "en-US-AndrewMultilingualNeural",
+  "leadInSeconds": 0.45,
+  "segments": [
+    {
+      "id": "hook-speaker",
+      "start": 0.45,
+      "end": 3.426,
+      "duration": 2.976,
+      "rawDuration": 2.976,
+      "trimmedSilence": 0.0,
+      "rate": "+6%",
+      "words": 7
+    },
+    {
+      "id": "hook-order",
+      "start": 3.606,
+      "end": 8.622,
+      "duration": 5.016,
+      "rawDuration": 5.016,
+      "trimmedSilence": 0.0,
+      "rate": "+8%",
+      "words": 13
+    },
+    {
+      "id": "idea-smart",
+      "start": 8.95,
+      "end": 10.822,
+      "duration": 1.872,
+      "rawDuration": 1.872,
+      "trimmedSilence": 0.0,
+      "rate": "+7%",
+      "words": 4
+    },
+    {
+      "id": "idea-test",
+      "start": 10.922,
+      "end": 17.066,
+      "duration": 6.144,
+      "rawDuration": 6.144,
+      "trimmedSilence": 0.0,
+      "rate": "+9%",
+      "words": 14
+    },
+    {
+      "id": "idea-flow",
+      "start": 17.206,
+      "end": 21.322,
+      "duration": 4.116,
+      "rawDuration": 4.176,
+      "trimmedSilence": 0.06,
+      "rate": "+10%",
+      "words": 9
+    },
+    {
+      "id": "idea-benefit",
+      "start": 21.422,
+      "end": 24.09,
+      "duration": 2.668,
+      "rawDuration": 2.688,
+      "trimmedSilence": 0.02,
+      "rate": "+9%",
+      "words": 5
+    },
+    {
+      "id": "chaos-script",
+      "start": 24.29,
+      "end": 26.162,
+      "duration": 1.872,
+      "rawDuration": 1.872,
+      "trimmedSilence": 0.0,
+      "rate": "+6%",
+      "words": 6
+    },
+    {
+      "id": "chaos-tea",
+      "start": 26.342,
+      "end": 29.63,
+      "duration": 3.288,
+      "rawDuration": 3.288,
+      "trimmedSilence": 0.0,
+      "rate": "+9%",
+      "words": 11
+    },
+    {
+      "id": "chaos-butter",
+      "start": 29.79,
+      "end": 33.606,
+      "duration": 3.816,
+      "rawDuration": 3.816,
+      "trimmedSilence": 0.0,
+      "rate": "+9%",
+      "words": 12
+    },
+    {
+      "id": "internet-spread",
+      "start": 33.9,
+      "end": 35.772,
+      "duration": 1.872,
+      "rawDuration": 1.872,
+      "trimmedSilence": 0.0,
+      "rate": "+7%",
+      "words": 3
+    },
+    {
+      "id": "internet-reality",
+      "start": 35.892,
+      "end": 42.42,
+      "duration": 6.528,
+      "rawDuration": 6.528,
+      "trimmedSilence": 0.0,
+      "rate": "+8%",
+      "words": 20
+    },
+    {
+      "id": "decision-end",
+      "start": 44.0,
+      "end": 48.92,
+      "duration": 4.92,
+      "rawDuration": 4.92,
+      "trimmedSilence": 0.0,
+      "rate": "+7%",
+      "words": 10
+    },
+    {
+      "id": "decision-not-over",
+      "start": 49.15,
+      "end": 51.094,
+      "duration": 1.944,
+      "rawDuration": 1.944,
+      "trimmedSilence": 0.0,
+      "rate": "+8%",
+      "words": 6
+    },
+    {
+      "id": "decision-future",
+      "start": 51.214,
+      "end": 54.19,
+      "duration": 2.976,
+      "rawDuration": 2.976,
+      "trimmedSilence": 0.0,
+      "rate": "+8%",
+      "words": 11
+    },
+    {
+      "id": "lesson-not-useless",
+      "start": 54.55,
+      "end": 57.454,
+      "duration": 2.904,
+      "rawDuration": 2.904,
+      "trimmedSilence": 0.0,
+      "rate": "+5%",
+      "words": 7
+    },
+    {
+      "id": "lesson-reliable",
+      "start": 57.654,
+      "end": 61.93,
+      "duration": 4.276,
+      "rawDuration": 4.416,
+      "trimmedSilence": 0.14,
+      "rate": "+7%",
+      "words": 10
+    },
+    {
+      "id": "lesson-design",
+      "start": 62.09,
+      "end": 69.646,
+      "duration": 7.556,
+      "rawDuration": 7.776,
+      "trimmedSilence": 0.22,
+      "rate": "+8%",
+      "words": 22
+    },
+    {
+      "id": "lesson-help",
+      "start": 69.806,
+      "end": 75.61,
+      "duration": 5.804,
+      "rawDuration": 5.904,
+      "trimmedSilence": 0.1,
+      "rate": "+6%",
+      "words": 19
+    },
+    {
+      "id": "takeaway-founders",
+      "start": 75.81,
+      "end": 79.218,
+      "duration": 3.408,
+      "rawDuration": 3.408,
+      "trimmedSilence": 0.0,
+      "rate": "+8%",
+      "words": 7
+    },
+    {
+      "id": "takeaway-trust",
+      "start": 79.338,
+      "end": 83.838,
+      "duration": 4.5,
+      "rawDuration": 4.56,
+      "trimmedSilence": 0.06,
+      "rate": "+8%",
+      "words": 12
+    }
+  ],
+  "words": [
+    {
+      "text": "McDonald's",
+      "start": 0.544,
+      "end": 0.992
+    },
+    {
+      "text": "put",
+      "start": 1.004,
+      "end": 1.181
+    },
+    {
+      "text": "AI",
+      "start": 1.287,
+      "end": 1.877
+    },
+    {
+      "text": "on",
+      "start": 1.889,
+      "end": 1.971
+    },
+    {
+      "text": "the",
+      "start": 1.971,
+      "end": 2.03
+    },
+    {
+      "text": "drive-thru",
+      "start": 2.03,
+      "end": 2.502
+    },
+    {
+      "text": "speaker.",
+      "start": 2.514,
+      "end": 3.08
+    },
+    {
+      "text": "Imagine",
+      "start": 3.699,
+      "end": 4.046
+    },
+    {
+      "text": "asking",
+      "start": 4.057,
+      "end": 4.428
+    },
+    {
+      "text": "for",
+      "start": 4.428,
+      "end": 4.555
+    },
+    {
+      "text": "ice",
+      "start": 4.555,
+      "end": 4.763
+    },
+    {
+      "text": "cream,",
+      "start": 4.775,
+      "end": 5.122
+    },
+    {
+      "text": "and",
+      "start": 5.493,
+      "end": 5.574
+    },
+    {
+      "text": "getting",
+      "start": 5.574,
+      "end": 5.828
+    },
+    {
+      "text": "nine",
+      "start": 5.828,
+      "end": 6.06
+    },
+    {
+      "text": "sweet",
+      "start": 6.071,
+      "end": 6.361
+    },
+    {
+      "text": "teas,",
+      "start": 6.361,
+      "end": 6.893
+    },
+    {
+      "text": "butter,",
+      "start": 7.113,
+      "end": 7.506
+    },
+    {
+      "text": "and",
+      "start": 7.738,
+      "end": 7.842
+    },
+    {
+      "text": "ketchup.",
+      "start": 7.842,
+      "end": 8.293
+    },
+    {
+      "text": "The",
+      "start": 9.043,
+      "end": 9.114
+    },
+    {
+      "text": "idea",
+      "start": 9.114,
+      "end": 9.487
+    },
+    {
+      "text": "was",
+      "start": 9.487,
+      "end": 9.604
+    },
+    {
+      "text": "smart.",
+      "start": 9.616,
+      "end": 10.06
+    },
+    {
+      "text": "In",
+      "start": 11.002,
+      "end": 11.816
+    },
+    {
+      "text": "2021,",
+      "start": 11.002,
+      "end": 11.816
+    },
+    {
+      "text": "McDonald's",
+      "start": 12.046,
+      "end": 12.608
+    },
+    {
+      "text": "and",
+      "start": 12.608,
+      "end": 12.711
+    },
+    {
+      "text": "IBM",
+      "start": 12.722,
+      "end": 13.319
+    },
+    {
+      "text": "began",
+      "start": 13.445,
+      "end": 13.904
+    },
+    {
+      "text": "testing",
+      "start": 14.007,
+      "end": 14.454
+    },
+    {
+      "text": "voice",
+      "start": 14.454,
+      "end": 14.787
+    },
+    {
+      "text": "ordering",
+      "start": 14.798,
+      "end": 15.222
+    },
+    {
+      "text": "at",
+      "start": 15.394,
+      "end": 15.486
+    },
+    {
+      "text": "over",
+      "start": 15.486,
+      "end": 15.704
+    },
+    {
+      "text": "a",
+      "start": 15.704,
+      "end": 15.727
+    },
+    {
+      "text": "hundred",
+      "start": 15.727,
+      "end": 16.002
+    },
+    {
+      "text": "locations.",
+      "start": 16.002,
+      "end": 16.713
+    },
+    {
+      "text": "Speak.",
+      "start": 17.297,
+      "end": 17.661
+    },
+    {
+      "text": "The",
+      "start": 18.036,
+      "end": 18.095
+    },
+    {
+      "text": "AI",
+      "start": 18.197,
+      "end": 18.618
+    },
+    {
+      "text": "understands.",
+      "start": 18.629,
+      "end": 19.368
+    },
+    {
+      "text": "The",
+      "start": 19.726,
+      "end": 19.76
+    },
+    {
+      "text": "order",
+      "start": 19.862,
+      "end": 20.191
+    },
+    {
+      "text": "reaches",
+      "start": 20.191,
+      "end": 20.521
+    },
+    {
+      "text": "the",
+      "start": 20.532,
+      "end": 20.601
+    },
+    {
+      "text": "kitchen.",
+      "start": 20.601,
+      "end": 20.987
+    },
+    {
+      "text": "Faster",
+      "start": 21.594,
+      "end": 21.904
+    },
+    {
+      "text": "service.",
+      "start": 21.915,
+      "end": 22.466
+    },
+    {
+      "text": "Less",
+      "start": 22.821,
+      "end": 23.007
+    },
+    {
+      "text": "manual",
+      "start": 23.008,
+      "end": 23.386
+    },
+    {
+      "text": "work.",
+      "start": 23.397,
+      "end": 23.741
+    },
+    {
+      "text": "But",
+      "start": 24.396,
+      "end": 24.455
+    },
+    {
+      "text": "the",
+      "start": 24.455,
+      "end": 24.538
+    },
+    {
+      "text": "AI",
+      "start": 24.549,
+      "end": 24.974
+    },
+    {
+      "text": "went",
+      "start": 24.974,
+      "end": 25.127
+    },
+    {
+      "text": "off",
+      "start": 25.127,
+      "end": 25.281
+    },
+    {
+      "text": "script.",
+      "start": 25.292,
+      "end": 25.74
+    },
+    {
+      "text": "One",
+      "start": 26.434,
+      "end": 26.594
+    },
+    {
+      "text": "customer",
+      "start": 26.594,
+      "end": 27.019
+    },
+    {
+      "text": "asked",
+      "start": 27.03,
+      "end": 27.271
+    },
+    {
+      "text": "for",
+      "start": 27.271,
+      "end": 27.386
+    },
+    {
+      "text": "a",
+      "start": 27.386,
+      "end": 27.42
+    },
+    {
+      "text": "sweet",
+      "start": 27.42,
+      "end": 27.695
+    },
+    {
+      "text": "tea;",
+      "start": 27.695,
+      "end": 28.051
+    },
+    {
+      "text": "the",
+      "start": 28.337,
+      "end": 28.418
+    },
+    {
+      "text": "system",
+      "start": 28.429,
+      "end": 28.796
+    },
+    {
+      "text": "added",
+      "start": 28.796,
+      "end": 28.98
+    },
+    {
+      "text": "nine.",
+      "start": 28.98,
+      "end": 29.289
+    },
+    {
+      "text": "Another",
+      "start": 29.882,
+      "end": 30.1
+    },
+    {
+      "text": "wanted",
+      "start": 30.1,
+      "end": 30.317
+    },
+    {
+      "text": "water",
+      "start": 30.318,
+      "end": 30.742
+    },
+    {
+      "text": "and",
+      "start": 30.753,
+      "end": 30.822
+    },
+    {
+      "text": "vanilla",
+      "start": 30.834,
+      "end": 31.189
+    },
+    {
+      "text": "ice",
+      "start": 31.189,
+      "end": 31.407
+    },
+    {
+      "text": "cream,",
+      "start": 31.407,
+      "end": 31.74
+    },
+    {
+      "text": "and",
+      "start": 32.118,
+      "end": 32.175
+    },
+    {
+      "text": "got",
+      "start": 32.175,
+      "end": 32.416
+    },
+    {
+      "text": "butter",
+      "start": 32.428,
+      "end": 32.737
+    },
+    {
+      "text": "and",
+      "start": 32.749,
+      "end": 32.84
+    },
+    {
+      "text": "ketchup.",
+      "start": 32.84,
+      "end": 33.276
+    },
+    {
+      "text": "The",
+      "start": 34.005,
+      "end": 34.064
+    },
+    {
+      "text": "clips",
+      "start": 34.075,
+      "end": 34.332
+    },
+    {
+      "text": "spread.",
+      "start": 34.344,
+      "end": 34.718
+    },
+    {
+      "text": "What",
+      "start": 35.985,
+      "end": 36.054
+    },
+    {
+      "text": "was",
+      "start": 36.054,
+      "end": 36.17
+    },
+    {
+      "text": "sold",
+      "start": 36.181,
+      "end": 36.563
+    },
+    {
+      "text": "as",
+      "start": 36.563,
+      "end": 36.679
+    },
+    {
+      "text": "the",
+      "start": 36.679,
+      "end": 36.737
+    },
+    {
+      "text": "future",
+      "start": 36.737,
+      "end": 37.154
+    },
+    {
+      "text": "of",
+      "start": 37.154,
+      "end": 37.223
+    },
+    {
+      "text": "fast",
+      "start": 37.223,
+      "end": 37.593
+    },
+    {
+      "text": "food",
+      "start": 37.593,
+      "end": 37.767
+    },
+    {
+      "text": "became",
+      "start": 37.767,
+      "end": 38.045
+    },
+    {
+      "text": "a",
+      "start": 38.045,
+      "end": 38.091
+    },
+    {
+      "text": "public",
+      "start": 38.091,
+      "end": 38.404
+    },
+    {
+      "text": "reminder",
+      "start": 38.415,
+      "end": 38.89
+    },
+    {
+      "text": "that",
+      "start": 39.063,
+      "end": 39.237
+    },
+    {
+      "text": "AI",
+      "start": 39.376,
+      "end": 39.873
+    },
+    {
+      "text": "can",
+      "start": 39.943,
+      "end": 40.117
+    },
+    {
+      "text": "fail",
+      "start": 40.117,
+      "end": 40.672
+    },
+    {
+      "text": "in",
+      "start": 40.915,
+      "end": 41.042
+    },
+    {
+      "text": "ordinary",
+      "start": 41.123,
+      "end": 41.494
+    },
+    {
+      "text": "moments.",
+      "start": 41.505,
+      "end": 42.073
+    },
+    {
+      "text": "In",
+      "start": 44.07,
+      "end": 44.164
+    },
+    {
+      "text": "June",
+      "start": 44.164,
+      "end": 45.227
+    },
+    {
+      "text": "2024,",
+      "start": 44.164,
+      "end": 45.227
+    },
+    {
+      "text": "McDonald's",
+      "start": 45.425,
+      "end": 46.114
+    },
+    {
+      "text": "ended",
+      "start": 46.126,
+      "end": 46.36
+    },
+    {
+      "text": "the",
+      "start": 46.371,
+      "end": 46.442
+    },
+    {
+      "text": "current",
+      "start": 46.442,
+      "end": 46.78
+    },
+    {
+      "text": "IBM",
+      "start": 46.792,
+      "end": 47.376
+    },
+    {
+      "text": "order-taking",
+      "start": 47.528,
+      "end": 48.065
+    },
+    {
+      "text": "test.",
+      "start": 48.077,
+      "end": 48.579
+    },
+    {
+      "text": "But",
+      "start": 49.243,
+      "end": 49.289
+    },
+    {
+      "text": "it",
+      "start": 49.289,
+      "end": 49.37
+    },
+    {
+      "text": "didn't",
+      "start": 49.37,
+      "end": 49.543
+    },
+    {
+      "text": "abandon",
+      "start": 49.544,
+      "end": 49.972
+    },
+    {
+      "text": "voice",
+      "start": 49.972,
+      "end": 50.284
+    },
+    {
+      "text": "AI.",
+      "start": 50.296,
+      "end": 50.747
+    },
+    {
+      "text": "It",
+      "start": 51.307,
+      "end": 51.388
+    },
+    {
+      "text": "said",
+      "start": 51.388,
+      "end": 51.596
+    },
+    {
+      "text": "voice",
+      "start": 51.596,
+      "end": 51.885
+    },
+    {
+      "text": "ordering",
+      "start": 51.885,
+      "end": 52.314
+    },
+    {
+      "text": "could",
+      "start": 52.325,
+      "end": 52.464
+    },
+    {
+      "text": "still",
+      "start": 52.464,
+      "end": 52.707
+    },
+    {
+      "text": "be",
+      "start": 52.719,
+      "end": 52.834
+    },
+    {
+      "text": "part",
+      "start": 52.834,
+      "end": 53.112
+    },
+    {
+      "text": "of",
+      "start": 53.112,
+      "end": 53.182
+    },
+    {
+      "text": "its",
+      "start": 53.193,
+      "end": 53.297
+    },
+    {
+      "text": "future.",
+      "start": 53.297,
+      "end": 53.83
+    },
+    {
+      "text": "The",
+      "start": 54.657,
+      "end": 54.717
+    },
+    {
+      "text": "lesson",
+      "start": 54.729,
+      "end": 55.014
+    },
+    {
+      "text": "isn't",
+      "start": 55.014,
+      "end": 55.229
+    },
+    {
+      "text": "that",
+      "start": 55.229,
+      "end": 55.431
+    },
+    {
+      "text": "AI",
+      "start": 55.562,
+      "end": 56.098
+    },
+    {
+      "text": "is",
+      "start": 56.205,
+      "end": 56.371
+    },
+    {
+      "text": "useless.",
+      "start": 56.383,
+      "end": 57.086
+    },
+    {
+      "text": "Building",
+      "start": 57.747,
+      "end": 58.121
+    },
+    {
+      "text": "AI",
+      "start": 58.133,
+      "end": 58.729
+    },
+    {
+      "text": "is",
+      "start": 58.811,
+      "end": 58.997
+    },
+    {
+      "text": "one",
+      "start": 58.997,
+      "end": 59.325
+    },
+    {
+      "text": "thing;",
+      "start": 59.336,
+      "end": 59.687
+    },
+    {
+      "text": "making",
+      "start": 60.034,
+      "end": 60.248
+    },
+    {
+      "text": "it",
+      "start": 60.248,
+      "end": 60.318
+    },
+    {
+      "text": "reliable",
+      "start": 60.318,
+      "end": 60.867
+    },
+    {
+      "text": "is",
+      "start": 60.995,
+      "end": 61.1
+    },
+    {
+      "text": "another.",
+      "start": 61.1,
+      "end": 61.579
+    },
+    {
+      "text": "A",
+      "start": 62.171,
+      "end": 62.229
+    },
+    {
+      "text": "better",
+      "start": 62.229,
+      "end": 62.518
+    },
+    {
+      "text": "design",
+      "start": 62.518,
+      "end": 63.097
+    },
+    {
+      "text": "confirms",
+      "start": 63.109,
+      "end": 63.653
+    },
+    {
+      "text": "the",
+      "start": 63.653,
+      "end": 63.734
+    },
+    {
+      "text": "order,",
+      "start": 63.745,
+      "end": 64.15
+    },
+    {
+      "text": "knows",
+      "start": 64.57,
+      "end": 64.981
+    },
+    {
+      "text": "when",
+      "start": 64.993,
+      "end": 65.097
+    },
+    {
+      "text": "it's",
+      "start": 65.097,
+      "end": 65.201
+    },
+    {
+      "text": "unsure,",
+      "start": 65.213,
+      "end": 65.734
+    },
+    {
+      "text": "lets",
+      "start": 66.17,
+      "end": 66.284
+    },
+    {
+      "text": "the",
+      "start": 66.284,
+      "end": 66.377
+    },
+    {
+      "text": "customer",
+      "start": 66.388,
+      "end": 66.782
+    },
+    {
+      "text": "correct",
+      "start": 66.782,
+      "end": 67.175
+    },
+    {
+      "text": "it,",
+      "start": 67.175,
+      "end": 67.302
+    },
+    {
+      "text": "and",
+      "start": 67.67,
+      "end": 67.726
+    },
+    {
+      "text": "hands",
+      "start": 67.727,
+      "end": 68.074
+    },
+    {
+      "text": "hard",
+      "start": 68.074,
+      "end": 68.363
+    },
+    {
+      "text": "cases",
+      "start": 68.375,
+      "end": 68.768
+    },
+    {
+      "text": "to",
+      "start": 68.768,
+      "end": 68.884
+    },
+    {
+      "text": "a",
+      "start": 68.884,
+      "end": 68.93
+    },
+    {
+      "text": "human.",
+      "start": 68.93,
+      "end": 69.301
+    },
+    {
+      "text": "The",
+      "start": 69.889,
+      "end": 69.936
+    },
+    {
+      "text": "smartest",
+      "start": 69.947,
+      "end": 70.348
+    },
+    {
+      "text": "software",
+      "start": 70.348,
+      "end": 70.891
+    },
+    {
+      "text": "isn't",
+      "start": 70.997,
+      "end": 71.221
+    },
+    {
+      "text": "the",
+      "start": 71.221,
+      "end": 71.315
+    },
+    {
+      "text": "one",
+      "start": 71.315,
+      "end": 71.693
+    },
+    {
+      "text": "that",
+      "start": 71.822,
+      "end": 72.011
+    },
+    {
+      "text": "does",
+      "start": 72.011,
+      "end": 72.412
+    },
+    {
+      "text": "everything.",
+      "start": 72.424,
+      "end": 72.978
+    },
+    {
+      "text": "It's",
+      "start": 73.286,
+      "end": 73.362
+    },
+    {
+      "text": "the",
+      "start": 73.373,
+      "end": 73.468
+    },
+    {
+      "text": "one",
+      "start": 73.468,
+      "end": 73.68
+    },
+    {
+      "text": "that",
+      "start": 73.68,
+      "end": 73.845
+    },
+    {
+      "text": "knows",
+      "start": 73.845,
+      "end": 74.305
+    },
+    {
+      "text": "when",
+      "start": 74.305,
+      "end": 74.423
+    },
+    {
+      "text": "to",
+      "start": 74.423,
+      "end": 74.506
+    },
+    {
+      "text": "ask",
+      "start": 74.517,
+      "end": 74.836
+    },
+    {
+      "text": "for",
+      "start": 74.836,
+      "end": 74.942
+    },
+    {
+      "text": "help.",
+      "start": 74.942,
+      "end": 75.26
+    },
+    {
+      "text": "For",
+      "start": 75.926,
+      "end": 76.146
+    },
+    {
+      "text": "founders",
+      "start": 76.157,
+      "end": 76.782
+    },
+    {
+      "text": "and",
+      "start": 76.794,
+      "end": 76.852
+    },
+    {
+      "text": "developers,",
+      "start": 76.852,
+      "end": 77.546
+    },
+    {
+      "text": "that's",
+      "start": 77.778,
+      "end": 77.974
+    },
+    {
+      "text": "the",
+      "start": 77.986,
+      "end": 78.113
+    },
+    {
+      "text": "opportunity.",
+      "start": 78.125,
+      "end": 78.866
+    },
+    {
+      "text": "Don't",
+      "start": 79.431,
+      "end": 79.593
+    },
+    {
+      "text": "build",
+      "start": 79.593,
+      "end": 79.801
+    },
+    {
+      "text": "AI",
+      "start": 79.813,
+      "end": 80.31
+    },
+    {
+      "text": "because",
+      "start": 80.391,
+      "end": 80.669
+    },
+    {
+      "text": "it",
+      "start": 80.669,
+      "end": 80.738
+    },
+    {
+      "text": "sounds",
+      "start": 80.738,
+      "end": 81.005
+    },
+    {
+      "text": "impressive.",
+      "start": 81.005,
+      "end": 81.606
+    },
+    {
+      "text": "Build",
+      "start": 81.958,
+      "end": 82.102
+    },
+    {
+      "text": "something",
+      "start": 82.102,
+      "end": 82.403
+    },
+    {
+      "text": "people",
+      "start": 82.403,
+      "end": 82.773
+    },
+    {
+      "text": "can",
+      "start": 82.773,
+      "end": 82.889
+    },
+    {
+      "text": "trust.",
+      "start": 82.889,
+      "end": 83.503
+    }
+  ]
+}

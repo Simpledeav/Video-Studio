@@ -1,0 +1,1186 @@
+{
+  "voice": "en-US-AndrewMultilingualNeural",
+  "leadInSeconds": 0.0,
+  "segments": [
+    {
+      "id": "impossible-product",
+      "text": "Imagine trying to sell water in a beer can, calling it Liquid Death, and convincing people to actually buy it.",
+      "emotion": "hook",
+      "rate": "+5%",
+      "pitch": "-2Hz",
+      "start": 0.2,
+      "duration": 6.744,
+      "end": 6.944,
+      "words": 20
+    },
+    {
+      "id": "boring-aisle",
+      "text": "In 2017, advertising creative Mike Cessario noticed something. Beer and energy drinks had exciting marketing. Healthy drinks? Mostly boring.",
+      "emotion": "observation",
+      "rate": "+7%",
+      "pitch": "-2Hz",
+      "start": 7.3,
+      "duration": 9.792,
+      "end": 17.092,
+      "words": 19
+    },
+    {
+      "id": "crazy-idea",
+      "text": "So he tried something different. What if water looked like a heavy-metal energy drink? What if the name was so outrageous, people couldn't ignore it? He called it Liquid Death.",
+      "emotion": "idea",
+      "rate": "+5%",
+      "pitch": "-2Hz",
+      "start": 17.3,
+      "duration": 9.504,
+      "end": 26.804,
+      "words": 30
+    },
+    {
+      "id": "manufacturing",
+      "text": "But there was a problem. Finding someone to put still mountain water into aluminum cans, at scale, wasn't easy. And investors weren't automatically convinced anyone wanted it. The product was simple. The packaging was not.",
+      "emotion": "tension",
+      "rate": "+8%",
+      "pitch": "-3Hz",
+      "start": 28.3,
+      "duration": 12.912,
+      "end": 41.212,
+      "words": 35
+    },
+    {
+      "id": "attention-first",
+      "text": "Instead of waiting, they launched a provocative video before selling their first cans. Millions watched. Suddenly, retailers and distributors wanted to know how to get it. They sold the idea before the product existed.",
+      "emotion": "momentum",
+      "rate": "+8%",
+      "pitch": "-2Hz",
+      "start": 42.3,
+      "duration": 12.336,
+      "end": 54.636,
+      "words": 34
+    },
+    {
+      "id": "shipping",
+      "text": "Going viral doesn't guarantee profit. The water was canned in Austria, then shipped to America. When COVID disrupted shipping, container costs jumped from four thousand to thirteen thousand dollars. They sold more, and lost money on every case.",
+      "emotion": "problem",
+      "rate": "+16%",
+      "pitch": "-3Hz",
+      "start": 55.3,
+      "duration": 13.92,
+      "end": 69.22,
+      "words": 38
+    },
+    {
+      "id": "lesson",
+      "text": "That's what many people miss. A brilliant brand can attract customers, but manufacturing, distribution and margins decide whether the business works. Liquid Death was selling identity.",
+      "emotion": "insight",
+      "rate": "+10%",
+      "pitch": "-2Hz",
+      "start": 69.8,
+      "duration": 11.208,
+      "end": 81.008,
+      "words": 26
+    },
+    {
+      "id": "punchline",
+      "text": "The biggest opportunity isn't inventing something new. It's making people excited about what they already buy.",
+      "emotion": "resolve",
+      "rate": "+12%",
+      "pitch": "-2Hz",
+      "start": 81.1,
+      "duration": 5.64,
+      "end": 86.74,
+      "words": 16
+    }
+  ],
+  "words": [
+    {
+      "text": "Imagine",
+      "start": 0.295,
+      "end": 0.748
+    },
+    {
+      "text": "trying",
+      "start": 0.748,
+      "end": 0.986
+    },
+    {
+      "text": "to",
+      "start": 0.986,
+      "end": 1.009
+    },
+    {
+      "text": "sell",
+      "start": 1.01,
+      "end": 1.295
+    },
+    {
+      "text": "water",
+      "start": 1.295,
+      "end": 1.605
+    },
+    {
+      "text": "in",
+      "start": 1.605,
+      "end": 1.688
+    },
+    {
+      "text": "a",
+      "start": 1.688,
+      "end": 1.736
+    },
+    {
+      "text": "beer",
+      "start": 1.736,
+      "end": 2.057
+    },
+    {
+      "text": "can,",
+      "start": 2.057,
+      "end": 2.414
+    },
+    {
+      "text": "calling",
+      "start": 2.783,
+      "end": 3.081
+    },
+    {
+      "text": "it",
+      "start": 3.081,
+      "end": 3.188
+    },
+    {
+      "text": "Liquid",
+      "start": 3.188,
+      "end": 3.533
+    },
+    {
+      "text": "Death,",
+      "start": 3.533,
+      "end": 3.986
+    },
+    {
+      "text": "and",
+      "start": 4.402,
+      "end": 4.724
+    },
+    {
+      "text": "convincing",
+      "start": 4.855,
+      "end": 5.414
+    },
+    {
+      "text": "people",
+      "start": 5.414,
+      "end": 5.724
+    },
+    {
+      "text": "to",
+      "start": 5.724,
+      "end": 5.783
+    },
+    {
+      "text": "actually",
+      "start": 5.795,
+      "end": 6.176
+    },
+    {
+      "text": "buy",
+      "start": 6.176,
+      "end": 6.426
+    },
+    {
+      "text": "it.",
+      "start": 6.426,
+      "end": 6.605
+    },
+    {
+      "text": "In",
+      "start": 7.382,
+      "end": 8.457
+    },
+    {
+      "text": "2017,",
+      "start": 7.382,
+      "end": 8.457
+    },
+    {
+      "text": "advertising",
+      "start": 8.935,
+      "end": 9.555
+    },
+    {
+      "text": "creative",
+      "start": 9.566,
+      "end": 10.022
+    },
+    {
+      "text": "Mike",
+      "start": 10.034,
+      "end": 10.361
+    },
+    {
+      "text": "Cessario",
+      "start": 10.501,
+      "end": 11.015
+    },
+    {
+      "text": "noticed",
+      "start": 11.015,
+      "end": 11.365
+    },
+    {
+      "text": "something.",
+      "start": 11.377,
+      "end": 11.809
+    },
+    {
+      "text": "Beer",
+      "start": 12.183,
+      "end": 12.417
+    },
+    {
+      "text": "and",
+      "start": 12.417,
+      "end": 12.522
+    },
+    {
+      "text": "energy",
+      "start": 12.534,
+      "end": 12.872
+    },
+    {
+      "text": "drinks",
+      "start": 12.872,
+      "end": 13.398
+    },
+    {
+      "text": "had",
+      "start": 13.538,
+      "end": 13.69
+    },
+    {
+      "text": "exciting",
+      "start": 13.69,
+      "end": 14.204
+    },
+    {
+      "text": "marketing.",
+      "start": 14.204,
+      "end": 14.613
+    },
+    {
+      "text": "Healthy",
+      "start": 15.01,
+      "end": 15.221
+    },
+    {
+      "text": "drinks?",
+      "start": 15.232,
+      "end": 15.688
+    },
+    {
+      "text": "Mostly",
+      "start": 16.062,
+      "end": 16.319
+    },
+    {
+      "text": "boring.",
+      "start": 16.33,
+      "end": 16.739
+    },
+    {
+      "text": "So",
+      "start": 17.395,
+      "end": 17.514
+    },
+    {
+      "text": "he",
+      "start": 17.526,
+      "end": 17.621
+    },
+    {
+      "text": "tried",
+      "start": 17.621,
+      "end": 17.871
+    },
+    {
+      "text": "something",
+      "start": 17.871,
+      "end": 18.109
+    },
+    {
+      "text": "different.",
+      "start": 18.11,
+      "end": 18.49
+    },
+    {
+      "text": "What",
+      "start": 18.871,
+      "end": 18.967
+    },
+    {
+      "text": "if",
+      "start": 18.967,
+      "end": 19.074
+    },
+    {
+      "text": "water",
+      "start": 19.074,
+      "end": 19.467
+    },
+    {
+      "text": "looked",
+      "start": 19.467,
+      "end": 19.681
+    },
+    {
+      "text": "like",
+      "start": 19.693,
+      "end": 19.848
+    },
+    {
+      "text": "a",
+      "start": 19.979,
+      "end": 20.014
+    },
+    {
+      "text": "heavy-metal",
+      "start": 20.014,
+      "end": 20.61
+    },
+    {
+      "text": "energy",
+      "start": 20.61,
+      "end": 20.848
+    },
+    {
+      "text": "drink?",
+      "start": 20.86,
+      "end": 21.264
+    },
+    {
+      "text": "What",
+      "start": 21.645,
+      "end": 21.717
+    },
+    {
+      "text": "if",
+      "start": 21.717,
+      "end": 21.788
+    },
+    {
+      "text": "the",
+      "start": 21.788,
+      "end": 21.848
+    },
+    {
+      "text": "name",
+      "start": 21.848,
+      "end": 22.074
+    },
+    {
+      "text": "was",
+      "start": 22.074,
+      "end": 22.217
+    },
+    {
+      "text": "so",
+      "start": 22.229,
+      "end": 22.669
+    },
+    {
+      "text": "outrageous,",
+      "start": 22.788,
+      "end": 23.752
+    },
+    {
+      "text": "people",
+      "start": 23.943,
+      "end": 24.264
+    },
+    {
+      "text": "couldn't",
+      "start": 24.264,
+      "end": 24.514
+    },
+    {
+      "text": "ignore",
+      "start": 24.514,
+      "end": 24.871
+    },
+    {
+      "text": "it?",
+      "start": 24.883,
+      "end": 25.026
+    },
+    {
+      "text": "He",
+      "start": 25.431,
+      "end": 25.479
+    },
+    {
+      "text": "called",
+      "start": 25.479,
+      "end": 25.657
+    },
+    {
+      "text": "it",
+      "start": 25.669,
+      "end": 25.752
+    },
+    {
+      "text": "Liquid",
+      "start": 25.752,
+      "end": 26.014
+    },
+    {
+      "text": "Death.",
+      "start": 26.014,
+      "end": 26.455
+    },
+    {
+      "text": "But",
+      "start": 28.381,
+      "end": 28.439
+    },
+    {
+      "text": "there",
+      "start": 28.439,
+      "end": 28.508
+    },
+    {
+      "text": "was",
+      "start": 28.52,
+      "end": 28.612
+    },
+    {
+      "text": "a",
+      "start": 28.612,
+      "end": 28.659
+    },
+    {
+      "text": "problem.",
+      "start": 28.659,
+      "end": 29.099
+    },
+    {
+      "text": "Finding",
+      "start": 29.515,
+      "end": 29.874
+    },
+    {
+      "text": "someone",
+      "start": 29.874,
+      "end": 30.129
+    },
+    {
+      "text": "to",
+      "start": 30.129,
+      "end": 30.163
+    },
+    {
+      "text": "put",
+      "start": 30.163,
+      "end": 30.36
+    },
+    {
+      "text": "still",
+      "start": 30.36,
+      "end": 30.777
+    },
+    {
+      "text": "mountain",
+      "start": 30.777,
+      "end": 31.089
+    },
+    {
+      "text": "water",
+      "start": 31.101,
+      "end": 31.494
+    },
+    {
+      "text": "into",
+      "start": 31.61,
+      "end": 31.818
+    },
+    {
+      "text": "aluminum",
+      "start": 31.818,
+      "end": 32.316
+    },
+    {
+      "text": "cans,",
+      "start": 32.328,
+      "end": 32.918
+    },
+    {
+      "text": "at",
+      "start": 33.092,
+      "end": 33.184
+    },
+    {
+      "text": "scale,",
+      "start": 33.196,
+      "end": 33.717
+    },
+    {
+      "text": "wasn't",
+      "start": 33.971,
+      "end": 34.226
+    },
+    {
+      "text": "easy.",
+      "start": 34.226,
+      "end": 34.608
+    },
+    {
+      "text": "And",
+      "start": 34.99,
+      "end": 35.059
+    },
+    {
+      "text": "investors",
+      "start": 35.059,
+      "end": 35.638
+    },
+    {
+      "text": "weren't",
+      "start": 35.638,
+      "end": 35.893
+    },
+    {
+      "text": "automatically",
+      "start": 35.939,
+      "end": 36.587
+    },
+    {
+      "text": "convinced",
+      "start": 36.599,
+      "end": 37.108
+    },
+    {
+      "text": "anyone",
+      "start": 37.212,
+      "end": 37.525
+    },
+    {
+      "text": "wanted",
+      "start": 37.525,
+      "end": 37.814
+    },
+    {
+      "text": "it.",
+      "start": 37.814,
+      "end": 37.976
+    },
+    {
+      "text": "The",
+      "start": 38.358,
+      "end": 38.404
+    },
+    {
+      "text": "product",
+      "start": 38.404,
+      "end": 38.786
+    },
+    {
+      "text": "was",
+      "start": 38.786,
+      "end": 38.913
+    },
+    {
+      "text": "simple.",
+      "start": 38.925,
+      "end": 39.423
+    },
+    {
+      "text": "The",
+      "start": 39.805,
+      "end": 39.862
+    },
+    {
+      "text": "packaging",
+      "start": 39.862,
+      "end": 40.372
+    },
+    {
+      "text": "was",
+      "start": 40.383,
+      "end": 40.499
+    },
+    {
+      "text": "not.",
+      "start": 40.499,
+      "end": 40.869
+    },
+    {
+      "text": "Instead",
+      "start": 42.393,
+      "end": 42.751
+    },
+    {
+      "text": "of",
+      "start": 42.751,
+      "end": 42.867
+    },
+    {
+      "text": "waiting,",
+      "start": 42.867,
+      "end": 43.261
+    },
+    {
+      "text": "they",
+      "start": 43.619,
+      "end": 43.724
+    },
+    {
+      "text": "launched",
+      "start": 43.735,
+      "end": 44.059
+    },
+    {
+      "text": "a",
+      "start": 44.071,
+      "end": 44.117
+    },
+    {
+      "text": "provocative",
+      "start": 44.129,
+      "end": 44.707
+    },
+    {
+      "text": "video",
+      "start": 44.719,
+      "end": 45.136
+    },
+    {
+      "text": "before",
+      "start": 45.182,
+      "end": 45.541
+    },
+    {
+      "text": "selling",
+      "start": 45.552,
+      "end": 45.888
+    },
+    {
+      "text": "their",
+      "start": 45.888,
+      "end": 46.004
+    },
+    {
+      "text": "first",
+      "start": 46.004,
+      "end": 46.374
+    },
+    {
+      "text": "cans.",
+      "start": 46.374,
+      "end": 46.906
+    },
+    {
+      "text": "Millions",
+      "start": 47.288,
+      "end": 47.601
+    },
+    {
+      "text": "watched.",
+      "start": 47.601,
+      "end": 48.029
+    },
+    {
+      "text": "Suddenly,",
+      "start": 48.4,
+      "end": 48.99
+    },
+    {
+      "text": "retailers",
+      "start": 49.244,
+      "end": 49.823
+    },
+    {
+      "text": "and",
+      "start": 49.823,
+      "end": 49.869
+    },
+    {
+      "text": "distributors",
+      "start": 49.869,
+      "end": 50.587
+    },
+    {
+      "text": "wanted",
+      "start": 50.633,
+      "end": 50.83
+    },
+    {
+      "text": "to",
+      "start": 50.83,
+      "end": 50.876
+    },
+    {
+      "text": "know",
+      "start": 50.876,
+      "end": 51.108
+    },
+    {
+      "text": "how",
+      "start": 51.108,
+      "end": 51.224
+    },
+    {
+      "text": "to",
+      "start": 51.224,
+      "end": 51.293
+    },
+    {
+      "text": "get",
+      "start": 51.293,
+      "end": 51.501
+    },
+    {
+      "text": "it.",
+      "start": 51.513,
+      "end": 51.663
+    },
+    {
+      "text": "They",
+      "start": 52.034,
+      "end": 52.115
+    },
+    {
+      "text": "sold",
+      "start": 52.115,
+      "end": 52.381
+    },
+    {
+      "text": "the",
+      "start": 52.381,
+      "end": 52.474
+    },
+    {
+      "text": "idea",
+      "start": 52.474,
+      "end": 53.029
+    },
+    {
+      "text": "before",
+      "start": 53.041,
+      "end": 53.365
+    },
+    {
+      "text": "the",
+      "start": 53.376,
+      "end": 53.446
+    },
+    {
+      "text": "product",
+      "start": 53.446,
+      "end": 53.77
+    },
+    {
+      "text": "existed.",
+      "start": 53.782,
+      "end": 54.291
+    },
+    {
+      "text": "Going",
+      "start": 55.386,
+      "end": 55.591
+    },
+    {
+      "text": "viral",
+      "start": 55.591,
+      "end": 56.033
+    },
+    {
+      "text": "doesn't",
+      "start": 56.13,
+      "end": 56.421
+    },
+    {
+      "text": "guarantee",
+      "start": 56.431,
+      "end": 56.83
+    },
+    {
+      "text": "profit.",
+      "start": 56.83,
+      "end": 57.294
+    },
+    {
+      "text": "The",
+      "start": 57.628,
+      "end": 57.681
+    },
+    {
+      "text": "water",
+      "start": 57.681,
+      "end": 57.951
+    },
+    {
+      "text": "was",
+      "start": 57.962,
+      "end": 58.08
+    },
+    {
+      "text": "canned",
+      "start": 58.08,
+      "end": 58.36
+    },
+    {
+      "text": "in",
+      "start": 58.371,
+      "end": 58.436
+    },
+    {
+      "text": "Austria,",
+      "start": 58.436,
+      "end": 58.942
+    },
+    {
+      "text": "then",
+      "start": 59.33,
+      "end": 59.492
+    },
+    {
+      "text": "shipped",
+      "start": 59.503,
+      "end": 59.761
+    },
+    {
+      "text": "to",
+      "start": 59.761,
+      "end": 59.869
+    },
+    {
+      "text": "America.",
+      "start": 59.869,
+      "end": 60.408
+    },
+    {
+      "text": "When",
+      "start": 60.753,
+      "end": 60.903
+    },
+    {
+      "text": "COVID",
+      "start": 60.914,
+      "end": 61.431
+    },
+    {
+      "text": "disrupted",
+      "start": 61.496,
+      "end": 62.035
+    },
+    {
+      "text": "shipping,",
+      "start": 62.046,
+      "end": 62.487
+    },
+    {
+      "text": "container",
+      "start": 62.692,
+      "end": 63.037
+    },
+    {
+      "text": "costs",
+      "start": 63.048,
+      "end": 63.468
+    },
+    {
+      "text": "jumped",
+      "start": 63.468,
+      "end": 63.77
+    },
+    {
+      "text": "from",
+      "start": 63.77,
+      "end": 63.931
+    },
+    {
+      "text": "four",
+      "start": 63.931,
+      "end": 64.255
+    },
+    {
+      "text": "thousand",
+      "start": 64.266,
+      "end": 64.686
+    },
+    {
+      "text": "to",
+      "start": 64.729,
+      "end": 64.772
+    },
+    {
+      "text": "thirteen",
+      "start": 64.783,
+      "end": 65.322
+    },
+    {
+      "text": "thousand",
+      "start": 65.322,
+      "end": 65.677
+    },
+    {
+      "text": "dollars.",
+      "start": 65.677,
+      "end": 66.162
+    },
+    {
+      "text": "They",
+      "start": 66.518,
+      "end": 66.572
+    },
+    {
+      "text": "sold",
+      "start": 66.582,
+      "end": 66.841
+    },
+    {
+      "text": "more,",
+      "start": 66.841,
+      "end": 67.153
+    },
+    {
+      "text": "and",
+      "start": 67.391,
+      "end": 67.477
+    },
+    {
+      "text": "lost",
+      "start": 67.477,
+      "end": 67.778
+    },
+    {
+      "text": "money",
+      "start": 67.789,
+      "end": 68.091
+    },
+    {
+      "text": "on",
+      "start": 68.091,
+      "end": 68.199
+    },
+    {
+      "text": "every",
+      "start": 68.199,
+      "end": 68.403
+    },
+    {
+      "text": "case.",
+      "start": 68.414,
+      "end": 68.899
+    },
+    {
+      "text": "That's",
+      "start": 69.891,
+      "end": 70.016
+    },
+    {
+      "text": "what",
+      "start": 70.016,
+      "end": 70.107
+    },
+    {
+      "text": "many",
+      "start": 70.107,
+      "end": 70.323
+    },
+    {
+      "text": "people",
+      "start": 70.323,
+      "end": 70.618
+    },
+    {
+      "text": "miss.",
+      "start": 70.618,
+      "end": 71.061
+    },
+    {
+      "text": "A",
+      "start": 71.425,
+      "end": 71.482
+    },
+    {
+      "text": "brilliant",
+      "start": 71.482,
+      "end": 71.993
+    },
+    {
+      "text": "brand",
+      "start": 71.993,
+      "end": 72.505
+    },
+    {
+      "text": "can",
+      "start": 72.584,
+      "end": 72.709
+    },
+    {
+      "text": "attract",
+      "start": 72.709,
+      "end": 73.118
+    },
+    {
+      "text": "customers,",
+      "start": 73.13,
+      "end": 73.766
+    },
+    {
+      "text": "but",
+      "start": 74.141,
+      "end": 74.277
+    },
+    {
+      "text": "manufacturing,",
+      "start": 74.277,
+      "end": 75.164
+    },
+    {
+      "text": "distribution",
+      "start": 75.38,
+      "end": 76.141
+    },
+    {
+      "text": "and",
+      "start": 76.186,
+      "end": 76.289
+    },
+    {
+      "text": "margins",
+      "start": 76.289,
+      "end": 76.72
+    },
+    {
+      "text": "decide",
+      "start": 76.72,
+      "end": 77.266
+    },
+    {
+      "text": "whether",
+      "start": 77.459,
+      "end": 77.686
+    },
+    {
+      "text": "the",
+      "start": 77.686,
+      "end": 77.755
+    },
+    {
+      "text": "business",
+      "start": 77.766,
+      "end": 78.107
+    },
+    {
+      "text": "works.",
+      "start": 78.107,
+      "end": 78.595
+    },
+    {
+      "text": "Liquid",
+      "start": 78.959,
+      "end": 79.255
+    },
+    {
+      "text": "Death",
+      "start": 79.266,
+      "end": 79.595
+    },
+    {
+      "text": "was",
+      "start": 79.607,
+      "end": 79.777
+    },
+    {
+      "text": "selling",
+      "start": 79.777,
+      "end": 80.175
+    },
+    {
+      "text": "identity.",
+      "start": 80.175,
+      "end": 80.664
+    },
+    {
+      "text": "The",
+      "start": 81.189,
+      "end": 81.267
+    },
+    {
+      "text": "biggest",
+      "start": 81.279,
+      "end": 81.591
+    },
+    {
+      "text": "opportunity",
+      "start": 81.591,
+      "end": 82.25
+    },
+    {
+      "text": "isn't",
+      "start": 82.562,
+      "end": 82.752
+    },
+    {
+      "text": "inventing",
+      "start": 82.752,
+      "end": 83.109
+    },
+    {
+      "text": "something",
+      "start": 83.109,
+      "end": 83.433
+    },
+    {
+      "text": "new.",
+      "start": 83.444,
+      "end": 83.756
+    },
+    {
+      "text": "It's",
+      "start": 84.113,
+      "end": 84.203
+    },
+    {
+      "text": "making",
+      "start": 84.214,
+      "end": 84.471
+    },
+    {
+      "text": "people",
+      "start": 84.471,
+      "end": 84.783
+    },
+    {
+      "text": "excited",
+      "start": 84.783,
+      "end": 85.263
+    },
+    {
+      "text": "about",
+      "start": 85.263,
+      "end": 85.486
+    },
+    {
+      "text": "what",
+      "start": 85.497,
+      "end": 85.598
+    },
+    {
+      "text": "they",
+      "start": 85.609,
+      "end": 85.732
+    },
+    {
+      "text": "already",
+      "start": 85.743,
+      "end": 86.066
+    },
+    {
+      "text": "buy.",
+      "start": 86.066,
+      "end": 86.435
+    }
+  ]
+}

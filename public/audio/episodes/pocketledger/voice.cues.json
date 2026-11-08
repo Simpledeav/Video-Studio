@@ -1,0 +1,235 @@
+{
+  "source": "public/audio/episodes/pocketledger/voice.mp3",
+  "voice": "en-NG-AbeoNeural",
+  "segments": [
+    {
+      "id": "hook",
+      "text": "Everyone wants to build the next billion-dollar startup. But what if the next useful product is something much smaller?",
+      "emotion": "curiosity",
+      "rate": "+4%",
+      "pitch": "-1Hz",
+      "start": 0.2,
+      "duration": 7.128,
+      "end": 7.328,
+      "words": 19
+    },
+    {
+      "id": "owner",
+      "text": "Think about the person running a small shop. They make sales all day, receive transfers, pay suppliers, cover expenses, and somehow, at the end of the month, they still don't know where the money went.",
+      "emotion": "empathy",
+      "rate": "+12%",
+      "pitch": "-2Hz",
+      "start": 8.3,
+      "duration": 11.352,
+      "end": 19.652,
+      "words": 35
+    },
+    {
+      "id": "evidence",
+      "text": "And this isn't imaginary. Research involving seven hundred and eighteen Nigerian microbusinesses found that sixty-four percent kept no financial records. Only thirty-two percent separated business money from personal money.",
+      "emotion": "evidence",
+      "rate": "+9%",
+      "pitch": "-2Hz",
+      "start": 20.3,
+      "duration": 12.48,
+      "end": 32.78,
+      "words": 29
+    },
+    {
+      "id": "idea",
+      "text": "Now imagine something simpler. Not another complicated accounting platform. Just a tool that records what comes in, what goes out, and what is actually left.",
+      "emotion": "clarity",
+      "rate": "+8%",
+      "pitch": "-1Hz",
+      "start": 33.1,
+      "duration": 10.44,
+      "end": 43.54,
+      "words": 25
+    },
+    {
+      "id": "demo",
+      "text": "A sale comes in: twelve thousand five hundred naira, bank transfer. Saved. Transport takes one thousand eight hundred. Saved. A personal withdrawal is marked separately, so it never gets confused with a business expense. At closing time: sales, expenses, personal withdrawals, and what is actually left. Just the numbers that matter.",
+      "emotion": "momentum",
+      "rate": "+11%",
+      "pitch": "-1Hz",
+      "start": 43.6,
+      "duration": 22.416,
+      "end": 66.016,
+      "words": 51
+    },
+    {
+      "id": "lesson",
+      "text": "And that's the point. You don't always need to invent something nobody has ever seen. Sometimes, you just need to notice what people struggle with, remove the friction, and make their everyday lives a little easier.",
+      "emotion": "insight",
+      "rate": "+5%",
+      "pitch": "-2Hz",
+      "start": 66.5,
+      "duration": 12.696,
+      "end": 79.196,
+      "words": 36
+    },
+    {
+      "id": "ending",
+      "text": "Maybe your first successful startup doesn't need a million users. Just a thousand people who don't want to live without it.",
+      "emotion": "resolve",
+      "rate": "+9%",
+      "pitch": "-1Hz",
+      "start": 79.4,
+      "duration": 7.104,
+      "end": 86.504,
+      "words": 21
+    }
+  ],
+  "cues": [
+    {
+      "start": 0.298,
+      "end": 2.886,
+      "text": "Everyone wants to build the next billion-dollar startup."
+    },
+    {
+      "start": 3.613,
+      "end": 6.586,
+      "text": "But what if the next useful product is something much smaller?"
+    },
+    {
+      "start": 8.395,
+      "end": 10.318,
+      "text": "Think about the person running a small shop."
+    },
+    {
+      "start": 10.99,
+      "end": 12.199,
+      "text": "They make sales all day,"
+    },
+    {
+      "start": 12.329,
+      "end": 15.245000000000001,
+      "text": "receive transfers, pay suppliers, cover expenses,"
+    },
+    {
+      "start": 15.365,
+      "end": 17.198,
+      "text": "and somehow, at the end of the month,"
+    },
+    {
+      "start": 17.318,
+      "end": 18.94,
+      "text": "they still don't know where the money went."
+    },
+    {
+      "start": 20.396,
+      "end": 21.749,
+      "text": "And this isn't imaginary."
+    },
+    {
+      "start": 22.467,
+      "end": 25.741999999999997,
+      "text": "Research involving seven hundred and eighteen Nigerian microbusinesses found that"
+    },
+    {
+      "start": 25.862,
+      "end": 28.235,
+      "text": "sixty-four percent kept no financial records."
+    },
+    {
+      "start": 28.924,
+      "end": 32.077,
+      "text": "Only thirty-two percent separated business money from personal money."
+    },
+    {
+      "start": 33.196,
+      "end": 34.78,
+      "text": "Now imagine something simpler."
+    },
+    {
+      "start": 35.473,
+      "end": 37.693,
+      "text": "Not another complicated accounting platform."
+    },
+    {
+      "start": 38.343,
+      "end": 40.411,
+      "text": "Just a tool that records what comes in,"
+    },
+    {
+      "start": 40.531,
+      "end": 42.774,
+      "text": "what goes out, and what is actually left."
+    },
+    {
+      "start": 43.695,
+      "end": 47.369,
+      "text": "A sale comes in: twelve thousand five hundred naira, bank transfer."
+    },
+    {
+      "start": 48.049,
+      "end": 48.547,
+      "text": "Saved."
+    },
+    {
+      "start": 49.287,
+      "end": 51.226,
+      "text": "Transport takes one thousand eight hundred."
+    },
+    {
+      "start": 51.968,
+      "end": 52.466,
+      "text": "Saved."
+    },
+    {
+      "start": 53.206,
+      "end": 55.09,
+      "text": "A personal withdrawal is marked separately,"
+    },
+    {
+      "start": 55.21,
+      "end": 57.69,
+      "text": "so it never gets confused with a business expense."
+    },
+    {
+      "start": 58.364,
+      "end": 60.665,
+      "text": "At closing time: sales, expenses,"
+    },
+    {
+      "start": 60.785,
+      "end": 63.253,
+      "text": "personal withdrawals, and what is actually left."
+    },
+    {
+      "start": 63.96,
+      "end": 65.337,
+      "text": "Just the numbers that matter."
+    },
+    {
+      "start": 66.598,
+      "end": 67.758,
+      "text": "And that's the point."
+    },
+    {
+      "start": 68.548,
+      "end": 71.541,
+      "text": "You don't always need to invent something nobody has ever seen."
+    },
+    {
+      "start": 72.226,
+      "end": 75.261,
+      "text": "Sometimes, you just need to notice what people struggle with,"
+    },
+    {
+      "start": 75.381,
+      "end": 78.47,
+      "text": "remove the friction, and make their everyday lives a little easier."
+    },
+    {
+      "start": 79.496,
+      "end": 82.454,
+      "text": "Maybe your first successful startup doesn't need a million users."
+    },
+    {
+      "start": 83.15,
+      "end": 85.741,
+      "text": "Just a thousand people who don't want to live without it."
+    }
+  ]
+}

@@ -1,0 +1,780 @@
+{
+  "schemaVersion": "1.0.0",
+  "episodeId": "demo-one-person-company",
+  "title": "The One-Person Company",
+  "topic": "AI agents, leverage, and the future of work",
+  "durationSeconds": 90,
+  "fps": 30,
+  "themeId": "MIDNIGHT_CYAN",
+  "narration": {
+    "text": "Imagine it's 2028. A startup launches with one employee. You.\n\nNo team. No office. Just a laptop, a strong idea, and an army of AI agents working while you sleep.\n\nThey answer support tickets, write the code, chase invoices, and ship the updates. By morning, your company has done a week of work.\n\nAt first, it feels like magic. Then it feels like leverage. One person, doing what used to take fifty. A solo founder with a clear system can now ship like a team of twenty, and pivot before a committee finishes its first meeting.\n\nThe tools are already here. The agents are getting better every month. The cost of starting is collapsing. And the old advantage, headcount, is becoming a liability. That doesn't make people worthless. It makes coordination cheap, and judgment scarce.\n\nBut here's the part nobody puts in the demo.\n\nAutomation can multiply a good decision. It can also multiply a bad one, faster than anyone can catch it. One careless prompt can become a thousand bad emails, or a headline.\n\nSo the skill that matters isn't typing prompts. It's knowing which decisions should never be delegated.\n\nThe one-person company is coming. The question is not whether you can run it alone. It's whether you'll know what still needs a human. Not because you can do everything. Because you know what not to automate.\n\nThat's the future worth building.",
+    "voice": "en-US-AndrewNeural",
+    "voiceAudioPath": "/audio/voice.mp3",
+    "subtitlePath": "/audio/voice.vtt",
+    "wordTimingsPath": "/audio/voice.words.json",
+    "audioDurationSeconds": 83.64,
+    "subtitles": [
+      {
+        "start": 0.104,
+        "end": 1.736,
+        "text": "Imagine it's 2028."
+      },
+      {
+        "start": 2.005,
+        "end": 4.092,
+        "text": "A startup launches with one employee."
+      },
+      {
+        "start": 4.362,
+        "end": 4.782,
+        "text": "You."
+      },
+      {
+        "start": 5.052,
+        "end": 5.746,
+        "text": "No team."
+      },
+      {
+        "start": 6.016,
+        "end": 6.827,
+        "text": "No office."
+      },
+      {
+        "start": 7.096,
+        "end": 9.34,
+        "text": "Just a laptop, a strong idea,"
+      },
+      {
+        "start": 9.492,
+        "end": 12.334,
+        "text": "and an army of AI agents working while you sleep."
+      },
+      {
+        "start": 12.617,
+        "end": 15.043,
+        "text": "They answer support tickets, write the code,"
+      },
+      {
+        "start": 15.26,
+        "end": 17.79,
+        "text": "chase invoices, and ship the updates."
+      },
+      {
+        "start": 18.073,
+        "end": 20.72,
+        "text": "By morning, your company has done a week of work."
+      },
+      {
+        "start": 20.99,
+        "end": 22.946,
+        "text": "At first, it feels like magic."
+      },
+      {
+        "start": 23.216,
+        "end": 24.613,
+        "text": "Then it feels like leverage."
+      },
+      {
+        "start": 24.896,
+        "end": 27.295,
+        "text": "One person, doing what used to take fifty."
+      },
+      {
+        "start": 27.565,
+        "end": 30.413999999999998,
+        "text": "A solo founder with a clear system can now ship"
+      },
+      {
+        "start": 30.534,
+        "end": 31.814,
+        "text": "like a team of twenty,"
+      },
+      {
+        "start": 31.979,
+        "end": 34.874,
+        "text": "and pivot before a committee finishes its first meeting."
+      },
+      {
+        "start": 35.156,
+        "end": 36.566,
+        "text": "The tools are already here."
+      },
+      {
+        "start": 36.836,
+        "end": 39.014,
+        "text": "The agents are getting better every month."
+      },
+      {
+        "start": 39.297,
+        "end": 41.267,
+        "text": "The cost of starting is collapsing."
+      },
+      {
+        "start": 41.536,
+        "end": 43.624,
+        "text": "And the old advantage, headcount,"
+      },
+      {
+        "start": 43.906,
+        "end": 45.473,
+        "text": "is becoming a liability."
+      },
+      {
+        "start": 45.755,
+        "end": 47.426,
+        "text": "That doesn't make people worthless."
+      },
+      {
+        "start": 47.695,
+        "end": 50.668,
+        "text": "It makes coordination cheap, and judgment scarce."
+      },
+      {
+        "start": 50.951,
+        "end": 53.116,
+        "text": "But here's the part nobody puts in the demo."
+      },
+      {
+        "start": 53.385,
+        "end": 55.811,
+        "text": "Automation can multiply a good decision."
+      },
+      {
+        "start": 56.081,
+        "end": 58.038,
+        "text": "It can also multiply a bad one,"
+      },
+      {
+        "start": 58.255,
+        "end": 59.991,
+        "text": "faster than anyone can catch it."
+      },
+      {
+        "start": 60.273,
+        "end": 64.431,
+        "text": "One careless prompt can become a thousand bad emails, or a headline."
+      },
+      {
+        "start": 64.701,
+        "end": 67.321,
+        "text": "So the skill that matters isn't typing prompts."
+      },
+      {
+        "start": 67.591,
+        "end": 70.551,
+        "text": "It's knowing which decisions should never be delegated."
+      },
+      {
+        "start": 70.82,
+        "end": 72.491,
+        "text": "The one-person company is coming."
+      },
+      {
+        "start": 72.773,
+        "end": 75.303,
+        "text": "The question is not whether you can run it alone."
+      },
+      {
+        "start": 75.573,
+        "end": 77.777,
+        "text": "It's whether you'll know what still needs a human."
+      },
+      {
+        "start": 78.047,
+        "end": 79.639,
+        "text": "Not because you can do everything."
+      },
+      {
+        "start": 79.909,
+        "end": 81.566,
+        "text": "Because you know what not to automate."
+      },
+      {
+        "start": 81.849,
+        "end": 83.337,
+        "text": "That's the future worth building."
+      }
+    ]
+  },
+  "music": {
+    "path": "/audio/music/vastness-92s.mp3",
+    "volume": 0.16,
+    "fadeInSeconds": 2.5,
+    "fadeOutSeconds": 4.5,
+    "duckUnderNarration": true
+  },
+  "soundEffects": [
+    {
+      "id": "open-whoosh",
+      "path": "/audio/sfx/transition-whoosh.mp3",
+      "startSeconds": 0.1,
+      "durationSeconds": 1.334,
+      "volume": 0.18,
+      "fadeInSeconds": 0.03,
+      "fadeOutSeconds": 0.18
+    },
+    {
+      "id": "typing",
+      "path": "/audio/sfx/typing-loop.mp3",
+      "startSeconds": 6.05,
+      "durationSeconds": 4.8,
+      "volume": 0.2,
+      "fadeInSeconds": 0.12,
+      "fadeOutSeconds": 0.35
+    },
+    {
+      "id": "agent-select-one",
+      "path": "/audio/sfx/interface-select.mp3",
+      "startSeconds": 13.05,
+      "durationSeconds": 1.55,
+      "volume": 0.17,
+      "fadeInSeconds": 0.02,
+      "fadeOutSeconds": 0.18
+    },
+    {
+      "id": "agent-select-two",
+      "path": "/audio/sfx/interface-select.mp3",
+      "startSeconds": 16.25,
+      "durationSeconds": 1.55,
+      "volume": 0.13,
+      "fadeInSeconds": 0.02,
+      "fadeOutSeconds": 0.18
+    },
+    {
+      "id": "leverage-transition",
+      "path": "/audio/sfx/transition-whoosh.mp3",
+      "startSeconds": 20.86,
+      "durationSeconds": 1.334,
+      "volume": 0.22,
+      "fadeInSeconds": 0.03,
+      "fadeOutSeconds": 0.2
+    },
+    {
+      "id": "chart-click",
+      "path": "/audio/sfx/sci-fi-click.mp3",
+      "startSeconds": 22.7,
+      "durationSeconds": 0.696,
+      "volume": 0.2,
+      "fadeInSeconds": 0.01,
+      "fadeOutSeconds": 0.1
+    },
+    {
+      "id": "shift-click",
+      "path": "/audio/sfx/sci-fi-click.mp3",
+      "startSeconds": 39.28,
+      "durationSeconds": 0.696,
+      "volume": 0.12,
+      "fadeInSeconds": 0.01,
+      "fadeOutSeconds": 0.1
+    },
+    {
+      "id": "catch-whoosh",
+      "path": "/audio/sfx/transition-whoosh.mp3",
+      "startSeconds": 50.86,
+      "durationSeconds": 1.334,
+      "volume": 0.28,
+      "fadeInSeconds": 0.03,
+      "fadeOutSeconds": 0.25
+    },
+    {
+      "id": "closing-whoosh",
+      "path": "/audio/sfx/transition-whoosh.mp3",
+      "startSeconds": 70.8,
+      "durationSeconds": 1.334,
+      "volume": 0.22,
+      "fadeInSeconds": 0.03,
+      "fadeOutSeconds": 0.25
+    }
+  ],
+  "scenes": [
+    {
+      "id": "cold-open",
+      "startSeconds": 0,
+      "durationSeconds": 5.1,
+      "layout": "city",
+      "background": {
+        "imagePath": "/images/city-fog.jpg",
+        "imageObjectPosition": "50% 44%",
+        "imageOpacity": 0.36,
+        "grade": "night",
+        "parallax": 0.06
+      },
+      "headlines": [
+        {
+          "kicker": "A HYPOTHETICAL FUTURE",
+          "text": "Imagine a company\nwith one employee.",
+          "accentWords": [
+            "one employee"
+          ],
+          "preset": "maskedUp",
+          "startSeconds": 0.55,
+          "size": "hero",
+          "align": "left",
+          "maxWidth": 890,
+          "placement": "top"
+        },
+        {
+          "text": "You.",
+          "accentWords": [
+            "You."
+          ],
+          "preset": "charReveal",
+          "startSeconds": 3.95,
+          "size": "statement",
+          "align": "left",
+          "maxWidth": 300,
+          "placement": "middle"
+        }
+      ],
+      "character": {
+        "action": "idle",
+        "x": 770,
+        "y": 1490,
+        "scale": 1.12,
+        "facing": "front",
+        "expression": "thoughtful"
+      },
+      "camera": {
+        "motion": "pushIn",
+        "intensity": 0.055
+      },
+      "transitionIn": "fade",
+      "visual": {
+        "kind": "none"
+      }
+    },
+    {
+      "id": "office-setup",
+      "startSeconds": 5.1,
+      "durationSeconds": 7.4,
+      "layout": "office",
+      "background": {
+        "grade": "warm",
+        "parallax": 0.03
+      },
+      "headlines": [
+        {
+          "kicker": "THE SETUP",
+          "text": "No team.\nNo office.\nJust a laptop.",
+          "accentWords": [
+            "Just a laptop."
+          ],
+          "preset": "splitLine",
+          "startSeconds": 0.35,
+          "size": "display",
+          "align": "left",
+          "maxWidth": 850,
+          "placement": "top"
+        }
+      ],
+      "character": {
+        "action": "type",
+        "x": 330,
+        "y": 1430,
+        "scale": 1.15,
+        "facing": "right",
+        "expression": "focused"
+      },
+      "camera": {
+        "motion": "pushIn",
+        "intensity": 0.035
+      },
+      "transitionIn": "wipe",
+      "visual": {
+        "kind": "tasks",
+        "labels": [
+          "Build",
+          "Reply",
+          "Ship"
+        ]
+      }
+    },
+    {
+      "id": "work-army",
+      "startSeconds": 12.5,
+      "durationSeconds": 8.4,
+      "layout": "agentGrid",
+      "background": {
+        "grade": "neutral",
+        "parallax": 0.02
+      },
+      "headlines": [
+        {
+          "kicker": "THE WORK",
+          "text": "An army that\nnever sleeps.",
+          "accentWords": [
+            "never sleeps."
+          ],
+          "preset": "kineticEmphasis",
+          "startSeconds": 0.4,
+          "size": "display",
+          "align": "left",
+          "maxWidth": 840,
+          "placement": "top"
+        }
+      ],
+      "character": {
+        "action": "point",
+        "x": 270,
+        "y": 1500,
+        "scale": 1.15,
+        "facing": "right",
+        "expression": "focused"
+      },
+      "camera": {
+        "motion": "drift",
+        "intensity": 0.04
+      },
+      "transitionIn": "bloom",
+      "visual": {
+        "kind": "agents",
+        "labels": [
+          "Support",
+          "Code",
+          "Invoices",
+          "Updates"
+        ]
+      }
+    },
+    {
+      "id": "leverage",
+      "startSeconds": 20.9,
+      "durationSeconds": 14.2,
+      "layout": "chart",
+      "background": {
+        "grade": "neutral",
+        "parallax": 0.02
+      },
+      "headlines": [
+        {
+          "kicker": "THE LEVERAGE",
+          "text": "One person.\nFifty outcomes.",
+          "accentWords": [
+            "Fifty outcomes."
+          ],
+          "preset": "scaleSettle",
+          "startSeconds": 0.4,
+          "size": "hero",
+          "align": "left",
+          "maxWidth": 870,
+          "placement": "top"
+        }
+      ],
+      "character": {
+        "action": "surprise",
+        "x": 800,
+        "y": 1460,
+        "scale": 1.15,
+        "facing": "left",
+        "expression": "surprised"
+      },
+      "camera": {
+        "motion": "pullOut",
+        "intensity": 0.04
+      },
+      "transitionIn": "wipe",
+      "visual": {
+        "kind": "chart",
+        "title": "OUTPUT PER PERSON",
+        "metricStart": 1,
+        "metricEnd": 50,
+        "metricSuffix": "×"
+      }
+    },
+    {
+      "id": "shift",
+      "startSeconds": 35.1,
+      "durationSeconds": 15.9,
+      "layout": "threshold",
+      "background": {
+        "grade": "neutral",
+        "parallax": 0.02
+      },
+      "headlines": [
+        {
+          "kicker": "THE SHIFT",
+          "text": "Coordination gets cheap.\nJudgment gets scarce.",
+          "accentWords": [
+            "Judgment gets scarce."
+          ],
+          "preset": "staggeredPhrase",
+          "startSeconds": 0.8,
+          "size": "display",
+          "align": "left",
+          "maxWidth": 900,
+          "placement": "top"
+        }
+      ],
+      "character": {
+        "action": "think",
+        "x": 330,
+        "y": 1470,
+        "scale": 1.15,
+        "facing": "right",
+        "expression": "thoughtful"
+      },
+      "camera": {
+        "motion": "pushIn",
+        "intensity": 0.045
+      },
+      "transitionIn": "fade",
+      "visual": {
+        "kind": "signals",
+        "title": "WHAT GETS SCARCE",
+        "labels": [
+          "coordination",
+          "judgment"
+        ]
+      }
+    },
+    {
+      "id": "catch",
+      "startSeconds": 51.0,
+      "durationSeconds": 19.8,
+      "layout": "catch",
+      "background": {
+        "grade": "noir",
+        "parallax": 0.02
+      },
+      "headlines": [
+        {
+          "kicker": "THE CATCH",
+          "text": "Automation\nmultiplies whatever\nyou feed it.",
+          "accentWords": [
+            "whatever"
+          ],
+          "preset": "maskedUp",
+          "startSeconds": 1.8,
+          "endSeconds": 13.1,
+          "size": "display",
+          "align": "left",
+          "maxWidth": 880,
+          "placement": "top"
+        },
+        {
+          "text": "The skill isn't prompting.\nIt's knowing what\nnot to delegate.",
+          "accentWords": [
+            "not to delegate"
+          ],
+          "preset": "kineticEmphasis",
+          "startSeconds": 14.2,
+          "size": "statement",
+          "align": "left",
+          "maxWidth": 900,
+          "placement": "top"
+        }
+      ],
+      "character": {
+        "action": "reconsider",
+        "x": 540,
+        "y": 1450,
+        "scale": 1.2,
+        "facing": "front",
+        "expression": "concerned"
+      },
+      "camera": {
+        "motion": "drift",
+        "intensity": 0.035
+      },
+      "transitionIn": "bloom",
+      "visual": {
+        "kind": "decision"
+      }
+    },
+    {
+      "id": "closing",
+      "startSeconds": 70.8,
+      "durationSeconds": 19.2,
+      "layout": "closing",
+      "background": {
+        "imagePath": "/images/city-fog.jpg",
+        "imageObjectPosition": "50% 42%",
+        "imageOpacity": 0.44,
+        "grade": "dawn",
+        "parallax": 0.045
+      },
+      "headlines": [
+        {
+          "kicker": "THE FUTURE WORTH BUILDING",
+          "text": "The one-person\ncompany is coming.",
+          "accentWords": [
+            "one-person"
+          ],
+          "preset": "finalReveal",
+          "startSeconds": 0.5,
+          "endSeconds": 10.2,
+          "size": "display",
+          "align": "left",
+          "maxWidth": 850,
+          "placement": "top"
+        },
+        {
+          "text": "Know what to\nkeep human.",
+          "accentWords": [
+            "keep human"
+          ],
+          "preset": "finalReveal",
+          "startSeconds": 10.7,
+          "size": "hero",
+          "align": "left",
+          "maxWidth": 760,
+          "placement": "middle"
+        }
+      ],
+      "character": {
+        "action": "idle",
+        "x": 820,
+        "y": 1430,
+        "scale": 1.08,
+        "facing": "front",
+        "expression": "thoughtful"
+      },
+      "camera": {
+        "motion": "pushIn",
+        "intensity": 0.04
+      },
+      "transitionIn": "fade",
+      "visual": {
+        "kind": "none"
+      }
+    }
+  ],
+  "brand": {
+    "enabled": true,
+    "signatureEnabled": true,
+    "avatarEnabled": true,
+    "treatment": "hybrid",
+    "revealDurationSeconds": 3.8,
+    "startSeconds": 84.9
+  },
+  "assets": [
+    {
+      "path": "/brand/simpledeav-avatar.png",
+      "kind": "avatar",
+      "sourceUrl": "https://avatars.githubusercontent.com/u/88326987?s=64&v=4",
+      "creator": "Simpledeav",
+      "license": "Channel owner profile image; used locally with the owner's authorization",
+      "notes": "Downloaded once from the public GitHub avatar URL. 64x64 PNG; rendered small in the closing signature."
+    },
+    {
+      "path": "/audio/voice.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://github.com/rany2/edge-tts",
+      "creator": "Edge TTS / Microsoft neural voice en-US-AndrewNeural",
+      "license": "Synthetic narration generated for this project; Microsoft Edge TTS terms apply",
+      "notes": "83.64s. Generated locally, then word-boundary timings captured for subtitles and scene anchors."
+    },
+    {
+      "path": "/audio/music/vastness-92s.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://assets.mixkit.co/music/184/184.mp3",
+      "creator": "Mixkit",
+      "license": "Mixkit Stock Music Free License",
+      "notes": "Track \"Vastness\". Trimmed to 92s with 2.2s fade-in and 2.5s fade-out. License reference: https://mixkit.co/license/"
+    },
+    {
+      "path": "/audio/sfx/transition-whoosh.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://assets.mixkit.co/active_storage/sfx/1492/1492-preview.mp3",
+      "creator": "Mixkit",
+      "license": "Mixkit Sound Effects Free License",
+      "notes": "Track \"Cinematic whoosh fast transition\"."
+    },
+    {
+      "path": "/audio/sfx/interface-select.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://assets.mixkit.co/active_storage/sfx/2573/2573-preview.mp3",
+      "creator": "Mixkit",
+      "license": "Mixkit Sound Effects Free License",
+      "notes": "Track \"Interface option select\"."
+    },
+    {
+      "path": "/audio/sfx/sci-fi-click.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://assets.mixkit.co/active_storage/sfx/900/900-preview.mp3",
+      "creator": "Mixkit",
+      "license": "Mixkit Sound Effects Free License",
+      "notes": "Track \"Sci fi click\"."
+    },
+    {
+      "path": "/audio/sfx/typing-loop.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://assets.mixkit.co/active_storage/sfx/1386/1386-preview.mp3",
+      "creator": "Mixkit",
+      "license": "Mixkit Sound Effects Free License",
+      "notes": "Track \"Keyboard typing\". Trimmed to 4.8s from the source recording, with short fades."
+    },
+    {
+      "path": "/images/city-fog.jpg",
+      "kind": "image",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skyline_city_cities_fog_morning.jpg",
+      "creator": "Jon Sullivan",
+      "license": "Public domain",
+      "notes": "San Diego Convention Center with Harbor Club Condominiums behind. Downscaled local copy, 1280x960."
+    },
+    {
+      "path": "/images/grain.png",
+      "kind": "image",
+      "sourceUrl": "Generated in project",
+      "creator": "Simpledeav Studio",
+      "license": "Generated asset",
+      "notes": "256x256 deterministic film-grain tile generated locally for the compositing overlay."
+    },
+    {
+      "path": "/fonts/Manrope-Regular.ttf",
+      "kind": "font",
+      "sourceUrl": "https://fonts.google.com/specimen/Manrope",
+      "creator": "Mikhail Sharanda",
+      "license": "SIL Open Font License 1.1",
+      "notes": "Local webfont for body, subtitles and headlines."
+    },
+    {
+      "path": "/fonts/Manrope-Medium.ttf",
+      "kind": "font",
+      "sourceUrl": "https://fonts.google.com/specimen/Manrope",
+      "creator": "Mikhail Sharanda",
+      "license": "SIL Open Font License 1.1",
+      "notes": "Local webfont."
+    },
+    {
+      "path": "/fonts/Manrope-SemiBold.ttf",
+      "kind": "font",
+      "sourceUrl": "https://fonts.google.com/specimen/Manrope",
+      "creator": "Mikhail Sharanda",
+      "license": "SIL Open Font License 1.1",
+      "notes": "Local webfont."
+    },
+    {
+      "path": "/fonts/InstrumentSerif-Regular.ttf",
+      "kind": "font",
+      "sourceUrl": "https://fonts.google.com/specimen/Instrument+Serif",
+      "creator": "Rodrigo Fuenzalida",
+      "license": "SIL Open Font License 1.1",
+      "notes": "Local editorial serif used for accent words and the signature."
+    },
+    {
+      "path": "/audio/voice.vtt",
+      "kind": "subtitle",
+      "sourceUrl": "Generated by scripts/generate-voice.py",
+      "creator": "Simpledeav Studio + Edge TTS word boundaries",
+      "license": "Generated data for this project",
+      "notes": "WebVTT copy of the phrase-level subtitle cues derived from the narration word boundaries."
+    },
+    {
+      "path": "/audio/voice.words.json",
+      "kind": "data",
+      "sourceUrl": "Generated by scripts/generate-voice.py",
+      "creator": "Simpledeav Studio + Edge TTS word boundaries",
+      "license": "Generated data for this project",
+      "notes": "Word-level timing metadata used to author captions and scene anchors."
+    },
+    {
+      "path": "/audio/voice.cues.json",
+      "kind": "data",
+      "sourceUrl": "Generated by scripts/generate-voice.py",
+      "creator": "Simpledeav Studio + Edge TTS word boundaries",
+      "license": "Generated data for this project",
+      "notes": "Canonical phrase cue list embedded in the episode narration.subtitles array."
+    }
+  ]
+}

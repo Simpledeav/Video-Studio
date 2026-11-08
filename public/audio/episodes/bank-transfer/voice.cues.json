@@ -1,0 +1,428 @@
+{
+  "source": "public/audio/episodes/bank-transfer/voice.mp3",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "segments": [
+    {
+      "id": "missing-left",
+      "start": 0.3,
+      "end": 2.34,
+      "duration": 2.04,
+      "rawDuration": 2.04,
+      "trimmedSilence": 0.0,
+      "rate": "+18%",
+      "words": 7
+    },
+    {
+      "id": "missing-arrived",
+      "start": 2.46,
+      "end": 4.692,
+      "duration": 2.232,
+      "rawDuration": 2.232,
+      "trimmedSilence": 0.0,
+      "rate": "+18%",
+      "words": 5
+    },
+    {
+      "id": "missing-question",
+      "start": 4.812,
+      "end": 6.732,
+      "duration": 1.92,
+      "rawDuration": 1.92,
+      "trimmedSilence": 0.0,
+      "rate": "+14%",
+      "words": 7
+    },
+    {
+      "id": "invisible-realise",
+      "start": 7.082,
+      "end": 9.05,
+      "duration": 1.968,
+      "rawDuration": 1.968,
+      "trimmedSilence": 0.0,
+      "rate": "+20%",
+      "words": 6
+    },
+    {
+      "id": "invisible-jump",
+      "start": 9.17,
+      "end": 11.882,
+      "duration": 2.712,
+      "rawDuration": 2.712,
+      "trimmedSilence": 0.0,
+      "rate": "+22%",
+      "words": 8
+    },
+    {
+      "id": "invisible-system",
+      "start": 12.002,
+      "end": 15.314,
+      "duration": 3.312,
+      "rawDuration": 3.312,
+      "trimmedSilence": 0.0,
+      "rate": "+22%",
+      "words": 8
+    },
+    {
+      "id": "route-initiate",
+      "start": 15.664,
+      "end": 19.816,
+      "duration": 4.152,
+      "rawDuration": 4.152,
+      "trimmedSilence": 0.0,
+      "rate": "+23%",
+      "words": 12
+    },
+    {
+      "id": "route-message",
+      "start": 19.936,
+      "end": 26.284,
+      "duration": 6.348,
+      "rawDuration": 6.528,
+      "trimmedSilence": 0.18,
+      "rate": "+23%",
+      "words": 16
+    },
+    {
+      "id": "failure-twist",
+      "start": 26.634,
+      "end": 28.506,
+      "duration": 1.872,
+      "rawDuration": 1.872,
+      "trimmedSilence": 0.0,
+      "rate": "+20%",
+      "words": 4
+    },
+    {
+      "id": "failure-different",
+      "start": 28.626,
+      "end": 33.698,
+      "duration": 5.072,
+      "rawDuration": 5.112,
+      "trimmedSilence": 0.04,
+      "rate": "+23%",
+      "words": 14
+    },
+    {
+      "id": "failure-debit",
+      "start": 33.818,
+      "end": 38.398,
+      "duration": 4.58,
+      "rawDuration": 4.8,
+      "trimmedSilence": 0.22,
+      "rate": "+22%",
+      "words": 16
+    },
+    {
+      "id": "alert-twist",
+      "start": 38.748,
+      "end": 41.028,
+      "duration": 2.28,
+      "rawDuration": 2.28,
+      "trimmedSilence": 0.0,
+      "rate": "+20%",
+      "words": 6
+    },
+    {
+      "id": "alert-delayed",
+      "start": 41.148,
+      "end": 43.772,
+      "duration": 2.624,
+      "rawDuration": 2.664,
+      "trimmedSilence": 0.04,
+      "rate": "+21%",
+      "words": 9
+    },
+    {
+      "id": "alert-not-enough",
+      "start": 43.892,
+      "end": 46.028,
+      "duration": 2.136,
+      "rawDuration": 2.136,
+      "trimmedSilence": 0.0,
+      "rate": "+21%",
+      "words": 7
+    },
+    {
+      "id": "alert-history",
+      "start": 46.148,
+      "end": 48.524,
+      "duration": 2.376,
+      "rawDuration": 2.376,
+      "trimmedSilence": 0.0,
+      "rate": "+20%",
+      "words": 6
+    },
+    {
+      "id": "trace-what",
+      "start": 48.874,
+      "end": 50.746,
+      "duration": 1.872,
+      "rawDuration": 1.872,
+      "trimmedSilence": 0.0,
+      "rate": "+19%",
+      "words": 5
+    },
+    {
+      "id": "trace-once",
+      "start": 50.866,
+      "end": 52.738,
+      "duration": 1.872,
+      "rawDuration": 1.872,
+      "trimmedSilence": 0.0,
+      "rate": "+21%",
+      "words": 5
+    },
+    {
+      "id": "trace-save",
+      "start": 52.858,
+      "end": 55.45,
+      "duration": 2.592,
+      "rawDuration": 2.592,
+      "trimmedSilence": 0.0,
+      "rate": "+21%",
+      "words": 7
+    },
+    {
+      "id": "trace-ussd",
+      "start": 55.57,
+      "end": 63.294,
+      "duration": 7.724,
+      "rawDuration": 8.064,
+      "trimmedSilence": 0.34,
+      "rate": "+22%",
+      "words": 19
+    },
+    {
+      "id": "trace-success",
+      "start": 63.414,
+      "end": 66.678,
+      "duration": 3.264,
+      "rawDuration": 3.384,
+      "trimmedSilence": 0.12,
+      "rate": "+22%",
+      "words": 12
+    },
+    {
+      "id": "trace-fail",
+      "start": 66.798,
+      "end": 69.138,
+      "duration": 2.34,
+      "rawDuration": 2.52,
+      "trimmedSilence": 0.18,
+      "rate": "+21%",
+      "words": 8
+    },
+    {
+      "id": "rights-escalate",
+      "start": 69.488,
+      "end": 71.916,
+      "duration": 2.428,
+      "rawDuration": 2.448,
+      "trimmedSilence": 0.02,
+      "rate": "+20%",
+      "words": 8
+    },
+    {
+      "id": "rights-first",
+      "start": 72.036,
+      "end": 73.908,
+      "duration": 1.872,
+      "rawDuration": 1.872,
+      "trimmedSilence": 0.0,
+      "rate": "+21%",
+      "words": 5
+    },
+    {
+      "id": "rights-cpd",
+      "start": 74.028,
+      "end": 79.864,
+      "duration": 5.836,
+      "rawDuration": 5.976,
+      "trimmedSilence": 0.14,
+      "rate": "+21%",
+      "words": 14
+    },
+    {
+      "id": "reveal-question",
+      "start": 80.214,
+      "end": 85.422,
+      "duration": 5.208,
+      "rawDuration": 5.328,
+      "trimmedSilence": 0.12,
+      "rate": "+19%",
+      "words": 17
+    },
+    {
+      "id": "reveal-trail",
+      "start": 85.542,
+      "end": 87.414,
+      "duration": 1.872,
+      "rawDuration": 1.872,
+      "trimmedSilence": 0.0,
+      "rate": "+12%",
+      "words": 5
+    }
+  ],
+  "cues": [
+    {
+      "start": 0.374,
+      "end": 2.127,
+      "text": "Your bank says the money has left."
+    },
+    {
+      "start": 2.555,
+      "end": 4.488,
+      "text": "The receiver says nothing arrived."
+    },
+    {
+      "start": 4.9,
+      "end": 6.513,
+      "text": "So where exactly did your money go?"
+    },
+    {
+      "start": 7.165,
+      "end": 8.838,
+      "text": "Here's what most people don't realise."
+    },
+    {
+      "start": 9.242,
+      "end": 11.688,
+      "text": "A bank transfer isn't money jumping between phones."
+    },
+    {
+      "start": 12.074,
+      "end": 15.104,
+      "text": "An entire payment system works behind that notification."
+    },
+    {
+      "start": 15.745,
+      "end": 17.553,
+      "text": "When you send to another Nigerian bank,"
+    },
+    {
+      "start": 17.656,
+      "end": 19.616,
+      "text": "your bank initiates the transfer."
+    },
+    {
+      "start": 20.017,
+      "end": 23.044,
+      "text": "The message moves through Nigeria's interbank payment infrastructure,"
+    },
+    {
+      "start": 23.196,
+      "end": 26.096,
+      "text": "including NIBSS Instant Payment, to the receiving bank."
+    },
+    {
+      "start": 26.717,
+      "end": 27.64,
+      "text": "But here's the twist."
+    },
+    {
+      "start": 28.707,
+      "end": 32.49,
+      "text": "A timeout, delayed response or unresolved status can leave both sides"
+    },
+    {
+      "start": 32.57,
+      "end": 35.27,
+      "text": "with different information. Your account may show a debit,"
+    },
+    {
+      "start": 35.378,
+      "end": 38.175,
+      "text": "while the receiver's account is not yet confirmed as credited."
+    },
+    {
+      "start": 38.831,
+      "end": 40.827,
+      "text": "And sometimes the money actually arrived."
+    },
+    {
+      "start": 41.231,
+      "end": 42.88,
+      "text": "But the SMS alert was delayed,"
+    },
+    {
+      "start": 43.018,
+      "end": 45.81,
+      "text": "or never came. That's why an alert alone isn't enough."
+    },
+    {
+      "start": 46.231,
+      "end": 48.3,
+      "text": "Check the balance and transaction history."
+    },
+    {
+      "start": 48.958,
+      "end": 49.688,
+      "text": "So what should you do?"
+    },
+    {
+      "start": 50.949,
+      "end": 51.906,
+      "text": "Don't send the money again."
+    },
+    {
+      "start": 52.941,
+      "end": 55.241,
+      "text": "Save your receipt and transaction session ID."
+    },
+    {
+      "start": 55.642,
+      "end": 60.33,
+      "text": "In Nigeria, NIBSS provides a NIP tracker through star five-six-five star five"
+    },
+    {
+      "start": 60.41,
+      "end": 63.086,
+      "text": "hash, for eligible transfers within 48 hours."
+    },
+    {
+      "start": 63.496,
+      "end": 66.155,
+      "text": "If it's successful, the receiver should ask their bank to trace"
+    },
+    {
+      "start": 66.235,
+      "end": 68.929,
+      "text": "it. If not, contact your bank about the reversal."
+    },
+    {
+      "start": 69.571,
+      "end": 71.703,
+      "text": "And if your bank doesn't resolve it, escalate."
+    },
+    {
+      "start": 72.119,
+      "end": 73.262,
+      "text": "Complain to your bank first."
+    },
+    {
+      "start": 74.111,
+      "end": 76.742,
+      "text": "If unresolved within the applicable two-week period,"
+    },
+    {
+      "start": 76.848,
+      "end": 79.66,
+      "text": "escalate to the CBN's Consumer Protection Department."
+    },
+    {
+      "start": 80.309,
+      "end": 83.591,
+      "text": "So next time a transfer says successful but nothing arrives,"
+    },
+    {
+      "start": 83.734,
+      "end": 85.215,
+      "text": "don't just ask where the money went."
+    },
+    {
+      "start": 85.631,
+      "end": 87.037,
+      "text": "Ask for the transaction trail."
+    }
+  ]
+}

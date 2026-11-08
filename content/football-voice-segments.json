@@ -1,0 +1,120 @@
+{
+  "voiceId": "SD_VOICE_03",
+  "voiceName": "Nathan Cole",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "direction": "Football documentary narrator who slowly realises the subject is not football. Serious and cinematic in the hook, brisk and commercial through the transfer market, warm and playful in pre-season, colder and more savage as the season turns, then a deadpan comedic landing on the final reveal.",
+  "totalDurationSeconds": 84,
+  "leadInSeconds": 0,
+  "segments": [
+    {
+      "id": "hook-retirement",
+      "text": "Ronaldo has retired from international football...",
+      "emotion": "dramatic",
+      "rate": "+4%",
+      "pitch": "-5Hz",
+      "volume": "+2%",
+      "sceneStartSeconds": 0.0,
+      "voiceOffsetSeconds": 0.22,
+      "pauseAfterSeconds": 0
+    },
+    {
+      "id": "hook-leagues",
+      "text": "But some men are still playing in three different leagues.",
+      "emotion": "suspense",
+      "rate": "+8%",
+      "pitch": "-3Hz",
+      "volume": "+1%",
+      "sceneStartSeconds": 3.55,
+      "voiceOffsetSeconds": 0.1,
+      "pauseAfterSeconds": 0
+    },
+    {
+      "id": "transfer-market",
+      "text": "In the relationship transfer market, some players don't scout one club. They send DMs to five, negotiate with three, and sign nowhere exclusively.",
+      "emotion": "curiosity",
+      "rate": "+22%",
+      "pitch": "+0Hz",
+      "volume": "+1%",
+      "sceneStartSeconds": 7.0,
+      "voiceOffsetSeconds": 0.05,
+      "pauseAfterSeconds": 0
+    },
+    {
+      "id": "signing",
+      "text": "First comes scouting. That's the talking stage. Then the signing ceremony. Suddenly, you're officially his number one striker.",
+      "emotion": "playful",
+      "rate": "+13%",
+      "pitch": "+0Hz",
+      "volume": "+1%",
+      "sceneStartSeconds": 15.8,
+      "voiceOffsetSeconds": 0.1,
+      "pauseAfterSeconds": 0
+    },
+    {
+      "id": "preseason",
+      "text": "Then comes pre-season. Training sessions. Friendly matches. Chemistry building. Everybody is suddenly playing like they're chasing the Ballon d'Or.",
+      "emotion": "confidence",
+      "rate": "+12%",
+      "pitch": "+0Hz",
+      "volume": "+1%",
+      "sceneStartSeconds": 23.8,
+      "voiceOffsetSeconds": 0.18,
+      "pauseAfterSeconds": 0
+    },
+    {
+      "id": "league",
+      "text": "But after the first major trophy? Some managers lose interest. The player starts getting fewer minutes. Suddenly, there are transfer rumors.",
+      "emotion": "savage",
+      "rate": "+11%",
+      "pitch": "-2Hz",
+      "volume": "+1%",
+      "sceneStartSeconds": 33.0,
+      "voiceOffsetSeconds": 0.2,
+      "pauseAfterSeconds": 0
+    },
+    {
+      "id": "sale",
+      "text": "Then comes the breakup. Official statement: we have mutually agreed to terminate the contract. But somehow, the player is still on loan and available for friendly matches.",
+      "emotion": "deadpan",
+      "rate": "+14%",
+      "pitch": "-1Hz",
+      "volume": "+1%",
+      "sceneStartSeconds": 44.2,
+      "voiceOffsetSeconds": 0.15,
+      "pauseAfterSeconds": 0
+    },
+    {
+      "id": "return",
+      "text": "And just when you think the transfer window is closed... the former club sends a late-night offer. Can we talk? The player is suddenly back in negotiations.",
+      "emotion": "suspense",
+      "rate": "+13%",
+      "pitch": "-2Hz",
+      "volume": "+1%",
+      "sceneStartSeconds": 55.0,
+      "voiceOffsetSeconds": 0.15,
+      "pauseAfterSeconds": 0
+    },
+    {
+      "id": "reveal",
+      "text": "At this point, forget the Premier League, forget Champions League... this is clearly a situationship with football terminology.",
+      "emotion": "reflection",
+      "rate": "+11%",
+      "pitch": "-2Hz",
+      "volume": "+0%",
+      "sceneStartSeconds": 65.8,
+      "voiceOffsetSeconds": 0.2,
+      "pauseAfterSeconds": 0
+    },
+    {
+      "id": "punchline",
+      "text": "And somehow... this is not a football conversation.",
+      "emotion": "deadpan",
+      "rate": "-2%",
+      "pitch": "-4Hz",
+      "volume": "+1%",
+      "sceneStartSeconds": 74.2,
+      "voiceOffsetSeconds": 0.2,
+      "pauseAfterSeconds": 0
+    }
+  ]
+}

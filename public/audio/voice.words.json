@@ -1,0 +1,1172 @@
+{
+  "voice": "en-US-AndrewNeural",
+  "rate": "-4%",
+  "pitch": "-2Hz",
+  "words": [
+    {
+      "text": "Imagine",
+      "start": 0.104,
+      "end": 0.495
+    },
+    {
+      "text": "it's",
+      "start": 0.508,
+      "end": 0.638
+    },
+    {
+      "text": "2028.",
+      "start": 0.651,
+      "end": 1.576
+    },
+    {
+      "text": "A",
+      "start": 2.005,
+      "end": 2.057
+    },
+    {
+      "text": "startup",
+      "start": 2.07,
+      "end": 2.474
+    },
+    {
+      "text": "launches",
+      "start": 2.487,
+      "end": 2.995
+    },
+    {
+      "text": "with",
+      "start": 3.008,
+      "end": 3.164
+    },
+    {
+      "text": "one",
+      "start": 3.177,
+      "end": 3.372
+    },
+    {
+      "text": "employee.",
+      "start": 3.385,
+      "end": 3.932
+    },
+    {
+      "text": "You.",
+      "start": 4.362,
+      "end": 4.622
+    },
+    {
+      "text": "No",
+      "start": 5.052,
+      "end": 5.195
+    },
+    {
+      "text": "team.",
+      "start": 5.208,
+      "end": 5.586
+    },
+    {
+      "text": "No",
+      "start": 6.016,
+      "end": 6.172
+    },
+    {
+      "text": "office.",
+      "start": 6.185,
+      "end": 6.667
+    },
+    {
+      "text": "Just",
+      "start": 7.096,
+      "end": 7.266
+    },
+    {
+      "text": "a",
+      "start": 7.279,
+      "end": 7.331
+    },
+    {
+      "text": "laptop,",
+      "start": 7.344,
+      "end": 7.982
+    },
+    {
+      "text": "a",
+      "start": 8.216,
+      "end": 8.255
+    },
+    {
+      "text": "strong",
+      "start": 8.268,
+      "end": 8.672
+    },
+    {
+      "text": "idea,",
+      "start": 8.685,
+      "end": 9.18
+    },
+    {
+      "text": "and",
+      "start": 9.492,
+      "end": 9.622
+    },
+    {
+      "text": "an",
+      "start": 9.635,
+      "end": 9.74
+    },
+    {
+      "text": "army",
+      "start": 9.753,
+      "end": 10.117
+    },
+    {
+      "text": "of",
+      "start": 10.13,
+      "end": 10.234
+    },
+    {
+      "text": "AI",
+      "start": 10.247,
+      "end": 10.677
+    },
+    {
+      "text": "agents",
+      "start": 10.69,
+      "end": 11.107
+    },
+    {
+      "text": "working",
+      "start": 11.12,
+      "end": 11.497
+    },
+    {
+      "text": "while",
+      "start": 11.51,
+      "end": 11.667
+    },
+    {
+      "text": "you",
+      "start": 11.68,
+      "end": 11.758
+    },
+    {
+      "text": "sleep.",
+      "start": 11.771,
+      "end": 12.174
+    },
+    {
+      "text": "They",
+      "start": 12.617,
+      "end": 12.721
+    },
+    {
+      "text": "answer",
+      "start": 12.734,
+      "end": 13.021
+    },
+    {
+      "text": "support",
+      "start": 13.034,
+      "end": 13.438
+    },
+    {
+      "text": "tickets,",
+      "start": 13.451,
+      "end": 13.984
+    },
+    {
+      "text": "write",
+      "start": 14.206,
+      "end": 14.375
+    },
+    {
+      "text": "the",
+      "start": 14.388,
+      "end": 14.479
+    },
+    {
+      "text": "code,",
+      "start": 14.492,
+      "end": 14.883
+    },
+    {
+      "text": "chase",
+      "start": 15.26,
+      "end": 15.573
+    },
+    {
+      "text": "invoices,",
+      "start": 15.586,
+      "end": 16.263
+    },
+    {
+      "text": "and",
+      "start": 16.458,
+      "end": 16.562
+    },
+    {
+      "text": "ship",
+      "start": 16.576,
+      "end": 16.875
+    },
+    {
+      "text": "the",
+      "start": 16.888,
+      "end": 16.992
+    },
+    {
+      "text": "updates.",
+      "start": 17.005,
+      "end": 17.63
+    },
+    {
+      "text": "By",
+      "start": 18.073,
+      "end": 18.151
+    },
+    {
+      "text": "morning,",
+      "start": 18.164,
+      "end": 18.555
+    },
+    {
+      "text": "your",
+      "start": 18.945,
+      "end": 19.036
+    },
+    {
+      "text": "company",
+      "start": 19.049,
+      "end": 19.427
+    },
+    {
+      "text": "has",
+      "start": 19.44,
+      "end": 19.583
+    },
+    {
+      "text": "done",
+      "start": 19.596,
+      "end": 19.766
+    },
+    {
+      "text": "a",
+      "start": 19.779,
+      "end": 19.831
+    },
+    {
+      "text": "week",
+      "start": 19.844,
+      "end": 20.065
+    },
+    {
+      "text": "of",
+      "start": 20.078,
+      "end": 20.182
+    },
+    {
+      "text": "work.",
+      "start": 20.195,
+      "end": 20.56
+    },
+    {
+      "text": "At",
+      "start": 20.99,
+      "end": 21.094
+    },
+    {
+      "text": "first,",
+      "start": 21.107,
+      "end": 21.589
+    },
+    {
+      "text": "it",
+      "start": 21.758,
+      "end": 21.836
+    },
+    {
+      "text": "feels",
+      "start": 21.849,
+      "end": 22.109
+    },
+    {
+      "text": "like",
+      "start": 22.122,
+      "end": 22.279
+    },
+    {
+      "text": "magic.",
+      "start": 22.292,
+      "end": 22.786
+    },
+    {
+      "text": "Then",
+      "start": 23.216,
+      "end": 23.307
+    },
+    {
+      "text": "it",
+      "start": 23.32,
+      "end": 23.398
+    },
+    {
+      "text": "feels",
+      "start": 23.411,
+      "end": 23.711
+    },
+    {
+      "text": "like",
+      "start": 23.724,
+      "end": 23.893
+    },
+    {
+      "text": "leverage.",
+      "start": 23.906,
+      "end": 24.453
+    },
+    {
+      "text": "One",
+      "start": 24.896,
+      "end": 25.091
+    },
+    {
+      "text": "person,",
+      "start": 25.104,
+      "end": 25.586
+    },
+    {
+      "text": "doing",
+      "start": 25.885,
+      "end": 26.107
+    },
+    {
+      "text": "what",
+      "start": 26.12,
+      "end": 26.25
+    },
+    {
+      "text": "used",
+      "start": 26.263,
+      "end": 26.432
+    },
+    {
+      "text": "to",
+      "start": 26.445,
+      "end": 26.497
+    },
+    {
+      "text": "take",
+      "start": 26.51,
+      "end": 26.706
+    },
+    {
+      "text": "fifty.",
+      "start": 26.719,
+      "end": 27.135
+    },
+    {
+      "text": "A",
+      "start": 27.565,
+      "end": 27.604
+    },
+    {
+      "text": "solo",
+      "start": 27.617,
+      "end": 28.034
+    },
+    {
+      "text": "founder",
+      "start": 28.047,
+      "end": 28.516
+    },
+    {
+      "text": "with",
+      "start": 28.529,
+      "end": 28.685
+    },
+    {
+      "text": "a",
+      "start": 28.698,
+      "end": 28.763
+    },
+    {
+      "text": "clear",
+      "start": 28.776,
+      "end": 29.167
+    },
+    {
+      "text": "system",
+      "start": 29.18,
+      "end": 29.609
+    },
+    {
+      "text": "can",
+      "start": 29.622,
+      "end": 29.792
+    },
+    {
+      "text": "now",
+      "start": 29.805,
+      "end": 30.052
+    },
+    {
+      "text": "ship",
+      "start": 30.065,
+      "end": 30.456
+    },
+    {
+      "text": "like",
+      "start": 30.534,
+      "end": 30.664
+    },
+    {
+      "text": "a",
+      "start": 30.677,
+      "end": 30.729
+    },
+    {
+      "text": "team",
+      "start": 30.742,
+      "end": 31.042
+    },
+    {
+      "text": "of",
+      "start": 31.055,
+      "end": 31.146
+    },
+    {
+      "text": "twenty,",
+      "start": 31.159,
+      "end": 31.654
+    },
+    {
+      "text": "and",
+      "start": 31.979,
+      "end": 32.122
+    },
+    {
+      "text": "pivot",
+      "start": 32.135,
+      "end": 32.513
+    },
+    {
+      "text": "before",
+      "start": 32.526,
+      "end": 32.891
+    },
+    {
+      "text": "a",
+      "start": 32.904,
+      "end": 32.956
+    },
+    {
+      "text": "committee",
+      "start": 32.969,
+      "end": 33.385
+    },
+    {
+      "text": "finishes",
+      "start": 33.398,
+      "end": 33.919
+    },
+    {
+      "text": "its",
+      "start": 33.932,
+      "end": 34.076
+    },
+    {
+      "text": "first",
+      "start": 34.089,
+      "end": 34.401
+    },
+    {
+      "text": "meeting.",
+      "start": 34.414,
+      "end": 34.714
+    },
+    {
+      "text": "The",
+      "start": 35.156,
+      "end": 35.208
+    },
+    {
+      "text": "tools",
+      "start": 35.221,
+      "end": 35.586
+    },
+    {
+      "text": "are",
+      "start": 35.599,
+      "end": 35.716
+    },
+    {
+      "text": "already",
+      "start": 35.729,
+      "end": 36.029
+    },
+    {
+      "text": "here.",
+      "start": 36.042,
+      "end": 36.406
+    },
+    {
+      "text": "The",
+      "start": 36.836,
+      "end": 36.914
+    },
+    {
+      "text": "agents",
+      "start": 36.927,
+      "end": 37.305
+    },
+    {
+      "text": "are",
+      "start": 37.318,
+      "end": 37.396
+    },
+    {
+      "text": "getting",
+      "start": 37.409,
+      "end": 37.669
+    },
+    {
+      "text": "better",
+      "start": 37.682,
+      "end": 38.086
+    },
+    {
+      "text": "every",
+      "start": 38.229,
+      "end": 38.411
+    },
+    {
+      "text": "month.",
+      "start": 38.425,
+      "end": 38.854
+    },
+    {
+      "text": "The",
+      "start": 39.297,
+      "end": 39.362
+    },
+    {
+      "text": "cost",
+      "start": 39.375,
+      "end": 39.727
+    },
+    {
+      "text": "of",
+      "start": 39.74,
+      "end": 39.818
+    },
+    {
+      "text": "starting",
+      "start": 39.831,
+      "end": 40.273
+    },
+    {
+      "text": "is",
+      "start": 40.352,
+      "end": 40.456
+    },
+    {
+      "text": "collapsing.",
+      "start": 40.469,
+      "end": 41.107
+    },
+    {
+      "text": "And",
+      "start": 41.536,
+      "end": 41.615
+    },
+    {
+      "text": "the",
+      "start": 41.628,
+      "end": 41.745
+    },
+    {
+      "text": "old",
+      "start": 41.758,
+      "end": 42.031
+    },
+    {
+      "text": "advantage,",
+      "start": 42.044,
+      "end": 42.734
+    },
+    {
+      "text": "headcount,",
+      "start": 42.93,
+      "end": 43.464
+    },
+    {
+      "text": "is",
+      "start": 43.906,
+      "end": 43.984
+    },
+    {
+      "text": "becoming",
+      "start": 43.997,
+      "end": 44.466
+    },
+    {
+      "text": "a",
+      "start": 44.479,
+      "end": 44.531
+    },
+    {
+      "text": "liability.",
+      "start": 44.544,
+      "end": 45.313
+    },
+    {
+      "text": "That",
+      "start": 45.755,
+      "end": 45.859
+    },
+    {
+      "text": "doesn't",
+      "start": 45.872,
+      "end": 46.12
+    },
+    {
+      "text": "make",
+      "start": 46.133,
+      "end": 46.302
+    },
+    {
+      "text": "people",
+      "start": 46.315,
+      "end": 46.641
+    },
+    {
+      "text": "worthless.",
+      "start": 46.654,
+      "end": 47.266
+    },
+    {
+      "text": "It",
+      "start": 47.695,
+      "end": 47.799
+    },
+    {
+      "text": "makes",
+      "start": 47.812,
+      "end": 48.086
+    },
+    {
+      "text": "coordination",
+      "start": 48.099,
+      "end": 48.802
+    },
+    {
+      "text": "cheap,",
+      "start": 48.815,
+      "end": 49.167
+    },
+    {
+      "text": "and",
+      "start": 49.492,
+      "end": 49.57
+    },
+    {
+      "text": "judgment",
+      "start": 49.583,
+      "end": 49.948
+    },
+    {
+      "text": "scarce.",
+      "start": 49.961,
+      "end": 50.508
+    },
+    {
+      "text": "But",
+      "start": 50.951,
+      "end": 51.016
+    },
+    {
+      "text": "here's",
+      "start": 51.029,
+      "end": 51.289
+    },
+    {
+      "text": "the",
+      "start": 51.302,
+      "end": 51.393
+    },
+    {
+      "text": "part",
+      "start": 51.406,
+      "end": 51.654
+    },
+    {
+      "text": "nobody",
+      "start": 51.667,
+      "end": 52.096
+    },
+    {
+      "text": "puts",
+      "start": 52.109,
+      "end": 52.409
+    },
+    {
+      "text": "in",
+      "start": 52.422,
+      "end": 52.487
+    },
+    {
+      "text": "the",
+      "start": 52.5,
+      "end": 52.578
+    },
+    {
+      "text": "demo.",
+      "start": 52.591,
+      "end": 52.956
+    },
+    {
+      "text": "Automation",
+      "start": 53.385,
+      "end": 54.023
+    },
+    {
+      "text": "can",
+      "start": 54.036,
+      "end": 54.219
+    },
+    {
+      "text": "multiply",
+      "start": 54.232,
+      "end": 54.87
+    },
+    {
+      "text": "a",
+      "start": 54.883,
+      "end": 54.935
+    },
+    {
+      "text": "good",
+      "start": 54.948,
+      "end": 55.13
+    },
+    {
+      "text": "decision.",
+      "start": 55.143,
+      "end": 55.651
+    },
+    {
+      "text": "It",
+      "start": 56.081,
+      "end": 56.146
+    },
+    {
+      "text": "can",
+      "start": 56.159,
+      "end": 56.263
+    },
+    {
+      "text": "also",
+      "start": 56.276,
+      "end": 56.576
+    },
+    {
+      "text": "multiply",
+      "start": 56.589,
+      "end": 57.253
+    },
+    {
+      "text": "a",
+      "start": 57.266,
+      "end": 57.318
+    },
+    {
+      "text": "bad",
+      "start": 57.331,
+      "end": 57.63
+    },
+    {
+      "text": "one,",
+      "start": 57.643,
+      "end": 57.878
+    },
+    {
+      "text": "faster",
+      "start": 58.255,
+      "end": 58.672
+    },
+    {
+      "text": "than",
+      "start": 58.685,
+      "end": 58.828
+    },
+    {
+      "text": "anyone",
+      "start": 58.841,
+      "end": 59.18
+    },
+    {
+      "text": "can",
+      "start": 59.193,
+      "end": 59.323
+    },
+    {
+      "text": "catch",
+      "start": 59.336,
+      "end": 59.661
+    },
+    {
+      "text": "it.",
+      "start": 59.675,
+      "end": 59.831
+    },
+    {
+      "text": "One",
+      "start": 60.273,
+      "end": 60.521
+    },
+    {
+      "text": "careless",
+      "start": 60.534,
+      "end": 60.938
+    },
+    {
+      "text": "prompt",
+      "start": 60.951,
+      "end": 61.38
+    },
+    {
+      "text": "can",
+      "start": 61.393,
+      "end": 61.536
+    },
+    {
+      "text": "become",
+      "start": 61.55,
+      "end": 61.901
+    },
+    {
+      "text": "a",
+      "start": 61.914,
+      "end": 61.953
+    },
+    {
+      "text": "thousand",
+      "start": 61.966,
+      "end": 62.539
+    },
+    {
+      "text": "bad",
+      "start": 62.552,
+      "end": 62.799
+    },
+    {
+      "text": "emails,",
+      "start": 62.812,
+      "end": 63.385
+    },
+    {
+      "text": "or",
+      "start": 63.594,
+      "end": 63.711
+    },
+    {
+      "text": "a",
+      "start": 63.724,
+      "end": 63.75
+    },
+    {
+      "text": "headline.",
+      "start": 63.763,
+      "end": 64.271
+    },
+    {
+      "text": "So",
+      "start": 64.701,
+      "end": 64.805
+    },
+    {
+      "text": "the",
+      "start": 64.818,
+      "end": 64.909
+    },
+    {
+      "text": "skill",
+      "start": 64.922,
+      "end": 65.182
+    },
+    {
+      "text": "that",
+      "start": 65.195,
+      "end": 65.326
+    },
+    {
+      "text": "matters",
+      "start": 65.339,
+      "end": 65.794
+    },
+    {
+      "text": "isn't",
+      "start": 65.924,
+      "end": 66.185
+    },
+    {
+      "text": "typing",
+      "start": 66.198,
+      "end": 66.549
+    },
+    {
+      "text": "prompts.",
+      "start": 66.562,
+      "end": 67.161
+    },
+    {
+      "text": "It's",
+      "start": 67.591,
+      "end": 67.734
+    },
+    {
+      "text": "knowing",
+      "start": 67.747,
+      "end": 68.06
+    },
+    {
+      "text": "which",
+      "start": 68.073,
+      "end": 68.268
+    },
+    {
+      "text": "decisions",
+      "start": 68.281,
+      "end": 68.932
+    },
+    {
+      "text": "should",
+      "start": 69.089,
+      "end": 69.297
+    },
+    {
+      "text": "never",
+      "start": 69.31,
+      "end": 69.596
+    },
+    {
+      "text": "be",
+      "start": 69.609,
+      "end": 69.727
+    },
+    {
+      "text": "delegated.",
+      "start": 69.74,
+      "end": 70.391
+    },
+    {
+      "text": "The",
+      "start": 70.82,
+      "end": 70.898
+    },
+    {
+      "text": "one-person",
+      "start": 70.911,
+      "end": 71.471
+    },
+    {
+      "text": "company",
+      "start": 71.484,
+      "end": 71.862
+    },
+    {
+      "text": "is",
+      "start": 71.875,
+      "end": 71.979
+    },
+    {
+      "text": "coming.",
+      "start": 71.992,
+      "end": 72.331
+    },
+    {
+      "text": "The",
+      "start": 72.773,
+      "end": 72.826
+    },
+    {
+      "text": "question",
+      "start": 72.839,
+      "end": 73.281
+    },
+    {
+      "text": "is",
+      "start": 73.411,
+      "end": 73.542
+    },
+    {
+      "text": "not",
+      "start": 73.555,
+      "end": 73.906
+    },
+    {
+      "text": "whether",
+      "start": 73.919,
+      "end": 74.167
+    },
+    {
+      "text": "you",
+      "start": 74.18,
+      "end": 74.284
+    },
+    {
+      "text": "can",
+      "start": 74.297,
+      "end": 74.453
+    },
+    {
+      "text": "run",
+      "start": 74.466,
+      "end": 74.622
+    },
+    {
+      "text": "it",
+      "start": 74.635,
+      "end": 74.701
+    },
+    {
+      "text": "alone.",
+      "start": 74.714,
+      "end": 75.143
+    },
+    {
+      "text": "It's",
+      "start": 75.573,
+      "end": 75.677
+    },
+    {
+      "text": "whether",
+      "start": 75.69,
+      "end": 75.964
+    },
+    {
+      "text": "you'll",
+      "start": 75.977,
+      "end": 76.146
+    },
+    {
+      "text": "know",
+      "start": 76.159,
+      "end": 76.445
+    },
+    {
+      "text": "what",
+      "start": 76.458,
+      "end": 76.589
+    },
+    {
+      "text": "still",
+      "start": 76.602,
+      "end": 76.914
+    },
+    {
+      "text": "needs",
+      "start": 76.927,
+      "end": 77.148
+    },
+    {
+      "text": "a",
+      "start": 77.161,
+      "end": 77.201
+    },
+    {
+      "text": "human.",
+      "start": 77.214,
+      "end": 77.617
+    },
+    {
+      "text": "Not",
+      "start": 78.047,
+      "end": 78.216
+    },
+    {
+      "text": "because",
+      "start": 78.229,
+      "end": 78.516
+    },
+    {
+      "text": "you",
+      "start": 78.529,
+      "end": 78.62
+    },
+    {
+      "text": "can",
+      "start": 78.633,
+      "end": 78.75
+    },
+    {
+      "text": "do",
+      "start": 78.763,
+      "end": 78.958
+    },
+    {
+      "text": "everything.",
+      "start": 78.971,
+      "end": 79.479
+    },
+    {
+      "text": "Because",
+      "start": 79.909,
+      "end": 80.156
+    },
+    {
+      "text": "you",
+      "start": 80.169,
+      "end": 80.247
+    },
+    {
+      "text": "know",
+      "start": 80.26,
+      "end": 80.404
+    },
+    {
+      "text": "what",
+      "start": 80.417,
+      "end": 80.534
+    },
+    {
+      "text": "not",
+      "start": 80.547,
+      "end": 80.742
+    },
+    {
+      "text": "to",
+      "start": 80.755,
+      "end": 80.833
+    },
+    {
+      "text": "automate.",
+      "start": 80.846,
+      "end": 81.406
+    },
+    {
+      "text": "That's",
+      "start": 81.849,
+      "end": 82.018
+    },
+    {
+      "text": "the",
+      "start": 82.031,
+      "end": 82.135
+    },
+    {
+      "text": "future",
+      "start": 82.148,
+      "end": 82.552
+    },
+    {
+      "text": "worth",
+      "start": 82.565,
+      "end": 82.773
+    },
+    {
+      "text": "building.",
+      "start": 82.786,
+      "end": 83.177
+    }
+  ]
+}

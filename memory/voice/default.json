@@ -1,0 +1,327 @@
+{
+  "schemaVersion": "1.0.0",
+  "updated": "2026-11-08",
+  "default": "SD_VOICE_03",
+  "defaultName": "Nathan Cole",
+  "alternate": "SD_VOICE_09",
+  "alternateName": "James Carter",
+  "rule": "Use SD_VOICE_03 — Nathan Cole for every video. Use SD_VOICE_09 — James Carter only when the brief explicitly names it. Never substitute a voice silently.",
+  "selection": {
+    "acceptedForms": [
+      "SD_VOICE_03",
+      "SD_VOICE_03 — Nathan Cole",
+      "Nathan Cole",
+      "nathan cole"
+    ],
+    "strict": true,
+    "fallback": "none",
+    "behaviour": "Unknown voices, unknown emotions and missing files fail loudly. The system never silently swaps in another identity."
+  },
+  "audioSpec": {
+    "format": "WAV",
+    "codec": "PCM signed 24-bit little-endian",
+    "sample_rate_hz": 48000,
+    "bit_depth": 24,
+    "channels": 1,
+    "layout": "mono",
+    "loudness_target_lufs": -16,
+    "true_peak_target_dbtp": -1.5,
+    "processing": "speech-boundary trim; 65 Hz high-pass; measured gain; true-peak-safe limiter; 15 ms fade-in; 20 ms fade-out. No reverb, no echo, no artificial room, no voice cloning.",
+    "source_limitation": "Edge TTS delivers 24 kHz mono MP3. The WAV files are 48 kHz / 24-bit PCM containers produced from that source, not native 48 kHz recordings. This is the best quality available without a paid TTS provider."
+  },
+  "emotions": [
+    "calm",
+    "curiosity",
+    "suspense",
+    "excitement",
+    "seriousness",
+    "concern",
+    "confidence",
+    "reflection",
+    "dramatic",
+    "friendly"
+  ],
+  "emotionDefinitions": {
+    "calm": {
+      "label": "Calm professional narration",
+      "text": "Every successful business begins with a decision.",
+      "rate_delta_percent": 0,
+      "pitch_delta_hz": 0,
+      "volume_delta_percent": 0
+    },
+    "curiosity": {
+      "label": "Curiosity",
+      "text": "But what if the smallest decision is the one that changes everything?",
+      "rate_delta_percent": 4,
+      "pitch_delta_hz": 3,
+      "volume_delta_percent": 0
+    },
+    "suspense": {
+      "label": "Suspense",
+      "text": "When thousands of customers depend on your system, one mistake can change everything.",
+      "rate_delta_percent": -5,
+      "pitch_delta_hz": -2,
+      "volume_delta_percent": 0
+    },
+    "excitement": {
+      "label": "Excitement",
+      "text": "This is where the real opportunity begins.",
+      "rate_delta_percent": 8,
+      "pitch_delta_hz": 4,
+      "volume_delta_percent": 3
+    },
+    "seriousness": {
+      "label": "Seriousness",
+      "text": "The question is not whether your business will face a challenge.",
+      "rate_delta_percent": -3,
+      "pitch_delta_hz": -1,
+      "volume_delta_percent": 0
+    },
+    "concern": {
+      "label": "Concern",
+      "text": "But sometimes, the smallest decision creates the biggest problem.",
+      "rate_delta_percent": -5,
+      "pitch_delta_hz": 1,
+      "volume_delta_percent": 0
+    },
+    "confidence": {
+      "label": "Confidence",
+      "text": "The question is whether you are prepared when it happens.",
+      "rate_delta_percent": -1,
+      "pitch_delta_hz": 0,
+      "volume_delta_percent": 2
+    },
+    "reflection": {
+      "label": "Reflective storytelling",
+      "text": "Every successful business begins with a decision.",
+      "rate_delta_percent": -7,
+      "pitch_delta_hz": -1,
+      "volume_delta_percent": -1
+    },
+    "dramatic": {
+      "label": "Dramatic emphasis",
+      "text": "One mistake can change everything.",
+      "rate_delta_percent": -9,
+      "pitch_delta_hz": -3,
+      "volume_delta_percent": 5
+    },
+    "friendly": {
+      "label": "Friendly explanation",
+      "text": "Let me show you how this actually works.",
+      "rate_delta_percent": 3,
+      "pitch_delta_hz": 2,
+      "volume_delta_percent": 1
+    }
+  },
+  "voices": [
+    {
+      "id": "SD_VOICE_03",
+      "name": "Nathan Cole",
+      "role": "default",
+      "gender": "male",
+      "register": "rich low-mid baritone",
+      "texture": "smooth, clean, polished",
+      "accent": "American (General US)",
+      "personality": "intelligent, approachable, confident",
+      "narrationStyle": "modern technology narrator; natural and conversational, lightly optimistic, clear without sounding corporate",
+      "primaryEmotion": "professional confidence",
+      "speakingSpeed": "measured, 156.3 wpm (identity sample)",
+      "idealVideoTypes": [
+        "SaaS storytelling",
+        "startup and business case studies",
+        "product explainers",
+        "technology documentaries"
+      ],
+      "preferredEmotions": [
+        "calm",
+        "confidence",
+        "curiosity",
+        "friendly"
+      ],
+      "engineVoice": "en-US-AndrewMultilingualNeural",
+      "audioDir": "public/audio/voice-library/SD_VOICE_03_Nathan_Cole",
+      "publicPathPattern": "audio/voice-library/SD_VOICE_03_Nathan_Cole/{emotion}.wav",
+      "emotions": [
+        "calm",
+        "curiosity",
+        "suspense",
+        "excitement",
+        "seriousness",
+        "concern",
+        "confidence",
+        "reflection",
+        "dramatic",
+        "friendly"
+      ],
+      "prosody": {
+        "base": {
+          "rate_percent": 2,
+          "pitch_hz": -2,
+          "volume_percent": 0
+        },
+        "emotions": {
+          "calm": {
+            "rate_percent": 2,
+            "pitch_hz": -2,
+            "volume_percent": 0
+          },
+          "curiosity": {
+            "rate_percent": 6,
+            "pitch_hz": 1,
+            "volume_percent": 0
+          },
+          "suspense": {
+            "rate_percent": -3,
+            "pitch_hz": -4,
+            "volume_percent": 0
+          },
+          "excitement": {
+            "rate_percent": 10,
+            "pitch_hz": 2,
+            "volume_percent": 3
+          },
+          "seriousness": {
+            "rate_percent": -1,
+            "pitch_hz": -3,
+            "volume_percent": 0
+          },
+          "concern": {
+            "rate_percent": -3,
+            "pitch_hz": -1,
+            "volume_percent": 0
+          },
+          "confidence": {
+            "rate_percent": 1,
+            "pitch_hz": -2,
+            "volume_percent": 2
+          },
+          "reflection": {
+            "rate_percent": -5,
+            "pitch_hz": -3,
+            "volume_percent": -1
+          },
+          "dramatic": {
+            "rate_percent": -7,
+            "pitch_hz": -5,
+            "volume_percent": 5
+          },
+          "friendly": {
+            "rate_percent": 5,
+            "pitch_hz": 0,
+            "volume_percent": 1
+          }
+        }
+      },
+      "description": "A rich, smooth, intelligent male voice for professional American technology narration. Conversational enough for a founder story, polished enough for a product film.",
+      "usage": "Select with `resolveVoice(\"SD_VOICE_03\")` or `resolveVoice(\"SD_VOICE_03 — Nathan Cole\")`. In Remotion use `<VoiceNarration voice=\"SD_VOICE_03\" emotion=\"calm\" />`. Paths are relative to `public/`. This identity is permanent; do not rename it. If the asset is missing, fail loudly — never substitute another voice."
+    },
+    {
+      "id": "SD_VOICE_09",
+      "name": "James Carter",
+      "role": "alternate",
+      "gender": "male",
+      "register": "deep, natural baritone",
+      "texture": "expressive, conversational, slightly breathy",
+      "accent": "Canadian (General Canadian, close to American)",
+      "personality": "empathetic, sincere, adaptable",
+      "narrationStyle": "emotional storytelling; natural conversational pacing, intimate close-mic feel, honest emphasis without melodrama",
+      "primaryEmotion": "emotional storytelling",
+      "speakingSpeed": "measured, 161.5 wpm (identity sample)",
+      "idealVideoTypes": [
+        "founder stories",
+        "emotional brand films",
+        "customer stories",
+        "human-interest documentaries"
+      ],
+      "preferredEmotions": [
+        "reflection",
+        "concern",
+        "friendly",
+        "confidence"
+      ],
+      "engineVoice": "en-CA-LiamNeural",
+      "audioDir": "public/audio/voice-library/SD_VOICE_09_James_Carter",
+      "publicPathPattern": "audio/voice-library/SD_VOICE_09_James_Carter/{emotion}.wav",
+      "emotions": [
+        "calm",
+        "curiosity",
+        "suspense",
+        "excitement",
+        "seriousness",
+        "concern",
+        "confidence",
+        "reflection",
+        "dramatic",
+        "friendly"
+      ],
+      "prosody": {
+        "base": {
+          "rate_percent": 0,
+          "pitch_hz": -4,
+          "volume_percent": 0
+        },
+        "emotions": {
+          "calm": {
+            "rate_percent": 0,
+            "pitch_hz": -4,
+            "volume_percent": 0
+          },
+          "curiosity": {
+            "rate_percent": 4,
+            "pitch_hz": -1,
+            "volume_percent": 0
+          },
+          "suspense": {
+            "rate_percent": -5,
+            "pitch_hz": -6,
+            "volume_percent": 0
+          },
+          "excitement": {
+            "rate_percent": 8,
+            "pitch_hz": 0,
+            "volume_percent": 3
+          },
+          "seriousness": {
+            "rate_percent": -3,
+            "pitch_hz": -5,
+            "volume_percent": 0
+          },
+          "concern": {
+            "rate_percent": -5,
+            "pitch_hz": -3,
+            "volume_percent": 0
+          },
+          "confidence": {
+            "rate_percent": -1,
+            "pitch_hz": -4,
+            "volume_percent": 2
+          },
+          "reflection": {
+            "rate_percent": -7,
+            "pitch_hz": -5,
+            "volume_percent": -1
+          },
+          "dramatic": {
+            "rate_percent": -9,
+            "pitch_hz": -7,
+            "volume_percent": 5
+          },
+          "friendly": {
+            "rate_percent": 3,
+            "pitch_hz": -2,
+            "volume_percent": 1
+          }
+        }
+      },
+      "description": "A deep, expressive male voice with a natural conversational texture. It moves easily between warmth, concern, and quiet confidence, which makes it the most emotionally flexible identity in the library.",
+      "usage": "Select with `resolveVoice(\"SD_VOICE_09\")` or `resolveVoice(\"SD_VOICE_09 — James Carter\")`. In Remotion use `<VoiceNarration voice=\"SD_VOICE_09\" emotion=\"calm\" />`. Paths are relative to `public/`. This identity is permanent; do not rename it. If the asset is missing, fail loudly — never substitute another voice."
+    }
+  ],
+  "integration": {
+    "remotionComponent": "src/voice-library/VoiceNarration.tsx",
+    "resolver": "src/voice-library/selectVoice.ts",
+    "memoryBridge": "src/memory/index.ts",
+    "cliLookup": "node scripts/voice-lookup.mjs \"SD_VOICE_03\"",
+    "cliGenerate": "python3 scripts/voice-say.py --voice \"SD_VOICE_03 — Nathan Cole\" --emotion calm --text \"...\" --out out/voice-lines/line.wav"
+  }
+}

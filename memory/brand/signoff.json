@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0.0",
+  "updated": "2026-11-08",
+  "default": "aurora",
+  "rule": "Every film closes with one of five logo-only templates: the avatar image and the bold SIMPLEDEAV wordmark. No label, monogram, handle, tag, URL, QR code or second logo.",
+  "templates": [
+    {
+      "id": "aurora",
+      "name": "Aurora",
+      "default": true,
+      "character": "Portrait held in a soft ring of light, a small precise wordmark and a single luminous horizon.",
+      "bestFor": "The house default. Every channel, vertical and wide."
+    },
+    {
+      "id": "atlas",
+      "name": "Atlas",
+      "character": "An architectural grid with the avatar as a small seal and a precise wordmark on a measured baseline.",
+      "bestFor": "Films that want a quiet, architectural close."
+    },
+    {
+      "id": "axis",
+      "name": "Axis",
+      "character": "A horizontal lockup with a squared portrait, a hairline rule and a precise accent mark.",
+      "bestFor": "Wide films, YouTube end screens and sponsor-facing cuts."
+    },
+    {
+      "id": "editorial",
+      "name": "Editorial",
+      "character": "An asymmetric, left-aligned stack with generous negative space, a fine rule system and directional light.",
+      "bestFor": "Case studies, documentary closes and designed title cards."
+    },
+    {
+      "id": "orbit",
+      "name": "Orbit",
+      "character": "A portrait inside a slowly turning orbital system, set against a quiet field of stars and wide-tracked type.",
+      "bestFor": "Premium documentary closes, series finales and launch films."
+    }
+  ],
+  "assets": {
+    "avatar": "public/brand/simpledeav-avatar.png",
+    "wordmark": "SIMPLEDEAV",
+    "handle": "@simpledeav"
+  },
+  "reveal": {
+    "start": "0.00s black card",
+    "avatar": "0.08s",
+    "wordmark": "0.36s",
+    "locked": "1.16s",
+    "minimumOnScreenSeconds": 2.5,
+    "spring": "damping 24, stiffness 110"
+  },
+  "code": {
+    "config": "src/config/brand.ts",
+    "renderers": "src/components/branding/endCardTemplates.tsx",
+    "component": "src/components/branding/SimpledeavSignOff.tsx",
+    "previews": "src/compositions/EndCardPreview.tsx"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "voice": "en-US-BrianMultilingualNeural",
+  "leadInSeconds": 0.5,
+  "totalDurationSeconds": 94,
+  "maxInternalPauseSeconds": 0.28,
+  "segments": [
+    {
+      "id": "hook",
+      "sceneStartSeconds": 0,
+      "voiceOffsetSeconds": 0.7,
+      "text": "What if your software engineers stopped writing most of the code themselves?",
+      "rate": "+10%",
+      "pitch": "-2Hz"
+    },
+    {
+      "id": "bottleneck",
+      "sceneStartSeconds": 7,
+      "voiceOffsetSeconds": 0.7,
+      "text": "Software was never just code. Planning, testing, reviewing, shipping. Each step adds time, turning a simple idea into a twenty-day cycle. The bottleneck wasn't effort. It was the process.",
+      "rate": "+10%",
+      "pitch": "-2Hz"
+    },
+    {
+      "id": "shift",
+      "sceneStartSeconds": 20,
+      "voiceOffsetSeconds": 0.6,
+      "text": "So Coinbase changed the workflow. More than twenty-four hundred developers adopted Cursor, directing agents through implementation, testing, and review. The engineer moved up a level: define intent, validate results.",
+      "rate": "+10%",
+      "pitch": "-2Hz"
+    },
+    {
+      "id": "seventyfive",
+      "sceneStartSeconds": 35,
+      "voiceOffsetSeconds": 0.9,
+      "text": "In Coinbase's reported workflow, agents created three out of every four pull requests. Not a side experiment. The new default.",
+      "rate": "+10%",
+      "pitch": "-2Hz"
+    },
+    {
+      "id": "speed",
+      "sceneStartSeconds": 48,
+      "voiceOffsetSeconds": 0.8,
+      "text": "Some teams cut the time from idea to production from twenty days to less than two. A ninety percent reduction. Not by typing faster, by removing handoffs.",
+      "rate": "+10%",
+      "pitch": "-2Hz"
+    },
+    {
+      "id": "productivity",
+      "sceneStartSeconds": 62,
+      "voiceOffsetSeconds": 0.7,
+      "text": "The results weren't just about speed. Engineers merged fifty-five percent more pull requests, and saved seven hours every week. Small teams started shipping what once took a full team.",
+      "rate": "+10%",
+      "pitch": "-2Hz"
+    },
+    {
+      "id": "conclusion",
+      "sceneStartSeconds": 76,
+      "voiceOffsetSeconds": 0.7,
+      "text": "The biggest shift may not be how fast we write code, but how well we direct and review what AI builds. The next era is already here.",
+      "rate": "+10%",
+      "pitch": "-2Hz"
+    }
+  ]
+}

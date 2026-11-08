@@ -1,0 +1,1158 @@
+{
+  "voice": "en-US-BrianMultilingualNeural",
+  "leadInSeconds": 0.5,
+  "segments": [
+    {
+      "id": "hook",
+      "start": 0.5,
+      "end": 5.78,
+      "duration": 5.28,
+      "rawDuration": 5.28,
+      "trimmedSilence": 0.0,
+      "rate": "+8%",
+      "words": 18
+    },
+    {
+      "id": "idea",
+      "start": 5.78,
+      "end": 18.904,
+      "duration": 13.124,
+      "rawDuration": 13.704,
+      "trimmedSilence": 0.58,
+      "rate": "+8%",
+      "words": 36
+    },
+    {
+      "id": "struggle",
+      "start": 18.904,
+      "end": 27.868,
+      "duration": 8.964,
+      "rawDuration": 9.264,
+      "trimmedSilence": 0.3,
+      "rate": "+8%",
+      "words": 29
+    },
+    {
+      "id": "cereal",
+      "start": 27.868,
+      "end": 40.736,
+      "duration": 12.868,
+      "rawDuration": 13.728,
+      "trimmedSilence": 0.86,
+      "rate": "+8%",
+      "words": 31
+    },
+    {
+      "id": "funding",
+      "start": 40.736,
+      "end": 51.768,
+      "duration": 11.032,
+      "rawDuration": 11.232,
+      "trimmedSilence": 0.2,
+      "rate": "+8%",
+      "words": 34
+    },
+    {
+      "id": "breakthrough",
+      "start": 51.768,
+      "end": 65.824,
+      "duration": 14.056,
+      "rawDuration": 14.376,
+      "trimmedSilence": 0.32,
+      "rate": "+8%",
+      "words": 40
+    },
+    {
+      "id": "lesson",
+      "start": 65.824,
+      "end": 77.288,
+      "duration": 11.464,
+      "rawDuration": 12.144,
+      "trimmedSilence": 0.68,
+      "rate": "+8%",
+      "words": 28
+    }
+  ],
+  "words": [
+    {
+      "text": "One",
+      "start": 0.593,
+      "end": 0.731
+    },
+    {
+      "text": "of",
+      "start": 0.743,
+      "end": 0.812
+    },
+    {
+      "text": "the",
+      "start": 0.824,
+      "end": 0.905
+    },
+    {
+      "text": "world's",
+      "start": 0.917,
+      "end": 1.275
+    },
+    {
+      "text": "biggest",
+      "start": 1.287,
+      "end": 1.611
+    },
+    {
+      "text": "travel",
+      "start": 1.623,
+      "end": 1.935
+    },
+    {
+      "text": "platforms",
+      "start": 1.947,
+      "end": 2.537
+    },
+    {
+      "text": "once",
+      "start": 2.549,
+      "end": 2.861
+    },
+    {
+      "text": "had",
+      "start": 2.873,
+      "end": 3.058
+    },
+    {
+      "text": "to",
+      "start": 3.069,
+      "end": 3.139
+    },
+    {
+      "text": "sell",
+      "start": 3.15,
+      "end": 3.393
+    },
+    {
+      "text": "cereal",
+      "start": 3.405,
+      "end": 3.868
+    },
+    {
+      "text": "just",
+      "start": 3.88,
+      "end": 4.1
+    },
+    {
+      "text": "to",
+      "start": 4.111,
+      "end": 4.181
+    },
+    {
+      "text": "keep",
+      "start": 4.192,
+      "end": 4.424
+    },
+    {
+      "text": "its",
+      "start": 4.435,
+      "end": 4.539
+    },
+    {
+      "text": "startup",
+      "start": 4.551,
+      "end": 4.91
+    },
+    {
+      "text": "alive.",
+      "start": 4.921,
+      "end": 5.419
+    },
+    {
+      "text": "Back",
+      "start": 5.861,
+      "end": 6.093
+    },
+    {
+      "text": "in",
+      "start": 6.104,
+      "end": 7.099
+    },
+    {
+      "text": "2007,",
+      "start": 6.104,
+      "end": 7.099
+    },
+    {
+      "text": "Brian",
+      "start": 7.458,
+      "end": 7.742
+    },
+    {
+      "text": "Chesky",
+      "start": 7.754,
+      "end": 8.275
+    },
+    {
+      "text": "and",
+      "start": 8.286,
+      "end": 8.437
+    },
+    {
+      "text": "Joe",
+      "start": 8.448,
+      "end": 8.633
+    },
+    {
+      "text": "Gebbia",
+      "start": 8.645,
+      "end": 9.039
+    },
+    {
+      "text": "had",
+      "start": 9.05,
+      "end": 9.189
+    },
+    {
+      "text": "a",
+      "start": 9.201,
+      "end": 9.247
+    },
+    {
+      "text": "problem:",
+      "start": 9.258,
+      "end": 9.675
+    },
+    {
+      "text": "they",
+      "start": 10.06,
+      "end": 10.096
+    },
+    {
+      "text": "couldn't",
+      "start": 10.108,
+      "end": 10.374
+    },
+    {
+      "text": "easily",
+      "start": 10.385,
+      "end": 10.767
+    },
+    {
+      "text": "afford",
+      "start": 10.779,
+      "end": 11.091
+    },
+    {
+      "text": "their",
+      "start": 11.103,
+      "end": 11.253
+    },
+    {
+      "text": "rent.",
+      "start": 11.265,
+      "end": 11.577
+    },
+    {
+      "text": "During",
+      "start": 11.9,
+      "end": 12.126
+    },
+    {
+      "text": "a",
+      "start": 12.137,
+      "end": 12.23
+    },
+    {
+      "text": "busy",
+      "start": 12.241,
+      "end": 12.507
+    },
+    {
+      "text": "design",
+      "start": 12.519,
+      "end": 12.878
+    },
+    {
+      "text": "conference,",
+      "start": 12.889,
+      "end": 13.526
+    },
+    {
+      "text": "they",
+      "start": 13.781,
+      "end": 13.86
+    },
+    {
+      "text": "turned",
+      "start": 13.871,
+      "end": 14.16
+    },
+    {
+      "text": "their",
+      "start": 14.172,
+      "end": 14.276
+    },
+    {
+      "text": "apartment",
+      "start": 14.288,
+      "end": 14.762
+    },
+    {
+      "text": "into",
+      "start": 14.774,
+      "end": 15.04
+    },
+    {
+      "text": "a",
+      "start": 15.052,
+      "end": 15.11
+    },
+    {
+      "text": "tiny",
+      "start": 15.121,
+      "end": 15.468
+    },
+    {
+      "text": "accommodation",
+      "start": 15.48,
+      "end": 16.082
+    },
+    {
+      "text": "business,",
+      "start": 16.093,
+      "end": 16.591
+    },
+    {
+      "text": "using",
+      "start": 16.869,
+      "end": 17.179
+    },
+    {
+      "text": "air",
+      "start": 17.191,
+      "end": 17.399
+    },
+    {
+      "text": "mattresses",
+      "start": 17.411,
+      "end": 17.931
+    },
+    {
+      "text": "for",
+      "start": 17.943,
+      "end": 18.059
+    },
+    {
+      "text": "guests.",
+      "start": 18.07,
+      "end": 18.545
+    },
+    {
+      "text": "But",
+      "start": 18.973,
+      "end": 19.101
+    },
+    {
+      "text": "turning",
+      "start": 19.112,
+      "end": 19.425
+    },
+    {
+      "text": "that",
+      "start": 19.436,
+      "end": 19.61
+    },
+    {
+      "text": "idea",
+      "start": 19.622,
+      "end": 20.085
+    },
+    {
+      "text": "into",
+      "start": 20.096,
+      "end": 20.374
+    },
+    {
+      "text": "a",
+      "start": 20.386,
+      "end": 20.455
+    },
+    {
+      "text": "business",
+      "start": 20.467,
+      "end": 20.941
+    },
+    {
+      "text": "was",
+      "start": 20.953,
+      "end": 21.115
+    },
+    {
+      "text": "harder",
+      "start": 21.126,
+      "end": 21.531
+    },
+    {
+      "text": "than",
+      "start": 21.543,
+      "end": 21.682
+    },
+    {
+      "text": "they",
+      "start": 21.693,
+      "end": 21.798
+    },
+    {
+      "text": "imagined.",
+      "start": 21.809,
+      "end": 22.399
+    },
+    {
+      "text": "Bookings",
+      "start": 22.664,
+      "end": 23.003
+    },
+    {
+      "text": "were",
+      "start": 23.015,
+      "end": 23.142
+    },
+    {
+      "text": "limited,",
+      "start": 23.154,
+      "end": 23.675
+    },
+    {
+      "text": "money",
+      "start": 23.698,
+      "end": 24.022
+    },
+    {
+      "text": "was",
+      "start": 24.033,
+      "end": 24.207
+    },
+    {
+      "text": "running",
+      "start": 24.219,
+      "end": 24.496
+    },
+    {
+      "text": "out,",
+      "start": 24.508,
+      "end": 24.82
+    },
+    {
+      "text": "and",
+      "start": 25.064,
+      "end": 25.143
+    },
+    {
+      "text": "the",
+      "start": 25.155,
+      "end": 25.236
+    },
+    {
+      "text": "founders",
+      "start": 25.248,
+      "end": 25.71
+    },
+    {
+      "text": "were",
+      "start": 25.722,
+      "end": 25.826
+    },
+    {
+      "text": "struggling",
+      "start": 25.838,
+      "end": 26.347
+    },
+    {
+      "text": "to",
+      "start": 26.359,
+      "end": 26.463
+    },
+    {
+      "text": "keep",
+      "start": 26.474,
+      "end": 26.683
+    },
+    {
+      "text": "the",
+      "start": 26.694,
+      "end": 26.764
+    },
+    {
+      "text": "company",
+      "start": 26.775,
+      "end": 27.111
+    },
+    {
+      "text": "going.",
+      "start": 27.123,
+      "end": 27.516
+    },
+    {
+      "text": "Then,",
+      "start": 27.949,
+      "end": 28.262
+    },
+    {
+      "text": "during",
+      "start": 28.632,
+      "end": 28.855
+    },
+    {
+      "text": "the",
+      "start": 28.867,
+      "end": 28.959
+    },
+    {
+      "text": "2008",
+      "start": 28.971,
+      "end": 29.746
+    },
+    {
+      "text": "US",
+      "start": 29.758,
+      "end": 30.047
+    },
+    {
+      "text": "election,",
+      "start": 30.059,
+      "end": 30.522
+    },
+    {
+      "text": "they",
+      "start": 30.928,
+      "end": 30.972
+    },
+    {
+      "text": "created",
+      "start": 30.983,
+      "end": 31.354
+    },
+    {
+      "text": "something",
+      "start": 31.365,
+      "end": 31.771
+    },
+    {
+      "text": "unusual:",
+      "start": 31.782,
+      "end": 32.349
+    },
+    {
+      "text": "Obama",
+      "start": 32.728,
+      "end": 33.085
+    },
+    {
+      "text": "O's",
+      "start": 33.096,
+      "end": 33.478
+    },
+    {
+      "text": "and",
+      "start": 33.49,
+      "end": 33.64
+    },
+    {
+      "text": "Cap'n",
+      "start": 33.652,
+      "end": 33.976
+    },
+    {
+      "text": "McCain's.",
+      "start": 33.987,
+      "end": 34.531
+    },
+    {
+      "text": "They",
+      "start": 34.848,
+      "end": 34.883
+    },
+    {
+      "text": "designed",
+      "start": 34.894,
+      "end": 35.392
+    },
+    {
+      "text": "collectible",
+      "start": 35.404,
+      "end": 35.901
+    },
+    {
+      "text": "cereal",
+      "start": 35.913,
+      "end": 36.272
+    },
+    {
+      "text": "boxes,",
+      "start": 36.283,
+      "end": 36.804
+    },
+    {
+      "text": "assembled",
+      "start": 37.188,
+      "end": 37.547
+    },
+    {
+      "text": "them",
+      "start": 37.558,
+      "end": 37.674
+    },
+    {
+      "text": "by",
+      "start": 37.686,
+      "end": 37.836
+    },
+    {
+      "text": "hand,",
+      "start": 37.848,
+      "end": 38.253
+    },
+    {
+      "text": "and",
+      "start": 38.588,
+      "end": 38.652
+    },
+    {
+      "text": "sold",
+      "start": 38.663,
+      "end": 38.964
+    },
+    {
+      "text": "them",
+      "start": 38.976,
+      "end": 39.172
+    },
+    {
+      "text": "for",
+      "start": 39.184,
+      "end": 39.323
+    },
+    {
+      "text": "forty",
+      "start": 39.334,
+      "end": 39.601
+    },
+    {
+      "text": "dollars",
+      "start": 39.612,
+      "end": 39.983
+    },
+    {
+      "text": "each.",
+      "start": 39.994,
+      "end": 40.376
+    },
+    {
+      "text": "The",
+      "start": 40.794,
+      "end": 40.875
+    },
+    {
+      "text": "unusual",
+      "start": 40.886,
+      "end": 41.384
+    },
+    {
+      "text": "experiment",
+      "start": 41.396,
+      "end": 42.044
+    },
+    {
+      "text": "brought",
+      "start": 42.055,
+      "end": 42.391
+    },
+    {
+      "text": "in",
+      "start": 42.414,
+      "end": 42.553
+    },
+    {
+      "text": "around",
+      "start": 42.565,
+      "end": 42.947
+    },
+    {
+      "text": "thirty",
+      "start": 42.958,
+      "end": 43.224
+    },
+    {
+      "text": "thousand",
+      "start": 43.236,
+      "end": 43.595
+    },
+    {
+      "text": "dollars.",
+      "start": 43.606,
+      "end": 44.116
+    },
+    {
+      "text": "It",
+      "start": 44.436,
+      "end": 44.474
+    },
+    {
+      "text": "wasn't",
+      "start": 44.485,
+      "end": 44.728
+    },
+    {
+      "text": "a",
+      "start": 44.74,
+      "end": 44.775
+    },
+    {
+      "text": "scalable",
+      "start": 44.786,
+      "end": 45.249
+    },
+    {
+      "text": "business",
+      "start": 45.261,
+      "end": 45.608
+    },
+    {
+      "text": "model,",
+      "start": 45.62,
+      "end": 46.025
+    },
+    {
+      "text": "but",
+      "start": 46.291,
+      "end": 46.396
+    },
+    {
+      "text": "it",
+      "start": 46.408,
+      "end": 46.489
+    },
+    {
+      "text": "gave",
+      "start": 46.5,
+      "end": 46.743
+    },
+    {
+      "text": "Airbnb",
+      "start": 46.767,
+      "end": 47.287
+    },
+    {
+      "text": "money",
+      "start": 47.299,
+      "end": 47.611
+    },
+    {
+      "text": "to",
+      "start": 47.623,
+      "end": 47.727
+    },
+    {
+      "text": "keep",
+      "start": 47.739,
+      "end": 47.947
+    },
+    {
+      "text": "going",
+      "start": 47.959,
+      "end": 48.364
+    },
+    {
+      "text": "and",
+      "start": 48.375,
+      "end": 48.479
+    },
+    {
+      "text": "a",
+      "start": 48.491,
+      "end": 48.537
+    },
+    {
+      "text": "story",
+      "start": 48.549,
+      "end": 49.0
+    },
+    {
+      "text": "that",
+      "start": 49.012,
+      "end": 49.174
+    },
+    {
+      "text": "would",
+      "start": 49.186,
+      "end": 49.29
+    },
+    {
+      "text": "eventually",
+      "start": 49.301,
+      "end": 49.741
+    },
+    {
+      "text": "attract",
+      "start": 49.753,
+      "end": 50.192
+    },
+    {
+      "text": "the",
+      "start": 50.204,
+      "end": 50.25
+    },
+    {
+      "text": "attention",
+      "start": 50.262,
+      "end": 50.679
+    },
+    {
+      "text": "of",
+      "start": 50.69,
+      "end": 50.783
+    },
+    {
+      "text": "investors.",
+      "start": 50.794,
+      "end": 51.419
+    },
+    {
+      "text": "That",
+      "start": 51.849,
+      "end": 52.023
+    },
+    {
+      "text": "persistence",
+      "start": 52.034,
+      "end": 52.624
+    },
+    {
+      "text": "helped",
+      "start": 52.636,
+      "end": 52.937
+    },
+    {
+      "text": "them",
+      "start": 52.949,
+      "end": 53.145
+    },
+    {
+      "text": "get",
+      "start": 53.157,
+      "end": 53.365
+    },
+    {
+      "text": "into",
+      "start": 53.377,
+      "end": 53.655
+    },
+    {
+      "text": "Y",
+      "start": 53.666,
+      "end": 53.886
+    },
+    {
+      "text": "Combinator.",
+      "start": 53.898,
+      "end": 54.523
+    },
+    {
+      "text": "But",
+      "start": 54.888,
+      "end": 54.946
+    },
+    {
+      "text": "they",
+      "start": 54.957,
+      "end": 55.061
+    },
+    {
+      "text": "still",
+      "start": 55.073,
+      "end": 55.385
+    },
+    {
+      "text": "had",
+      "start": 55.397,
+      "end": 55.605
+    },
+    {
+      "text": "to",
+      "start": 55.617,
+      "end": 55.698
+    },
+    {
+      "text": "solve",
+      "start": 55.709,
+      "end": 56.08
+    },
+    {
+      "text": "the",
+      "start": 56.091,
+      "end": 56.161
+    },
+    {
+      "text": "real",
+      "start": 56.172,
+      "end": 56.415
+    },
+    {
+      "text": "problem.",
+      "start": 56.427,
+      "end": 56.971
+    },
+    {
+      "text": "They",
+      "start": 57.288,
+      "end": 57.319
+    },
+    {
+      "text": "travelled",
+      "start": 57.331,
+      "end": 57.759
+    },
+    {
+      "text": "to",
+      "start": 57.771,
+      "end": 57.863
+    },
+    {
+      "text": "New",
+      "start": 57.875,
+      "end": 58.002
+    },
+    {
+      "text": "York,",
+      "start": 58.014,
+      "end": 58.465
+    },
+    {
+      "text": "met",
+      "start": 58.728,
+      "end": 58.878
+    },
+    {
+      "text": "hosts,",
+      "start": 58.889,
+      "end": 59.433
+    },
+    {
+      "text": "and",
+      "start": 59.595,
+      "end": 59.827
+    },
+    {
+      "text": "personally",
+      "start": 59.838,
+      "end": 60.301
+    },
+    {
+      "text": "improved",
+      "start": 60.313,
+      "end": 60.834
+    },
+    {
+      "text": "their",
+      "start": 60.845,
+      "end": 60.972
+    },
+    {
+      "text": "property",
+      "start": 60.984,
+      "end": 61.331
+    },
+    {
+      "text": "photographs.",
+      "start": 61.343,
+      "end": 62.003
+    },
+    {
+      "text": "They",
+      "start": 62.328,
+      "end": 62.385
+    },
+    {
+      "text": "focused",
+      "start": 62.397,
+      "end": 62.906
+    },
+    {
+      "text": "on",
+      "start": 62.93,
+      "end": 63.115
+    },
+    {
+      "text": "making",
+      "start": 63.126,
+      "end": 63.45
+    },
+    {
+      "text": "the",
+      "start": 63.462,
+      "end": 63.531
+    },
+    {
+      "text": "marketplace",
+      "start": 63.543,
+      "end": 64.203
+    },
+    {
+      "text": "better",
+      "start": 64.214,
+      "end": 64.527
+    },
+    {
+      "text": "for",
+      "start": 64.538,
+      "end": 64.758
+    },
+    {
+      "text": "real",
+      "start": 64.77,
+      "end": 64.99
+    },
+    {
+      "text": "people.",
+      "start": 65.001,
+      "end": 65.464
+    },
+    {
+      "text": "Airbnb",
+      "start": 65.905,
+      "end": 66.507
+    },
+    {
+      "text": "became",
+      "start": 66.518,
+      "end": 66.912
+    },
+    {
+      "text": "a",
+      "start": 66.935,
+      "end": 67.039
+    },
+    {
+      "text": "global",
+      "start": 67.051,
+      "end": 67.433
+    },
+    {
+      "text": "travel",
+      "start": 67.444,
+      "end": 67.815
+    },
+    {
+      "text": "platform.",
+      "start": 67.826,
+      "end": 68.428
+    },
+    {
+      "text": "But",
+      "start": 68.764,
+      "end": 68.8
+    },
+    {
+      "text": "the",
+      "start": 68.811,
+      "end": 68.892
+    },
+    {
+      "text": "early",
+      "start": 68.904,
+      "end": 69.181
+    },
+    {
+      "text": "lesson",
+      "start": 69.193,
+      "end": 69.563
+    },
+    {
+      "text": "was",
+      "start": 69.575,
+      "end": 69.714
+    },
+    {
+      "text": "already",
+      "start": 69.725,
+      "end": 70.026
+    },
+    {
+      "text": "clear:",
+      "start": 70.038,
+      "end": 70.397
+    },
+    {
+      "text": "when",
+      "start": 70.784,
+      "end": 70.824
+    },
+    {
+      "text": "the",
+      "start": 70.835,
+      "end": 70.928
+    },
+    {
+      "text": "obvious",
+      "start": 70.94,
+      "end": 71.333
+    },
+    {
+      "text": "solution",
+      "start": 71.345,
+      "end": 71.75
+    },
+    {
+      "text": "fails,",
+      "start": 71.761,
+      "end": 72.201
+    },
+    {
+      "text": "creativity,",
+      "start": 72.544,
+      "end": 73.161
+    },
+    {
+      "text": "persistence,",
+      "start": 73.544,
+      "end": 74.149
+    },
+    {
+      "text": "and",
+      "start": 74.334,
+      "end": 74.531
+    },
+    {
+      "text": "understanding",
+      "start": 74.542,
+      "end": 75.086
+    },
+    {
+      "text": "your",
+      "start": 75.098,
+      "end": 75.225
+    },
+    {
+      "text": "customers",
+      "start": 75.237,
+      "end": 75.792
+    },
+    {
+      "text": "can",
+      "start": 75.804,
+      "end": 76.0
+    },
+    {
+      "text": "open",
+      "start": 76.012,
+      "end": 76.278
+    },
+    {
+      "text": "another",
+      "start": 76.29,
+      "end": 76.579
+    },
+    {
+      "text": "door.",
+      "start": 76.591,
+      "end": 76.95
+    }
+  ]
+}

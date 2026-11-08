@@ -1,0 +1,286 @@
+{
+  "schemaVersion": "1.0.0",
+  "episodeId": "airbnb-cereal",
+  "title": "The Startup That Sold Cereal to Survive",
+  "subtitle": "How Airbnb found a way to keep going.",
+  "durationSeconds": 80,
+  "fps": 30,
+  "totalFrames": 2400,
+  "themeId": "CORAL_DOCUMENTARY",
+  "fontFamily": "poppins",
+  "aspects": {
+    "primary": { "width": 1080, "height": 1920 },
+    "secondary": { "width": 1920, "height": 1080 }
+  },
+  "acts": [
+    { "id": "hook", "startSeconds": 0.0, "endSeconds": 6.0, "label": "The unexpected hook" },
+    { "id": "idea", "startSeconds": 6.0, "endSeconds": 18.7, "label": "The original idea" },
+    { "id": "struggle", "startSeconds": 18.7, "endSeconds": 27.6, "label": "The struggle" },
+    { "id": "cereal", "startSeconds": 27.6, "endSeconds": 40.5, "label": "The cereal idea" },
+    { "id": "funding", "startSeconds": 40.5, "endSeconds": 51.5, "label": "The unexpected funding" },
+    { "id": "breakthrough", "startSeconds": 51.5, "endSeconds": 65.6, "label": "The real breakthrough" },
+    { "id": "lesson", "startSeconds": 65.6, "endSeconds": 80.0, "label": "The lesson" }
+  ],
+  "voiceCues": [
+    { "id": "hook", "start": 0.5, "end": 5.78 },
+    { "id": "idea", "start": 5.78, "end": 18.9 },
+    { "id": "struggle", "start": 18.9, "end": 27.87 },
+    { "id": "cereal", "start": 27.87, "end": 40.74 },
+    { "id": "funding", "start": 40.74, "end": 51.77 },
+    { "id": "breakthrough", "start": 51.77, "end": 65.82 },
+    { "id": "lesson", "start": 65.82, "end": 77.29 }
+  ],
+  "narration": {
+    "text": "One of the world's biggest travel platforms once had to sell cereal just to keep its startup alive. Back in 2007, Brian Chesky and Joe Gebbia had a problem: they couldn't easily afford their rent. During a busy design conference, they turned their apartment into a tiny accommodation business, using air mattresses for guests. But turning that idea into a business was harder than they imagined. Bookings were limited, money was running out, and the founders were struggling to keep the company going. Then, during the 2008 US election, they created something unusual: Obama O's and Cap'n McCain's. They designed collectible cereal boxes, assembled them by hand, and sold them for forty dollars each. The unusual experiment brought in around thirty thousand dollars. It wasn't a scalable business model, but it gave Airbnb money to keep going and a story that would eventually attract the attention of investors. That persistence helped them get into Y Combinator. But they still had to solve the real problem. They travelled to New York, met hosts, and personally improved their property photographs. They focused on making the marketplace better for real people. Airbnb became a global travel platform. But the early lesson was already clear: when the obvious solution fails, creativity, persistence, and understanding your customers can open another door.",
+    "voice": "en-US-BrianMultilingualNeural",
+    "audioPath": "/audio/episodes/airbnb/voice.mp3",
+    "cuesPath": "/audio/episodes/airbnb/voice.cues.json",
+    "audioSeconds": 80.0,
+    "speechSeconds": 76.79,
+    "words": 224,
+    "processing": "Edge TTS, per-scene segments, internal silences capped at 0.30s, light warmth EQ, 2.4:1 compression, short room tail, -16 LUFS"
+  },
+  "brand": {
+    "enabled": true,
+    "signatureEnabled": true,
+    "avatarEnabled": true,
+    "treatment": "hybrid",
+    "revealSeconds": 77.0,
+    "wordmark": "SIMPLEDEAV",
+    "handle": "@simpledeav"
+  },
+  "music": {
+    "path": "/audio/episodes/airbnb/music/airbnb-bed-80s.mp3",
+    "title": "Dreaming Big",
+    "artist": "Ahjay Stelino",
+    "source": "Mixkit",
+    "license": "Mixkit Stock Music Free License",
+    "sourceUrl": "https://mixkit.co/free-stock-music/",
+    "edit": "26.0s-106.0s of the original track, 2.6s fade in, 3.8s fade out, -19 LUFS",
+    "volumePoints": [
+      { "timeSeconds": 0, "volume": 0.1 },
+      { "timeSeconds": 4.5, "volume": 0.15 },
+      { "timeSeconds": 6, "volume": 0.16 },
+      { "timeSeconds": 18.7, "volume": 0.145 },
+      { "timeSeconds": 27.6, "volume": 0.185 },
+      { "timeSeconds": 40.5, "volume": 0.21 },
+      { "timeSeconds": 51.5, "volume": 0.225 },
+      { "timeSeconds": 65.6, "volume": 0.195 },
+      { "timeSeconds": 73, "volume": 0.17 },
+      { "timeSeconds": 77, "volume": 0.15 },
+      { "timeSeconds": 80, "volume": 0 }
+    ]
+  },
+  "soundEffects": [
+    { "id": "open-impact", "path": "/audio/episodes/airbnb/sfx/opening-impact.mp3", "startSeconds": 0, "durationSeconds": 4, "volume": 0.5, "fadeOutSeconds": 2.2, "note": "Deep restrained opening impact" },
+    { "id": "box-shift", "path": "/audio/episodes/airbnb/sfx/cardboard-fold.mp3", "startSeconds": 1.45, "durationSeconds": 1.1, "volume": 0.14, "note": "Cardboard movement" },
+    { "id": "macro-whoosh", "path": "/audio/episodes/airbnb/sfx/soft-whoosh.mp3", "startSeconds": 2.05, "durationSeconds": 0.9, "volume": 0.13, "note": "Macro insert" },
+    { "id": "box-place", "path": "/audio/episodes/airbnb/sfx/box-set.mp3", "startSeconds": 3.9, "durationSeconds": 0.8, "volume": 0.3, "note": "Box placed on the table" },
+    { "id": "act2-whoosh", "path": "/audio/episodes/airbnb/sfx/transition-whoosh.mp3", "startSeconds": 6, "durationSeconds": 1, "volume": 0.24, "note": "Act transition" },
+    { "id": "inflate", "path": "/audio/episodes/airbnb/sfx/air-inflate.mp3", "startSeconds": 8.7, "durationSeconds": 2.6, "volume": 0.3, "note": "Air mattress inflation" },
+    { "id": "paper-map", "path": "/audio/episodes/airbnb/sfx/paper-slide.mp3", "startSeconds": 12.35, "durationSeconds": 0.9, "volume": 0.14, "note": "Diagram reveal" },
+    { "id": "typing-early", "path": "/audio/episodes/airbnb/sfx/typing.mp3", "startSeconds": 13.5, "durationSeconds": 2, "volume": 0.1, "note": "Laptop typing" },
+    { "id": "guests-door", "path": "/audio/episodes/airbnb/sfx/door-open.mp3", "startSeconds": 15.3, "durationSeconds": 1.7, "volume": 0.24, "note": "Guests arriving" },
+    { "id": "room-tone-1", "path": "/audio/episodes/airbnb/sfx/room-ambience.mp3", "startSeconds": 15.2, "durationSeconds": 3.2, "volume": 0.09, "note": "Apartment ambience" },
+    { "id": "struggle-impact", "path": "/audio/episodes/airbnb/sfx/low-impact.mp3", "startSeconds": 18.75, "durationSeconds": 2.6, "volume": 0.26, "note": "Turn into the struggle" },
+    { "id": "clock", "path": "/audio/episodes/airbnb/sfx/clock-tick.mp3", "startSeconds": 20.2, "durationSeconds": 4, "volume": 0.075, "note": "Ticking clock" },
+    { "id": "bills", "path": "/audio/episodes/airbnb/sfx/paper-crinkle.mp3", "startSeconds": 23.4, "durationSeconds": 1.6, "volume": 0.14, "note": "Unpaid bills" },
+    { "id": "typing-late", "path": "/audio/episodes/airbnb/sfx/typing.mp3", "startSeconds": 25, "durationSeconds": 1.6, "volume": 0.07, "note": "Late-night typing" },
+    { "id": "cereal-whoosh", "path": "/audio/episodes/airbnb/sfx/transition-whoosh.mp3", "startSeconds": 27.55, "durationSeconds": 1, "volume": 0.3, "note": "Cut to the cereal idea" },
+    { "id": "fold-1", "path": "/audio/episodes/airbnb/sfx/cardboard-fold.mp3", "startSeconds": 30.5, "durationSeconds": 1.4, "volume": 0.22, "note": "Box assembly" },
+    { "id": "box-tap-1", "path": "/audio/episodes/airbnb/sfx/box-set.mp3", "startSeconds": 32.3, "durationSeconds": 0.8, "volume": 0.24, "note": "Box placed" },
+    { "id": "cereal-pour", "path": "/audio/episodes/airbnb/sfx/cereal-pour.mp3", "startSeconds": 32.55, "durationSeconds": 2.6, "volume": 0.4, "note": "Cereal pouring" },
+    { "id": "fold-2", "path": "/audio/episodes/airbnb/sfx/cardboard-fold.mp3", "startSeconds": 35.6, "durationSeconds": 1.4, "volume": 0.26, "note": "Box folding" },
+    { "id": "box-tap-2", "path": "/audio/episodes/airbnb/sfx/box-set.mp3", "startSeconds": 38.4, "durationSeconds": 0.8, "volume": 0.22, "note": "Box stack" },
+    { "id": "coins-sale", "path": "/audio/episodes/airbnb/sfx/coins-handling.mp3", "startSeconds": 39.7, "durationSeconds": 1.1, "volume": 0.14, "note": "Sale" },
+    { "id": "stamp", "path": "/audio/episodes/airbnb/sfx/low-impact.mp3", "startSeconds": 40.55, "durationSeconds": 2.2, "volume": 0.36, "note": "SOLD stamp" },
+    { "id": "cash", "path": "/audio/episodes/airbnb/sfx/coins-handling.mp3", "startSeconds": 41.35, "durationSeconds": 1.1, "volume": 0.18, "note": "Transaction" },
+    { "id": "riser-money", "path": "/audio/episodes/airbnb/sfx/riser.mp3", "startSeconds": 41.7, "durationSeconds": 3, "volume": 0.13, "note": "Rise into the total" },
+    { "id": "money-hit", "path": "/audio/episodes/airbnb/sfx/low-impact.mp3", "startSeconds": 44.75, "durationSeconds": 2.4, "volume": 0.34, "note": "Restrained financial impact" },
+    { "id": "interview-door", "path": "/audio/episodes/airbnb/sfx/door-open.mp3", "startSeconds": 48.4, "durationSeconds": 1.8, "volume": 0.24, "note": "Interview room" },
+    { "id": "act6-whoosh", "path": "/audio/episodes/airbnb/sfx/transition-whoosh.mp3", "startSeconds": 51.45, "durationSeconds": 1, "volume": 0.24, "note": "Act transition" },
+    { "id": "room-tone-2", "path": "/audio/episodes/airbnb/sfx/room-ambience.mp3", "startSeconds": 51.6, "durationSeconds": 4, "volume": 0.1, "note": "Interview room ambience" },
+    { "id": "notebook", "path": "/audio/episodes/airbnb/sfx/paper-crinkle.mp3", "startSeconds": 54.6, "durationSeconds": 1.3, "volume": 0.1, "note": "Notes on the table" },
+    { "id": "nyc-whoosh", "path": "/audio/episodes/airbnb/sfx/transition-whoosh.mp3", "startSeconds": 57.4, "durationSeconds": 1, "volume": 0.2, "note": "New York" },
+    { "id": "host-door", "path": "/audio/episodes/airbnb/sfx/door-open.mp3", "startSeconds": 58.2, "durationSeconds": 1.4, "volume": 0.24, "note": "Meeting a host" },
+    { "id": "shutter", "path": "/audio/episodes/airbnb/sfx/camera-shutter.mp3", "startSeconds": 59.42, "durationSeconds": 0.7, "volume": 0.42, "note": "Camera shutter" },
+    { "id": "photo-riser", "path": "/audio/episodes/airbnb/sfx/riser.mp3", "startSeconds": 60.8, "durationSeconds": 3, "volume": 0.1, "note": "Rising tonal effect" },
+    { "id": "compare-whoosh", "path": "/audio/episodes/airbnb/sfx/transition-whoosh.mp3", "startSeconds": 62.95, "durationSeconds": 1, "volume": 0.16, "note": "Before / after wipe" },
+    { "id": "lesson-impact", "path": "/audio/episodes/airbnb/sfx/low-impact.mp3", "startSeconds": 65.65, "durationSeconds": 2.4, "volume": 0.2, "note": "Act transition" },
+    { "id": "map-whoosh", "path": "/audio/episodes/airbnb/sfx/transition-whoosh.mp3", "startSeconds": 69.15, "durationSeconds": 1, "volume": 0.14, "note": "World map" },
+    { "id": "final-door", "path": "/audio/episodes/airbnb/sfx/door-open.mp3", "startSeconds": 71.95, "durationSeconds": 1.8, "volume": 0.26, "note": "Door opening" },
+    { "id": "box-return", "path": "/audio/episodes/airbnb/sfx/soft-whoosh.mp3", "startSeconds": 74.85, "durationSeconds": 0.9, "volume": 0.14, "note": "Return to the box" },
+    { "id": "brand-sting", "path": "/audio/episodes/airbnb/sfx/brand-sting.mp3", "startSeconds": 76.7, "durationSeconds": 3, "volume": 0.3, "note": "Final brand sound signature" },
+    { "id": "brand-sub", "path": "/audio/episodes/airbnb/sfx/low-impact.mp3", "startSeconds": 76.9, "durationSeconds": 2, "volume": 0.16, "note": "Brand sub" }
+  ],
+  "assets": [
+    {
+      "path": "/images/airbnb/sf-exterior.jpg",
+      "kind": "image",
+      "source": "https://commons.wikimedia.org/wiki/File:Painted_Ladies_San_Francisco_January_2013_002.jpg",
+      "creator": "King of Hearts",
+      "license": "CC BY-SA 3.0",
+      "notes": "San Francisco Victorian row houses. Illustrative establishing shot, not the founders' building."
+    },
+    {
+      "path": "/images/airbnb/nyc-building.jpg",
+      "kind": "image",
+      "source": "https://commons.wikimedia.org/wiki/File:At_New_York_City_2024_459.jpg",
+      "creator": "Mike Peel (www.mikepeel.net)",
+      "license": "CC BY-SA 4.0",
+      "notes": "New York City street corner. Illustrative."
+    },
+    {
+      "path": "/images/airbnb/air-mattress.jpg",
+      "kind": "image",
+      "source": "https://commons.wikimedia.org/wiki/File:Air_mattress_or_extra_bed_with_internal_air_pump_1.jpg",
+      "creator": "W.carter",
+      "license": "CC BY-SA 4.0",
+      "notes": "Air mattress on a floor. Re-creation prop reference."
+    },
+    {
+      "path": "/images/airbnb/cereal-bowl.jpg",
+      "kind": "image",
+      "source": "https://commons.wikimedia.org/wiki/File:Bowl_of_cereal_and_milk.jpg",
+      "creator": "The Eloquent Peasant",
+      "license": "CC BY 4.0",
+      "notes": "Cereal bowl macro. Illustrative."
+    },
+    {
+      "path": "/images/airbnb/living-room-flat.jpg",
+      "kind": "image",
+      "source": "https://commons.wikimedia.org/wiki/File:Modern_living_room_with_stylish_furniture_and_a_view_of_the_outdoors_in_a_cozy_apartment_setting.jpg",
+      "creator": "Shixart1985",
+      "license": "CC BY 2.0",
+      "notes": "Flat real-estate style living room, used as the BEFORE photograph and early listing image."
+    },
+    {
+      "path": "/images/airbnb/loft-bedroom.jpg",
+      "kind": "image",
+      "source": "https://commons.wikimedia.org/wiki/File:Bedroom_in_loft_apartment.jpg",
+      "creator": "Kotivalo",
+      "license": "CC BY-SA 4.0",
+      "notes": "Bright loft bedroom, used as the AFTER photograph and the closing property image."
+    },
+    {
+      "path": "/images/airbnb/camera-tripod.jpg",
+      "kind": "image",
+      "source": "https://commons.wikimedia.org/wiki/File:Interior_photography_with_Nikon_D800_and_Tamron_15-30.jpg",
+      "creator": "Shixart1985",
+      "license": "CC BY 2.0",
+      "notes": "DSLR on a tripod. Illustrative photography beat."
+    },
+    {
+      "path": "/images/airbnb/world-dots.svg",
+      "kind": "image",
+      "source": "Generated locally from the public-domain NASA Blue Marble land mask (Wikimedia Commons)",
+      "creator": "Simpledeav Studio",
+      "license": "Generated asset for this project",
+      "notes": "Dot-matrix world map, 2,837 dots, used for the growth beat."
+    },
+    {
+      "path": "/images/grain.png",
+      "kind": "image",
+      "source": "Pre-existing local asset",
+      "creator": "Simpledeav Studio",
+      "license": "Generated asset for this project",
+      "notes": "Film-grain overlay."
+    },
+    {
+      "path": "/brand/simpledeav-avatar.png",
+      "kind": "avatar",
+      "source": "https://avatars.githubusercontent.com/u/88326987?s=64&v=4",
+      "creator": "Simpledeav",
+      "license": "Channel owner profile image; used with the owner's authorization",
+      "notes": "Closing signature."
+    },
+    {
+      "path": "/fonts/Poppins-Regular.ttf",
+      "kind": "font",
+      "source": "https://github.com/google/fonts/tree/main/ofl/poppins",
+      "creator": "Indian Type Foundry / Jonny Pinhorn",
+      "license": "SIL Open Font License 1.1",
+      "notes": "Poppins 400-800 and italic are loaded locally; SF Pro Display/Text is the configured fallback."
+    },
+    {
+      "path": "/audio/episodes/airbnb/voice.mp3",
+      "kind": "audio",
+      "source": "https://github.com/rany2/edge-tts",
+      "creator": "Edge TTS / Microsoft neural voice en-US-BrianMultilingualNeural",
+      "license": "Synthetic narration generated for this project",
+      "notes": "Synthetic male documentary read. Not a human recording."
+    },
+    {
+      "path": "/content/airbnb-cues.json",
+      "kind": "data",
+      "source": "Generated by scripts/generate-airbnb-voice.py",
+      "creator": "Simpledeav Studio + Edge TTS word boundaries",
+      "license": "Generated data for this project",
+      "notes": "Word-boundary subtitles used by AirbnbCaptions."
+    },
+    {
+      "path": "/audio/episodes/airbnb/music/airbnb-bed-80s.mp3",
+      "kind": "audio",
+      "source": "https://assets.mixkit.co/music/31/31.mp3",
+      "creator": "Ahjay Stelino / Mixkit",
+      "license": "Mixkit Stock Music Free License",
+      "notes": "Dreaming Big, edited to 80s."
+    },
+    {
+      "path": "/audio/episodes/airbnb/sfx/opening-impact.mp3",
+      "kind": "audio",
+      "source": "https://assets.mixkit.co/active_storage/sfx/788/788-preview.mp3",
+      "creator": "Mixkit",
+      "license": "Mixkit Sound Effects Free License",
+      "notes": "Big cinematic impact, trimmed."
+    },
+    {
+      "path": "/audio/episodes/airbnb/sfx/cereal-pour.mp3",
+      "kind": "audio",
+      "source": "Synthesised locally by scripts/generate-airbnb-foley.py",
+      "creator": "Simpledeav Studio",
+      "license": "Original asset for this project",
+      "notes": "Granular cereal pour Foley."
+    },
+    {
+      "path": "/audio/episodes/airbnb/sfx/cardboard-fold.mp3",
+      "kind": "audio",
+      "source": "Synthesised locally by scripts/generate-airbnb-foley.py",
+      "creator": "Simpledeav Studio",
+      "license": "Original asset for this project",
+      "notes": "Cardboard crease and flap."
+    },
+    {
+      "path": "/audio/episodes/airbnb/sfx/air-inflate.mp3",
+      "kind": "audio",
+      "source": "Synthesised locally by scripts/generate-airbnb-foley.py",
+      "creator": "Simpledeav Studio",
+      "license": "Original asset for this project",
+      "notes": "Air mattress pump."
+    },
+    {
+      "path": "/audio/episodes/airbnb/sfx/box-set.mp3",
+      "kind": "audio",
+      "source": "Synthesised locally by scripts/generate-airbnb-foley.py",
+      "creator": "Simpledeav Studio",
+      "license": "Original asset for this project",
+      "notes": "Box set-down on wood."
+    },
+    {
+      "path": "/audio/episodes/airbnb/sfx/brand-sting.mp3",
+      "kind": "audio",
+      "source": "Synthesised locally by scripts/generate-airbnb-foley.py",
+      "creator": "Simpledeav Studio",
+      "license": "Original asset for this project",
+      "notes": "Warm final brand signature."
+    }
+  ],
+  "accuracyNotes": [
+    "2007: Brian Chesky and Joe Gebbia rented air mattresses during a busy design conference in San Francisco; Nathan Blecharczyk joined as the third co-founder.",
+    "2008: 'Obama O's' and 'Cap'n McCain's' were limited-edition cereal boxes sold at $40 each during the US election.",
+    "The cereal effort is reported to have raised roughly $30,000. The film presents this as money raised, not profit, and explicitly says it was not a scalable business model.",
+    "2009: Airbnb joined Y Combinator's winter batch.",
+    "Later, the team visited hosts in New York and improved listing photographs, a change credited with helping the marketplace grow.",
+    "Re-enactments are illustrative; no real founder is depicted and no campaign artwork or trademark is reproduced."
+  ]
+}

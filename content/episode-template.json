@@ -1,0 +1,193 @@
+{
+  "schemaVersion": "1.0.0",
+  "episodeId": "new-episode-id",
+  "title": "New Episode Title",
+  "topic": "Story topic and central question",
+  "durationSeconds": 90,
+  "fps": 30,
+  "themeId": "GRAPHITE_LIME",
+  "narration": {
+    "text": "PASTE THE FINAL NARRATION SCRIPT HERE. Keep it conversational. Generate audio before choosing scene timings.",
+    "voice": "en-US-AndrewMultilingualNeural",
+    "voiceAudioPath": "/audio/voice.mp3",
+    "subtitlePath": "/audio/voice.vtt",
+    "wordTimingsPath": "/audio/voice.words.json",
+    "audioDurationSeconds": 0.1,
+    "subtitles": [
+      {
+        "start": 0.0,
+        "end": 0.1,
+        "text": "Replace these cues with timing derived from the generated voice."
+      }
+    ]
+  },
+  "music": {
+    "path": "/audio/music/vastness-92s.mp3",
+    "volume": 0.16,
+    "fadeInSeconds": 2.5,
+    "fadeOutSeconds": 4.5,
+    "duckUnderNarration": true
+  },
+  "soundEffects": [],
+  "scenes": [
+    {
+      "id": "scene-one",
+      "startSeconds": 0,
+      "durationSeconds": 90,
+      "layout": "city",
+      "background": {
+        "imagePath": "/images/city-fog.jpg",
+        "imageObjectPosition": "50% 44%",
+        "imageOpacity": 0.36,
+        "grade": "night",
+        "parallax": 0.06
+      },
+      "headlines": [
+        {
+          "kicker": "A HYPOTHETICAL FUTURE",
+          "text": "Replace with a short story headline.",
+          "accentWords": [
+            "short"
+          ],
+          "preset": "maskedUp",
+          "startSeconds": 0.5,
+          "size": "hero",
+          "align": "left",
+          "maxWidth": 890,
+          "placement": "top"
+        }
+      ],
+      "character": {
+        "action": "idle",
+        "x": 770,
+        "y": 1490,
+        "scale": 1.12,
+        "facing": "front",
+        "expression": "thoughtful"
+      },
+      "camera": {
+        "motion": "pushIn",
+        "intensity": 0.055
+      },
+      "transitionIn": "fade",
+      "visual": {
+        "kind": "none"
+      }
+    }
+  ],
+  "brand": {
+    "enabled": true,
+    "signatureEnabled": true,
+    "avatarEnabled": true,
+    "treatment": "hybrid",
+    "revealDurationSeconds": 3.8,
+    "startSeconds": 84.9
+  },
+  "assets": [
+    {
+      "path": "/brand/simpledeav-avatar.png",
+      "kind": "avatar",
+      "sourceUrl": "https://avatars.githubusercontent.com/u/88326987?s=64&v=4",
+      "creator": "Simpledeav",
+      "license": "Channel owner profile image; used locally with the owner's authorization",
+      "notes": "Downloaded once from the public GitHub avatar URL. 64x64 PNG; rendered small in the closing signature."
+    },
+    {
+      "path": "/audio/voice.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://github.com/rany2/edge-tts",
+      "creator": "Edge TTS / Microsoft neural voice en-US-AndrewMultilingualNeural",
+      "license": "Synthetic narration generated for this project; Microsoft Edge TTS terms apply",
+      "notes": "Male default voice for future episodes. Generate the replacement narration for the new episode before rendering."
+    },
+    {
+      "path": "/audio/music/vastness-92s.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://assets.mixkit.co/music/184/184.mp3",
+      "creator": "Mixkit",
+      "license": "Mixkit Stock Music Free License",
+      "notes": "Track \"Vastness\". Trimmed to 92s with 2.2s fade-in and 2.5s fade-out. License reference: https://mixkit.co/license/"
+    },
+    {
+      "path": "/audio/sfx/transition-whoosh.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://assets.mixkit.co/active_storage/sfx/1492/1492-preview.mp3",
+      "creator": "Mixkit",
+      "license": "Mixkit Sound Effects Free License",
+      "notes": "Track \"Cinematic whoosh fast transition\"."
+    },
+    {
+      "path": "/audio/sfx/interface-select.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://assets.mixkit.co/active_storage/sfx/2573/2573-preview.mp3",
+      "creator": "Mixkit",
+      "license": "Mixkit Sound Effects Free License",
+      "notes": "Track \"Interface option select\"."
+    },
+    {
+      "path": "/audio/sfx/sci-fi-click.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://assets.mixkit.co/active_storage/sfx/900/900-preview.mp3",
+      "creator": "Mixkit",
+      "license": "Mixkit Sound Effects Free License",
+      "notes": "Track \"Sci fi click\"."
+    },
+    {
+      "path": "/audio/sfx/typing-loop.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://assets.mixkit.co/active_storage/sfx/1386/1386-preview.mp3",
+      "creator": "Mixkit",
+      "license": "Mixkit Sound Effects Free License",
+      "notes": "Track \"Keyboard typing\". Trimmed to 4.8s from the source recording, with short fades."
+    },
+    {
+      "path": "/images/city-fog.jpg",
+      "kind": "image",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skyline_city_cities_fog_morning.jpg",
+      "creator": "Jon Sullivan",
+      "license": "Public domain",
+      "notes": "San Diego Convention Center with Harbor Club Condominiums behind. Downscaled local copy, 1280x960."
+    },
+    {
+      "path": "/images/grain.png",
+      "kind": "image",
+      "sourceUrl": "Generated in project",
+      "creator": "Simpledeav Studio",
+      "license": "Generated asset",
+      "notes": "256x256 deterministic film-grain tile generated locally for the compositing overlay."
+    },
+    {
+      "path": "/fonts/Manrope-Regular.ttf",
+      "kind": "font",
+      "sourceUrl": "https://fonts.google.com/specimen/Manrope",
+      "creator": "Mikhail Sharanda",
+      "license": "SIL Open Font License 1.1",
+      "notes": "Local webfont for body, subtitles and headlines."
+    },
+    {
+      "path": "/fonts/Manrope-Medium.ttf",
+      "kind": "font",
+      "sourceUrl": "https://fonts.google.com/specimen/Manrope",
+      "creator": "Mikhail Sharanda",
+      "license": "SIL Open Font License 1.1",
+      "notes": "Local webfont."
+    },
+    {
+      "path": "/fonts/Manrope-SemiBold.ttf",
+      "kind": "font",
+      "sourceUrl": "https://fonts.google.com/specimen/Manrope",
+      "creator": "Mikhail Sharanda",
+      "license": "SIL Open Font License 1.1",
+      "notes": "Local webfont."
+    },
+    {
+      "path": "/fonts/InstrumentSerif-Regular.ttf",
+      "kind": "font",
+      "sourceUrl": "https://fonts.google.com/specimen/Instrument+Serif",
+      "creator": "Rodrigo Fuenzalida",
+      "license": "SIL Open Font License 1.1",
+      "notes": "Local editorial serif used for accent words and the signature."
+    }
+  ],
+  "fontFamily": "poppins"
+}

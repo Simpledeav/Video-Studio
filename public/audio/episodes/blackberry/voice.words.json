@@ -1,0 +1,933 @@
+{
+  "voice": "en-US-BrianMultilingualNeural",
+  "leadInSeconds": 0.4,
+  "segments": [
+    {
+      "id": "the-question",
+      "start": 0.5,
+      "end": 7.596,
+      "duration": 7.096,
+      "rawDuration": 7.416,
+      "trimmedSilence": 0.32,
+      "rate": "+4%",
+      "words": 23
+    },
+    {
+      "id": "the-dominance",
+      "start": 8.35,
+      "end": 18.964,
+      "duration": 10.614,
+      "rawDuration": 11.064,
+      "trimmedSilence": 0.45,
+      "rate": "+5%",
+      "words": 24
+    },
+    {
+      "id": "the-industry-changes",
+      "start": 19.35,
+      "end": 28.49,
+      "duration": 9.14,
+      "rawDuration": 9.6,
+      "trimmedSilence": 0.46,
+      "rate": "+5%",
+      "words": 24
+    },
+    {
+      "id": "the-missed-shift",
+      "start": 31.35,
+      "end": 41.2,
+      "duration": 9.85,
+      "rawDuration": 10.68,
+      "trimmedSilence": 0.83,
+      "rate": "+5%",
+      "words": 22
+    },
+    {
+      "id": "the-numbers",
+      "start": 43.35,
+      "end": 53.332,
+      "duration": 9.982,
+      "rawDuration": 10.152,
+      "trimmedSilence": 0.17,
+      "rate": "+5%",
+      "words": 22
+    },
+    {
+      "id": "the-transformation",
+      "start": 56.35,
+      "end": 67.808,
+      "duration": 11.458,
+      "rawDuration": 12.288,
+      "trimmedSilence": 0.83,
+      "rate": "+6%",
+      "words": 27
+    },
+    {
+      "id": "the-lesson",
+      "start": 69.2,
+      "end": 79.794,
+      "duration": 10.594,
+      "rawDuration": 11.184,
+      "trimmedSilence": 0.59,
+      "rate": "+13%",
+      "words": 29
+    }
+  ],
+  "words": [
+    {
+      "text": "At",
+      "start": 0.55,
+      "end": 0.742
+    },
+    {
+      "text": "one",
+      "start": 0.754,
+      "end": 0.971
+    },
+    {
+      "text": "point,",
+      "start": 0.983,
+      "end": 1.427
+    },
+    {
+      "text": "BlackBerry",
+      "start": 1.59,
+      "end": 2.135
+    },
+    {
+      "text": "was",
+      "start": 2.147,
+      "end": 2.351
+    },
+    {
+      "text": "one",
+      "start": 2.363,
+      "end": 2.507
+    },
+    {
+      "text": "of",
+      "start": 2.519,
+      "end": 2.579
+    },
+    {
+      "text": "the",
+      "start": 2.592,
+      "end": 2.652
+    },
+    {
+      "text": "most",
+      "start": 2.664,
+      "end": 2.928
+    },
+    {
+      "text": "powerful",
+      "start": 2.94,
+      "end": 3.373
+    },
+    {
+      "text": "names",
+      "start": 3.385,
+      "end": 3.781
+    },
+    {
+      "text": "in",
+      "start": 3.793,
+      "end": 3.926
+    },
+    {
+      "text": "smartphones.",
+      "start": 3.938,
+      "end": 4.719
+    },
+    {
+      "text": "So",
+      "start": 4.98,
+      "end": 5.073
+    },
+    {
+      "text": "how",
+      "start": 5.085,
+      "end": 5.253
+    },
+    {
+      "text": "did",
+      "start": 5.265,
+      "end": 5.385
+    },
+    {
+      "text": "it",
+      "start": 5.397,
+      "end": 5.542
+    },
+    {
+      "text": "lose",
+      "start": 5.554,
+      "end": 5.878
+    },
+    {
+      "text": "its",
+      "start": 5.89,
+      "end": 6.07
+    },
+    {
+      "text": "place",
+      "start": 6.082,
+      "end": 6.455
+    },
+    {
+      "text": "in",
+      "start": 6.467,
+      "end": 6.575
+    },
+    {
+      "text": "the",
+      "start": 6.587,
+      "end": 6.659
+    },
+    {
+      "text": "market?",
+      "start": 6.671,
+      "end": 7.236
+    },
+    {
+      "text": "BlackBerry",
+      "start": 8.433,
+      "end": 8.898
+    },
+    {
+      "text": "built",
+      "start": 8.91,
+      "end": 9.171
+    },
+    {
+      "text": "its",
+      "start": 9.183,
+      "end": 9.302
+    },
+    {
+      "text": "reputation",
+      "start": 9.314,
+      "end": 10.064
+    },
+    {
+      "text": "on",
+      "start": 10.076,
+      "end": 10.207
+    },
+    {
+      "text": "secure",
+      "start": 10.219,
+      "end": 10.6
+    },
+    {
+      "text": "messaging,",
+      "start": 10.612,
+      "end": 11.183
+    },
+    {
+      "text": "physical",
+      "start": 11.5,
+      "end": 11.81
+    },
+    {
+      "text": "keyboards,",
+      "start": 11.822,
+      "end": 12.417
+    },
+    {
+      "text": "and",
+      "start": 12.679,
+      "end": 12.772
+    },
+    {
+      "text": "business",
+      "start": 12.784,
+      "end": 13.212
+    },
+    {
+      "text": "communication.",
+      "start": 13.224,
+      "end": 13.915
+    },
+    {
+      "text": "By",
+      "start": 14.22,
+      "end": 15.233
+    },
+    {
+      "text": "2009,",
+      "start": 14.22,
+      "end": 15.233
+    },
+    {
+      "text": "it",
+      "start": 15.388,
+      "end": 15.531
+    },
+    {
+      "text": "held",
+      "start": 15.543,
+      "end": 15.84
+    },
+    {
+      "text": "almost",
+      "start": 15.852,
+      "end": 16.209
+    },
+    {
+      "text": "20",
+      "start": 16.221,
+      "end": 16.971
+    },
+    {
+      "text": "percent",
+      "start": 16.221,
+      "end": 16.971
+    },
+    {
+      "text": "of",
+      "start": 16.983,
+      "end": 17.102
+    },
+    {
+      "text": "the",
+      "start": 17.114,
+      "end": 17.198
+    },
+    {
+      "text": "global",
+      "start": 17.21,
+      "end": 17.555
+    },
+    {
+      "text": "smartphone",
+      "start": 17.567,
+      "end": 18.102
+    },
+    {
+      "text": "market.",
+      "start": 18.114,
+      "end": 18.602
+    },
+    {
+      "text": "Then",
+      "start": 19.421,
+      "end": 19.671
+    },
+    {
+      "text": "the",
+      "start": 19.683,
+      "end": 19.755
+    },
+    {
+      "text": "market",
+      "start": 19.767,
+      "end": 20.148
+    },
+    {
+      "text": "changed.",
+      "start": 20.16,
+      "end": 20.743
+    },
+    {
+      "text": "Apple's",
+      "start": 21.0,
+      "end": 21.275
+    },
+    {
+      "text": "iPhone",
+      "start": 21.287,
+      "end": 21.728
+    },
+    {
+      "text": "introduced",
+      "start": 21.74,
+      "end": 22.251
+    },
+    {
+      "text": "a",
+      "start": 22.263,
+      "end": 22.299
+    },
+    {
+      "text": "new",
+      "start": 22.311,
+      "end": 22.609
+    },
+    {
+      "text": "kind",
+      "start": 22.62,
+      "end": 22.823
+    },
+    {
+      "text": "of",
+      "start": 22.835,
+      "end": 22.882
+    },
+    {
+      "text": "smartphone",
+      "start": 22.894,
+      "end": 23.37
+    },
+    {
+      "text": "experience,",
+      "start": 23.382,
+      "end": 24.049
+    },
+    {
+      "text": "while",
+      "start": 24.35,
+      "end": 24.521
+    },
+    {
+      "text": "Android",
+      "start": 24.533,
+      "end": 24.985
+    },
+    {
+      "text": "brought",
+      "start": 24.997,
+      "end": 25.235
+    },
+    {
+      "text": "touchscreen",
+      "start": 25.247,
+      "end": 25.711
+    },
+    {
+      "text": "devices",
+      "start": 25.723,
+      "end": 26.271
+    },
+    {
+      "text": "to",
+      "start": 26.283,
+      "end": 26.402
+    },
+    {
+      "text": "a",
+      "start": 26.414,
+      "end": 26.473
+    },
+    {
+      "text": "growing",
+      "start": 26.485,
+      "end": 26.878
+    },
+    {
+      "text": "range",
+      "start": 26.89,
+      "end": 27.188
+    },
+    {
+      "text": "of",
+      "start": 27.2,
+      "end": 27.271
+    },
+    {
+      "text": "manufacturers.",
+      "start": 27.283,
+      "end": 28.128
+    },
+    {
+      "text": "BlackBerry",
+      "start": 31.421,
+      "end": 31.85
+    },
+    {
+      "text": "struggled",
+      "start": 31.862,
+      "end": 32.398
+    },
+    {
+      "text": "to",
+      "start": 32.41,
+      "end": 32.54
+    },
+    {
+      "text": "respond",
+      "start": 32.552,
+      "end": 33.088
+    },
+    {
+      "text": "quickly",
+      "start": 33.1,
+      "end": 33.469
+    },
+    {
+      "text": "enough.",
+      "start": 33.481,
+      "end": 33.981
+    },
+    {
+      "text": "It",
+      "start": 34.12,
+      "end": 34.167
+    },
+    {
+      "text": "underestimated",
+      "start": 34.179,
+      "end": 34.905
+    },
+    {
+      "text": "how",
+      "start": 34.917,
+      "end": 35.096
+    },
+    {
+      "text": "much",
+      "start": 35.108,
+      "end": 35.31
+    },
+    {
+      "text": "consumers",
+      "start": 35.322,
+      "end": 35.822
+    },
+    {
+      "text": "valued",
+      "start": 35.834,
+      "end": 36.286
+    },
+    {
+      "text": "large",
+      "start": 36.298,
+      "end": 36.667
+    },
+    {
+      "text": "touchscreens,",
+      "start": 36.679,
+      "end": 37.369
+    },
+    {
+      "text": "broader",
+      "start": 37.67,
+      "end": 37.964
+    },
+    {
+      "text": "app",
+      "start": 37.976,
+      "end": 38.155
+    },
+    {
+      "text": "ecosystems,",
+      "start": 38.19,
+      "end": 38.964
+    },
+    {
+      "text": "and",
+      "start": 39.26,
+      "end": 39.341
+    },
+    {
+      "text": "a",
+      "start": 39.353,
+      "end": 39.437
+    },
+    {
+      "text": "different",
+      "start": 39.449,
+      "end": 39.77
+    },
+    {
+      "text": "mobile",
+      "start": 39.782,
+      "end": 40.091
+    },
+    {
+      "text": "experience.",
+      "start": 40.103,
+      "end": 40.841
+    },
+    {
+      "text": "The",
+      "start": 43.41,
+      "end": 43.469
+    },
+    {
+      "text": "consequences",
+      "start": 43.481,
+      "end": 44.326
+    },
+    {
+      "text": "were",
+      "start": 44.338,
+      "end": 44.612
+    },
+    {
+      "text": "enormous.",
+      "start": 44.624,
+      "end": 45.398
+    },
+    {
+      "text": "BlackBerry's",
+      "start": 45.64,
+      "end": 46.156
+    },
+    {
+      "text": "global",
+      "start": 46.168,
+      "end": 46.525
+    },
+    {
+      "text": "smartphone",
+      "start": 46.537,
+      "end": 47.168
+    },
+    {
+      "text": "unit",
+      "start": 47.18,
+      "end": 47.442
+    },
+    {
+      "text": "market",
+      "start": 47.454,
+      "end": 47.763
+    },
+    {
+      "text": "share",
+      "start": 47.775,
+      "end": 48.109
+    },
+    {
+      "text": "fell",
+      "start": 48.12,
+      "end": 48.43
+    },
+    {
+      "text": "from",
+      "start": 48.442,
+      "end": 48.585
+    },
+    {
+      "text": "around",
+      "start": 48.597,
+      "end": 48.918
+    },
+    {
+      "text": "20",
+      "start": 48.93,
+      "end": 49.644
+    },
+    {
+      "text": "percent",
+      "start": 48.93,
+      "end": 49.644
+    },
+    {
+      "text": "in",
+      "start": 49.656,
+      "end": 50.763
+    },
+    {
+      "text": "2009",
+      "start": 49.656,
+      "end": 50.763
+    },
+    {
+      "text": "to",
+      "start": 50.775,
+      "end": 50.906
+    },
+    {
+      "text": "almost",
+      "start": 50.918,
+      "end": 51.263
+    },
+    {
+      "text": "nothing",
+      "start": 51.275,
+      "end": 51.68
+    },
+    {
+      "text": "by",
+      "start": 51.692,
+      "end": 52.966
+    },
+    {
+      "text": "2016.",
+      "start": 51.692,
+      "end": 52.966
+    },
+    {
+      "text": "BlackBerry",
+      "start": 56.433,
+      "end": 56.892
+    },
+    {
+      "text": "eventually",
+      "start": 56.904,
+      "end": 57.329
+    },
+    {
+      "text": "stopped",
+      "start": 57.341,
+      "end": 57.718
+    },
+    {
+      "text": "developing",
+      "start": 57.73,
+      "end": 58.19
+    },
+    {
+      "text": "its",
+      "start": 58.201,
+      "end": 58.319
+    },
+    {
+      "text": "own",
+      "start": 58.39,
+      "end": 58.591
+    },
+    {
+      "text": "phone",
+      "start": 58.602,
+      "end": 58.838
+    },
+    {
+      "text": "hardware",
+      "start": 58.85,
+      "end": 59.404
+    },
+    {
+      "text": "and",
+      "start": 59.7,
+      "end": 59.741
+    },
+    {
+      "text": "shifted",
+      "start": 59.753,
+      "end": 60.119
+    },
+    {
+      "text": "its",
+      "start": 60.13,
+      "end": 60.248
+    },
+    {
+      "text": "focus",
+      "start": 60.26,
+      "end": 60.661
+    },
+    {
+      "text": "toward",
+      "start": 60.673,
+      "end": 60.932
+    },
+    {
+      "text": "software,",
+      "start": 60.944,
+      "end": 61.475
+    },
+    {
+      "text": "cybersecurity,",
+      "start": 61.81,
+      "end": 62.687
+    },
+    {
+      "text": "and",
+      "start": 63.0,
+      "end": 63.084
+    },
+    {
+      "text": "secure",
+      "start": 63.096,
+      "end": 63.485
+    },
+    {
+      "text": "communications.",
+      "start": 63.497,
+      "end": 64.311
+    },
+    {
+      "text": "The",
+      "start": 64.57,
+      "end": 64.573
+    },
+    {
+      "text": "company",
+      "start": 64.585,
+      "end": 65.021
+    },
+    {
+      "text": "didn't",
+      "start": 65.033,
+      "end": 65.328
+    },
+    {
+      "text": "disappear.",
+      "start": 65.34,
+      "end": 66.024
+    },
+    {
+      "text": "It",
+      "start": 66.3,
+      "end": 66.3
+    },
+    {
+      "text": "changed",
+      "start": 66.3,
+      "end": 66.77
+    },
+    {
+      "text": "what",
+      "start": 66.782,
+      "end": 66.923
+    },
+    {
+      "text": "it",
+      "start": 66.935,
+      "end": 67.053
+    },
+    {
+      "text": "was.",
+      "start": 67.065,
+      "end": 67.466
+    },
+    {
+      "text": "Here's",
+      "start": 69.277,
+      "end": 69.488
+    },
+    {
+      "text": "the",
+      "start": 69.499,
+      "end": 69.587
+    },
+    {
+      "text": "lesson:",
+      "start": 69.598,
+      "end": 69.919
+    },
+    {
+      "text": "your",
+      "start": 70.27,
+      "end": 70.352
+    },
+    {
+      "text": "biggest",
+      "start": 70.363,
+      "end": 70.728
+    },
+    {
+      "text": "advantage",
+      "start": 70.739,
+      "end": 71.193
+    },
+    {
+      "text": "today",
+      "start": 71.204,
+      "end": 71.514
+    },
+    {
+      "text": "can",
+      "start": 71.525,
+      "end": 71.658
+    },
+    {
+      "text": "become",
+      "start": 71.669,
+      "end": 71.956
+    },
+    {
+      "text": "your",
+      "start": 71.967,
+      "end": 72.1
+    },
+    {
+      "text": "biggest",
+      "start": 72.111,
+      "end": 72.509
+    },
+    {
+      "text": "weakness",
+      "start": 72.52,
+      "end": 72.897
+    },
+    {
+      "text": "tomorrow.",
+      "start": 72.908,
+      "end": 73.35
+    },
+    {
+      "text": "Success",
+      "start": 73.64,
+      "end": 74.103
+    },
+    {
+      "text": "requires",
+      "start": 74.114,
+      "end": 74.7
+    },
+    {
+      "text": "more",
+      "start": 74.711,
+      "end": 75.01
+    },
+    {
+      "text": "than",
+      "start": 75.021,
+      "end": 75.187
+    },
+    {
+      "text": "protecting",
+      "start": 75.198,
+      "end": 75.696
+    },
+    {
+      "text": "what",
+      "start": 75.707,
+      "end": 75.862
+    },
+    {
+      "text": "works.",
+      "start": 75.873,
+      "end": 76.315
+    },
+    {
+      "text": "It",
+      "start": 76.57,
+      "end": 76.625
+    },
+    {
+      "text": "requires",
+      "start": 76.636,
+      "end": 77.144
+    },
+    {
+      "text": "adapting",
+      "start": 77.156,
+      "end": 77.731
+    },
+    {
+      "text": "before",
+      "start": 77.742,
+      "end": 78.052
+    },
+    {
+      "text": "the",
+      "start": 78.063,
+      "end": 78.129
+    },
+    {
+      "text": "market",
+      "start": 78.14,
+      "end": 78.538
+    },
+    {
+      "text": "leaves",
+      "start": 78.549,
+      "end": 78.793
+    },
+    {
+      "text": "you",
+      "start": 78.804,
+      "end": 78.914
+    },
+    {
+      "text": "behind.",
+      "start": 78.925,
+      "end": 79.456
+    }
+  ]
+}

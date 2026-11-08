@@ -1,0 +1,1165 @@
+{
+  "voice": "en-NG-AbeoNeural",
+  "leadInSeconds": 0.0,
+  "segments": [
+    {
+      "id": "hook",
+      "text": "Everyone wants to build the next billion-dollar startup. But what if the next useful product is something much smaller?",
+      "emotion": "curiosity",
+      "rate": "+4%",
+      "pitch": "-1Hz",
+      "start": 0.2,
+      "duration": 7.128,
+      "end": 7.328,
+      "words": 19
+    },
+    {
+      "id": "owner",
+      "text": "Think about the person running a small shop. They make sales all day, receive transfers, pay suppliers, cover expenses, and somehow, at the end of the month, they still don't know where the money went.",
+      "emotion": "empathy",
+      "rate": "+12%",
+      "pitch": "-2Hz",
+      "start": 8.3,
+      "duration": 11.352,
+      "end": 19.652,
+      "words": 35
+    },
+    {
+      "id": "evidence",
+      "text": "And this isn't imaginary. Research involving seven hundred and eighteen Nigerian microbusinesses found that sixty-four percent kept no financial records. Only thirty-two percent separated business money from personal money.",
+      "emotion": "evidence",
+      "rate": "+9%",
+      "pitch": "-2Hz",
+      "start": 20.3,
+      "duration": 12.48,
+      "end": 32.78,
+      "words": 29
+    },
+    {
+      "id": "idea",
+      "text": "Now imagine something simpler. Not another complicated accounting platform. Just a tool that records what comes in, what goes out, and what is actually left.",
+      "emotion": "clarity",
+      "rate": "+8%",
+      "pitch": "-1Hz",
+      "start": 33.1,
+      "duration": 10.44,
+      "end": 43.54,
+      "words": 25
+    },
+    {
+      "id": "demo",
+      "text": "A sale comes in: twelve thousand five hundred naira, bank transfer. Saved. Transport takes one thousand eight hundred. Saved. A personal withdrawal is marked separately, so it never gets confused with a business expense. At closing time: sales, expenses, personal withdrawals, and what is actually left. Just the numbers that matter.",
+      "emotion": "momentum",
+      "rate": "+11%",
+      "pitch": "-1Hz",
+      "start": 43.6,
+      "duration": 22.416,
+      "end": 66.016,
+      "words": 51
+    },
+    {
+      "id": "lesson",
+      "text": "And that's the point. You don't always need to invent something nobody has ever seen. Sometimes, you just need to notice what people struggle with, remove the friction, and make their everyday lives a little easier.",
+      "emotion": "insight",
+      "rate": "+5%",
+      "pitch": "-2Hz",
+      "start": 66.5,
+      "duration": 12.696,
+      "end": 79.196,
+      "words": 36
+    },
+    {
+      "id": "ending",
+      "text": "Maybe your first successful startup doesn't need a million users. Just a thousand people who don't want to live without it.",
+      "emotion": "resolve",
+      "rate": "+9%",
+      "pitch": "-1Hz",
+      "start": 79.4,
+      "duration": 7.104,
+      "end": 86.504,
+      "words": 21
+    }
+  ],
+  "words": [
+    {
+      "text": "Everyone",
+      "start": 0.298,
+      "end": 0.707
+    },
+    {
+      "text": "wants",
+      "start": 0.791,
+      "end": 0.911
+    },
+    {
+      "text": "to",
+      "start": 0.995,
+      "end": 1.079
+    },
+    {
+      "text": "build",
+      "start": 1.151,
+      "end": 1.308
+    },
+    {
+      "text": "the",
+      "start": 1.344,
+      "end": 1.416
+    },
+    {
+      "text": "next",
+      "start": 1.44,
+      "end": 1.668
+    },
+    {
+      "text": "billion-dollar",
+      "start": 1.74,
+      "end": 2.221
+    },
+    {
+      "text": "startup.",
+      "start": 2.245,
+      "end": 2.726
+    },
+    {
+      "text": "But",
+      "start": 3.613,
+      "end": 3.89
+    },
+    {
+      "text": "what",
+      "start": 3.914,
+      "end": 4.106
+    },
+    {
+      "text": "if",
+      "start": 4.118,
+      "end": 4.202
+    },
+    {
+      "text": "the",
+      "start": 4.251,
+      "end": 4.323
+    },
+    {
+      "text": "next",
+      "start": 4.347,
+      "end": 4.623
+    },
+    {
+      "text": "useful",
+      "start": 4.659,
+      "end": 4.924
+    },
+    {
+      "text": "product",
+      "start": 4.984,
+      "end": 5.284
+    },
+    {
+      "text": "is",
+      "start": 5.356,
+      "end": 5.428
+    },
+    {
+      "text": "something",
+      "start": 5.428,
+      "end": 5.825
+    },
+    {
+      "text": "much",
+      "start": 5.825,
+      "end": 6.041
+    },
+    {
+      "text": "smaller?",
+      "start": 6.065,
+      "end": 6.426
+    },
+    {
+      "text": "Think",
+      "start": 8.395,
+      "end": 8.618
+    },
+    {
+      "text": "about",
+      "start": 8.618,
+      "end": 8.863
+    },
+    {
+      "text": "the",
+      "start": 8.863,
+      "end": 8.919
+    },
+    {
+      "text": "person",
+      "start": 8.986,
+      "end": 9.232
+    },
+    {
+      "text": "running",
+      "start": 9.31,
+      "end": 9.5
+    },
+    {
+      "text": "a",
+      "start": 9.5,
+      "end": 9.566
+    },
+    {
+      "text": "small",
+      "start": 9.611,
+      "end": 9.846
+    },
+    {
+      "text": "shop.",
+      "start": 9.857,
+      "end": 10.158
+    },
+    {
+      "text": "They",
+      "start": 10.99,
+      "end": 11.157
+    },
+    {
+      "text": "make",
+      "start": 11.179,
+      "end": 11.325
+    },
+    {
+      "text": "sales",
+      "start": 11.358,
+      "end": 11.615
+    },
+    {
+      "text": "all",
+      "start": 11.682,
+      "end": 11.804
+    },
+    {
+      "text": "day,",
+      "start": 11.871,
+      "end": 12.039
+    },
+    {
+      "text": "receive",
+      "start": 12.329,
+      "end": 12.608
+    },
+    {
+      "text": "transfers,",
+      "start": 12.675,
+      "end": 13.155
+    },
+    {
+      "text": "pay",
+      "start": 13.423,
+      "end": 13.512
+    },
+    {
+      "text": "suppliers,",
+      "start": 13.546,
+      "end": 14.137
+    },
+    {
+      "text": "cover",
+      "start": 14.383,
+      "end": 14.572
+    },
+    {
+      "text": "expenses,",
+      "start": 14.572,
+      "end": 15.13
+    },
+    {
+      "text": "and",
+      "start": 15.365,
+      "end": 15.488
+    },
+    {
+      "text": "somehow,",
+      "start": 15.51,
+      "end": 15.923
+    },
+    {
+      "text": "at",
+      "start": 16.124,
+      "end": 16.224
+    },
+    {
+      "text": "the",
+      "start": 16.246,
+      "end": 16.313
+    },
+    {
+      "text": "end",
+      "start": 16.391,
+      "end": 16.548
+    },
+    {
+      "text": "of",
+      "start": 16.559,
+      "end": 16.648
+    },
+    {
+      "text": "the",
+      "start": 16.682,
+      "end": 16.737
+    },
+    {
+      "text": "month,",
+      "start": 16.76,
+      "end": 17.072
+    },
+    {
+      "text": "they",
+      "start": 17.318,
+      "end": 17.385
+    },
+    {
+      "text": "still",
+      "start": 17.418,
+      "end": 17.608
+    },
+    {
+      "text": "don't",
+      "start": 17.675,
+      "end": 17.854
+    },
+    {
+      "text": "know",
+      "start": 17.865,
+      "end": 17.988
+    },
+    {
+      "text": "where",
+      "start": 18.054,
+      "end": 18.121
+    },
+    {
+      "text": "the",
+      "start": 18.166,
+      "end": 18.222
+    },
+    {
+      "text": "money",
+      "start": 18.244,
+      "end": 18.434
+    },
+    {
+      "text": "went.",
+      "start": 18.501,
+      "end": 18.78
+    },
+    {
+      "text": "And",
+      "start": 20.396,
+      "end": 20.545
+    },
+    {
+      "text": "this",
+      "start": 20.614,
+      "end": 20.774
+    },
+    {
+      "text": "isn't",
+      "start": 20.786,
+      "end": 21.061
+    },
+    {
+      "text": "imaginary.",
+      "start": 21.107,
+      "end": 21.589
+    },
+    {
+      "text": "Research",
+      "start": 22.467,
+      "end": 22.857
+    },
+    {
+      "text": "involving",
+      "start": 22.892,
+      "end": 23.27
+    },
+    {
+      "text": "seven",
+      "start": 23.282,
+      "end": 23.557
+    },
+    {
+      "text": "hundred",
+      "start": 23.591,
+      "end": 23.901
+    },
+    {
+      "text": "and",
+      "start": 23.901,
+      "end": 24.05
+    },
+    {
+      "text": "eighteen",
+      "start": 24.05,
+      "end": 24.302
+    },
+    {
+      "text": "Nigerian",
+      "start": 24.314,
+      "end": 24.681
+    },
+    {
+      "text": "microbusinesses",
+      "start": 24.704,
+      "end": 25.449
+    },
+    {
+      "text": "found",
+      "start": 25.484,
+      "end": 25.678
+    },
+    {
+      "text": "that",
+      "start": 25.736,
+      "end": 25.85
+    },
+    {
+      "text": "sixty-four",
+      "start": 25.862,
+      "end": 26.344
+    },
+    {
+      "text": "percent",
+      "start": 26.412,
+      "end": 26.711
+    },
+    {
+      "text": "kept",
+      "start": 26.768,
+      "end": 26.997
+    },
+    {
+      "text": "no",
+      "start": 27.009,
+      "end": 27.146
+    },
+    {
+      "text": "financial",
+      "start": 27.158,
+      "end": 27.594
+    },
+    {
+      "text": "records.",
+      "start": 27.628,
+      "end": 28.075
+    },
+    {
+      "text": "Only",
+      "start": 28.924,
+      "end": 29.153
+    },
+    {
+      "text": "thirty-two",
+      "start": 29.222,
+      "end": 29.589
+    },
+    {
+      "text": "percent",
+      "start": 29.658,
+      "end": 29.944
+    },
+    {
+      "text": "separated",
+      "start": 29.945,
+      "end": 30.438
+    },
+    {
+      "text": "business",
+      "start": 30.506,
+      "end": 30.816
+    },
+    {
+      "text": "money",
+      "start": 30.85,
+      "end": 31.045
+    },
+    {
+      "text": "from",
+      "start": 31.068,
+      "end": 31.24
+    },
+    {
+      "text": "personal",
+      "start": 31.309,
+      "end": 31.665
+    },
+    {
+      "text": "money.",
+      "start": 31.665,
+      "end": 31.917
+    },
+    {
+      "text": "Now",
+      "start": 33.196,
+      "end": 33.439
+    },
+    {
+      "text": "imagine",
+      "start": 33.451,
+      "end": 33.833
+    },
+    {
+      "text": "something",
+      "start": 33.844,
+      "end": 34.192
+    },
+    {
+      "text": "simpler.",
+      "start": 34.203,
+      "end": 34.62
+    },
+    {
+      "text": "Not",
+      "start": 35.473,
+      "end": 35.716
+    },
+    {
+      "text": "another",
+      "start": 35.716,
+      "end": 35.982
+    },
+    {
+      "text": "complicated",
+      "start": 36.04,
+      "end": 36.584
+    },
+    {
+      "text": "accounting",
+      "start": 36.595,
+      "end": 37.058
+    },
+    {
+      "text": "platform.",
+      "start": 37.105,
+      "end": 37.533
+    },
+    {
+      "text": "Just",
+      "start": 38.343,
+      "end": 38.632
+    },
+    {
+      "text": "a",
+      "start": 38.632,
+      "end": 38.69
+    },
+    {
+      "text": "tool",
+      "start": 38.748,
+      "end": 38.899
+    },
+    {
+      "text": "that",
+      "start": 38.956,
+      "end": 39.119
+    },
+    {
+      "text": "records",
+      "start": 39.13,
+      "end": 39.477
+    },
+    {
+      "text": "what",
+      "start": 39.547,
+      "end": 39.697
+    },
+    {
+      "text": "comes",
+      "start": 39.755,
+      "end": 40.033
+    },
+    {
+      "text": "in,",
+      "start": 40.102,
+      "end": 40.287
+    },
+    {
+      "text": "what",
+      "start": 40.531,
+      "end": 40.681
+    },
+    {
+      "text": "goes",
+      "start": 40.75,
+      "end": 40.924
+    },
+    {
+      "text": "out,",
+      "start": 40.936,
+      "end": 41.121
+    },
+    {
+      "text": "and",
+      "start": 41.457,
+      "end": 41.538
+    },
+    {
+      "text": "what",
+      "start": 41.63,
+      "end": 41.804
+    },
+    {
+      "text": "is",
+      "start": 41.804,
+      "end": 41.896
+    },
+    {
+      "text": "actually",
+      "start": 41.966,
+      "end": 42.313
+    },
+    {
+      "text": "left.",
+      "start": 42.325,
+      "end": 42.614
+    },
+    {
+      "text": "A",
+      "start": 43.695,
+      "end": 43.808
+    },
+    {
+      "text": "sale",
+      "start": 43.83,
+      "end": 44.01
+    },
+    {
+      "text": "comes",
+      "start": 44.078,
+      "end": 44.348
+    },
+    {
+      "text": "in:",
+      "start": 44.404,
+      "end": 44.585
+    },
+    {
+      "text": "twelve",
+      "start": 44.855,
+      "end": 45.058
+    },
+    {
+      "text": "thousand",
+      "start": 45.136,
+      "end": 45.429
+    },
+    {
+      "text": "five",
+      "start": 45.474,
+      "end": 45.677
+    },
+    {
+      "text": "hundred",
+      "start": 45.711,
+      "end": 45.981
+    },
+    {
+      "text": "naira,",
+      "start": 46.015,
+      "end": 46.364
+    },
+    {
+      "text": "bank",
+      "start": 46.623,
+      "end": 46.769
+    },
+    {
+      "text": "transfer.",
+      "start": 46.837,
+      "end": 47.209
+    },
+    {
+      "text": "Saved.",
+      "start": 48.049,
+      "end": 48.387
+    },
+    {
+      "text": "Transport",
+      "start": 49.287,
+      "end": 49.749
+    },
+    {
+      "text": "takes",
+      "start": 49.794,
+      "end": 49.985
+    },
+    {
+      "text": "one",
+      "start": 50.019,
+      "end": 50.154
+    },
+    {
+      "text": "thousand",
+      "start": 50.222,
+      "end": 50.537
+    },
+    {
+      "text": "eight",
+      "start": 50.537,
+      "end": 50.683
+    },
+    {
+      "text": "hundred.",
+      "start": 50.717,
+      "end": 51.066
+    },
+    {
+      "text": "Saved.",
+      "start": 51.968,
+      "end": 52.306
+    },
+    {
+      "text": "A",
+      "start": 53.206,
+      "end": 53.296
+    },
+    {
+      "text": "personal",
+      "start": 53.364,
+      "end": 53.679
+    },
+    {
+      "text": "withdrawal",
+      "start": 53.735,
+      "end": 54.129
+    },
+    {
+      "text": "is",
+      "start": 54.141,
+      "end": 54.242
+    },
+    {
+      "text": "marked",
+      "start": 54.276,
+      "end": 54.422
+    },
+    {
+      "text": "separately,",
+      "start": 54.456,
+      "end": 54.951
+    },
+    {
+      "text": "so",
+      "start": 55.21,
+      "end": 55.334
+    },
+    {
+      "text": "it",
+      "start": 55.345,
+      "end": 55.424
+    },
+    {
+      "text": "never",
+      "start": 55.469,
+      "end": 55.706
+    },
+    {
+      "text": "gets",
+      "start": 55.773,
+      "end": 55.942
+    },
+    {
+      "text": "confused",
+      "start": 55.999,
+      "end": 56.415
+    },
+    {
+      "text": "with",
+      "start": 56.427,
+      "end": 56.573
+    },
+    {
+      "text": "a",
+      "start": 56.573,
+      "end": 56.618
+    },
+    {
+      "text": "business",
+      "start": 56.686,
+      "end": 56.978
+    },
+    {
+      "text": "expense.",
+      "start": 56.99,
+      "end": 57.53
+    },
+    {
+      "text": "At",
+      "start": 58.364,
+      "end": 58.532
+    },
+    {
+      "text": "closing",
+      "start": 58.577,
+      "end": 58.904
+    },
+    {
+      "text": "time:",
+      "start": 58.927,
+      "end": 59.186
+    },
+    {
+      "text": "sales,",
+      "start": 59.4,
+      "end": 59.794
+    },
+    {
+      "text": "expenses,",
+      "start": 59.94,
+      "end": 60.514
+    },
+    {
+      "text": "personal",
+      "start": 60.785,
+      "end": 61.111
+    },
+    {
+      "text": "withdrawals,",
+      "start": 61.156,
+      "end": 61.731
+    },
+    {
+      "text": "and",
+      "start": 61.956,
+      "end": 62.046
+    },
+    {
+      "text": "what",
+      "start": 62.125,
+      "end": 62.282
+    },
+    {
+      "text": "is",
+      "start": 62.282,
+      "end": 62.372
+    },
+    {
+      "text": "actually",
+      "start": 62.418,
+      "end": 62.767
+    },
+    {
+      "text": "left.",
+      "start": 62.778,
+      "end": 63.093
+    },
+    {
+      "text": "Just",
+      "start": 63.96,
+      "end": 64.163
+    },
+    {
+      "text": "the",
+      "start": 64.197,
+      "end": 64.264
+    },
+    {
+      "text": "numbers",
+      "start": 64.287,
+      "end": 64.625
+    },
+    {
+      "text": "that",
+      "start": 64.67,
+      "end": 64.827
+    },
+    {
+      "text": "matter.",
+      "start": 64.861,
+      "end": 65.177
+    },
+    {
+      "text": "And",
+      "start": 66.598,
+      "end": 66.752
+    },
+    {
+      "text": "that's",
+      "start": 66.836,
+      "end": 67.062
+    },
+    {
+      "text": "the",
+      "start": 67.11,
+      "end": 67.181
+    },
+    {
+      "text": "point.",
+      "start": 67.252,
+      "end": 67.598
+    },
+    {
+      "text": "You",
+      "start": 68.548,
+      "end": 68.702
+    },
+    {
+      "text": "don't",
+      "start": 68.738,
+      "end": 68.905
+    },
+    {
+      "text": "always",
+      "start": 68.964,
+      "end": 69.25
+    },
+    {
+      "text": "need",
+      "start": 69.286,
+      "end": 69.464
+    },
+    {
+      "text": "to",
+      "start": 69.476,
+      "end": 69.571
+    },
+    {
+      "text": "invent",
+      "start": 69.607,
+      "end": 69.881
+    },
+    {
+      "text": "something",
+      "start": 69.94,
+      "end": 70.274
+    },
+    {
+      "text": "nobody",
+      "start": 70.274,
+      "end": 70.595
+    },
+    {
+      "text": "has",
+      "start": 70.607,
+      "end": 70.798
+    },
+    {
+      "text": "ever",
+      "start": 70.857,
+      "end": 71.071
+    },
+    {
+      "text": "seen.",
+      "start": 71.167,
+      "end": 71.381
+    },
+    {
+      "text": "Sometimes,",
+      "start": 72.226,
+      "end": 72.869
+    },
+    {
+      "text": "you",
+      "start": 73.143,
+      "end": 73.226
+    },
+    {
+      "text": "just",
+      "start": 73.286,
+      "end": 73.488
+    },
+    {
+      "text": "need",
+      "start": 73.512,
+      "end": 73.679
+    },
+    {
+      "text": "to",
+      "start": 73.69,
+      "end": 73.786
+    },
+    {
+      "text": "notice",
+      "start": 73.81,
+      "end": 74.107
+    },
+    {
+      "text": "what",
+      "start": 74.155,
+      "end": 74.262
+    },
+    {
+      "text": "people",
+      "start": 74.333,
+      "end": 74.548
+    },
+    {
+      "text": "struggle",
+      "start": 74.571,
+      "end": 74.905
+    },
+    {
+      "text": "with,",
+      "start": 74.917,
+      "end": 75.155
+    },
+    {
+      "text": "remove",
+      "start": 75.381,
+      "end": 75.643
+    },
+    {
+      "text": "the",
+      "start": 75.69,
+      "end": 75.762
+    },
+    {
+      "text": "friction,",
+      "start": 75.774,
+      "end": 76.226
+    },
+    {
+      "text": "and",
+      "start": 76.417,
+      "end": 76.548
+    },
+    {
+      "text": "make",
+      "start": 76.548,
+      "end": 76.679
+    },
+    {
+      "text": "their",
+      "start": 76.762,
+      "end": 76.893
+    },
+    {
+      "text": "everyday",
+      "start": 76.964,
+      "end": 77.298
+    },
+    {
+      "text": "lives",
+      "start": 77.31,
+      "end": 77.583
+    },
+    {
+      "text": "a",
+      "start": 77.583,
+      "end": 77.643
+    },
+    {
+      "text": "little",
+      "start": 77.655,
+      "end": 77.94
+    },
+    {
+      "text": "easier.",
+      "start": 77.976,
+      "end": 78.31
+    },
+    {
+      "text": "Maybe",
+      "start": 79.496,
+      "end": 79.771
+    },
+    {
+      "text": "your",
+      "start": 79.84,
+      "end": 79.92
+    },
+    {
+      "text": "first",
+      "start": 79.955,
+      "end": 80.161
+    },
+    {
+      "text": "successful",
+      "start": 80.161,
+      "end": 80.631
+    },
+    {
+      "text": "startup",
+      "start": 80.654,
+      "end": 80.952
+    },
+    {
+      "text": "doesn't",
+      "start": 81.033,
+      "end": 81.273
+    },
+    {
+      "text": "need",
+      "start": 81.273,
+      "end": 81.445
+    },
+    {
+      "text": "a",
+      "start": 81.445,
+      "end": 81.503
+    },
+    {
+      "text": "million",
+      "start": 81.526,
+      "end": 81.801
+    },
+    {
+      "text": "users.",
+      "start": 81.835,
+      "end": 82.294
+    },
+    {
+      "text": "Just",
+      "start": 83.15,
+      "end": 83.414
+    },
+    {
+      "text": "a",
+      "start": 83.437,
+      "end": 83.494
+    },
+    {
+      "text": "thousand",
+      "start": 83.563,
+      "end": 83.872
+    },
+    {
+      "text": "people",
+      "start": 83.93,
+      "end": 84.159
+    },
+    {
+      "text": "who",
+      "start": 84.159,
+      "end": 84.285
+    },
+    {
+      "text": "don't",
+      "start": 84.343,
+      "end": 84.515
+    },
+    {
+      "text": "want",
+      "start": 84.561,
+      "end": 84.71
+    },
+    {
+      "text": "to",
+      "start": 84.744,
+      "end": 84.836
+    },
+    {
+      "text": "live",
+      "start": 84.859,
+      "end": 85.088
+    },
+    {
+      "text": "without",
+      "start": 85.088,
+      "end": 85.386
+    },
+    {
+      "text": "it.",
+      "start": 85.398,
+      "end": 85.581
+    }
+  ]
+}

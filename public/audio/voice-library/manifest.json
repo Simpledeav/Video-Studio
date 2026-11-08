@@ -1,0 +1,651 @@
+{
+  "schema_version": "1.0.0",
+  "library_id": "simpledeav-male-deep-voice-library",
+  "library_name": "SIMPLEDEAV Male Deep Voice Identity Library",
+  "version": "1.0.0",
+  "created": "2026-11-02",
+  "engine": {
+    "name": "Microsoft Edge Neural TTS",
+    "client": "edge-tts",
+    "client_version": "7.3.1",
+    "source_format": "MP3, 24 kHz, mono, 48 kbps",
+    "voice_cloning": false,
+    "note": "Ten distinct neural base voices. Each identity is treated with documented pitch/rate prosody and mastered locally. No specific real person is imitated, and no cloning is used."
+  },
+  "audio_spec": {
+    "format": "WAV",
+    "codec": "PCM signed 24-bit little-endian",
+    "sample_rate_hz": 48000,
+    "bit_depth": 24,
+    "channels": 1,
+    "layout": "mono",
+    "loudness_target_lufs": -16,
+    "true_peak_target_dbtp": -1.5,
+    "processing": "speech-boundary trim; 65 Hz high-pass; measured gain; true-peak-safe limiter; 15 ms fade-in; 20 ms fade-out. No reverb, no echo, no artificial room, no voice cloning.",
+    "source_limitation": "Edge TTS delivers 24 kHz mono MP3. The WAV files are 48 kHz / 24-bit PCM containers produced from that source, not native 48 kHz recordings. This is the best quality available without a paid TTS provider."
+  },
+  "selection": {
+    "syntax": "Use SD_VOICE_03 — Nathan Cole.",
+    "accepted_forms": [
+      "SD_VOICE_03",
+      "SD_VOICE_03 — Nathan Cole",
+      "Nathan Cole",
+      "nathan cole"
+    ],
+    "strict": true,
+    "fallback": "none",
+    "behaviour": "Unknown voices and missing emotion assets raise an error. The system never silently substitutes a different voice.",
+    "resolver": "src/voice-library/selectVoice.ts",
+    "remotion_component": "src/voice-library/VoiceNarration.tsx",
+    "cli": "node scripts/voice-lookup.mjs \"SD_VOICE_03 — Nathan Cole\"",
+    "default_voice": "SD_VOICE_03",
+    "alternate_voice": "SD_VOICE_09",
+    "rule": "Use SD_VOICE_03 — Nathan Cole for every video unless the brief explicitly names SD_VOICE_09 — James Carter. Never substitute a voice silently."
+  },
+  "test_narration": "Every successful business begins with a decision. But sometimes, the smallest decision creates the biggest problem. When thousands of customers depend on your system, one mistake can change everything. The question is not whether your business will face a challenge. The question is whether you are prepared when it happens.",
+  "emotion_definitions": {
+    "calm": {
+      "label": "Calm professional narration",
+      "text": "Every successful business begins with a decision.",
+      "rate_delta_percent": 0,
+      "pitch_delta_hz": 0,
+      "volume_delta_percent": 0
+    },
+    "curiosity": {
+      "label": "Curiosity",
+      "text": "But what if the smallest decision is the one that changes everything?",
+      "rate_delta_percent": 4,
+      "pitch_delta_hz": 3,
+      "volume_delta_percent": 0
+    },
+    "suspense": {
+      "label": "Suspense",
+      "text": "When thousands of customers depend on your system, one mistake can change everything.",
+      "rate_delta_percent": -5,
+      "pitch_delta_hz": -2,
+      "volume_delta_percent": 0
+    },
+    "excitement": {
+      "label": "Excitement",
+      "text": "This is where the real opportunity begins.",
+      "rate_delta_percent": 8,
+      "pitch_delta_hz": 4,
+      "volume_delta_percent": 3
+    },
+    "seriousness": {
+      "label": "Seriousness",
+      "text": "The question is not whether your business will face a challenge.",
+      "rate_delta_percent": -3,
+      "pitch_delta_hz": -1,
+      "volume_delta_percent": 0
+    },
+    "concern": {
+      "label": "Concern",
+      "text": "But sometimes, the smallest decision creates the biggest problem.",
+      "rate_delta_percent": -5,
+      "pitch_delta_hz": 1,
+      "volume_delta_percent": 0
+    },
+    "confidence": {
+      "label": "Confidence",
+      "text": "The question is whether you are prepared when it happens.",
+      "rate_delta_percent": -1,
+      "pitch_delta_hz": 0,
+      "volume_delta_percent": 2
+    },
+    "reflection": {
+      "label": "Reflective storytelling",
+      "text": "Every successful business begins with a decision.",
+      "rate_delta_percent": -7,
+      "pitch_delta_hz": -1,
+      "volume_delta_percent": -1
+    },
+    "dramatic": {
+      "label": "Dramatic emphasis",
+      "text": "One mistake can change everything.",
+      "rate_delta_percent": -9,
+      "pitch_delta_hz": -3,
+      "volume_delta_percent": 5
+    },
+    "friendly": {
+      "label": "Friendly explanation",
+      "text": "Let me show you how this actually works.",
+      "rate_delta_percent": 3,
+      "pitch_delta_hz": 2,
+      "volume_delta_percent": 1
+    }
+  },
+  "voices": [
+    {
+      "voice_id": "SD_VOICE_03",
+      "voice_name": "Nathan Cole",
+      "gender": "male",
+      "vocal_register": "rich low-mid baritone",
+      "vocal_texture": "smooth, clean, polished",
+      "accent": "American (General US)",
+      "personality": "intelligent, approachable, confident",
+      "narration_style": "modern technology narrator; natural and conversational, lightly optimistic, clear without sounding corporate",
+      "emotional_strength": "Professional confidence — clarity, credibility, composure",
+      "primary_emotion": "professional confidence",
+      "emotional_range": "all ten library emotions; strongest in calm, confidence, curiosity, friendly",
+      "available_emotions": [
+        "calm",
+        "curiosity",
+        "suspense",
+        "excitement",
+        "seriousness",
+        "concern",
+        "confidence",
+        "reflection",
+        "dramatic",
+        "friendly"
+      ],
+      "speaking_speed": "measured, 156.3 wpm (identity sample)",
+      "speaking_speed_wpm": 156.3,
+      "ideal_video_types": [
+        "SaaS storytelling",
+        "startup and business case studies",
+        "product explainers",
+        "technology documentaries"
+      ],
+      "preferred_emotions": [
+        "calm",
+        "confidence",
+        "curiosity",
+        "friendly"
+      ],
+      "audio_file_paths": {
+        "identity": "audio/voice-library/SD_VOICE_03_Nathan_Cole/identity.wav",
+        "calm": "audio/voice-library/SD_VOICE_03_Nathan_Cole/calm.wav",
+        "curiosity": "audio/voice-library/SD_VOICE_03_Nathan_Cole/curiosity.wav",
+        "suspense": "audio/voice-library/SD_VOICE_03_Nathan_Cole/suspense.wav",
+        "excitement": "audio/voice-library/SD_VOICE_03_Nathan_Cole/excitement.wav",
+        "seriousness": "audio/voice-library/SD_VOICE_03_Nathan_Cole/seriousness.wav",
+        "concern": "audio/voice-library/SD_VOICE_03_Nathan_Cole/concern.wav",
+        "confidence": "audio/voice-library/SD_VOICE_03_Nathan_Cole/confidence.wav",
+        "reflection": "audio/voice-library/SD_VOICE_03_Nathan_Cole/reflection.wav",
+        "dramatic": "audio/voice-library/SD_VOICE_03_Nathan_Cole/dramatic.wav",
+        "friendly": "audio/voice-library/SD_VOICE_03_Nathan_Cole/friendly.wav"
+      },
+      "voice_description": "A rich, smooth, intelligent male voice for professional American technology narration. Conversational enough for a founder story, polished enough for a product film.",
+      "usage_instructions": "Select with `resolveVoice(\"SD_VOICE_03\")` or `resolveVoice(\"SD_VOICE_03 — Nathan Cole\")`. In Remotion use `<VoiceNarration voice=\"SD_VOICE_03\" emotion=\"calm\" />`. Paths are relative to `public/`. This identity is permanent; do not rename it. If the asset is missing, fail loudly — never substitute another voice.",
+      "folder": "SD_VOICE_03_Nathan_Cole",
+      "folder_path": "audio/voice-library/SD_VOICE_03_Nathan_Cole",
+      "engine_voice": "en-US-AndrewMultilingualNeural",
+      "prosody": {
+        "base": {
+          "rate_percent": 2,
+          "pitch_hz": -2,
+          "volume_percent": 0
+        },
+        "emotions": {
+          "calm": {
+            "rate_percent": 2,
+            "pitch_hz": -2,
+            "volume_percent": 0
+          },
+          "curiosity": {
+            "rate_percent": 6,
+            "pitch_hz": 1,
+            "volume_percent": 0
+          },
+          "suspense": {
+            "rate_percent": -3,
+            "pitch_hz": -4,
+            "volume_percent": 0
+          },
+          "excitement": {
+            "rate_percent": 10,
+            "pitch_hz": 2,
+            "volume_percent": 3
+          },
+          "seriousness": {
+            "rate_percent": -1,
+            "pitch_hz": -3,
+            "volume_percent": 0
+          },
+          "concern": {
+            "rate_percent": -3,
+            "pitch_hz": -1,
+            "volume_percent": 0
+          },
+          "confidence": {
+            "rate_percent": 1,
+            "pitch_hz": -2,
+            "volume_percent": 2
+          },
+          "reflection": {
+            "rate_percent": -5,
+            "pitch_hz": -3,
+            "volume_percent": -1
+          },
+          "dramatic": {
+            "rate_percent": -7,
+            "pitch_hz": -5,
+            "volume_percent": 5
+          },
+          "friendly": {
+            "rate_percent": 5,
+            "pitch_hz": 0,
+            "volume_percent": 1
+          }
+        }
+      },
+      "identity_version": "1.0.0",
+      "immutable": true,
+      "files": {
+        "identity": {
+          "path": "audio/voice-library/SD_VOICE_03_Nathan_Cole/identity.wav",
+          "duration_seconds": 19.2,
+          "sample_rate_hz": 48000,
+          "bit_depth": 24,
+          "channels": 1,
+          "loudness_lufs": -16,
+          "true_peak_dbtp": -2.3,
+          "lra_lu": 2.7,
+          "peak_dbfs": -2.5,
+          "clipped_samples": 0
+        },
+        "calm": {
+          "path": "audio/voice-library/SD_VOICE_03_Nathan_Cole/calm.wav",
+          "duration_seconds": 3.48,
+          "sample_rate_hz": 48000,
+          "bit_depth": 24,
+          "channels": 1,
+          "loudness_lufs": -16.1,
+          "true_peak_dbtp": -2.5,
+          "lra_lu": 1,
+          "peak_dbfs": -2.5,
+          "clipped_samples": 0
+        },
+        "curiosity": {
+          "path": "audio/voice-library/SD_VOICE_03_Nathan_Cole/curiosity.wav",
+          "duration_seconds": 4.176,
+          "sample_rate_hz": 48000,
+          "bit_depth": 24,
+          "channels": 1,
+          "loudness_lufs": -16.1,
+          "true_peak_dbtp": -2.2,
+          "lra_lu": 4.2,
+          "peak_dbfs": -2.5,
+          "clipped_samples": 0
+        },
+        "suspense": {
+          "path": "audio/voice-library/SD_VOICE_03_Nathan_Cole/suspense.wav",
+          "duration_seconds": 5.784,
+          "sample_rate_hz": 48000,
+          "bit_depth": 24,
+          "channels": 1,
+          "loudness_lufs": -16.1,
+          "true_peak_dbtp": -2.5,
+          "lra_lu": 2.5,
+          "peak_dbfs": -2.5,
+          "clipped_samples": 0
+        },
+        "excitement": {
+          "path": "audio/voice-library/SD_VOICE_03_Nathan_Cole/excitement.wav",
+          "duration_seconds": 2.376,
+          "sample_rate_hz": 48000,
+          "bit_depth": 24,
+          "channels": 1,
+          "loudness_lufs": -16.1,
+          "true_peak_dbtp": -2.5,
+          "lra_lu": 0,
+          "peak_dbfs": -2.5,
+          "clipped_samples": 0
+        },
+        "seriousness": {
+          "path": "audio/voice-library/SD_VOICE_03_Nathan_Cole/seriousness.wav",
+          "duration_seconds": 3.792,
+          "sample_rate_hz": 48000,
+          "bit_depth": 24,
+          "channels": 1,
+          "loudness_lufs": -16.1,
+          "true_peak_dbtp": -2.5,
+          "lra_lu": 1.5,
+          "peak_dbfs": -2.5,
+          "clipped_samples": 0
+        },
+        "concern": {
+          "path": "audio/voice-library/SD_VOICE_03_Nathan_Cole/concern.wav",
+          "duration_seconds": 4.656,
+          "sample_rate_hz": 48000,
+          "bit_depth": 24,
+          "channels": 1,
+          "loudness_lufs": -16,
+          "true_peak_dbtp": -2.2,
+          "lra_lu": 1.5,
+          "peak_dbfs": -2.5,
+          "clipped_samples": 0
+        },
+        "confidence": {
+          "path": "audio/voice-library/SD_VOICE_03_Nathan_Cole/confidence.wav",
+          "duration_seconds": 3.024,
+          "sample_rate_hz": 48000,
+          "bit_depth": 24,
+          "channels": 1,
+          "loudness_lufs": -16.1,
+          "true_peak_dbtp": -2.5,
+          "lra_lu": 20,
+          "peak_dbfs": -2.5,
+          "clipped_samples": 0
+        },
+        "reflection": {
+          "path": "audio/voice-library/SD_VOICE_03_Nathan_Cole/reflection.wav",
+          "duration_seconds": 3.6,
+          "sample_rate_hz": 48000,
+          "bit_depth": 24,
+          "channels": 1,
+          "loudness_lufs": -16.1,
+          "true_peak_dbtp": -2.5,
+          "lra_lu": 1.3,
+          "peak_dbfs": -2.5,
+          "clipped_samples": 0
+        },
+        "dramatic": {
+          "path": "audio/voice-library/SD_VOICE_03_Nathan_Cole/dramatic.wav",
+          "duration_seconds": 2.496,
+          "sample_rate_hz": 48000,
+          "bit_depth": 24,
+          "channels": 1,
+          "loudness_lufs": -16.1,
+          "true_peak_dbtp": -2.5,
+          "lra_lu": 0,
+          "peak_dbfs": -2.5,
+          "clipped_samples": 0
+        },
+        "friendly": {
+          "path": "audio/voice-library/SD_VOICE_03_Nathan_Cole/friendly.wav",
+          "duration_seconds": 2.136,
+          "sample_rate_hz": 48000,
+          "bit_depth": 24,
+          "channels": 1,
+          "loudness_lufs": -16,
+          "true_peak_dbtp": -2.5,
+          "lra_lu": 0,
+          "peak_dbfs": -2.5,
+          "clipped_samples": 0
+        }
+      }
+    },
+    {
+      "voice_id": "SD_VOICE_09",
+      "voice_name": "James Carter",
+      "gender": "male",
+      "vocal_register": "deep, natural baritone",
+      "vocal_texture": "expressive, conversational, slightly breathy",
+      "accent": "Canadian (General Canadian, close to American)",
+      "personality": "empathetic, sincere, adaptable",
+      "narration_style": "emotional storytelling; natural conversational pacing, intimate close-mic feel, honest emphasis without melodrama",
+      "emotional_strength": "Emotional storytelling — empathy, sincerity, flexibility",
+      "primary_emotion": "emotional storytelling",
+      "emotional_range": "all ten library emotions; strongest in reflection, concern, friendly, confidence",
+      "available_emotions": [
+        "calm",
+        "curiosity",
+        "suspense",
+        "excitement",
+        "seriousness",
+        "concern",
+        "confidence",
+        "reflection",
+        "dramatic",
+        "friendly"
+      ],
+      "speaking_speed": "measured, 161.5 wpm (identity sample)",
+      "speaking_speed_wpm": 161.5,
+      "ideal_video_types": [
+        "founder stories",
+        "emotional brand films",
+        "customer stories",
+        "human-interest documentaries"
+      ],
+      "preferred_emotions": [
+        "reflection",
+        "concern",
+        "friendly",
+        "confidence"
+      ],
+      "audio_file_paths": {
+        "identity": "audio/voice-library/SD_VOICE_09_James_Carter/identity.wav",
+        "calm": "audio/voice-library/SD_VOICE_09_James_Carter/calm.wav",
+        "curiosity": "audio/voice-library/SD_VOICE_09_James_Carter/curiosity.wav",
+        "suspense": "audio/voice-library/SD_VOICE_09_James_Carter/suspense.wav",
+        "excitement": "audio/voice-library/SD_VOICE_09_James_Carter/excitement.wav",
+        "seriousness": "audio/voice-library/SD_VOICE_09_James_Carter/seriousness.wav",
+        "concern": "audio/voice-library/SD_VOICE_09_James_Carter/concern.wav",
+        "confidence": "audio/voice-library/SD_VOICE_09_James_Carter/confidence.wav",
+        "reflection": "audio/voice-library/SD_VOICE_09_James_Carter/reflection.wav",
+        "dramatic": "audio/voice-library/SD_VOICE_09_James_Carter/dramatic.wav",
+        "friendly": "audio/voice-library/SD_VOICE_09_James_Carter/friendly.wav"
+      },
+      "voice_description": "A deep, expressive male voice with a natural conversational texture. It moves easily between warmth, concern, and quiet confidence, which makes it the most emotionally flexible identity in the library.",
+      "usage_instructions": "Select with `resolveVoice(\"SD_VOICE_09\")` or `resolveVoice(\"SD_VOICE_09 — James Carter\")`. In Remotion use `<VoiceNarration voice=\"SD_VOICE_09\" emotion=\"calm\" />`. Paths are relative to `public/`. This identity is permanent; do not rename it. If the asset is missing, fail loudly — never substitute another voice.",
+      "folder": "SD_VOICE_09_James_Carter",
+      "folder_path": "audio/voice-library/SD_VOICE_09_James_Carter",
+      "engine_voice": "en-CA-LiamNeural",
+      "prosody": {
+        "base": {
+          "rate_percent": 0,
+          "pitch_hz": -4,
+          "volume_percent": 0
+        },
+        "emotions": {
+          "calm": {
+            "rate_percent": 0,
+            "pitch_hz": -4,
+            "volume_percent": 0
+          },
+          "curiosity": {
+            "rate_percent": 4,
+            "pitch_hz": -1,
+            "volume_percent": 0
+          },
+          "suspense": {
+            "rate_percent": -5,
+            "pitch_hz": -6,
+            "volume_percent": 0
+          },
+          "excitement": {
+            "rate_percent": 8,
+            "pitch_hz": 0,
+            "volume_percent": 3
+          },
+          "seriousness": {
+            "rate_percent": -3,
+            "pitch_hz": -5,
+            "volume_percent": 0
+          },
+          "concern": {
+            "rate_percent": -5,
+            "pitch_hz": -3,
+            "volume_percent": 0
+          },
+          "confidence": {
+            "rate_percent": -1,
+            "pitch_hz": -4,
+            "volume_percent": 2
+          },
+          "reflection": {
+            "rate_percent": -7,
+            "pitch_hz": -5,
+            "volume_percent": -1
+          },
+          "dramatic": {
+            "rate_percent": -9,
+            "pitch_hz": -7,
+            "volume_percent": 5
+          },
+          "friendly": {
+            "rate_percent": 3,
+            "pitch_hz": -2,
+            "volume_percent": 1
+          }
+        }
+      },
+      "identity_version": "1.0.0",
+      "immutable": true,
+      "files": {
+        "identity": {
+          "path": "audio/voice-library/SD_VOICE_09_James_Carter/identity.wav",
+          "duration_seconds": 18.581,
+          "sample_rate_hz": 48000,
+          "bit_depth": 24,
+          "channels": 1,
+          "loudness_lufs": -16.1,
+          "true_peak_dbtp": -2.5,
+          "lra_lu": 3.4,
+          "peak_dbfs": -2.5,
+          "clipped_samples": 0
+        },
+        "calm": {
+          "path": "audio/voice-library/SD_VOICE_09_James_Carter/calm.wav",
+          "duration_seconds": 2.934,
+          "sample_rate_hz": 48000,
+          "bit_depth": 24,
+          "channels": 1,
+          "loudness_lufs": -16.1,
+          "true_peak_dbtp": -2.5,
+          "lra_lu": 0,
+          "peak_dbfs": -2.5,
+          "clipped_samples": 0
+        },
+        "curiosity": {
+          "path": "audio/voice-library/SD_VOICE_09_James_Carter/curiosity.wav",
+          "duration_seconds": 3.321,
+          "sample_rate_hz": 48000,
+          "bit_depth": 24,
+          "channels": 1,
+          "loudness_lufs": -16.1,
+          "true_peak_dbtp": -2.5,
+          "lra_lu": 20.1,
+          "peak_dbfs": -2.5,
+          "clipped_samples": 0
+        },
+        "suspense": {
+          "path": "audio/voice-library/SD_VOICE_09_James_Carter/suspense.wav",
+          "duration_seconds": 4.847,
+          "sample_rate_hz": 48000,
+          "bit_depth": 24,
+          "channels": 1,
+          "loudness_lufs": -16.1,
+          "true_peak_dbtp": -2.5,
+          "lra_lu": 1.6,
+          "peak_dbfs": -2.5,
+          "clipped_samples": 0
+        },
+        "excitement": {
+          "path": "audio/voice-library/SD_VOICE_09_James_Carter/excitement.wav",
+          "duration_seconds": 2.528,
+          "sample_rate_hz": 48000,
+          "bit_depth": 24,
+          "channels": 1,
+          "loudness_lufs": -16.1,
+          "true_peak_dbtp": -2.5,
+          "lra_lu": 0,
+          "peak_dbfs": -2.5,
+          "clipped_samples": 0
+        },
+        "seriousness": {
+          "path": "audio/voice-library/SD_VOICE_09_James_Carter/seriousness.wav",
+          "duration_seconds": 3.416,
+          "sample_rate_hz": 48000,
+          "bit_depth": 24,
+          "channels": 1,
+          "loudness_lufs": -16.2,
+          "true_peak_dbtp": -2.4,
+          "lra_lu": 0.4,
+          "peak_dbfs": -2.5,
+          "clipped_samples": 0
+        },
+        "concern": {
+          "path": "audio/voice-library/SD_VOICE_09_James_Carter/concern.wav",
+          "duration_seconds": 3.799,
+          "sample_rate_hz": 48000,
+          "bit_depth": 24,
+          "channels": 1,
+          "loudness_lufs": -16.1,
+          "true_peak_dbtp": -2.5,
+          "lra_lu": 1.1,
+          "peak_dbfs": -2.5,
+          "clipped_samples": 0
+        },
+        "confidence": {
+          "path": "audio/voice-library/SD_VOICE_09_James_Carter/confidence.wav",
+          "duration_seconds": 2.892,
+          "sample_rate_hz": 48000,
+          "bit_depth": 24,
+          "channels": 1,
+          "loudness_lufs": -16.2,
+          "true_peak_dbtp": -2.5,
+          "lra_lu": 0,
+          "peak_dbfs": -2.5,
+          "clipped_samples": 0
+        },
+        "reflection": {
+          "path": "audio/voice-library/SD_VOICE_09_James_Carter/reflection.wav",
+          "duration_seconds": 3.122,
+          "sample_rate_hz": 48000,
+          "bit_depth": 24,
+          "channels": 1,
+          "loudness_lufs": -16.2,
+          "true_peak_dbtp": -2.5,
+          "lra_lu": 20,
+          "peak_dbfs": -2.5,
+          "clipped_samples": 0
+        },
+        "dramatic": {
+          "path": "audio/voice-library/SD_VOICE_09_James_Carter/dramatic.wav",
+          "duration_seconds": 2.518,
+          "sample_rate_hz": 48000,
+          "bit_depth": 24,
+          "channels": 1,
+          "loudness_lufs": -16,
+          "true_peak_dbtp": -2.5,
+          "lra_lu": 0,
+          "peak_dbfs": -2.5,
+          "clipped_samples": 0
+        },
+        "friendly": {
+          "path": "audio/voice-library/SD_VOICE_09_James_Carter/friendly.wav",
+          "duration_seconds": 2.534,
+          "sample_rate_hz": 48000,
+          "bit_depth": 24,
+          "channels": 1,
+          "loudness_lufs": -16.1,
+          "true_peak_dbtp": -2.4,
+          "lra_lu": 0,
+          "peak_dbfs": -2.5,
+          "clipped_samples": 0
+        }
+      }
+    }
+  ],
+  "comparison": {
+    "audio_wav": "audio/voice-library/comparison.wav",
+    "audio_mp3": "audio/voice-library/comparison.mp3",
+    "cues_json": "audio/voice-library/comparison-cues.json",
+    "gap_seconds": 1,
+    "lead_in_seconds": 1,
+    "order": [
+      "SD_VOICE_01",
+      "SD_VOICE_02",
+      "SD_VOICE_03",
+      "SD_VOICE_04",
+      "SD_VOICE_05",
+      "SD_VOICE_06",
+      "SD_VOICE_07",
+      "SD_VOICE_08",
+      "SD_VOICE_09",
+      "SD_VOICE_10"
+    ]
+  },
+  "documentation": {
+    "readme": "audio/voice-library/README.md",
+    "qa_report": "audio/voice-library/QA_REPORT.md",
+    "quality_report_json": "audio/voice-library/quality-report.json",
+    "comparison_report": "audio/voice-library/COMPARISON.md",
+    "checksums": "audio/voice-library/CHECKSUMS.sha256"
+  },
+  "library_scope": "Curated two-voice subset for simpledeav-studio-v2 (SD_VOICE_03 default, SD_VOICE_09 alternate). Audio is gitignored; descriptions and manifest are tracked."
+}

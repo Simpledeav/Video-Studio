@@ -1,0 +1,70 @@
+{
+  "voice": "en-US-BrianMultilingualNeural",
+  "leadInSeconds": 0.0,
+  "segments": [
+    {
+      "id": "hook",
+      "text": "Imagine building one of the world's most loved toy brands\u2026 then almost losing everything.",
+      "rate": "+0%",
+      "pitch": "-1Hz",
+      "pauseAfterSeconds": 0.0,
+      "sceneStartSeconds": 0,
+      "voiceOffsetSeconds": 0.25
+    },
+    {
+      "id": "crisis",
+      "text": "By 2004, LEGO was in its worst financial crisis. Its business had become complicated, expensive, and increasingly difficult to manage. That year, it reported a net loss of nearly two billion Danish kroner.",
+      "rate": "+18%",
+      "pitch": "-1Hz",
+      "pauseAfterSeconds": 0.0,
+      "sceneStartSeconds": 8,
+      "voiceOffsetSeconds": 0.25
+    },
+    {
+      "id": "complexity",
+      "text": "LEGO had expanded into too many directions. More products, more complexity, more costs. It was trying to become everything, while losing focus on what made it special.",
+      "rate": "+8%",
+      "pitch": "+0Hz",
+      "pauseAfterSeconds": 0.0,
+      "sceneStartSeconds": 20.9,
+      "voiceOffsetSeconds": 0.25
+    },
+    {
+      "id": "turning-point",
+      "text": "Then came a major change. In 2004, J\u00f8rgen Vig Knudstorp became CEO. His mission wasn't to make LEGO bigger in every direction. It was to make the business stronger.",
+      "rate": "+10%",
+      "pitch": "-1Hz",
+      "pauseAfterSeconds": 0.0,
+      "sceneStartSeconds": 31.8,
+      "voiceOffsetSeconds": 0.25
+    },
+    {
+      "id": "strategy",
+      "text": "LEGO started cutting unnecessary complexity, selling non-core assets, reducing costs, and returning its attention to its core product: the brick. It also worked to reconnect with the customers who loved it.",
+      "rate": "+8%",
+      "pitch": "+0Hz",
+      "pauseAfterSeconds": 0.0,
+      "sceneStartSeconds": 43,
+      "voiceOffsetSeconds": 0.25
+    },
+    {
+      "id": "comeback",
+      "text": "The turnaround worked. By 2015, LEGO's revenue had reached 35.8 billion Danish kroner. A company that had once faced a serious fight for survival had rebuilt itself into one of the world's leading toy businesses.",
+      "rate": "+14%",
+      "pitch": "+0Hz",
+      "pauseAfterSeconds": 0.0,
+      "sceneStartSeconds": 57,
+      "voiceOffsetSeconds": 0.25
+    },
+    {
+      "id": "lesson",
+      "text": "Here's the lesson: growth isn't always about doing more. Sometimes, it's about getting back to what you do best.",
+      "rate": "+16%",
+      "pitch": "-1Hz",
+      "pauseAfterSeconds": 0.0,
+      "sceneStartSeconds": 71,
+      "voiceOffsetSeconds": 0.25
+    }
+  ],
+  "totalDurationSeconds": 80.0
+}

@@ -1,0 +1,49 @@
+{
+  "voice": "en-US-BrianMultilingualNeural",
+  "rate": "+10%",
+  "pitch": "-2Hz",
+  "leadInSeconds": 0.35,
+  "totalDurationSeconds": 80,
+  "segments": [
+    {
+      "id": "hook",
+      "text": "One database query can wreck a growing fintech app. The problem might not even be traffic.",
+      "pauseAfterSeconds": 0.2
+    },
+    {
+      "id": "growth",
+      "text": "Meet PAYNOVA. A fast-growing fintech startup processing transactions, balances, and transaction histories for thousands of active customers.",
+      "pauseAfterSeconds": 0.2
+    },
+    {
+      "id": "problem",
+      "text": "But one history query kept pulling far too much data. Instead of an efficient access path, the database repeatedly scanned the entire transactions table for one user's records.",
+      "pauseAfterSeconds": 0.2
+    },
+    {
+      "id": "struggle",
+      "text": "As traffic increased, that inefficient query consumed more resources. Requests began piling up in queues. The API slowed down, and the whole application felt the pressure.",
+      "pauseAfterSeconds": 0.2
+    },
+    {
+      "id": "discovery",
+      "text": "Daniel opened the execution plan and found the real bottleneck. The database was performing a full table scan instead of an efficient indexed lookup on the right columns.",
+      "pauseAfterSeconds": 0.2
+    },
+    {
+      "id": "solution",
+      "text": "The team optimized the query and added an appropriate composite index based on the query pattern, selectivity, and sort order. The new plan retrieved the right records far more efficiently.",
+      "pauseAfterSeconds": 0.2
+    },
+    {
+      "id": "recovery",
+      "text": "The application recovered. But the real lesson was bigger. Database performance has to be monitored, tested, and designed before rapid growth exposes the hidden weaknesses.",
+      "pauseAfterSeconds": 0.2
+    },
+    {
+      "id": "cta",
+      "text": "What would you investigate first: the database, the API, or the queue?",
+      "pauseAfterSeconds": 0
+    }
+  ]
+}

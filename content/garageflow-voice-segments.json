@@ -1,0 +1,207 @@
+{
+  "voiceId": "SD_VOICE_03",
+  "voiceName": "Nathan Cole",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "direction": "Premium automotive business documentary read. Cinematic curiosity in the hook, grounded frustration in the operations montage, calm authority through the research, a lift into the product reveal, clear confident product storytelling, then an energetic but credible business-opportunity close and a direct, warm SimpleDeav call to action.",
+  "storyDurationSeconds": 87,
+  "totalDurationSeconds": 87.55,
+  "leadInSeconds": 0.3,
+  "maxInternalPauseSeconds": 0.18,
+  "segments": [
+    {
+      "id": "hook-problem",
+      "text": "Your mechanic found a problem with your car.",
+      "emotion": "suspense",
+      "rate": "+20%",
+      "pitch": "-3Hz",
+      "volume": "+2%",
+      "pauseAfterSeconds": 0.12
+    },
+    {
+      "id": "hook-calls",
+      "text": "But why do you need five phone calls just to find out what it is?",
+      "emotion": "suspense",
+      "rate": "+18%",
+      "pitch": "-4Hz",
+      "volume": "+2%",
+      "pauseAfterSeconds": 0.5
+    },
+    {
+      "id": "problem-juggle",
+      "text": "Behind the scenes, the garage owner is juggling customer calls, repair estimates, mechanics, spare parts, payment confirmations and job updates.",
+      "emotion": "concern",
+      "rate": "+24%",
+      "pitch": "-3Hz",
+      "volume": "+0%",
+      "pauseAfterSeconds": 0.2,
+      "sceneStartSeconds": 8
+    },
+    {
+      "id": "problem-notebook",
+      "text": "Some information is in a notebook.",
+      "emotion": "concern",
+      "rate": "+24%",
+      "pitch": "-3Hz",
+      "volume": "+0%",
+      "pauseAfterSeconds": 0.16
+    },
+    {
+      "id": "problem-spreadsheet",
+      "text": "Some is in a spreadsheet.",
+      "emotion": "concern",
+      "rate": "+24%",
+      "pitch": "-3Hz",
+      "volume": "+0%",
+      "pauseAfterSeconds": 0.16
+    },
+    {
+      "id": "problem-phone",
+      "text": "Some is buried in someone's phone.",
+      "emotion": "concern",
+      "rate": "+24%",
+      "pitch": "-3Hz",
+      "volume": "+0%",
+      "pauseAfterSeconds": 0.45
+    },
+    {
+      "id": "research-expect",
+      "text": "And customers increasingly expect more transparency.",
+      "emotion": "explanatory",
+      "rate": "+20%",
+      "pitch": "-2Hz",
+      "volume": "+0%",
+      "pauseAfterSeconds": 0.16,
+      "sceneStartSeconds": 22.8
+    },
+    {
+      "id": "research-understand",
+      "text": "They want to understand what is wrong with their vehicle, see the price, and approve repairs without chasing the garage.",
+      "emotion": "explanatory",
+      "rate": "+22%",
+      "pitch": "-2Hz",
+      "volume": "+0%",
+      "pauseAfterSeconds": 0.4
+    },
+    {
+      "id": "reveal-imagine",
+      "text": "Now imagine giving that garage one simple system to manage every repair.",
+      "emotion": "revelation",
+      "rate": "+20%",
+      "pitch": "-2Hz",
+      "volume": "+1%",
+      "pauseAfterSeconds": 0.2,
+      "sceneStartSeconds": 33
+    },
+    {
+      "id": "reveal-moment",
+      "text": "From the moment a customer arrives, until the vehicle is handed back.",
+      "emotion": "revelation",
+      "rate": "+20%",
+      "pitch": "-3Hz",
+      "volume": "+1%",
+      "pauseAfterSeconds": 0.6
+    },
+    {
+      "id": "demo-books",
+      "text": "A customer books a repair.",
+      "emotion": "confident",
+      "rate": "+20%",
+      "pitch": "-2Hz",
+      "volume": "+0%",
+      "pauseAfterSeconds": 0.22,
+      "sceneStartSeconds": 43
+    },
+    {
+      "id": "demo-card",
+      "text": "The garage creates a digital job card.",
+      "emotion": "confident",
+      "rate": "+22%",
+      "pitch": "-2Hz",
+      "volume": "+0%",
+      "pauseAfterSeconds": 0.18
+    },
+    {
+      "id": "demo-inspection",
+      "text": "The mechanic records the inspection, uploads photos, and sends the estimate.",
+      "emotion": "confident",
+      "rate": "+22%",
+      "pitch": "-2Hz",
+      "volume": "+0%",
+      "pauseAfterSeconds": 0.18
+    },
+    {
+      "id": "demo-approve",
+      "text": "The customer approves the work from their phone.",
+      "emotion": "confident",
+      "rate": "+20%",
+      "pitch": "-2Hz",
+      "volume": "+0%",
+      "pauseAfterSeconds": 0.18
+    },
+    {
+      "id": "demo-everyone",
+      "text": "Everyone knows what's happening.",
+      "emotion": "confidence",
+      "rate": "+16%",
+      "pitch": "-3Hz",
+      "volume": "+1%",
+      "pauseAfterSeconds": 0.5
+    },
+    {
+      "id": "opportunity-interesting",
+      "text": "And here's the interesting part.",
+      "emotion": "curiosity",
+      "rate": "+20%",
+      "pitch": "-3Hz",
+      "volume": "+0%",
+      "pauseAfterSeconds": 0.16,
+      "sceneStartSeconds": 67
+    },
+    {
+      "id": "opportunity-software",
+      "text": "This isn't just a garage problem. It's a software opportunity.",
+      "emotion": "curiosity",
+      "rate": "+20%",
+      "pitch": "-3Hz",
+      "volume": "+0%",
+      "pauseAfterSeconds": 0.16
+    },
+    {
+      "id": "opportunity-thousands",
+      "text": "Thousands of service businesses have workflows that could be simpler, faster and easier to manage.",
+      "emotion": "resolve",
+      "rate": "+22%",
+      "pitch": "-2Hz",
+      "volume": "+0%",
+      "pauseAfterSeconds": 0.4
+    },
+    {
+      "id": "offer-runs",
+      "text": "And if your business runs like this, SimpleDeav builds custom systems around how your company works.",
+      "emotion": "warm",
+      "rate": "+34%",
+      "pitch": "-3Hz",
+      "volume": "+0%",
+      "pauseAfterSeconds": 0.18,
+      "sceneStartSeconds": 77.7
+    },
+    {
+      "id": "offer-dashboard",
+      "text": "Your dashboard. Your workflow. Your software.",
+      "emotion": "warm",
+      "rate": "+30%",
+      "pitch": "-4Hz",
+      "volume": "+1%",
+      "pauseAfterSeconds": 0.16
+    },
+    {
+      "id": "offer-weeks",
+      "text": "Ready in under two weeks.",
+      "emotion": "resolve",
+      "rate": "+34%",
+      "pitch": "-3Hz",
+      "volume": "+1%",
+      "pauseAfterSeconds": 0.12
+    }
+  ]
+}

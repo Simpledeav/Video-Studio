@@ -1,0 +1,55 @@
+{
+  "id": "house",
+  "name": "Kinetic Tech Incident",
+  "version": "1.0.0",
+  "status": "default",
+  "role": "default preset",
+  "updated": "2026-11-08",
+  "summary": "Editorial kinetic documentary: near-black stage, oversized Poppins display, one accent per act, evidence panels, restrained ambient texture, dedicated 16:9 recomposition and a 4:5 cover.",
+  "useWhen": "Default for business, technology, incident, lesson, founder and product films. Use unless the brief asks for the bright retail Walmart look.",
+  "voice": {
+    "default": "SD_VOICE_03",
+    "alternate": "SD_VOICE_09",
+    "gain": 0.92,
+    "note": "Keep SD_VOICE_03 unless the brief names SD_VOICE_09."
+  },
+  "tokens": "memory/design/tokens.json",
+  "fullDocument": "memory/design/house-style.md",
+  "formats": {
+    "vertical": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "aspect": "9:16"
+    },
+    "horizontal": {
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "aspect": "16:9",
+      "note": "Recompose; never crop the vertical."
+    },
+    "cover": {
+      "width": 1080,
+      "height": 1350,
+      "fps": 30,
+      "durationInFrames": 1,
+      "aspect": "4:5"
+    }
+  },
+  "core": {
+    "palette": "near-black graphite stage; cyan setup, orange warning, red failure, green recovery; one accent per act; max two accents per frame.",
+    "typography": "Poppins 600/700/800 display; SF Mono micro labels; no more than three type sizes per scene.",
+    "layout": "76px vertical side margin; 96px wide side margin; statement left / evidence right in 16:9; 1px 11% white panel borders.",
+    "motion": "0.7s mask-line headline; 0.055-0.09s word stagger; 1.8-2.5% camera push; held final frame; no bounce on type.",
+    "spine": "hook -> experiment -> data -> warning -> failure -> recovery -> lesson -> conclusion."
+  },
+  "code": {
+    "tokens": "src/config/replit.ts",
+    "kit": "src/components/replit/kit.tsx",
+    "visuals": "src/components/replit/visuals.tsx",
+    "referenceVertical": "src/compositions/DeletedProductionDatabase.tsx",
+    "referenceWide": "src/compositions/DeletedProductionDatabaseWide.tsx",
+    "referenceCover": "src/compositions/DeletedProductionDatabaseCover.tsx"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "voice": "en-US-BrianMultilingualNeural",
+  "leadInSeconds": 0.35,
+  "totalDurationSeconds": 80.0,
+  "maxInternalPauseSeconds": 0.22,
+  "segments": [
+    {
+      "id": "s1_contradiction",
+      "scene": "contradiction",
+      "sceneStartSeconds": 0.0,
+      "voiceOffsetSeconds": 0.35,
+      "text": "Kodak invented one of the world's first digital cameras. Yet decades later, the company that helped create the future of photography filed for bankruptcy.",
+      "rate": "+18%",
+      "pitch": "-2Hz",
+      "pauseAfterSeconds": 0.2
+    },
+    {
+      "id": "s2_dominance",
+      "scene": "dominance",
+      "sceneStartSeconds": 8.0,
+      "voiceOffsetSeconds": 0.4,
+      "text": "For decades, Kodak was a giant in photography. People bought its cameras, film rolls, and printing services. Its business was built around capturing memories on film.",
+      "rate": "+10%",
+      "pitch": "-2Hz",
+      "pauseAfterSeconds": 0.2
+    },
+    {
+      "id": "s3_invention",
+      "scene": "invention",
+      "sceneStartSeconds": 19.0,
+      "voiceOffsetSeconds": 0.4,
+      "text": "Then, in 1975, Kodak engineer Steven Sasson built a digital camera prototype. It was bulky, captured tiny black-and-white images, and took 23 seconds to record a photograph.",
+      "rate": "+8%",
+      "pitch": "-2Hz",
+      "pauseAfterSeconds": 0.2
+    },
+    {
+      "id": "s4_conflict",
+      "scene": "conflict",
+      "sceneStartSeconds": 32.0,
+      "voiceOffsetSeconds": 0.4,
+      "text": "But digital photography challenged the economics of Kodak's established film business. The company had to navigate a difficult transition while protecting an enormous existing business.",
+      "rate": "+8%",
+      "pitch": "-2Hz",
+      "pauseAfterSeconds": 0.2
+    },
+    {
+      "id": "s5_collapse",
+      "scene": "collapse",
+      "sceneStartSeconds": 44.0,
+      "voiceOffsetSeconds": 0.4,
+      "text": "Kodak tried multiple strategies, but its financial and competitive pressures continued. In January 2012, the company filed for Chapter 11 bankruptcy protection.",
+      "rate": "+8%",
+      "pitch": "-2Hz",
+      "pauseAfterSeconds": 0.2
+    },
+    {
+      "id": "s6_lesson",
+      "scene": "lesson",
+      "sceneStartSeconds": 56.0,
+      "voiceOffsetSeconds": 0.4,
+      "text": "The lesson isn't that Kodak never innovated. It did. The deeper problem was turning innovation into a sustainable business model before the market moved beyond its traditional strengths.",
+      "rate": "+9%",
+      "pitch": "-2Hz",
+      "pauseAfterSeconds": 0.2
+    },
+    {
+      "id": "s7_closing",
+      "scene": "closing",
+      "sceneStartSeconds": 71.0,
+      "voiceOffsetSeconds": 0.4,
+      "text": "Because inventing the future is one thing. Building a business that can survive it is another.",
+      "rate": "+7%",
+      "pitch": "-2Hz",
+      "pauseAfterSeconds": 0.0
+    }
+  ]
+}

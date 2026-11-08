@@ -1,0 +1,97 @@
+WEBVTT
+
+1
+00:00:00.780 --> 00:00:04.459
+What if your software engineers stopped writing most of the code themselves?
+
+2
+00:00:07.768 --> 00:00:09.573
+Software was never just code.
+
+3
+00:00:09.740 --> 00:00:11.953
+Planning, testing, reviewing, shipping.
+
+4
+00:00:12.160 --> 00:00:16.286
+Each step adds time, turning a simple idea into a twenty-day cycle.
+
+5
+00:00:16.480 --> 00:00:18.100
+The bottleneck wasn't effort.
+
+6
+00:00:18.180 --> 00:00:19.238
+It was the process.
+
+7
+00:00:20.648 --> 00:00:22.600
+So Coinbase changed the workflow.
+
+8
+00:00:22.820 --> 00:00:25.589
+More than twenty-four hundred developers adopted Cursor,
+
+9
+00:00:25.784 --> 00:00:29.295
+directing agents through implementation, testing, and review.
+
+10
+00:00:29.500 --> 00:00:33.344
+The engineer moved up a level: define intent, validate results.
+
+11
+00:00:35.945 --> 00:00:40.020
+In Coinbase's reported workflow, agents created three out of every four pull
+
+12
+00:00:40.100 --> 00:00:42.370
+requests. Not a side experiment.
+
+13
+00:00:42.500 --> 00:00:43.404
+The new default.
+
+14
+00:00:48.880 --> 00:00:52.072
+Some teams cut the time from idea to production from twenty days
+
+15
+00:00:52.152 --> 00:00:53.105
+to less than two.
+
+16
+00:00:53.320 --> 00:00:54.831
+A ninety percent reduction.
+
+17
+00:00:55.040 --> 00:00:57.695
+Not by typing faster, by removing handoffs.
+
+18
+00:01:02.768 --> 00:01:04.789
+The results weren't just about speed.
+
+19
+00:01:04.940 --> 00:01:07.822
+Engineers merged fifty-five percent more pull requests,
+
+20
+00:01:08.006 --> 00:01:09.838
+and saved seven hours every week.
+
+21
+00:01:09.980 --> 00:01:12.920
+Small teams started shipping what once took a full team.
+
+22
+00:01:16.780 --> 00:01:19.323
+The biggest shift may not be how fast we write code,
+
+23
+00:01:19.520 --> 00:01:22.055
+but how well we direct and review what AI builds.
+
+24
+00:01:22.260 --> 00:01:24.011
+The next era is already here.

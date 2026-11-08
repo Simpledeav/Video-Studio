@@ -1,0 +1,64 @@
+{
+  "voice": "en-US-BrianMultilingualNeural",
+  "leadInSeconds": 0.4,
+  "totalDurationSeconds": 80.0,
+  "maxInternalPauseSeconds": 0.25,
+  "segments": [
+    {
+      "id": "the-question",
+      "sceneStartSeconds": 0.0,
+      "voiceOffsetSeconds": 0.5,
+      "text": "At one point, BlackBerry was one of the most powerful names in smartphones. So how did it lose its place in the market?",
+      "rate": "+4%",
+      "pitch": "-1Hz"
+    },
+    {
+      "id": "the-dominance",
+      "sceneStartSeconds": 8.0,
+      "voiceOffsetSeconds": 0.35,
+      "text": "BlackBerry built its reputation on secure messaging, physical keyboards, and business communication. By 2009, it held almost 20 percent of the global smartphone market.",
+      "rate": "+5%",
+      "pitch": "-1Hz"
+    },
+    {
+      "id": "the-industry-changes",
+      "sceneStartSeconds": 19.0,
+      "voiceOffsetSeconds": 0.35,
+      "text": "Then the market changed. Apple's iPhone introduced a new kind of smartphone experience, while Android brought touchscreen devices to a growing range of manufacturers.",
+      "rate": "+5%",
+      "pitch": "-1Hz"
+    },
+    {
+      "id": "the-missed-shift",
+      "sceneStartSeconds": 31.0,
+      "voiceOffsetSeconds": 0.35,
+      "text": "BlackBerry struggled to respond quickly enough. It underestimated how much consumers valued large touchscreens, broader app ecosystems, and a different mobile experience.",
+      "rate": "+5%",
+      "pitch": "-1Hz"
+    },
+    {
+      "id": "the-numbers",
+      "sceneStartSeconds": 43.0,
+      "voiceOffsetSeconds": 0.35,
+      "text": "The consequences were enormous. BlackBerry's global smartphone unit market share fell from around 20 percent in 2009 to almost nothing by 2016.",
+      "rate": "+5%",
+      "pitch": "-1Hz"
+    },
+    {
+      "id": "the-transformation",
+      "sceneStartSeconds": 56.0,
+      "voiceOffsetSeconds": 0.35,
+      "text": "BlackBerry eventually stopped developing its own phone hardware and shifted its focus toward software, cybersecurity, and secure communications. The company didn't disappear. It changed what it was.",
+      "rate": "+6%",
+      "pitch": "-1Hz"
+    },
+    {
+      "id": "the-lesson",
+      "sceneStartSeconds": 69.0,
+      "voiceOffsetSeconds": 0.2,
+      "text": "Here's the lesson: your biggest advantage today can become your biggest weakness tomorrow. Success requires more than protecting what works. It requires adapting before the market leaves you behind.",
+      "rate": "+13%",
+      "pitch": "-1Hz"
+    }
+  ]
+}

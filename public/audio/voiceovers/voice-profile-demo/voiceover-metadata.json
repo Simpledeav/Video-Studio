@@ -1,0 +1,141 @@
+{
+  "schemaVersion": "1.0.0",
+  "slug": "voice-profile-demo",
+  "title": "Paystack — The Lagos Startup That Solved a Simple Problem",
+  "generatedAt": "2026-11-06T05:00:00.555635+00:00",
+  "profile": {
+    "id": "david_nigerian_english",
+    "displayName": "David Nigerian English — Cinematic Documentary Voice",
+    "language": "en-NG",
+    "accent": "Nigerian English",
+    "reference": "/audio/voice-profile/david_nigerian_english/reference-16s.wav"
+  },
+  "engine": {
+    "id": "pocket_tts",
+    "name": "PocketTTS 100M (sherpa-onnx int8)",
+    "license": "CC BY 4.0 (model weights) / Apache-2.0 (sherpa-onnx)",
+    "commercialUse": true
+  },
+  "totalDurationSeconds": 70.81,
+  "leadInSeconds": 3.0,
+  "sceneGapSeconds": 0.55,
+  "targetDurationSeconds": 72,
+  "scenes": [
+    {
+      "id": "hook",
+      "index": 1,
+      "text": "In Lagos, two software developers kept hearing the same complaint from small businesses.",
+      "preset": "documentary_hook",
+      "startSeconds": 3.0,
+      "endSeconds": 7.642,
+      "durationSeconds": 4.642,
+      "targetSeconds": 9.0,
+      "audioPath": "/audio/voiceovers/voice-profile-demo/scene-001.wav",
+      "cacheKey": "d2158fab3b27b43d836a8b61e8a229aeafaa94be5e354a698864c777af42168f",
+      "cached": true,
+      "review": null
+    },
+    {
+      "id": "problem",
+      "index": 2,
+      "text": "Taking payments online was slow, expensive, and built for companies much larger than theirs. Every failed transaction cost a merchant trust.",
+      "preset": "tension",
+      "startSeconds": 8.342,
+      "endSeconds": 18.541,
+      "durationSeconds": 10.199,
+      "targetSeconds": 12.0,
+      "audioPath": "/audio/voiceovers/voice-profile-demo/scene-002.wav",
+      "cacheKey": "6833a1a1e988584f5355a55ec35ece4bfee415655b5a93438d299b407bd30e6d",
+      "cached": false,
+      "review": null
+    },
+    {
+      "id": "idea",
+      "index": 3,
+      "text": "So they built a simpler checkout. One integration, one dashboard, and money that arrived where it was needed.",
+      "preset": "business_explanation",
+      "startSeconds": 19.141,
+      "endSeconds": 26.281,
+      "durationSeconds": 7.14,
+      "targetSeconds": 11.0,
+      "audioPath": "/audio/voiceovers/voice-profile-demo/scene-003.wav",
+      "cacheKey": "325669e06fda3ceb94e788ae63cca49fb3840c10f853c56e5fa6e18520626bd8",
+      "cached": true,
+      "review": null
+    },
+    {
+      "id": "tension",
+      "index": 4,
+      "text": "The market was crowded. Trust was scarce. And every merchant wanted proof before switching. Growth was possible, but only if the product worked every single day.",
+      "preset": "tension",
+      "startSeconds": 26.831,
+      "endSeconds": 38.161,
+      "durationSeconds": 11.33,
+      "targetSeconds": 14.0,
+      "audioPath": "/audio/voiceovers/voice-profile-demo/scene-004.wav",
+      "cacheKey": "d0dbd2454bc9b3f07c7966523030249fcfbe0fdc2c1c92b8fd9ed32a8747c233",
+      "cached": false,
+      "review": null
+    },
+    {
+      "id": "revelation",
+      "index": 5,
+      "text": "Then the numbers moved. Developers adopted it, investors noticed, and in 2020 Stripe acquired Paystack for about two hundred million dollars. It was one of the largest exits in Nigerian tech at the time.",
+      "preset": "revelation",
+      "startSeconds": 38.811,
+      "endSeconds": 52.403,
+      "durationSeconds": 13.592,
+      "targetSeconds": 18.0,
+      "audioPath": "/audio/voiceovers/voice-profile-demo/scene-005.wav",
+      "cacheKey": "2b8a8349daff4ca65585d5f86066d35732101e695efa94a5b62373a155070008",
+      "cached": false,
+      "review": null
+    },
+    {
+      "id": "reflection",
+      "index": 6,
+      "text": "The lesson is not that payments are glamorous. It is that a clear, useful tool can travel farther than a loud idea.",
+      "preset": "reflection",
+      "startSeconds": 53.103,
+      "endSeconds": 60.19,
+      "durationSeconds": 7.087,
+      "targetSeconds": 11.0,
+      "audioPath": "/audio/voiceovers/voice-profile-demo/scene-006.wav",
+      "cacheKey": "38c6690b3e76b46a31604775eb6926405f05636bea0117fc6ce520f900e0b790",
+      "cached": true,
+      "review": null
+    },
+    {
+      "id": "conclusion",
+      "index": 7,
+      "text": "Small problems, solved properly, can build something the whole world uses.",
+      "preset": "conclusion",
+      "startSeconds": 60.89,
+      "endSeconds": 65.31,
+      "durationSeconds": 4.42,
+      "targetSeconds": 8.0,
+      "audioPath": "/audio/voiceovers/voice-profile-demo/scene-007.wav",
+      "cacheKey": "51b65656fb02210f42b81a9828873f102b73e81bab73c0328dc42b520a5dc350",
+      "cached": true,
+      "review": null
+    }
+  ],
+  "files": {
+    "fullWav": "/audio/voiceovers/voice-profile-demo/voiceover-full.wav",
+    "fullMp3": "/audio/voiceovers/voice-profile-demo/voiceover-full.mp3",
+    "words": "/audio/voiceovers/voice-profile-demo/voiceover.words.json",
+    "cues": "/audio/voiceovers/voice-profile-demo/voiceover.cues.json",
+    "vtt": "/audio/voiceovers/voice-profile-demo/voiceover.vtt",
+    "metadata": "/audio/voiceovers/voice-profile-demo/voiceover-metadata.json"
+  },
+  "review": {
+    "needsReview": false,
+    "warnings": [],
+    "rule": "Narration is never time-stretched to fit a scene. Expand the scene or approve the flagged read."
+  },
+  "quality": {
+    "integratedLufs": -15.8,
+    "truePeakDbfs": -1.0,
+    "clippedSamples": 0
+  }
+}

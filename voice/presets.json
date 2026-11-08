@@ -1,0 +1,90 @@
+{
+  "schemaVersion": "1.0.0",
+  "description": "Reusable delivery presets for the David Nigerian English cinematic documentary voice. Presets change engine-native controls where available and fall back to punctuation, segmentation and pacing where they are not.",
+  "presets": {
+    "documentary_hook": {
+      "label": "Documentary hook",
+      "description": "Confident, engaging, intriguing, emotionally expressive opening.",
+      "speed": 0.98,
+      "silenceScale": 0.9,
+      "numSteps": 8,
+      "exaggeration": 0.62,
+      "cfgWeight": 0.5,
+      "xttsSpeed": 0.98,
+      "openvoiceRate": "+0%",
+      "openvoicePitch": "-1Hz",
+      "punctuation": "Short first sentence. One concrete detail. End on a question or a turn.",
+      "maxSentenceWords": 22
+    },
+    "business_explanation": {
+      "label": "Business explanation",
+      "description": "Professional, clear, conversational, informative.",
+      "speed": 1.0,
+      "silenceScale": 1.0,
+      "numSteps": 8,
+      "exaggeration": 0.42,
+      "cfgWeight": 0.5,
+      "xttsSpeed": 1.0,
+      "openvoiceRate": "+3%",
+      "openvoicePitch": "-2Hz",
+      "punctuation": "One idea per sentence. Keep clauses under 18 words. Use commas for breath.",
+      "maxSentenceWords": 24
+    },
+    "tension": {
+      "label": "Tension",
+      "description": "Slightly slower, serious, suspenseful, controlled.",
+      "speed": 0.93,
+      "silenceScale": 1.2,
+      "numSteps": 9,
+      "exaggeration": 0.5,
+      "cfgWeight": 0.55,
+      "xttsSpeed": 0.93,
+      "openvoiceRate": "-3%",
+      "openvoicePitch": "-3Hz",
+      "punctuation": "Short sentences. Periods instead of commas. Let the silence work.",
+      "maxSentenceWords": 16
+    },
+    "revelation": {
+      "label": "Revelation",
+      "description": "Emphasise the important discovery or turning point.",
+      "speed": 0.96,
+      "silenceScale": 1.05,
+      "numSteps": 9,
+      "exaggeration": 0.66,
+      "cfgWeight": 0.5,
+      "xttsSpeed": 0.96,
+      "openvoiceRate": "+0%",
+      "openvoicePitch": "-2Hz",
+      "punctuation": "Build to one stressed noun. Put the discovery in its own sentence.",
+      "maxSentenceWords": 20
+    },
+    "reflection": {
+      "label": "Reflection",
+      "description": "Warm, thoughtful, natural pacing.",
+      "speed": 0.95,
+      "silenceScale": 1.15,
+      "numSteps": 9,
+      "exaggeration": 0.38,
+      "cfgWeight": 0.45,
+      "xttsSpeed": 0.95,
+      "openvoiceRate": "+0%",
+      "openvoicePitch": "-1Hz",
+      "punctuation": "Longer clauses, soft commas, no hard sell.",
+      "maxSentenceWords": 24
+    },
+    "conclusion": {
+      "label": "Conclusion",
+      "description": "Confident, memorable, natural call-to-action delivery.",
+      "speed": 0.97,
+      "silenceScale": 1.0,
+      "numSteps": 9,
+      "exaggeration": 0.54,
+      "cfgWeight": 0.5,
+      "xttsSpeed": 0.97,
+      "openvoiceRate": "+1%",
+      "openvoicePitch": "-2Hz",
+      "punctuation": "One memorable line. One clear CTA. Stop before the brand reveal.",
+      "maxSentenceWords": 18
+    }
+  }
+}

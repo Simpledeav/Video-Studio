@@ -1,0 +1,778 @@
+{
+  "schemaVersion": "1.0.0",
+  "episodeId": "voice-profile-demo",
+  "title": "Paystack — The Lagos Startup That Solved a Simple Problem",
+  "topic": "How a simple payments tool from Lagos reached the world, narrated in David's cloned Nigerian English voice.",
+  "durationSeconds": 76,
+  "fps": 30,
+  "totalFrames": 2280,
+  "themeId": "CORAL_DOCUMENTARY",
+  "fontFamily": "poppins",
+  "narration": {
+    "text": "In Lagos, two software developers kept hearing the same complaint from small businesses. Taking payments online was slow, expensive, and built for companies much larger than theirs. Every failed transaction cost a merchant trust. So they built a simpler checkout. One integration, one dashboard, and money that arrived where it was needed. The market was crowded. Trust was scarce. And every merchant wanted proof before switching. Growth was possible, but only if the product worked every single day. Then the numbers moved. Developers adopted it, investors noticed, and in 2020 Stripe acquired Paystack for about two hundred million dollars. It was one of the largest exits in Nigerian tech at the time. The lesson is not that payments are glamorous. It is that a clear, useful tool can travel farther than a loud idea. Small problems, solved properly, can build something the whole world uses.",
+    "voice": "David Nigerian English — Cinematic Documentary Voice",
+    "voiceAudioPath": "/audio/voiceovers/voice-profile-demo/voiceover-full.wav",
+    "subtitlePath": "/audio/voiceovers/voice-profile-demo/voiceover.vtt",
+    "wordTimingsPath": "/audio/voiceovers/voice-profile-demo/voiceover.words.json",
+    "audioDurationSeconds": 70.81,
+    "subtitles": [
+      {
+        "start": 3,
+        "end": 7.16,
+        "text": "In Lagos, two software developers kept hearing the same complaint from small businesses."
+      },
+      {
+        "start": 8.342,
+        "end": 10.142,
+        "text": "Taking payments online was slow,"
+      },
+      {
+        "start": 11.322,
+        "end": 14.602,
+        "text": "expensive, and built for companies much larger than theirs."
+      },
+      {
+        "start": 14.882,
+        "end": 18.062,
+        "text": "Every failed transaction cost a merchant trust."
+      },
+      {
+        "start": 19.141,
+        "end": 21.301,
+        "text": "So they built a simpler checkout."
+      },
+      {
+        "start": 21.761,
+        "end": 23.541,
+        "text": "One integration, one dashboard,"
+      },
+      {
+        "start": 23.841,
+        "end": 25.861,
+        "text": "and money that arrived where it was needed."
+      },
+      {
+        "start": 26.831,
+        "end": 27.911,
+        "text": "The market was crowded."
+      },
+      {
+        "start": 28.731,
+        "end": 30.231,
+        "text": "Trust was scarce."
+      },
+      {
+        "start": 30.671,
+        "end": 33.091,
+        "text": "And every merchant wanted proof before switching."
+      },
+      {
+        "start": 33.151,
+        "end": 34.291,
+        "text": "Growth was possible,"
+      },
+      {
+        "start": 34.691,
+        "end": 37.751,
+        "text": "but only if the product worked every single day."
+      },
+      {
+        "start": 38.811,
+        "end": 39.911,
+        "text": "Then the numbers moved."
+      },
+      {
+        "start": 40.591,
+        "end": 42.791,
+        "text": "Developers adopted it, investors noticed,"
+      },
+      {
+        "start": 43.191,
+        "end": 48.371,
+        "text": "and in 2020 Stripe acquired Paystack for about two hundred million dollars."
+      },
+      {
+        "start": 48.431,
+        "end": 52.031,
+        "text": "It was one of the largest exits in Nigerian tech at the time."
+      },
+      {
+        "start": 53.103,
+        "end": 55.583,
+        "text": "The lesson is not that payments are glamorous."
+      },
+      {
+        "start": 55.983,
+        "end": 56.703,
+        "text": "It is that a clear,"
+      },
+      {
+        "start": 56.763,
+        "end": 59.763,
+        "text": "useful tool can travel farther than a loud idea."
+      },
+      {
+        "start": 60.89,
+        "end": 64.91,
+        "text": "Small problems, solved properly, can build something the whole world uses."
+      }
+    ]
+  },
+  "music": {
+    "path": "/audio/music/vastness-92s.mp3",
+    "volume": 0.16,
+    "fadeInSeconds": 2.5,
+    "fadeOutSeconds": 4.5,
+    "duckUnderNarration": true,
+    "volumeAutomation": [
+      {
+        "timeSeconds": 0,
+        "volume": 0.1
+      },
+      {
+        "timeSeconds": 15,
+        "volume": 0.14
+      },
+      {
+        "timeSeconds": 34,
+        "volume": 0.18
+      },
+      {
+        "timeSeconds": 53,
+        "volume": 0.2
+      },
+      {
+        "timeSeconds": 72,
+        "volume": 0.16
+      },
+      {
+        "timeSeconds": 76,
+        "volume": 0
+      }
+    ]
+  },
+  "soundEffects": [
+    {
+      "id": "scene-1-whoosh",
+      "path": "/audio/sfx/transition-whoosh.mp3",
+      "startSeconds": 3,
+      "durationSeconds": 1.334,
+      "volume": 0.18,
+      "fadeInSeconds": 0.03,
+      "fadeOutSeconds": 0.22
+    },
+    {
+      "id": "scene-2-whoosh",
+      "path": "/audio/sfx/transition-whoosh.mp3",
+      "startSeconds": 8.34,
+      "durationSeconds": 1.334,
+      "volume": 0.18,
+      "fadeInSeconds": 0.03,
+      "fadeOutSeconds": 0.22
+    },
+    {
+      "id": "scene-3-whoosh",
+      "path": "/audio/sfx/transition-whoosh.mp3",
+      "startSeconds": 19.14,
+      "durationSeconds": 1.334,
+      "volume": 0.18,
+      "fadeInSeconds": 0.03,
+      "fadeOutSeconds": 0.22
+    },
+    {
+      "id": "scene-4-whoosh",
+      "path": "/audio/sfx/transition-whoosh.mp3",
+      "startSeconds": 26.83,
+      "durationSeconds": 1.334,
+      "volume": 0.18,
+      "fadeInSeconds": 0.03,
+      "fadeOutSeconds": 0.22
+    },
+    {
+      "id": "scene-5-whoosh",
+      "path": "/audio/sfx/transition-whoosh.mp3",
+      "startSeconds": 38.81,
+      "durationSeconds": 1.334,
+      "volume": 0.26,
+      "fadeInSeconds": 0.03,
+      "fadeOutSeconds": 0.22
+    },
+    {
+      "id": "scene-6-whoosh",
+      "path": "/audio/sfx/transition-whoosh.mp3",
+      "startSeconds": 53.1,
+      "durationSeconds": 1.334,
+      "volume": 0.18,
+      "fadeInSeconds": 0.03,
+      "fadeOutSeconds": 0.22
+    },
+    {
+      "id": "scene-7-whoosh",
+      "path": "/audio/sfx/transition-whoosh.mp3",
+      "startSeconds": 60.89,
+      "durationSeconds": 1.334,
+      "volume": 0.18,
+      "fadeInSeconds": 0.03,
+      "fadeOutSeconds": 0.22
+    },
+    {
+      "id": "revelation-tick",
+      "path": "/audio/sfx/sci-fi-click.mp3",
+      "startSeconds": 41.41,
+      "durationSeconds": 0.696,
+      "volume": 0.2,
+      "fadeInSeconds": 0.01,
+      "fadeOutSeconds": 0.12
+    },
+    {
+      "id": "brand-sting",
+      "path": "/audio/sfx/transition-whoosh.mp3",
+      "startSeconds": 71.81,
+      "durationSeconds": 1.334,
+      "volume": 0.24,
+      "fadeInSeconds": 0.03,
+      "fadeOutSeconds": 0.3
+    }
+  ],
+  "scenes": [
+    {
+      "id": "intro",
+      "startSeconds": 0,
+      "durationSeconds": 3,
+      "layout": "city",
+      "background": {
+        "imagePath": "/images/city-fog.jpg",
+        "imageObjectPosition": "50% 46%",
+        "imageOpacity": 0.3,
+        "grade": "night",
+        "parallax": 0.05
+      },
+      "headlines": [
+        {
+          "kicker": "SIMPLEDEAV VOICE PROFILE",
+          "text": "DAVID NIGERIAN ENGLISH",
+          "accentWords": [
+            "DAVID",
+            "NIGERIAN"
+          ],
+          "preset": "maskedUp",
+          "startSeconds": 0.2,
+          "size": "display",
+          "align": "left",
+          "maxWidth": 900,
+          "placement": "top"
+        }
+      ],
+      "character": {
+        "action": "idle",
+        "x": 770,
+        "y": 1490,
+        "scale": 1.12,
+        "facing": "front",
+        "expression": "neutral"
+      },
+      "camera": {
+        "motion": "static",
+        "intensity": 0.03
+      },
+      "transitionIn": "fade",
+      "visual": {
+        "kind": "none"
+      }
+    },
+    {
+      "id": "hook",
+      "startSeconds": 3,
+      "durationSeconds": 5.3420000000000005,
+      "layout": "city",
+      "background": {
+        "imagePath": "/images/city-fog.jpg",
+        "imageObjectPosition": "50% 44%",
+        "imageOpacity": 0.36,
+        "grade": "night",
+        "parallax": 0.06
+      },
+      "headlines": [
+        {
+          "kicker": "PAYSTACK · LAGOS · 2015",
+          "text": "A SIMPLE COMPLAINT.",
+          "accentWords": [
+            "SIMPLE"
+          ],
+          "preset": "maskedUp",
+          "startSeconds": 0.5,
+          "size": "hero",
+          "align": "left",
+          "maxWidth": 900,
+          "placement": "top"
+        }
+      ],
+      "character": {
+        "action": "idle",
+        "x": 770,
+        "y": 1490,
+        "scale": 1.12,
+        "facing": "front",
+        "expression": "thoughtful"
+      },
+      "camera": {
+        "motion": "pushIn",
+        "intensity": 0.055
+      },
+      "transitionIn": "fade",
+      "visual": {
+        "kind": "none"
+      }
+    },
+    {
+      "id": "problem",
+      "startSeconds": 8.342,
+      "durationSeconds": 10.798999999999998,
+      "layout": "office",
+      "background": {
+        "grade": "night",
+        "parallax": 0.04
+      },
+      "headlines": [
+        {
+          "kicker": "THE PROBLEM",
+          "text": "PAYMENTS WERE BUILT FOR SOMEONE ELSE.",
+          "accentWords": [
+            "SOMEONE",
+            "ELSE"
+          ],
+          "preset": "wordByWord",
+          "startSeconds": 0.4,
+          "size": "display",
+          "align": "left",
+          "maxWidth": 920,
+          "placement": "top"
+        }
+      ],
+      "character": {
+        "action": "sitType",
+        "x": 760,
+        "y": 1490,
+        "scale": 1.12,
+        "facing": "right",
+        "expression": "concerned"
+      },
+      "camera": {
+        "motion": "static",
+        "intensity": 0.04
+      },
+      "transitionIn": "cut",
+      "visual": {
+        "kind": "none"
+      }
+    },
+    {
+      "id": "idea",
+      "startSeconds": 19.141,
+      "durationSeconds": 7.690000000000001,
+      "layout": "console",
+      "background": {
+        "grade": "noir",
+        "parallax": 0.04
+      },
+      "headlines": [
+        {
+          "kicker": "THE IDEA",
+          "text": "ONE INTEGRATION. ONE DASHBOARD.",
+          "accentWords": [
+            "ONE"
+          ],
+          "preset": "staggeredPhrase",
+          "startSeconds": 0.4,
+          "size": "display",
+          "align": "left",
+          "maxWidth": 920,
+          "placement": "top"
+        }
+      ],
+      "character": {
+        "action": "type",
+        "x": 740,
+        "y": 1490,
+        "scale": 1.12,
+        "facing": "right",
+        "expression": "focused"
+      },
+      "camera": {
+        "motion": "pushIn",
+        "intensity": 0.05
+      },
+      "transitionIn": "wipe",
+      "visual": {
+        "kind": "console",
+        "consoleMode": "operations"
+      }
+    },
+    {
+      "id": "tension",
+      "startSeconds": 26.831,
+      "durationSeconds": 11.98,
+      "layout": "chart",
+      "background": {
+        "grade": "night",
+        "parallax": 0.04
+      },
+      "headlines": [
+        {
+          "kicker": "THE HARD PART",
+          "text": "TRUST WAS THE REAL PRODUCT.",
+          "accentWords": [
+            "TRUST"
+          ],
+          "preset": "kineticEmphasis",
+          "startSeconds": 0.35,
+          "size": "display",
+          "align": "left",
+          "maxWidth": 920,
+          "placement": "top"
+        }
+      ],
+      "character": {
+        "action": "think",
+        "x": 770,
+        "y": 1490,
+        "scale": 1.1,
+        "facing": "front",
+        "expression": "thoughtful"
+      },
+      "camera": {
+        "motion": "drift",
+        "intensity": 0.035
+      },
+      "transitionIn": "fade",
+      "visual": {
+        "kind": "chart",
+        "labels": [
+          "SLOW",
+          "EXPENSIVE",
+          "FRAGILE"
+        ]
+      }
+    },
+    {
+      "id": "revelation",
+      "startSeconds": 38.811,
+      "durationSeconds": 14.292000000000002,
+      "layout": "chart",
+      "background": {
+        "grade": "dawn",
+        "parallax": 0.04
+      },
+      "headlines": [
+        {
+          "kicker": "THE TURNING POINT",
+          "text": "IN 2020, STRIPE BOUGHT PAYSTACK.",
+          "accentWords": [
+            "2020",
+            "STRIPE",
+            "PAYSTACK"
+          ],
+          "preset": "scaleSettle",
+          "startSeconds": 0.4,
+          "size": "display",
+          "align": "left",
+          "maxWidth": 940,
+          "placement": "top"
+        },
+        {
+          "kicker": "",
+          "text": "ABOUT $200 MILLION.",
+          "accentWords": [
+            "$200",
+            "MILLION"
+          ],
+          "preset": "finalReveal",
+          "startSeconds": 3.2,
+          "size": "statement",
+          "align": "left",
+          "maxWidth": 900,
+          "placement": "middle"
+        }
+      ],
+      "character": {
+        "action": "surprise",
+        "x": 770,
+        "y": 1490,
+        "scale": 1.12,
+        "facing": "front",
+        "expression": "surprised"
+      },
+      "camera": {
+        "motion": "pushIn",
+        "intensity": 0.06
+      },
+      "transitionIn": "bloom",
+      "visual": {
+        "kind": "chart",
+        "title": "THE EXIT",
+        "metricStart": 0,
+        "metricEnd": 200,
+        "metricPrefix": "$",
+        "metricSuffix": "M"
+      }
+    },
+    {
+      "id": "reflection",
+      "startSeconds": 53.103,
+      "durationSeconds": 7.786999999999999,
+      "layout": "city",
+      "background": {
+        "imagePath": "/images/city-fog.jpg",
+        "imageObjectPosition": "50% 40%",
+        "imageOpacity": 0.32,
+        "grade": "dawn",
+        "parallax": 0.05
+      },
+      "headlines": [
+        {
+          "kicker": "THE LESSON",
+          "text": "A CLEAR TOOL TRAVELS FAR.",
+          "accentWords": [
+            "CLEAR",
+            "FAR"
+          ],
+          "preset": "maskedUp",
+          "startSeconds": 0.4,
+          "size": "display",
+          "align": "left",
+          "maxWidth": 900,
+          "placement": "top"
+        }
+      ],
+      "character": {
+        "action": "walk",
+        "x": 770,
+        "y": 1490,
+        "scale": 1.12,
+        "facing": "left",
+        "expression": "smile"
+      },
+      "camera": {
+        "motion": "pullOut",
+        "intensity": 0.045
+      },
+      "transitionIn": "fade",
+      "visual": {
+        "kind": "none"
+      }
+    },
+    {
+      "id": "conclusion",
+      "startSeconds": 60.89,
+      "durationSeconds": 15.11,
+      "layout": "closing",
+      "background": {
+        "imagePath": "/images/city-fog.jpg",
+        "imageObjectPosition": "50% 50%",
+        "imageOpacity": 0.3,
+        "grade": "dawn",
+        "parallax": 0.04
+      },
+      "headlines": [
+        {
+          "kicker": "",
+          "text": "SMALL PROBLEMS. WORLD-CLASS PRODUCTS.",
+          "accentWords": [
+            "SMALL",
+            "WORLD-CLASS"
+          ],
+          "preset": "finalReveal",
+          "startSeconds": 0.4,
+          "size": "hero",
+          "align": "center",
+          "maxWidth": 920,
+          "placement": "middle"
+        }
+      ],
+      "character": {
+        "action": "celebrate",
+        "x": 770,
+        "y": 1490,
+        "scale": 1.12,
+        "facing": "front",
+        "expression": "smile"
+      },
+      "camera": {
+        "motion": "static",
+        "intensity": 0.03
+      },
+      "transitionIn": "fade",
+      "visual": {
+        "kind": "none"
+      }
+    }
+  ],
+  "brand": {
+    "enabled": true,
+    "signatureEnabled": true,
+    "avatarEnabled": true,
+    "treatment": "hybrid",
+    "revealDurationSeconds": 3.989999999999995,
+    "startSeconds": 72.01
+  },
+  "assets": [
+    {
+      "path": "/audio/voiceovers/voice-profile-demo/voiceover-full.wav",
+      "kind": "audio",
+      "sourceUrl": "generated-locally",
+      "creator": "Simpledeav voice service",
+      "license": "CC BY 4.0 (model weights) / Apache-2.0 (sherpa-onnx)",
+      "notes": "Cloned narration, 70.81s. Engine: pocket_tts. Profile: david_nigerian_english."
+    },
+    {
+      "path": "/audio/voiceovers/voice-profile-demo/voiceover.vtt",
+      "kind": "subtitle",
+      "sourceUrl": "generated-locally",
+      "creator": "Simpledeav voice service",
+      "license": "CC BY 4.0 (model weights) / Apache-2.0 (sherpa-onnx)",
+      "notes": "Subtitle cues aligned to the generated audio with local Whisper word timings."
+    },
+    {
+      "path": "/audio/voiceovers/voice-profile-demo/voiceover.words.json",
+      "kind": "data",
+      "sourceUrl": "generated-locally",
+      "creator": "Simpledeav voice service",
+      "license": "CC BY 4.0 (model weights) / Apache-2.0 (sherpa-onnx)",
+      "notes": "Word-level timings from the generated audio."
+    },
+    {
+      "path": "/audio/voiceovers/voice-profile-demo/voiceover.cues.json",
+      "kind": "data",
+      "sourceUrl": "generated-locally",
+      "creator": "Simpledeav voice service",
+      "license": "CC BY 4.0 (model weights) / Apache-2.0 (sherpa-onnx)",
+      "notes": "Grouped subtitle cues derived from real word timings."
+    },
+    {
+      "path": "/audio/voiceovers/voice-profile-demo/scene-001.wav",
+      "kind": "audio",
+      "sourceUrl": "generated-locally",
+      "creator": "Simpledeav voice service",
+      "license": "CC BY 4.0 (model weights) / Apache-2.0 (sherpa-onnx)",
+      "notes": "Per-scene master for 'hook' (4.64s)."
+    },
+    {
+      "path": "/audio/voiceovers/voice-profile-demo/scene-002.wav",
+      "kind": "audio",
+      "sourceUrl": "generated-locally",
+      "creator": "Simpledeav voice service",
+      "license": "CC BY 4.0 (model weights) / Apache-2.0 (sherpa-onnx)",
+      "notes": "Per-scene master for 'problem' (10.20s)."
+    },
+    {
+      "path": "/audio/voiceovers/voice-profile-demo/scene-003.wav",
+      "kind": "audio",
+      "sourceUrl": "generated-locally",
+      "creator": "Simpledeav voice service",
+      "license": "CC BY 4.0 (model weights) / Apache-2.0 (sherpa-onnx)",
+      "notes": "Per-scene master for 'idea' (7.14s)."
+    },
+    {
+      "path": "/audio/voiceovers/voice-profile-demo/scene-004.wav",
+      "kind": "audio",
+      "sourceUrl": "generated-locally",
+      "creator": "Simpledeav voice service",
+      "license": "CC BY 4.0 (model weights) / Apache-2.0 (sherpa-onnx)",
+      "notes": "Per-scene master for 'tension' (11.33s)."
+    },
+    {
+      "path": "/audio/voiceovers/voice-profile-demo/scene-005.wav",
+      "kind": "audio",
+      "sourceUrl": "generated-locally",
+      "creator": "Simpledeav voice service",
+      "license": "CC BY 4.0 (model weights) / Apache-2.0 (sherpa-onnx)",
+      "notes": "Per-scene master for 'revelation' (13.59s)."
+    },
+    {
+      "path": "/audio/voiceovers/voice-profile-demo/scene-006.wav",
+      "kind": "audio",
+      "sourceUrl": "generated-locally",
+      "creator": "Simpledeav voice service",
+      "license": "CC BY 4.0 (model weights) / Apache-2.0 (sherpa-onnx)",
+      "notes": "Per-scene master for 'reflection' (7.09s)."
+    },
+    {
+      "path": "/audio/voiceovers/voice-profile-demo/scene-007.wav",
+      "kind": "audio",
+      "sourceUrl": "generated-locally",
+      "creator": "Simpledeav voice service",
+      "license": "CC BY 4.0 (model weights) / Apache-2.0 (sherpa-onnx)",
+      "notes": "Per-scene master for 'conclusion' (4.42s)."
+    },
+    {
+      "path": "/audio/voice-profile/david_nigerian_english/reference-16s.wav",
+      "kind": "audio",
+      "sourceUrl": "generated-locally",
+      "creator": "Simpledeav voice service",
+      "license": "CC BY 4.0 (model weights) / Apache-2.0 (sherpa-onnx)",
+      "notes": "David's original recorded speaker reference. Not modified."
+    },
+    {
+      "path": "/images/city-fog.jpg",
+      "kind": "image",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:City_fog.jpg",
+      "creator": "Jon Sullivan / Wikimedia Commons",
+      "license": "Public domain",
+      "notes": "Existing Simpledeav background plate."
+    },
+    {
+      "path": "/images/grain.png",
+      "kind": "image",
+      "sourceUrl": "generated-locally",
+      "creator": "Simpledeav Studio",
+      "license": "Generated asset for this project",
+      "notes": "Film-grain overlay."
+    },
+    {
+      "path": "/audio/music/vastness-92s.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://assets.mixkit.co/music/184/184.mp3",
+      "creator": "Mixkit",
+      "license": "Mixkit Stock Music Free License",
+      "notes": "Existing licensed documentary bed; kept on a separate music layer."
+    },
+    {
+      "path": "/audio/sfx/transition-whoosh.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://mixkit.co/license/",
+      "creator": "Mixkit",
+      "license": "Mixkit Sound Effects Free License",
+      "notes": "Existing Simpledeav Foley layer."
+    },
+    {
+      "path": "/audio/sfx/sci-fi-click.mp3",
+      "kind": "audio",
+      "sourceUrl": "https://mixkit.co/license/",
+      "creator": "Mixkit",
+      "license": "Mixkit Sound Effects Free License",
+      "notes": "Existing Simpledeav Foley layer."
+    },
+    {
+      "path": "/brand/simpledeav-avatar.png",
+      "kind": "avatar",
+      "sourceUrl": "https://avatars.githubusercontent.com/u/88326987?s=64&v=4",
+      "creator": "Simpledeav",
+      "license": "Channel owner profile image; used with authorization",
+      "notes": "Closing signature avatar."
+    }
+  ],
+  "voiceover": {
+    "slug": "voice-profile-demo",
+    "metadataPath": "/audio/voiceovers/voice-profile-demo/voiceover-metadata.json",
+    "engine": "pocket_tts",
+    "engineName": "PocketTTS 100M (sherpa-onnx int8)",
+    "license": "CC BY 4.0 (model weights) / Apache-2.0 (sherpa-onnx)",
+    "commercialUse": true,
+    "profile": "david_nigerian_english",
+    "review": {
+      "needsReview": false,
+      "warnings": [],
+      "rule": "Narration is never time-stretched to fit a scene. Expand the scene or approve the flagged read."
+    }
+  }
+}

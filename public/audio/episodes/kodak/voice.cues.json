@@ -1,0 +1,183 @@
+{
+  "source": "public/audio/episodes/kodak/voice.mp3",
+  "voice": "en-US-BrianMultilingualNeural",
+  "segments": [
+    {
+      "id": "s1_contradiction",
+      "start": 0.35,
+      "end": 8.346,
+      "duration": 7.996,
+      "rawDuration": 8.376,
+      "trimmedSilence": 0.38,
+      "rate": "+18%",
+      "words": 24
+    },
+    {
+      "id": "s2_dominance",
+      "start": 8.546,
+      "end": 18.37,
+      "duration": 9.824,
+      "rawDuration": 10.344,
+      "trimmedSilence": 0.52,
+      "rate": "+10%",
+      "words": 26
+    },
+    {
+      "id": "s3_invention",
+      "start": 19.4,
+      "end": 30.548,
+      "duration": 11.148,
+      "rawDuration": 11.808,
+      "trimmedSilence": 0.66,
+      "rate": "+8%",
+      "words": 27
+    },
+    {
+      "id": "s4_conflict",
+      "start": 32.4,
+      "end": 42.588,
+      "duration": 10.188,
+      "rawDuration": 10.368,
+      "trimmedSilence": 0.18,
+      "rate": "+8%",
+      "words": 25
+    },
+    {
+      "id": "s5_collapse",
+      "start": 44.4,
+      "end": 54.696,
+      "duration": 10.296,
+      "rawDuration": 11.136,
+      "trimmedSilence": 0.84,
+      "rate": "+8%",
+      "words": 22
+    },
+    {
+      "id": "s6_lesson",
+      "start": 56.4,
+      "end": 66.424,
+      "duration": 10.024,
+      "rawDuration": 10.464,
+      "trimmedSilence": 0.44,
+      "rate": "+9%",
+      "words": 28
+    },
+    {
+      "id": "s7_closing",
+      "start": 71.4,
+      "end": 77.1,
+      "duration": 5.7,
+      "rawDuration": 5.88,
+      "trimmedSilence": 0.18,
+      "rate": "+7%",
+      "words": 16
+    }
+  ],
+  "cues": [
+    {
+      "start": 0.403,
+      "end": 3.353,
+      "text": "Kodak invented one of the world's first digital cameras."
+    },
+    {
+      "start": 3.49,
+      "end": 6.288,
+      "text": "Yet decades later, the company that helped create the future"
+    },
+    {
+      "start": 6.368,
+      "end": 8.121,
+      "text": "of photography filed for bankruptcy."
+    },
+    {
+      "start": 8.626,
+      "end": 11.498,
+      "text": "For decades, Kodak was a giant in photography."
+    },
+    {
+      "start": 11.646,
+      "end": 13.626,
+      "text": "People bought its cameras, film rolls,"
+    },
+    {
+      "start": 13.706,
+      "end": 14.931,
+      "text": "and printing services."
+    },
+    {
+      "start": 15.066,
+      "end": 18.131,
+      "text": "Its business was built around capturing memories on film."
+    },
+    {
+      "start": 19.446,
+      "end": 23.601000000000003,
+      "text": "Then, in 1975, Kodak engineer Steven Sasson built a digital"
+    },
+    {
+      "start": 23.681,
+      "end": 27.63,
+      "text": "camera prototype. It was bulky, captured tiny black-and-white images,"
+    },
+    {
+      "start": 27.78,
+      "end": 30.314,
+      "text": "and took 23 seconds to record a photograph."
+    },
+    {
+      "start": 32.469,
+      "end": 36.406,
+      "text": "But digital photography challenged the economics of Kodak's established film"
+    },
+    {
+      "start": 36.486,
+      "end": 37.106,
+      "text": "business."
+    },
+    {
+      "start": 37.24,
+      "end": 40.473,
+      "text": "The company had to navigate a difficult transition while protecting"
+    },
+    {
+      "start": 40.553,
+      "end": 42.332,
+      "text": "an enormous existing business."
+    },
+    {
+      "start": 44.469,
+      "end": 48.583,
+      "text": "Kodak tried multiple strategies, but its financial and competitive pressures"
+    },
+    {
+      "start": 48.663,
+      "end": 53.677,
+      "text": "continued. In January 2012, the company filed for Chapter 11 bankruptcy"
+    },
+    {
+      "start": 53.757,
+      "end": 59.546,
+      "text": "protection. The lesson isn't that Kodak never innovated. It did."
+    },
+    {
+      "start": 59.7,
+      "end": 62.875,
+      "text": "The deeper problem was turning innovation into a sustainable business"
+    },
+    {
+      "start": 62.955,
+      "end": 66.186,
+      "text": "model before the market moved beyond its traditional strengths."
+    },
+    {
+      "start": 71.47,
+      "end": 73.895,
+      "text": "Because inventing the future is one thing."
+    },
+    {
+      "start": 74.04,
+      "end": 76.857,
+      "text": "Building a business that can survive it is another."
+    }
+  ]
+}

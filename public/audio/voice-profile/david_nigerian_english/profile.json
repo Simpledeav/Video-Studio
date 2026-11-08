@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "david_nigerian_english",
+  "displayName": "David Nigerian English — Cinematic Documentary Voice",
+  "shortName": "David Nigerian English",
+  "speaker": {
+    "name": "David",
+    "gender": "male",
+    "language": "en-NG",
+    "accent": "Nigerian English",
+    "ageRange": "adult"
+  },
+  "description": "A warm, confident Nigerian English male voice for cinematic documentary narration, technology stories, business case studies and long-form social video. The speaker reference is David's own recorded narration sample — not a generic Nigerian voice.",
+  "characteristics": [
+    "Male Nigerian English voice",
+    "David's actual recorded voice as the speaker reference",
+    "Natural Nigerian accent, not exaggerated",
+    "Clear and intelligible speech",
+    "Human-like conversational delivery",
+    "Cinematic documentary narration",
+    "Professional technology and business storytelling",
+    "Warm, confident and expressive",
+    "Natural pauses and breathing rhythm",
+    "Avoids robotic delivery",
+    "Avoids excessive speed",
+    "Avoids overdramatic delivery unless the scene requires it"
+  ],
+  "reference": {
+    "original": "/audio/voice-profile/david_nigerian_english/reference.wav",
+    "clean": "/audio/voice-profile/david_nigerian_english/reference-clean.wav",
+    "engineClip": "/audio/voice-profile/david_nigerian_english/reference-16s.wav",
+    "heldOutClip": "/audio/voice-profile/david_nigerian_english/reference-heldout.wav",
+    "transcript": "/audio/voice-profile/david_nigerian_english/reference.txt",
+    "durationSeconds": 63.957333,
+    "sampleRate": 48000,
+    "channels": 1,
+    "sha256": "710858d6225ecd72d110478c2ba5160a0df6ad5e53a944f31e3ede230ff6dc85",
+    "consent": "Recorded by the owner of this project. Explicit consent is granted for local voice cloning and for commercial narration in the owner's monetised social videos."
+  },
+  "delivery": {
+    "defaultPreset": "business_explanation",
+    "baseSpeed": 1.0,
+    "targetWpm": 150,
+    "maxWpm": 172,
+    "sentencePauseSeconds": 0.22,
+    "paragraphPauseSeconds": 0.45,
+    "postChain": [
+      "highpass=f=70",
+      "equalizer=f=180:t=q:w=1.0:g=1.2",
+      "equalizer=f=320:t=q:w=1.2:g=-1.2",
+      "equalizer=f=2800:t=q:w=1.5:g=-0.6",
+      "acompressor=threshold=-20dB:ratio=2.0:attack=10:release=160:makeup=1.0",
+      "loudnorm=I=-16:TP=-1.5:LRA=7",
+      "alimiter=limit=0.94"
+    ],
+    "master": {
+      "sampleRate": 48000,
+      "channels": 1,
+      "codec": "pcm_s24le",
+      "integratedLufs": -16,
+      "truePeakDbfs": -1.5
+    }
+  },
+  "enginePreference": {
+    "default": "chatterbox_onnx",
+    "fallbacks": ["pocket_tts", "openvoice_v2"],
+    "evaluationOnly": ["xtts_v2"],
+    "note": "Only engines cleared for commercial narration are used by default. xtts_v2 is measured for quality comparison but its Coqui Public Model License restricts commercial use of the model weights."
+  },
+  "licensing": {
+    "voiceOwner": "David (project owner)",
+    "referenceAudioLicense": "Owned by the project owner; consent recorded in this profile.",
+    "generatedAudioUsage": "Cleared for the owner's monetised social media videos subject to the selected engine's licence.",
+    "disclosure": "Disclose synthetic narration where required by platform policy. Never present generated audio as a genuine recording of a real event or as someone else's voice."
+  },
+  "createdAt": "2026-11-06",
+  "notes": [
+    "The original 48 kHz reference is never overwritten.",
+    "A 16-second clean clip is derived for engines whose voice prompt has a short context window.",
+    "The last 20 seconds of the original are held out from cloning and used only for objective similarity checks."
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "{{SLUG}}",
+  "title": "{{TITLE}}",
+  "created": "{{DATE}}",
+  "status": "draft",
+  "preset": "{{PRESET}}",
+  "voice": "{{VOICE}}",
+  "durationSeconds": 80,
+  "formats": ["vertical", "horizontal", "cover"],
+  "compositions": {
+    "vertical": "{{COMPOSITION}}",
+    "horizontal": "{{COMPOSITION}}Wide",
+    "cover": "{{COMPOSITION}}Cover"
+  },
+  "tags": [],
+  "source": "user brief"
+}

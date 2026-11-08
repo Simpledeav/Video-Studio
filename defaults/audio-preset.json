@@ -1,0 +1,231 @@
+{
+  "id": "simpledeav-documentary-audio",
+  "version": "1.0.0",
+  "status": "default",
+  "description": "The audio system used on Simpledeav case study 03 (Airbnb). Use it unchanged for every new documentary episode. It is tuned for a single deep male narrator, one licensed cinematic bed, and restrained Foley.",
+  "referenceEpisode": {
+    "title": "The Startup That Sold Cereal to Survive",
+    "manifest": "content/episode-airbnb-cereal.json",
+    "composition": "AirbnbCereal",
+    "generator": "scripts/generate-airbnb-voice.py",
+    "foleyGenerator": "scripts/generate-airbnb-foley.py"
+  },
+  "voice": {
+    "provider": "edge-tts",
+    "voice": "en-US-BrianMultilingualNeural",
+    "voiceCharacter": "mature male, deep, warm, neutral international English, documentary not trailer",
+    "rate": "+8%",
+    "pitch": "-2Hz",
+    "boundary": "WordBoundary",
+    "leadInSeconds": 0.5,
+    "maxInternalPauseSeconds": 0.3,
+    "pausePolicy": "Generate one segment per story act, then cap any internal silence longer than 0.30s at 0.30s and trim segment edges to 0.05s. This keeps ~170 wpm without an audibly rushed read. Never time-stretch after generation.",
+    "segmentation": "One TTS call per act, placed back-to-back on a continuous timeline. Act cuts sit ~0.2s before each sentence start; do not insert dramatic gaps just to match a storyboard.",
+    "wordBudget": {
+      "wpmTarget": 168,
+      "wordsPer80Seconds": "215-230",
+      "note": "If the script is longer, raise the rate before cutting words. Keep the approved script verbatim."
+    },
+    "postChain": [
+      "highpass=f=68",
+      "equalizer=f=118:t=q:w=1.1:g=1.6",
+      "equalizer=f=340:t=q:w=1.2:g=-1.4",
+      "equalizer=f=2600:t=q:w=1.6:g=-0.8",
+      "acompressor=threshold=-19dB:ratio=2.4:attack=12:release=180:makeup=1.4",
+      "aecho=0.9:0.75:22:0.045",
+      "loudnorm=I=-16:TP=-1.8:LRA=7",
+      "alimiter=limit=0.94"
+    ],
+    "output": {
+      "sampleRate": 48000,
+      "channels": 1,
+      "codec": "libmp3lame",
+      "bitrate": "144k",
+      "integratedLufs": -16,
+      "truePeakDbfs": -1.8
+    },
+    "mixGainInRemotion": 0.92,
+    "subtitles": {
+      "source": "Edge word boundaries only; never invented",
+      "maxWordsPerCue": 12,
+      "maxDurationSeconds": 5.0,
+      "splitOn": "sentence punctuation, then commas after 5 words",
+      "avoidDanglingWords": [
+        "the",
+        "a",
+        "an",
+        "and",
+        "but",
+        "or",
+        "of",
+        "to",
+        "for",
+        "with",
+        "that",
+        "when",
+        "in",
+        "on",
+        "at",
+        "by",
+        "as",
+        "is",
+        "was",
+        "can",
+        "open",
+        "your",
+        "their",
+        "his",
+        "her",
+        "it",
+        "this",
+        "these",
+        "those",
+        "from",
+        "into",
+        "they",
+        "we",
+        "he",
+        "she",
+        "which",
+        "who",
+        "were",
+        "are",
+        "been",
+        "be"
+      ],
+      "render": "Two lines max, 46 characters per line target, no background box beyond a soft scrim."
+    }
+  },
+  "music": {
+    "count": 1,
+    "licenceRequired": true,
+    "preferredLibrary": "Mixkit Stock Music Free License",
+    "style": "modern documentary: emotional piano, warm pads, restrained percussion, one build, resolved ending",
+    "sourcePreparation": {
+      "trimToFilm": true,
+      "fadeInSeconds": 2.6,
+      "fadeOutSeconds": 3.8,
+      "filters": [
+        "highpass=f=36",
+        "equalizer=f=2600:t=q:w=1.1:g=-1.8",
+        "equalizer=f=420:t=q:w=1.2:g=-1.0",
+        "loudnorm=I=-19:TP=-2.5:LRA=9"
+      ],
+      "note": "The 2.6kHz dip carves intelligibility space for the voice. Normalise the bed once, never per-scene."
+    },
+    "mix": {
+      "baseVolume": 0.18,
+      "points": "Animate 0.10 at the open, 0.145-0.16 through the setup, 0.185-0.225 through the growth, 0.15-0.17 for the resolution, 0 at the final frame.",
+      "duckDepth": 0.54,
+      "duckAttackSeconds": 0.18,
+      "duckReleaseSeconds": 0.45,
+      "measuredResult": "about -32 LUFS under narration, -28 LUFS in gaps; 16dB below the voice",
+      "neverAboveLinear": 0.25
+    }
+  },
+  "sfx": {
+    "globalGain": 0.62,
+    "defaultFadeInSeconds": 0.06,
+    "defaultFadeOutSeconds": 0.35,
+    "perCueVolumeRange": [
+      0.07,
+      0.5
+    ],
+    "minSeparationSeconds": 0.12,
+    "maxCuesPer80Seconds": 42,
+    "rule": "One intentional sound per story beat. Never stack two impacts within 0.12s. No risers under dialogue unless they peak in a gap.",
+    "palette": [
+      {
+        "role": "opening impact",
+        "asset": "Mixkit 788 big cinematic impact",
+        "volume": "0.45-0.55"
+      },
+      {
+        "role": "act transition",
+        "asset": "Mixkit 1492 cinematic whoosh",
+        "volume": "0.14-0.34"
+      },
+      {
+        "role": "riser",
+        "asset": "Mixkit 786 suspense swell",
+        "volume": "0.10-0.16"
+      },
+      {
+        "role": "deep accent",
+        "asset": "Mixkit 563 low impact",
+        "volume": "0.2-0.4"
+      },
+      {
+        "role": "camera",
+        "asset": "Mixkit 1430 shutter",
+        "volume": "0.42"
+      },
+      {
+        "role": "door",
+        "asset": "Mixkit 195 creaky door open",
+        "volume": "0.24-0.3"
+      },
+      {
+        "role": "typing",
+        "asset": "Mixkit 2531 laptop typing",
+        "volume": "0.07-0.12"
+      },
+      {
+        "role": "clock",
+        "asset": "Mixkit 1059 tick tock",
+        "volume": "0.075"
+      },
+      {
+        "role": "paper",
+        "asset": "Mixkit 1530 / 2385",
+        "volume": "0.1-0.16"
+      },
+      {
+        "role": "coins",
+        "asset": "Mixkit 1939",
+        "volume": "0.14-0.2"
+      },
+      {
+        "role": "room tone",
+        "asset": "Mixkit 447 / 2981",
+        "volume": "0.09-0.12"
+      },
+      {
+        "role": "brand signature",
+        "asset": "original synthesized sting + Mixkit low impact",
+        "volume": "0.16-0.3"
+      }
+    ],
+    "originalFoley": {
+      "generator": "scripts/generate-airbnb-foley.py",
+      "assets": [
+        "cereal-pour",
+        "cardboard-fold",
+        "air-inflate",
+        "box-set",
+        "soft-whoosh",
+        "brand-sting"
+      ],
+      "rule": "Synthesize object-specific Foley locally when no licensed sample exists. Never use a generic whoosh for a physical object."
+    }
+  },
+  "mix": {
+    "narrationLufs": -16,
+    "musicUnderNarrationLufs": -32,
+    "musicInGapsLufs": -28,
+    "sfxPeakDbfsRange": [
+      -14,
+      -6
+    ],
+    "truePeakCeilingDbfs": -1.0,
+    "note": "Remotion sums without a master limiter. Keep narration at 0.92, Foley at the fixed 0.62 gain, and music at or below 0.25 linear so the sum stays under 0 dBFS."
+  },
+  "qualityGates": [
+    "exactly the contracted duration and 30fps",
+    "narration file matches the composition duration within 0.25s",
+    "last subtitle cue ends before the brand reveal",
+    "music bed covers the full film and automation ends at 0",
+    "every SFX file exists, sits inside the timeline, and no two impacts stack",
+    "every audio asset has a recorded licence"
+  ]
+}

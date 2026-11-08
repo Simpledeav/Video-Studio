@@ -1,0 +1,188 @@
+{
+  "source": "public/audio/episodes/blackberry/voice.mp3",
+  "voice": "en-US-BrianMultilingualNeural",
+  "segments": [
+    {
+      "id": "the-question",
+      "start": 0.5,
+      "end": 7.596,
+      "duration": 7.096,
+      "rawDuration": 7.416,
+      "trimmedSilence": 0.32,
+      "rate": "+4%",
+      "words": 23
+    },
+    {
+      "id": "the-dominance",
+      "start": 8.35,
+      "end": 18.964,
+      "duration": 10.614,
+      "rawDuration": 11.064,
+      "trimmedSilence": 0.45,
+      "rate": "+5%",
+      "words": 24
+    },
+    {
+      "id": "the-industry-changes",
+      "start": 19.35,
+      "end": 28.49,
+      "duration": 9.14,
+      "rawDuration": 9.6,
+      "trimmedSilence": 0.46,
+      "rate": "+5%",
+      "words": 24
+    },
+    {
+      "id": "the-missed-shift",
+      "start": 31.35,
+      "end": 41.2,
+      "duration": 9.85,
+      "rawDuration": 10.68,
+      "trimmedSilence": 0.83,
+      "rate": "+5%",
+      "words": 22
+    },
+    {
+      "id": "the-numbers",
+      "start": 43.35,
+      "end": 53.332,
+      "duration": 9.982,
+      "rawDuration": 10.152,
+      "trimmedSilence": 0.17,
+      "rate": "+5%",
+      "words": 22
+    },
+    {
+      "id": "the-transformation",
+      "start": 56.35,
+      "end": 67.808,
+      "duration": 11.458,
+      "rawDuration": 12.288,
+      "trimmedSilence": 0.83,
+      "rate": "+6%",
+      "words": 27
+    },
+    {
+      "id": "the-lesson",
+      "start": 69.2,
+      "end": 79.794,
+      "duration": 10.594,
+      "rawDuration": 11.184,
+      "trimmedSilence": 0.59,
+      "rate": "+13%",
+      "words": 29
+    }
+  ],
+  "cues": [
+    {
+      "start": 0.55,
+      "end": 3.3049999999999997,
+      "text": "At one point, BlackBerry was one of the most powerful"
+    },
+    {
+      "start": 3.385,
+      "end": 7.336,
+      "text": "names in smartphones. So how did it lose its place in the market?"
+    },
+    {
+      "start": 8.433,
+      "end": 11.283,
+      "text": "BlackBerry built its reputation on secure messaging,"
+    },
+    {
+      "start": 11.5,
+      "end": 14.015,
+      "text": "physical keyboards, and business communication."
+    },
+    {
+      "start": 14.22,
+      "end": 18.702,
+      "text": "By 2009, it held almost 20 percent of the global smartphone market."
+    },
+    {
+      "start": 19.421,
+      "end": 20.843,
+      "text": "Then the market changed."
+    },
+    {
+      "start": 21.0,
+      "end": 24.149,
+      "text": "Apple's iPhone introduced a new kind of smartphone experience,"
+    },
+    {
+      "start": 24.35,
+      "end": 27.12,
+      "text": "while Android brought touchscreen devices to a growing range"
+    },
+    {
+      "start": 27.2,
+      "end": 34.04,
+      "text": "of manufacturers. BlackBerry struggled to respond quickly enough."
+    },
+    {
+      "start": 34.12,
+      "end": 37.469,
+      "text": "It underestimated how much consumers valued large touchscreens,"
+    },
+    {
+      "start": 37.67,
+      "end": 40.941,
+      "text": "broader app ecosystems, and a different mobile experience."
+    },
+    {
+      "start": 43.41,
+      "end": 45.498,
+      "text": "The consequences were enormous."
+    },
+    {
+      "start": 45.64,
+      "end": 48.85,
+      "text": "BlackBerry's global smartphone unit market share fell from around 20"
+    },
+    {
+      "start": 48.93,
+      "end": 53.066,
+      "text": "percent in 2009 to almost nothing by 2016."
+    },
+    {
+      "start": 56.433,
+      "end": 60.050000000000004,
+      "text": "BlackBerry eventually stopped developing its own phone hardware and shifted"
+    },
+    {
+      "start": 60.13,
+      "end": 62.787,
+      "text": "its focus toward software, cybersecurity,"
+    },
+    {
+      "start": 63.0,
+      "end": 66.124,
+      "text": "and secure communications. The company didn't disappear."
+    },
+    {
+      "start": 66.3,
+      "end": 66.985,
+      "text": "It changed what it"
+    },
+    {
+      "start": 67.065,
+      "end": 71.887,
+      "text": "was. Here's the lesson: your biggest advantage today can become"
+    },
+    {
+      "start": 71.967,
+      "end": 73.45,
+      "text": "your biggest weakness tomorrow."
+    },
+    {
+      "start": 73.64,
+      "end": 76.415,
+      "text": "Success requires more than protecting what works."
+    },
+    {
+      "start": 76.57,
+      "end": 79.556,
+      "text": "It requires adapting before the market leaves you behind."
+    }
+  ]
+}

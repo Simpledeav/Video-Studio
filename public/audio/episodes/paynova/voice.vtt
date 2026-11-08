@@ -1,0 +1,101 @@
+WEBVTT
+
+1
+00:00:00.437 --> 00:00:03.773
+One database query can wreck a growing fintech app.
+
+2
+00:00:03.988 --> 00:00:06.335
+The problem might not even be traffic.
+
+3
+00:00:06.804 --> 00:00:07.865
+Meet PAYNOVA.
+
+4
+00:00:08.105 --> 00:00:11.277
+A fast-growing fintech startup processing transactions,
+
+5
+00:00:11.604 --> 00:00:15.689
+balances, and transaction histories for thousands of active customers.
+
+6
+00:00:16.223 --> 00:00:19.482
+But one history query kept pulling far too much data.
+
+7
+00:00:19.722 --> 00:00:21.807
+Instead of an efficient access path,
+
+8
+00:00:21.935 --> 00:00:25.640
+the database repeatedly scanned the entire transactions table for one
+
+9
+00:00:25.760 --> 00:00:26.858
+user's records.
+
+10
+00:00:27.378 --> 00:00:31.738
+As traffic increased, that inefficient query consumed more resources.
+
+11
+00:00:31.978 --> 00:00:34.413
+Requests began piling up in queues.
+
+12
+00:00:34.628 --> 00:00:38.376
+The API slowed down, and the whole application felt the pressure.
+
+13
+00:00:38.869 --> 00:00:42.717
+Daniel opened the execution plan and found the real bottleneck.
+
+14
+00:00:42.957 --> 00:00:46.050
+The database was performing a full table scan instead of
+
+15
+00:00:46.170 --> 00:00:48.792
+an efficient indexed lookup on the right columns.
+
+16
+00:00:49.293 --> 00:00:52.548
+The team optimized the query and added an appropriate composite
+
+17
+00:00:52.668 --> 00:00:54.554
+index based on the query pattern,
+
+18
+00:00:54.894 --> 00:00:56.791
+selectivity, and sort order.
+
+19
+00:00:57.018 --> 00:01:00.666
+The new plan retrieved the right records far more efficiently.
+
+20
+00:01:01.132 --> 00:01:02.855
+The application recovered.
+
+21
+00:01:03.083 --> 00:01:04.942
+But the real lesson was bigger.
+
+22
+00:01:05.182 --> 00:01:07.618
+Database performance has to be monitored,
+
+23
+00:01:07.820 --> 00:01:12.680
+tested, and designed before rapid growth exposes the hidden weaknesses.
+
+24
+00:01:13.189 --> 00:01:16.069
+What would you investigate first: the database,
+
+25
+00:01:16.189 --> 00:01:17.737
+the API, or the queue?

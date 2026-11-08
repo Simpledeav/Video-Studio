@@ -1,0 +1,78 @@
+# =============================================================================
+# Simpledeav Studio v2 — keep Git light
+# =============================================================================
+
+# Dependencies
+node_modules/
+.pnp/
+.pnp.*
+
+# Build, bundle and render output
+out/
+dist/
+build/
+.remotion/
+.cache/
+*.mp4
+*.mov
+*.webm
+*.mkv
+*.gif
+*.avi
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+*.swp
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Python environments, caches and model weights
+.venv/
+.venv-*/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+models/
+.models/
+voice/vendor/
+voice/cache/
+scripts/__pycache__/
+
+# Heavy local media
+public/audio/**/*.wav
+public/audio/**/*.mp3
+public/audio/**/*.m4a
+public/audio/**/*.aac
+public/audio/**/*.ogg
+public/audio/**/*.flac
+public/audio/**/*.aiff
+public/images/**
+public/video/**
+docs/preview/**
+
+# Large design/source files that should stay local
+*.psd
+*.ai
+*.aep
+*.prproj
+*.blend
+
+# -----------------------------------------------------------------------------
+# Keep the small, essential text files even inside ignored media folders
+# -----------------------------------------------------------------------------
+!public/audio/voice-library/
+!public/audio/voice-library/manifest.json
+!public/audio/voice-library/**/*.md
+!public/audio/voice-library/**/*.json
+
+# Video writing records are text only and must be tracked
+!videos/
+!videos/**
