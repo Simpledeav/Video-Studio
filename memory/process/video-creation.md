@@ -41,6 +41,8 @@ afterthought.
 - No trailer lines, no rhetorical question stacks.
 - Keep the last sentence under about 14 words so the brand reveal can breathe.
 - Break the script into act-sized segments and assign an emotion to each.
+- Start `content/<slug>-voice-segments.json` from
+  [`../templates/voice-segments.json`](../templates/voice-segments.json).
 - Generate or place the audio under
   `public/audio/episodes/<slug>/` using the default voice.
 

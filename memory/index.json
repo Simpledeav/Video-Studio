@@ -68,6 +68,7 @@
     "process": "memory/process",
     "videoRecords": "videos",
     "videoRecordTemplate": "memory/templates/video-record",
+    "voiceSegmentsTemplate": "memory/templates/voice-segments.json",
     "recordScaffold": "scripts/new-video.mjs",
     "memoryValidator": "scripts/validate-memory.mjs"
   },

@@ -184,21 +184,22 @@ image and the bold `SIMPLEDEAV` wordmark. Change the default once in
 `src/config/brand.ts` (`DEFAULT_END_CARD_TEMPLATE`) or pass `template` per film.
 Preview them in Studio with `EndCardAurora`, `EndCardAtlas`, `EndCardAxis`,
 `EndCardEditorial` and `EndCardOrbit`; use `EndCardWidePreview` for 16:9. Full
-spec: [`brand-signoff.md`](./brand-signoff.md).
+spec: [`../brand/end-cards.md`](../brand/end-cards.md).
 
 ---
 
 ## 8. Sound
 
-Follow [`audio.md`](./audio.md) and [`audio-preset.json`](./audio-preset.json).
+Follow [`../voice/README.md`](../voice/README.md) and the `sound` block in
+[`tokens.json`](./tokens.json).
 
 - Narration is the master clock. Do not time-stretch after generation.
 - This episode uses **SD_VOICE_03 — Nathan Cole**
   (`en-US-AndrewMultilingualNeural`), directed line by line with per-line
   emotion, rate, pitch and volume. See
   `content/replit-voice-segments.json`.
-- Use the project voice preset in [`audio.md`](./audio.md) unless the brief
-  names a different voice.
+- Use the default voice in [`../voice/default.json`](../voice/default.json)
+  unless the brief names a different voice.
 - SFX starts scale with picture; tails keep their natural length.
 - Music sits well under the voice and ducks at every narration segment.
 - No SFX on every cut. One impact per act maximum.
@@ -285,13 +286,13 @@ Registration: `src/Root.tsx` — `DeletedProductionDatabase` (1080 × 1920),
 
 ## 14. Approved alternative preset
 
-**Editorial Pop** is the bright retail-documentary look from the Walmart
-Chicken Purse film. Use it when the brief wants saturated retail color, huge
-Poppins display on blue, white product cards, price tags, receipts, sold-out
-stamps and a 2–4 second hard-cut rhythm.
+**Walmart / Editorial Pop** is the bright retail-documentary look from the
+Walmart Chicken Purse film. Use it when the brief wants saturated retail color,
+huge Poppins display on blue, white product cards, price tags, receipts,
+sold-out stamps and a 2–4 second hard-cut rhythm.
 
-- Spec and usage: [`../presets/editorial-pop/README.md`](../presets/editorial-pop/README.md)
-- Tokens: [`../presets/editorial-pop/style.json`](../presets/editorial-pop/style.json)
+- Spec and usage: [`../presets/walmart/README.md`](../presets/walmart/README.md)
+- Tokens: [`../presets/walmart/style.json`](../presets/walmart/style.json)
 - Code: `src/config/presets/editorialPop.ts` and `src/components/presets/editorialPop/kit.tsx`
 
 It keeps this document's rules for factual restraint, captions, sound and QA.

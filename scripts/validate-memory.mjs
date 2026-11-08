@@ -66,6 +66,7 @@ const check = (name, condition, detail) => {
   "memory/templates/video-record/social/x.md",
   "memory/templates/video-record/social/tiktok.md",
   "memory/templates/video-record/social/instagram.md",
+  "memory/templates/voice-segments.json",
   "videos/README.md",
   "public/audio/voice-library/manifest.json",
 ].forEach(requireFile);

@@ -1,0 +1,45 @@
+{
+  "$comment": "Starting point for content/<slug>-voice-segments.json. Keep one voice identity per film. The default is SD_VOICE_03 — Nathan Cole.",
+  "voiceId": "SD_VOICE_03",
+  "voiceName": "Nathan Cole",
+  "engineVoice": "en-US-AndrewMultilingualNeural",
+  "direction": "Conversational, confident, clear. Playful only when the story is playful. No trailer voice.",
+  "totalDurationSeconds": 80,
+  "leadInSeconds": 0.2,
+  "maxInternalPauseSeconds": 0.3,
+  "segments": [
+    {
+      "id": "hook",
+      "text": "One sentence that states the impossible fact.",
+      "emotion": "curiosity",
+      "rate": "+2%",
+      "pitch": "-2Hz",
+      "volume": "+0%",
+      "sceneStartSeconds": 0.3,
+      "voiceOffsetSeconds": 0.15,
+      "pauseAfterSeconds": 0.08
+    },
+    {
+      "id": "story",
+      "text": "One sentence of context. One concrete detail.",
+      "emotion": "calm",
+      "rate": "+2%",
+      "pitch": "-2Hz",
+      "volume": "+0%",
+      "sceneStartSeconds": 8,
+      "voiceOffsetSeconds": 0.15,
+      "pauseAfterSeconds": 0.08
+    },
+    {
+      "id": "lesson",
+      "text": "Name the principle, not the moral.",
+      "emotion": "confidence",
+      "rate": "+1%",
+      "pitch": "-2Hz",
+      "volume": "+2%",
+      "sceneStartSeconds": 62,
+      "voiceOffsetSeconds": 0.15,
+      "pauseAfterSeconds": 0.1
+    }
+  ]
+}
