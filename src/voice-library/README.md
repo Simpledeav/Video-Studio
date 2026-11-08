@@ -19,7 +19,7 @@ import { VoiceNarration } from "../../voice-library/VoiceNarration";
 ## Alternate (only when the brief names it)
 
 ```tsx
-<VoiceNarration voice="SD_VOICE_09" emotion="reflection" />
+<VoiceNarration voice="SD_VOICE_03" emotion="reflection" />
 ```
 
 ## Resolve a path
@@ -35,7 +35,7 @@ Unknown voices and emotions throw. There is no fallback voice.
 ## Asset location
 
 `public/audio/voice-library/SD_VOICE_03_Nathan_Cole/` and
-`public/audio/voice-library/SD_VOICE_09_James_Carter/`.
+`public/audio/voice-library/SD_VOICE_03_Nathan_Cole/`.
 
 The audio is gitignored. Restore it with the commands in
 [`memory/assets/README.md`](../../memory/assets/README.md).

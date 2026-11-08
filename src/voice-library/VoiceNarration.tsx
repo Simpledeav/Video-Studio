@@ -1,9 +1,8 @@
 /**
  * Drop-in narration audio for the curated Simpledeav voice library.
  *
- * The default is SD_VOICE_03 — Nathan Cole. Pass `voice` only when the brief
- * explicitly names SD_VOICE_09 — James Carter. An unknown voice or emotion
- * throws; there is no silent fallback.
+ * The default and only permitted identity is SD_VOICE_03 — Nathan Cole.
+ * An unknown voice or emotion throws; there is no silent fallback.
  */
 import type React from "react";
 import { Audio } from "@remotion/media";

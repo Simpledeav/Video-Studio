@@ -1,8 +1,8 @@
 # New video code
 
-New films should live in `src/videos/<slug>/` so the source stays as tidy as the
-writing records. Archive films from the previous studio remain where they are
-(`src/components/<film>/` + `src/compositions/`).
+The project currently contains one film. Its source lives in
+`src/components/juicero/`, with the composition entry points in
+`src/compositions/Juicero.tsx` and `src/compositions/JuiceroCover.tsx`.
 
 ## Preferred layout for a new film
 
@@ -30,30 +30,17 @@ Then register three compositions in `src/Root.tsx`:
 
 ## Rules
 
-- Import the preset from `src/config/presets/editorialPop.ts` (for the Walmart
-  look) or the house tokens from `src/config/replit.ts`.
-- Import the voice from `src/voice-library/VoiceNarration.tsx`; leave the voice
-  prop off to use `SD_VOICE_03`.
+- Use the house tokens in `src/config/theme.ts`, `src/config/motion.ts` and the
+  brand close in `src/components/branding/`.
+- Use `SD_VOICE_03 — Nathan Cole` only. Import from
+  `src/voice-library/VoiceNarration.tsx`; leave the voice prop off.
 - Keep scene times in seconds and derive frames from the film FPS.
 - Do not crop the vertical for the wide cut.
 - Do not render an MP4. Preview in Studio.
 - Create the writing record in `videos/<slug>/` with `npm run new:video`.
 
-## Archive films
+## Current film
 
 | Film | Location |
 | --- | --- |
-| Walmart Chicken Purse | `src/components/walmartchicken/`, `src/compositions/WalmartChickenCaseStudy.tsx` |
-| Deleted Production Database | `src/components/replit/`, `src/compositions/DeletedProductionDatabase*.tsx` |
-| Airbnb Cereal | `src/components/airbnb/`, `src/compositions/AirbnbCaseStudy.tsx` |
-| Coinbase × Cursor | `src/components/coinbase/`, `src/compositions/CoinbaseCaseStudy.tsx` |
-| Liquid Death | `src/components/liquiddeath/`, `src/compositions/LiquidDeathCaseStudy.tsx` |
-| McDonald's AI | `src/components/mcdonalds/`, `src/compositions/McdonaldsAI.tsx` |
-| GarageFlow | `src/components/garageflow/`, `src/compositions/GarageFlow.tsx` |
-| Bank Transfer | `src/components/banktransfer/`, `src/compositions/BankTransfer.tsx` |
-| BlackBerry | `src/components/blackberry/`, `src/compositions/BlackBerryCaseStudy.tsx` |
-| PocketLedger | `src/components/pocketledger/`, `src/compositions/PocketLedgerCaseStudy.tsx` |
-| Paynova | `src/components/paynova/`, `src/compositions/PaynovaCaseStudy.tsx` |
-| Football Relationship | `src/components/football/`, `src/compositions/FootballRelationship.tsx` |
-| Access Control | `src/components/security/`, `src/compositions/AccessControlCaseStudy.tsx` |
-| Stickman / AI Agent / Lego | `src/components/scenes/`, `src/compositions/StickmanStory.tsx`, `src/compositions/LegoCaseStudy.tsx` |
+| Juicero — The $120M Machine | `src/components/juicero/`, `src/compositions/Juicero.tsx`, `src/compositions/JuiceroCover.tsx` |

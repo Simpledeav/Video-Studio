@@ -8,12 +8,7 @@
       "id": "SD_VOICE_03",
       "name": "Nathan Cole",
       "path": "memory/voice/default.json",
-      "rule": "Always use SD_VOICE_03 unless the brief explicitly names SD_VOICE_09."
-    },
-    "alternateVoice": {
-      "id": "SD_VOICE_09",
-      "name": "James Carter",
-      "path": "memory/voice/voices/SD_VOICE_09.md"
+      "rule": "Always use SD_VOICE_03 — Nathan Cole. No other voice is permitted."
     },
     "preset": {
       "id": "house",
@@ -74,7 +69,7 @@
   },
   "rules": [
     "Read memory/README.md and memory/process/rules.md before starting a video.",
-    "Use SD_VOICE_03 — Nathan Cole by default. Use SD_VOICE_09 — James Carter only when the brief names it.",
+    "Always use SD_VOICE_03 — Nathan Cole. No other voice is permitted.",
     "Start from the house preset unless the brief asks for the Walmart Editorial Pop look.",
     "Every film gets three Studio compositions: vertical, horizontal and cover.",
     "Never render an MP4, WebM, 4K or any heavy export. Browser preview is the delivery.",

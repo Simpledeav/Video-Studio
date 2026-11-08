@@ -11,10 +11,10 @@ import {
   DEFAULT_END_CARD_TEMPLATE,
   type EndCardTemplateId,
 } from "../../config/brand";
-import { useStage } from "../../config/airbnb";
 import { type Palette } from "../../config/theme";
-import { clamp } from "../airbnb/primitives";
 import { END_CARD_TEMPLATE_COMPONENTS } from "./endCardTemplates";
+
+const clamp = (value: number) => Math.min(1, Math.max(0, value));
 
 export const SIGN_OFF_DEFAULTS = {
   /** Minimum on-screen time. The reveal itself is ~1.3s. */
@@ -75,7 +75,7 @@ export const SimpledeavSignOff: React.FC<SignOffProps> = ({
   const currentFrame = useCurrentFrame();
   const config = useVideoConfig();
   const fps = fpsOverride ?? config.fps;
-  const { wide } = useStage();
+  const wide = config.width > config.height;
   const [avatarOk, setAvatarOk] = useState(true);
 
   const absoluteFrame = frameOverride ?? currentFrame;

@@ -1,0 +1,88 @@
+{
+  "voiceId": "SD_VOICE_03",
+  "voiceName": "Nathan Cole",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "direction": "Premium cinematic software-engineering documentary read. Deep, expressive, globally clear male voice. Confident and inviting in the hook, calm and precise through the technical explanation, restrained urgency at the leak, then direct and generous in the safety checklist. Never robotic. Never shouty. Let the final line land cleanly before the brand close.",
+  "storyDurationSeconds": 90,
+  "totalDurationSeconds": 90,
+  "leadInSeconds": 0.25,
+  "segments": [
+    {
+      "id": "hook",
+      "file": "01-hook.wav",
+      "text": "You vibe-coded an app in one afternoon. It works perfectly. But there's one tiny problem. Everyone can see everyone else's data.",
+      "emotion": "suspense",
+      "rate": 12,
+      "pitch": -3,
+      "volume": 1,
+      "sceneStartSeconds": 0.35,
+      "pauseAfterSeconds": 0.4
+    },
+    {
+      "id": "build",
+      "file": "02-build.wav",
+      "text": "The AI generated the React frontend, connected the database, and even built the login system. But authentication is not authorization.",
+      "emotion": "confidence",
+      "rate": 12,
+      "pitch": -2,
+      "volume": 1,
+      "sceneStartSeconds": 7.6,
+      "pauseAfterSeconds": 0.5
+    },
+    {
+      "id": "mistake",
+      "file": "03-mistake.wav",
+      "text": "David logs in successfully. He opens his dashboard and sees his own transactions. But the backend never checks whether those records actually belong to him. It verifies who logged in, not what that user is allowed to access. Then Sarah's records appear inside David's dashboard.",
+      "emotion": "seriousness",
+      "rate": 10,
+      "pitch": -3,
+      "volume": 0,
+      "sceneStartSeconds": 21.0,
+      "pauseAfterSeconds": 0.45
+    },
+    {
+      "id": "fix",
+      "file": "04-fix.wav",
+      "text": "The fix is not hiding records in the frontend. The backend must enforce ownership. A safe query filters by the logged-in user ID. An unsafe query returns every row. With PostgreSQL Row Level Security, the database itself can enforce which records each user can access. But the policy still has to be written and tested.",
+      "emotion": "calm",
+      "rate": 10,
+      "pitch": -2,
+      "volume": 0,
+      "sceneStartSeconds": 39.0,
+      "pauseAfterSeconds": 0.4
+    },
+    {
+      "id": "checklist",
+      "file": "05-checklist.wav",
+      "text": "Before you launch, test with two different accounts. Can User A access User B's data? Check your database policies. Review AI-generated migrations. Never expose secret keys in the frontend. And never give an AI agent unrestricted access to your production database.",
+      "emotion": "confidence",
+      "rate": 12,
+      "pitch": -2,
+      "volume": 1,
+      "sceneStartSeconds": 58.0,
+      "pauseAfterSeconds": 0.35
+    },
+    {
+      "id": "lesson",
+      "file": "06-lesson.wav",
+      "text": "Vibe coding can make you faster. But if you don't understand what the AI has built, you might be shipping a security disaster.",
+      "emotion": "dramatic",
+      "rate": 8,
+      "pitch": -4,
+      "volume": 2,
+      "sceneStartSeconds": 75.3,
+      "pauseAfterSeconds": 0.35
+    },
+    {
+      "id": "ending",
+      "file": "07-ending.wav",
+      "text": "Build fast. Think like an engineer. Ship responsibly.",
+      "emotion": "reflection",
+      "rate": 4,
+      "pitch": -3,
+      "volume": 0,
+      "sceneStartSeconds": 85.35,
+      "pauseAfterSeconds": 0.2
+    }
+  ]
+}

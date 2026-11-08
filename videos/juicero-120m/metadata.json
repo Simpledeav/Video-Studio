@@ -1,0 +1,38 @@
+{
+  "slug": "juicero-120m",
+  "title": "The $120 Million Juice Machine That Didn't Need to Exist",
+  "created": "2026-11-08",
+  "status": "review",
+  "preset": "house",
+  "voice": "SD_VOICE_03",
+  "voiceName": "Nathan Cole",
+  "durationSeconds": 90,
+  "formats": ["vertical", "horizontal", "cover"],
+  "compositions": {
+    "vertical": "JuiceroFilm",
+    "horizontal": "JuiceroFilmWide",
+    "cover": "JuiceroCover"
+  },
+  "canvas": {
+    "vertical": "1080x1920",
+    "horizontal": "1920x1080",
+    "cover": "1080x1350"
+  },
+  "tags": ["business case study", "startup", "product lesson", "Juicero", "documentary", "comedy"],
+  "source": "User brief",
+  "facts": {
+    "raised": "approximately $120,000,000",
+    "launchPrice": "$699",
+    "reducedPrice": "$399",
+    "refundsAndSuspendedSales": "September 2017",
+    "shutdown": "2017",
+    "note": "On-screen facts follow public 2017 reporting. The machine's intended value (consistency, convenience, freshness checks) is stated in the film so the joke lands on unnecessary complexity, not a false claim that the product did nothing."
+  },
+  "credits": {
+    "photography": [
+      "Unsplash contributors — editorial reconstruction stills (startup office, boardroom, kitchen, developer workspace, empty boardroom, portrait)",
+      "Wikimedia Commons — hand-squeezed juice reference (public domain / CC BY 2.0)"
+    ],
+    "note": "All human scenes are labelled on screen as illustrative reconstruction. Product machine, juice pack, glass and orange are original code-built visuals."
+  }
+}

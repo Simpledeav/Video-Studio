@@ -30,7 +30,7 @@ afterthought.
 
 | Decision | Default | Alternate |
 | --- | --- | --- |
-| Voice | `SD_VOICE_03 — Nathan Cole` | `SD_VOICE_09 — James Carter` |
+| Voice | `SD_VOICE_03 — Nathan Cole` | No alternate voice |
 | Preset | `house` | `walmart` (Editorial Pop) |
 | Formats | Vertical 1080×1920 | Horizontal 1920×1080 + cover 1080×1350 |
 

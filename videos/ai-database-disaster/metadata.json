@@ -1,0 +1,21 @@
+{
+  "slug": "ai-database-disaster",
+  "title": "The AI Built the App… But Forgot Who Could See the Database",
+  "created": "2026-11-08",
+  "status": "draft",
+  "preset": "house",
+  "voice": "SD_VOICE_03",
+  "durationSeconds": 80,
+  "formats": [
+    "vertical",
+    "horizontal",
+    "cover"
+  ],
+  "compositions": {
+    "vertical": "TheAIBuiltTheAppButForgotWhoCouldSeeTheDatabase",
+    "horizontal": "TheAIBuiltTheAppButForgotWhoCouldSeeTheDatabaseWide",
+    "cover": "TheAIBuiltTheAppButForgotWhoCouldSeeTheDatabaseCover"
+  },
+  "tags": [],
+  "source": "user brief"
+}

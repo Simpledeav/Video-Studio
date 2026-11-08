@@ -4,31 +4,25 @@
 
 **`SD_VOICE_03 — Nathan Cole` is the default voice for every video.**
 
-Use `SD_VOICE_09 — James Carter` only when the brief explicitly names it.
-Never silently substitute one voice for another. If an asset is missing, stop
-and report it.
+Only `SD_VOICE_03 — Nathan Cole` is permitted. If the asset is missing, stop and report it.
 
 | Role | ID | Name | Engine voice | Accent | Best for |
 | --- | --- | --- | --- | --- | --- |
 | **Default** | `SD_VOICE_03` | Nathan Cole | `en-US-AndrewMultilingualNeural` | American (General US) | SaaS, business case studies, product explainers, technology documentaries |
-| **Alternate** | `SD_VOICE_09` | James Carter | `en-CA-LiamNeural` | Canadian (General Canadian) | Founder stories, emotional brand films, customer stories |
 
-Both are permanent identities from the SIMPLEDEAV Male Deep Voice Identity
-Library. The names and IDs never change.
+This is the only permitted identity from the SIMPLEDEAV Male Deep Voice Identity Library. The name and ID never change.
 
 ## Where the audio lives
 
 ```text
 public/audio/voice-library/
-  manifest.json                         # curated two-voice manifest
+  manifest.json                         # single-voice manifest
   SD_VOICE_03_Nathan_Cole/
     identity.wav                        # full test narration
     calm.wav  curiosity.wav  suspense.wav  excitement.wav
     seriousness.wav  concern.wav  confidence.wav  reflection.wav
     dramatic.wav  friendly.wav
     description.md
-  SD_VOICE_09_James_Carter/
-    ...same structure
 ```
 
 All files are 48 kHz / 24-bit PCM / mono WAV, mastered to about **−16 LUFS**
@@ -45,12 +39,6 @@ import { VoiceNarration } from "../../voice-library/VoiceNarration";
 
 // The default. Do not pass a voice unless the brief asks for another one.
 <VoiceNarration emotion="calm" />
-```
-
-Explicit alternate:
-
-```tsx
-<VoiceNarration voice="SD_VOICE_09" emotion="reflection" />
 ```
 
 Resolve a path without rendering:
@@ -102,7 +90,7 @@ Defaults per film:
 
 ## Voice direction rules
 
-- One identity per film. Do not mix `SD_VOICE_03` and `SD_VOICE_09` in one cut.
+- One identity: `SD_VOICE_03 — Nathan Cole`. No other voice is permitted.
 - Narration is the master clock. Cut picture to the voice; never stretch audio.
 - Keep the read conversational. No trailer voice, no shouted emphasis.
 - Use punctuation and segment breaks before reaching for extreme rate changes.

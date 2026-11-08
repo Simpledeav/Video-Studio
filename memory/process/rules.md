@@ -33,7 +33,7 @@ Every film gets exactly three registered compositions:
 ## 3. Default voice
 
 - Use **`SD_VOICE_03 — Nathan Cole`** for every video.
-- Use **`SD_VOICE_09 — James Carter`** only when the brief explicitly names it.
+- No other voice is permitted.
 - One voice identity per film.
 - Never substitute a voice silently. If an asset is missing, stop and report it.
 - Narration is the master clock. Do not time-stretch after generation.

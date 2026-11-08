@@ -12,7 +12,7 @@ import housePreset from "../../memory/presets/house/style.json";
 import walmartPreset from "../../memory/presets/walmart/style.json";
 import voiceMemory from "../../memory/voice/default.json";
 
-export type VoiceId = "SD_VOICE_03" | "SD_VOICE_09";
+export type VoiceId = "SD_VOICE_03";
 
 export type Emotion =
   | "identity"
@@ -77,7 +77,7 @@ const normalize = (value: string): string =>
  */
 export const resolveVoice = (query: string = DEFAULT_VOICE) => {
   const q = normalize(query);
-  if (!q) throw new Error("Voice query is empty. Use SD_VOICE_03 or SD_VOICE_09.");
+  if (!q) throw new Error("Voice query is empty. Use SD_VOICE_03.");
 
   const exactId = VOICES.find((voice) => normalize(voice.id) === q);
   if (exactId) return exactId;

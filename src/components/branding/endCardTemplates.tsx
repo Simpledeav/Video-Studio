@@ -1,7 +1,9 @@
 import type { CSSProperties } from "react";
 import { AbsoluteFill, Img, staticFile } from "remotion";
 import { BRAND, type EndCardTemplateId } from "../../config/brand";
-import { FONT_STACK } from "../../config/airbnb";
+
+const FONT_STACK =
+  '"Poppins", "SF Pro Display", "SF Pro Text", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif';
 
 /**
  * The five closing-screen templates.

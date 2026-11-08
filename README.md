@@ -27,7 +27,7 @@ npm run check:memory  # validate the memory folder
 
 | Decision | Default | Alternate |
 | --- | --- | --- |
-| **Voice** | `SD_VOICE_03 — Nathan Cole` | `SD_VOICE_09 — James Carter`, only when named |
+| **Voice** | `SD_VOICE_03 — Nathan Cole` | Only this voice is permitted |
 | **Preset** | `house` — Kinetic Tech Incident | `walmart` — Editorial Pop |
 | **Formats** | Vertical 1080×1920 | Horizontal 1920×1080 + cover 1080×1350 |
 | **Output** | Browser preview | No MP4, no 4K, no render queue |
@@ -82,7 +82,7 @@ simpledeav-studio-v2/
 │   └── index.ts
 ├── content/                  Episode JSON, cue sheets, voice segments
 ├── public/                   Local assets (heavy media gitignored)
-│   ├── audio/voice-library/  SD_VOICE_03 and SD_VOICE_09
+│   ├── audio/voice-library/  SD_VOICE_03 only
 │   ├── brand/ fonts/ images/ video/
 │   └── asset-manifest.json
 ├── scripts/                  Voice, validation, scaffolding
@@ -98,7 +98,7 @@ simpledeav-studio-v2/
 ## Voice
 
 The default is **`SD_VOICE_03 — Nathan Cole`** (`en-US-AndrewMultilingualNeural`).
-The alternate is **`SD_VOICE_09 — James Carter`** (`en-CA-LiamNeural`).
+No alternate voice is permitted.
 
 ```bash
 node scripts/voice-lookup.mjs "SD_VOICE_03"
@@ -112,7 +112,7 @@ import { VoiceNarration } from "../../voice-library/VoiceNarration";
 <VoiceNarration emotion="calm" />
 
 // Alternate, only when the brief names it.
-<VoiceNarration voice="SD_VOICE_09" emotion="reflection" />
+<VoiceNarration voice="SD_VOICE_03" emotion="reflection" />
 ```
 
 Audio lives in `public/audio/voice-library/` and is gitignored because it is
@@ -146,14 +146,16 @@ and metadata. Fill them in before calling the film done.
 
 ## Compositions
 
-The project keeps the working archive compositions from the previous studio,
-including `WalmartChickenCaseStudy`, `DeletedProductionDatabase`,
-`DeletedProductionDatabaseWide`, `DeletedProductionDatabaseCover`,
-`AirbnbCereal`, `CoinbaseCaseStudy`, `LiquidDeathCaseStudy`,
-`McDonaldsAI`, `GarageFlow`, `BankTransfer`, `BlackBerryCaseStudy`,
-`PocketLedgerCaseStudy`, `PaynovaCaseStudy`, `FootballRelationship`,
-`AccessControlCaseStudy`, `StickmanStory`, `AIAgentGuardrails`, `LegoCaseStudy`
-and the five end-card previews.
+The project currently carries one film and its three registered formats:
+
+| Composition | Format | Size |
+| --- | --- | --- |
+| `JuiceroFilm` | Vertical | 1080×1920 |
+| `JuiceroFilmWide` | Horizontal | 1920×1080 |
+| `JuiceroCover` | Cover | 1080×1350 |
+
+The old archive compositions were removed. The design system, memory, presets,
+voice library and brand close were kept intact for future films.
 
 New films must register all three formats:
 
@@ -184,7 +186,7 @@ git check-ignore -v public/audio/voice-library/SD_VOICE_03_Nathan_Cole/identity.
 
 - Added the canonical `memory/` layer.
 - Added `videos/` writing records with a scaffold script.
-- Added a curated two-voice library (`SD_VOICE_03`, `SD_VOICE_09`) with a strict
+- Added the single-voice library (`SD_VOICE_03`) with a strict
   resolver and a `VoiceNarration` component.
 - Added a typed `src/memory/` bridge.
 - Added a memory validator and video-record scaffold.

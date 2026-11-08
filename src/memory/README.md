@@ -6,7 +6,7 @@ root. Compositions should import from here instead of hard-coding defaults.
 ```ts
 import {
   DEFAULT_VOICE,        // "SD_VOICE_03"
-  ALTERNATE_VOICE,      // "SD_VOICE_09"
+  // Only SD_VOICE_03 is permitted.
   DEFAULT_PRESET,       // "house"
   PRESETS,              // { house, walmart }
   FORMATS,              // vertical, horizontal, cover
@@ -20,7 +20,7 @@ import {
 ## Rules
 
 - The default voice is `SD_VOICE_03`. Do not pass a voice unless the brief names
-  `SD_VOICE_09`.
+  `SD_VOICE_03`.
 - `resolveVoice` and `getVoiceAssetPath` throw on unknown voices or emotions.
   There is no fallback voice.
 - `FORMATS` is the single source for canvas sizes. Do not invent a fourth

@@ -35,7 +35,6 @@ Restore the two identities this studio uses:
 
 ```bash
 rsync -a "$HOME/Documents/MOTION DESIGN/motion-studio/public/audio/voice-library/SD_VOICE_03_Nathan_Cole" public/audio/voice-library/
-rsync -a "$HOME/Documents/MOTION DESIGN/motion-studio/public/audio/voice-library/SD_VOICE_09_James_Carter" public/audio/voice-library/
 ```
 
 The curated `public/audio/voice-library/manifest.json` in this project already

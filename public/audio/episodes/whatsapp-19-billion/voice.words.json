@@ -1,0 +1,1124 @@
+{
+  "voice": "en-US-AndrewMultilingualNeural",
+  "leadInSeconds": 0.35,
+  "segments": [
+    {
+      "id": "hook",
+      "text": "Imagine building an app that barely relies on traditional advertising\u2026 and Facebook offers nearly nineteen billion dollars to acquire it.",
+      "emotion": "suspense",
+      "rate": "+8%",
+      "pitch": "-3Hz",
+      "start": 0.55,
+      "duration": 8.016,
+      "end": 8.566,
+      "words": 20
+    },
+    {
+      "id": "idea",
+      "text": "Back in two thousand nine, Jan Koum and Brian Acton started with a simple idea: make communication easier, faster, and more affordable. No games. No news feed. No ads fighting for your attention. Just messages.",
+      "emotion": "friendly",
+      "rate": "+7%",
+      "pitch": "-2Hz",
+      "start": 10.55,
+      "duration": 14.016,
+      "end": 24.566,
+      "words": 35
+    },
+    {
+      "id": "growth",
+      "text": "By twenty fourteen, WhatsApp had reached four hundred and fifty million monthly users, and it was adding more than a million new users every day. In less than five years, it had become one of the most used communication tools on the planet.",
+      "emotion": "excitement",
+      "rate": "+9%",
+      "pitch": "-2Hz",
+      "start": 25.05,
+      "duration": 12.504,
+      "end": 37.554,
+      "words": 43
+    },
+    {
+      "id": "deal",
+      "text": "Then Facebook made a deal that shocked the technology world: approximately nineteen billion dollars in total announced value. Sixteen billion in cash and stock, plus three billion in employee stock awards. For a company with fewer than sixty employees.",
+      "emotion": "dramatic",
+      "rate": "+8%",
+      "pitch": "-3Hz",
+      "start": 41.55,
+      "duration": 15.144,
+      "end": 56.694,
+      "words": 39
+    },
+    {
+      "id": "lesson",
+      "text": "WhatsApp didn't need to become a complicated product. It solved a problem people experienced every single day. And when millions of people depend on your product, its value can become enormous. Not because of what it added. But because of what it refused to add.",
+      "emotion": "confidence",
+      "rate": "+11%",
+      "pitch": "-2Hz",
+      "start": 58.0,
+      "duration": 13.848,
+      "end": 71.848,
+      "words": 45
+    },
+    {
+      "id": "ending",
+      "text": "The next billion-dollar idea might not be complicated. It might be a simple solution to a problem everyone has. Have a problem worth solving? Let's build something useful.",
+      "emotion": "reflection",
+      "rate": "+9%",
+      "pitch": "-2Hz",
+      "start": 74.3,
+      "duration": 9.744,
+      "end": 84.044,
+      "words": 28
+    }
+  ],
+  "words": [
+    {
+      "text": "Imagine",
+      "start": 0.643,
+      "end": 1.071
+    },
+    {
+      "text": "building",
+      "start": 1.082,
+      "end": 1.43
+    },
+    {
+      "text": "an",
+      "start": 1.441,
+      "end": 1.499
+    },
+    {
+      "text": "app",
+      "start": 1.511,
+      "end": 1.823
+    },
+    {
+      "text": "that",
+      "start": 1.835,
+      "end": 2.147
+    },
+    {
+      "text": "barely",
+      "start": 2.159,
+      "end": 2.506
+    },
+    {
+      "text": "relies",
+      "start": 2.518,
+      "end": 3.062
+    },
+    {
+      "text": "on",
+      "start": 3.073,
+      "end": 3.143
+    },
+    {
+      "text": "traditional",
+      "start": 3.143,
+      "end": 3.687
+    },
+    {
+      "text": "advertising\u2026",
+      "start": 3.698,
+      "end": 4.416
+    },
+    {
+      "text": "and",
+      "start": 4.832,
+      "end": 4.96
+    },
+    {
+      "text": "Facebook",
+      "start": 4.96,
+      "end": 5.457
+    },
+    {
+      "text": "offers",
+      "start": 5.608,
+      "end": 5.955
+    },
+    {
+      "text": "nearly",
+      "start": 5.955,
+      "end": 6.291
+    },
+    {
+      "text": "nineteen",
+      "start": 6.291,
+      "end": 6.846
+    },
+    {
+      "text": "billion",
+      "start": 6.858,
+      "end": 7.17
+    },
+    {
+      "text": "dollars",
+      "start": 7.17,
+      "end": 7.506
+    },
+    {
+      "text": "to",
+      "start": 7.506,
+      "end": 7.622
+    },
+    {
+      "text": "acquire",
+      "start": 7.633,
+      "end": 8.085
+    },
+    {
+      "text": "it.",
+      "start": 8.096,
+      "end": 8.235
+    },
+    {
+      "text": "Back",
+      "start": 10.655,
+      "end": 10.865
+    },
+    {
+      "text": "in",
+      "start": 10.865,
+      "end": 10.947
+    },
+    {
+      "text": "two",
+      "start": 10.959,
+      "end": 11.087
+    },
+    {
+      "text": "thousand",
+      "start": 11.087,
+      "end": 11.368
+    },
+    {
+      "text": "nine,",
+      "start": 11.368,
+      "end": 11.683
+    },
+    {
+      "text": "Jan",
+      "start": 12.069,
+      "end": 12.291
+    },
+    {
+      "text": "Koum",
+      "start": 12.291,
+      "end": 12.524
+    },
+    {
+      "text": "and",
+      "start": 12.524,
+      "end": 12.583
+    },
+    {
+      "text": "Brian",
+      "start": 12.583,
+      "end": 12.898
+    },
+    {
+      "text": "Acton",
+      "start": 12.898,
+      "end": 13.237
+    },
+    {
+      "text": "started",
+      "start": 13.249,
+      "end": 13.728
+    },
+    {
+      "text": "with",
+      "start": 13.728,
+      "end": 13.844
+    },
+    {
+      "text": "a",
+      "start": 13.844,
+      "end": 13.879
+    },
+    {
+      "text": "simple",
+      "start": 13.891,
+      "end": 14.393
+    },
+    {
+      "text": "idea:",
+      "start": 14.393,
+      "end": 14.814
+    },
+    {
+      "text": "make",
+      "start": 15.375,
+      "end": 15.55
+    },
+    {
+      "text": "communication",
+      "start": 15.562,
+      "end": 16.192
+    },
+    {
+      "text": "easier,",
+      "start": 16.204,
+      "end": 16.695
+    },
+    {
+      "text": "faster,",
+      "start": 16.893,
+      "end": 17.594
+    },
+    {
+      "text": "and",
+      "start": 17.828,
+      "end": 17.875
+    },
+    {
+      "text": "more",
+      "start": 17.875,
+      "end": 18.05
+    },
+    {
+      "text": "affordable.",
+      "start": 18.062,
+      "end": 18.599
+    },
+    {
+      "text": "No",
+      "start": 18.973,
+      "end": 19.113
+    },
+    {
+      "text": "games.",
+      "start": 19.113,
+      "end": 19.662
+    },
+    {
+      "text": "No",
+      "start": 20.036,
+      "end": 20.188
+    },
+    {
+      "text": "news",
+      "start": 20.188,
+      "end": 20.503
+    },
+    {
+      "text": "feed.",
+      "start": 20.515,
+      "end": 20.889
+    },
+    {
+      "text": "No",
+      "start": 21.274,
+      "end": 21.531
+    },
+    {
+      "text": "ads",
+      "start": 21.543,
+      "end": 21.882
+    },
+    {
+      "text": "fighting",
+      "start": 21.999,
+      "end": 22.419
+    },
+    {
+      "text": "for",
+      "start": 22.431,
+      "end": 22.559
+    },
+    {
+      "text": "your",
+      "start": 22.559,
+      "end": 22.676
+    },
+    {
+      "text": "attention.",
+      "start": 22.676,
+      "end": 23.097
+    },
+    {
+      "text": "Just",
+      "start": 23.459,
+      "end": 23.599
+    },
+    {
+      "text": "messages.",
+      "start": 23.599,
+      "end": 24.23
+    },
+    {
+      "text": "By",
+      "start": 25.142,
+      "end": 25.188
+    },
+    {
+      "text": "twenty",
+      "start": 25.188,
+      "end": 25.451
+    },
+    {
+      "text": "fourteen,",
+      "start": 25.451,
+      "end": 26.048
+    },
+    {
+      "text": "WhatsApp",
+      "start": 26.311,
+      "end": 26.667
+    },
+    {
+      "text": "had",
+      "start": 26.667,
+      "end": 26.816
+    },
+    {
+      "text": "reached",
+      "start": 26.828,
+      "end": 27.045
+    },
+    {
+      "text": "four",
+      "start": 27.045,
+      "end": 27.309
+    },
+    {
+      "text": "hundred",
+      "start": 27.309,
+      "end": 27.47
+    },
+    {
+      "text": "and",
+      "start": 27.47,
+      "end": 27.527
+    },
+    {
+      "text": "fifty",
+      "start": 27.539,
+      "end": 27.917
+    },
+    {
+      "text": "million",
+      "start": 27.917,
+      "end": 28.295
+    },
+    {
+      "text": "monthly",
+      "start": 28.295,
+      "end": 28.651
+    },
+    {
+      "text": "users,",
+      "start": 28.651,
+      "end": 29.213
+    },
+    {
+      "text": "and",
+      "start": 29.557,
+      "end": 29.66
+    },
+    {
+      "text": "it",
+      "start": 29.66,
+      "end": 29.706
+    },
+    {
+      "text": "was",
+      "start": 29.706,
+      "end": 29.821
+    },
+    {
+      "text": "adding",
+      "start": 29.821,
+      "end": 30.13
+    },
+    {
+      "text": "more",
+      "start": 30.13,
+      "end": 30.337
+    },
+    {
+      "text": "than",
+      "start": 30.348,
+      "end": 30.451
+    },
+    {
+      "text": "a",
+      "start": 30.451,
+      "end": 30.486
+    },
+    {
+      "text": "million",
+      "start": 30.486,
+      "end": 31.002
+    },
+    {
+      "text": "new",
+      "start": 31.002,
+      "end": 31.151
+    },
+    {
+      "text": "users",
+      "start": 31.151,
+      "end": 31.77
+    },
+    {
+      "text": "every",
+      "start": 31.782,
+      "end": 31.977
+    },
+    {
+      "text": "day.",
+      "start": 31.977,
+      "end": 32.332
+    },
+    {
+      "text": "In",
+      "start": 32.688,
+      "end": 32.814
+    },
+    {
+      "text": "less",
+      "start": 32.814,
+      "end": 33.009
+    },
+    {
+      "text": "than",
+      "start": 33.009,
+      "end": 33.123
+    },
+    {
+      "text": "five",
+      "start": 33.135,
+      "end": 33.49
+    },
+    {
+      "text": "years,",
+      "start": 33.49,
+      "end": 33.984
+    },
+    {
+      "text": "it",
+      "start": 34.201,
+      "end": 34.259
+    },
+    {
+      "text": "had",
+      "start": 34.259,
+      "end": 34.35
+    },
+    {
+      "text": "become",
+      "start": 34.362,
+      "end": 34.694
+    },
+    {
+      "text": "one",
+      "start": 34.695,
+      "end": 34.809
+    },
+    {
+      "text": "of",
+      "start": 34.809,
+      "end": 34.855
+    },
+    {
+      "text": "the",
+      "start": 34.855,
+      "end": 34.912
+    },
+    {
+      "text": "most",
+      "start": 34.912,
+      "end": 35.291
+    },
+    {
+      "text": "used",
+      "start": 35.291,
+      "end": 35.681
+    },
+    {
+      "text": "communication",
+      "start": 35.681,
+      "end": 36.311
+    },
+    {
+      "text": "tools",
+      "start": 36.323,
+      "end": 36.598
+    },
+    {
+      "text": "on",
+      "start": 36.598,
+      "end": 36.678
+    },
+    {
+      "text": "the",
+      "start": 36.678,
+      "end": 36.736
+    },
+    {
+      "text": "planet.",
+      "start": 36.747,
+      "end": 37.217
+    },
+    {
+      "text": "Then",
+      "start": 41.643,
+      "end": 41.828
+    },
+    {
+      "text": "Facebook",
+      "start": 41.839,
+      "end": 42.314
+    },
+    {
+      "text": "made",
+      "start": 42.325,
+      "end": 42.464
+    },
+    {
+      "text": "a",
+      "start": 42.464,
+      "end": 42.545
+    },
+    {
+      "text": "deal",
+      "start": 42.557,
+      "end": 42.869
+    },
+    {
+      "text": "that",
+      "start": 42.881,
+      "end": 43.008
+    },
+    {
+      "text": "shocked",
+      "start": 43.008,
+      "end": 43.494
+    },
+    {
+      "text": "the",
+      "start": 43.506,
+      "end": 43.599
+    },
+    {
+      "text": "technology",
+      "start": 43.61,
+      "end": 44.189
+    },
+    {
+      "text": "world:",
+      "start": 44.2,
+      "end": 44.606
+    },
+    {
+      "text": "approximately",
+      "start": 45.115,
+      "end": 45.728
+    },
+    {
+      "text": "nineteen",
+      "start": 45.74,
+      "end": 46.307
+    },
+    {
+      "text": "billion",
+      "start": 46.319,
+      "end": 46.666
+    },
+    {
+      "text": "dollars",
+      "start": 46.677,
+      "end": 47.163
+    },
+    {
+      "text": "in",
+      "start": 47.175,
+      "end": 47.325
+    },
+    {
+      "text": "total",
+      "start": 47.325,
+      "end": 47.742
+    },
+    {
+      "text": "announced",
+      "start": 47.835,
+      "end": 48.112
+    },
+    {
+      "text": "value.",
+      "start": 48.112,
+      "end": 48.541
+    },
+    {
+      "text": "Sixteen",
+      "start": 48.923,
+      "end": 49.374
+    },
+    {
+      "text": "billion",
+      "start": 49.374,
+      "end": 49.698
+    },
+    {
+      "text": "in",
+      "start": 49.71,
+      "end": 49.802
+    },
+    {
+      "text": "cash",
+      "start": 49.802,
+      "end": 50.184
+    },
+    {
+      "text": "and",
+      "start": 50.184,
+      "end": 50.254
+    },
+    {
+      "text": "stock,",
+      "start": 50.254,
+      "end": 50.717
+    },
+    {
+      "text": "plus",
+      "start": 51.099,
+      "end": 51.434
+    },
+    {
+      "text": "three",
+      "start": 51.434,
+      "end": 51.747
+    },
+    {
+      "text": "billion",
+      "start": 51.747,
+      "end": 52.256
+    },
+    {
+      "text": "in",
+      "start": 52.337,
+      "end": 52.441
+    },
+    {
+      "text": "employee",
+      "start": 52.441,
+      "end": 52.835
+    },
+    {
+      "text": "stock",
+      "start": 52.846,
+      "end": 53.101
+    },
+    {
+      "text": "awards.",
+      "start": 53.101,
+      "end": 53.622
+    },
+    {
+      "text": "For",
+      "start": 54.027,
+      "end": 54.096
+    },
+    {
+      "text": "a",
+      "start": 54.096,
+      "end": 54.131
+    },
+    {
+      "text": "company",
+      "start": 54.143,
+      "end": 54.467
+    },
+    {
+      "text": "with",
+      "start": 54.467,
+      "end": 54.606
+    },
+    {
+      "text": "fewer",
+      "start": 54.606,
+      "end": 55.045
+    },
+    {
+      "text": "than",
+      "start": 55.045,
+      "end": 55.196
+    },
+    {
+      "text": "sixty",
+      "start": 55.196,
+      "end": 55.647
+    },
+    {
+      "text": "employees.",
+      "start": 55.647,
+      "end": 56.342
+    },
+    {
+      "text": "WhatsApp",
+      "start": 58.101,
+      "end": 58.372
+    },
+    {
+      "text": "didn't",
+      "start": 58.372,
+      "end": 58.552
+    },
+    {
+      "text": "need",
+      "start": 58.552,
+      "end": 58.721
+    },
+    {
+      "text": "to",
+      "start": 58.721,
+      "end": 58.777
+    },
+    {
+      "text": "become",
+      "start": 58.788,
+      "end": 59.126
+    },
+    {
+      "text": "a",
+      "start": 59.171,
+      "end": 59.216
+    },
+    {
+      "text": "complicated",
+      "start": 59.227,
+      "end": 59.881
+    },
+    {
+      "text": "product.",
+      "start": 59.892,
+      "end": 60.354
+    },
+    {
+      "text": "It",
+      "start": 60.703,
+      "end": 60.77
+    },
+    {
+      "text": "solved",
+      "start": 60.77,
+      "end": 60.995
+    },
+    {
+      "text": "a",
+      "start": 60.995,
+      "end": 61.052
+    },
+    {
+      "text": "problem",
+      "start": 61.052,
+      "end": 61.401
+    },
+    {
+      "text": "people",
+      "start": 61.401,
+      "end": 61.671
+    },
+    {
+      "text": "experienced",
+      "start": 61.682,
+      "end": 62.381
+    },
+    {
+      "text": "every",
+      "start": 62.595,
+      "end": 62.865
+    },
+    {
+      "text": "single",
+      "start": 62.865,
+      "end": 63.113
+    },
+    {
+      "text": "day.",
+      "start": 63.113,
+      "end": 63.473
+    },
+    {
+      "text": "And",
+      "start": 63.845,
+      "end": 63.968
+    },
+    {
+      "text": "when",
+      "start": 63.98,
+      "end": 64.16
+    },
+    {
+      "text": "millions",
+      "start": 64.16,
+      "end": 64.644
+    },
+    {
+      "text": "of",
+      "start": 64.655,
+      "end": 64.723
+    },
+    {
+      "text": "people",
+      "start": 64.723,
+      "end": 64.993
+    },
+    {
+      "text": "depend",
+      "start": 64.993,
+      "end": 65.297
+    },
+    {
+      "text": "on",
+      "start": 65.297,
+      "end": 65.365
+    },
+    {
+      "text": "your",
+      "start": 65.365,
+      "end": 65.444
+    },
+    {
+      "text": "product,",
+      "start": 65.444,
+      "end": 65.86
+    },
+    {
+      "text": "its",
+      "start": 66.198,
+      "end": 66.3
+    },
+    {
+      "text": "value",
+      "start": 66.311,
+      "end": 66.93
+    },
+    {
+      "text": "can",
+      "start": 67.133,
+      "end": 67.245
+    },
+    {
+      "text": "become",
+      "start": 67.245,
+      "end": 67.628
+    },
+    {
+      "text": "enormous.",
+      "start": 67.696,
+      "end": 68.383
+    },
+    {
+      "text": "Not",
+      "start": 68.743,
+      "end": 68.912
+    },
+    {
+      "text": "because",
+      "start": 68.912,
+      "end": 69.171
+    },
+    {
+      "text": "of",
+      "start": 69.171,
+      "end": 69.216
+    },
+    {
+      "text": "what",
+      "start": 69.216,
+      "end": 69.306
+    },
+    {
+      "text": "it",
+      "start": 69.306,
+      "end": 69.351
+    },
+    {
+      "text": "added.",
+      "start": 69.351,
+      "end": 69.7
+    },
+    {
+      "text": "But",
+      "start": 70.072,
+      "end": 70.151
+    },
+    {
+      "text": "because",
+      "start": 70.162,
+      "end": 70.432
+    },
+    {
+      "text": "of",
+      "start": 70.432,
+      "end": 70.5
+    },
+    {
+      "text": "what",
+      "start": 70.5,
+      "end": 70.59
+    },
+    {
+      "text": "it",
+      "start": 70.59,
+      "end": 70.646
+    },
+    {
+      "text": "refused",
+      "start": 70.646,
+      "end": 71.074
+    },
+    {
+      "text": "to",
+      "start": 71.086,
+      "end": 71.153
+    },
+    {
+      "text": "add.",
+      "start": 71.153,
+      "end": 71.514
+    },
+    {
+      "text": "The",
+      "start": 74.392,
+      "end": 74.438
+    },
+    {
+      "text": "next",
+      "start": 74.438,
+      "end": 74.69
+    },
+    {
+      "text": "billion-dollar",
+      "start": 74.701,
+      "end": 75.309
+    },
+    {
+      "text": "idea",
+      "start": 75.309,
+      "end": 75.745
+    },
+    {
+      "text": "might",
+      "start": 75.951,
+      "end": 76.181
+    },
+    {
+      "text": "not",
+      "start": 76.192,
+      "end": 76.387
+    },
+    {
+      "text": "be",
+      "start": 76.387,
+      "end": 76.467
+    },
+    {
+      "text": "complicated.",
+      "start": 76.467,
+      "end": 77.167
+    },
+    {
+      "text": "It",
+      "start": 77.511,
+      "end": 77.568
+    },
+    {
+      "text": "might",
+      "start": 77.568,
+      "end": 77.752
+    },
+    {
+      "text": "be",
+      "start": 77.752,
+      "end": 77.878
+    },
+    {
+      "text": "a",
+      "start": 77.878,
+      "end": 77.924
+    },
+    {
+      "text": "simple",
+      "start": 77.924,
+      "end": 78.256
+    },
+    {
+      "text": "solution",
+      "start": 78.256,
+      "end": 78.841
+    },
+    {
+      "text": "to",
+      "start": 78.899,
+      "end": 79.059
+    },
+    {
+      "text": "a",
+      "start": 79.071,
+      "end": 79.139
+    },
+    {
+      "text": "problem",
+      "start": 79.139,
+      "end": 79.633
+    },
+    {
+      "text": "everyone",
+      "start": 79.885,
+      "end": 80.217
+    },
+    {
+      "text": "has.",
+      "start": 80.229,
+      "end": 80.699
+    },
+    {
+      "text": "Have",
+      "start": 81.078,
+      "end": 81.158
+    },
+    {
+      "text": "a",
+      "start": 81.158,
+      "end": 81.227
+    },
+    {
+      "text": "problem",
+      "start": 81.227,
+      "end": 81.639
+    },
+    {
+      "text": "worth",
+      "start": 81.639,
+      "end": 81.834
+    },
+    {
+      "text": "solving?",
+      "start": 81.834,
+      "end": 82.224
+    },
+    {
+      "text": "Let's",
+      "start": 82.603,
+      "end": 82.717
+    },
+    {
+      "text": "build",
+      "start": 82.717,
+      "end": 82.901
+    },
+    {
+      "text": "something",
+      "start": 82.901,
+      "end": 83.199
+    },
+    {
+      "text": "useful.",
+      "start": 83.199,
+      "end": 83.704
+    }
+  ]
+}

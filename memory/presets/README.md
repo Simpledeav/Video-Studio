@@ -21,7 +21,7 @@ two presets in one cut.
 ## What every preset must define
 
 - `formats` — vertical, horizontal and cover sizes.
-- `voice` — default `SD_VOICE_03`, alternate `SD_VOICE_09`.
+- `voice` — `SD_VOICE_03` only.
 - `palette` — named roles, not raw hex sprinkled through components.
 - `typography` — display family, weights, tracking, size ranges.
 - `layout` — margins, safe zones, panel rules, caption band.

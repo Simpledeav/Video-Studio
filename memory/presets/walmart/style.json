@@ -202,9 +202,9 @@
   "useWhen": "Use when the brief wants bright retail colour, viral product storytelling, price/receipt proof, sold-out urgency, or a Walmart/retail case study. For serious incident/lesson films, use the house preset instead.",
   "voice": {
     "default": "SD_VOICE_03",
-    "alternate": "SD_VOICE_09",
+    "alternate": "SD_VOICE_03",
     "gain": 0.92,
-    "note": "Keep SD_VOICE_03 unless the brief names SD_VOICE_09."
+    "note": "Only SD_VOICE_03 — Nathan Cole is permitted."
   },
   "formats": {
     "vertical": {

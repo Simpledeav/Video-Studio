@@ -43,7 +43,6 @@ const check = (name, condition, detail) => {
   "memory/voice/README.md",
   "memory/voice/default.json",
   "memory/voice/voices/SD_VOICE_03.md",
-  "memory/voice/voices/SD_VOICE_09.md",
   "memory/design/README.md",
   "memory/design/house-style.md",
   "memory/design/tokens.json",
@@ -76,7 +75,10 @@ const index = readJson("memory/index.json");
 if (index) {
   check("index schemaVersion is 1.0.0", index.schemaVersion === "1.0.0");
   check("default voice is SD_VOICE_03", index.defaults?.voice?.id === "SD_VOICE_03");
-  check("alternate voice is SD_VOICE_09", index.defaults?.alternateVoice?.id === "SD_VOICE_09");
+  check(
+    "no alternate voice is configured",
+    !index.defaults?.alternateVoice || index.defaults.alternateVoice.id === "SD_VOICE_03",
+  );
   check("default preset is house", index.defaults?.preset?.id === "house");
   check("alternate preset is walmart", index.defaults?.alternatePreset?.id === "walmart");
   check("rendering is browser-only", index.defaults?.rendering?.browserPreviewOnly === true);
@@ -99,10 +101,10 @@ if (index) {
 const voice = readJson("memory/voice/default.json");
 if (voice) {
   check("voice default is SD_VOICE_03", voice.default === "SD_VOICE_03");
-  check("voice alternate is SD_VOICE_09", voice.alternate === "SD_VOICE_09");
+  check("voice alternate is SD_VOICE_03", voice.alternate === "SD_VOICE_03");
   const ids = (voice.voices ?? []).map((item) => item.id);
   check("voice file lists SD_VOICE_03", ids.includes("SD_VOICE_03"));
-  check("voice file lists SD_VOICE_09", ids.includes("SD_VOICE_09"));
+  check("voice file lists no other voice", ids.every((id) => id === "SD_VOICE_03"));
   check(
     "voice files have audio paths",
     (voice.voices ?? []).every(
@@ -118,7 +120,7 @@ const manifest = readJson("public/audio/voice-library/manifest.json");
 if (manifest) {
   const ids = (manifest.voices ?? []).map((item) => item.voice_id);
   check("manifest contains SD_VOICE_03", ids.includes("SD_VOICE_03"));
-  check("manifest contains SD_VOICE_09", ids.includes("SD_VOICE_09"));
+  check("manifest contains no other voice", ids.every((id) => id === "SD_VOICE_03"));
   check("manifest has no fallback", manifest.selection?.fallback === "none");
 }
 

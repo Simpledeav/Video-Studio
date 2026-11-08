@@ -1,0 +1,219 @@
+{
+  "source": "public/audio/episodes/whatsapp-19-billion/voice.mp3",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "segments": [
+    {
+      "id": "hook",
+      "text": "Imagine building an app that barely relies on traditional advertising\u2026 and Facebook offers nearly nineteen billion dollars to acquire it.",
+      "emotion": "suspense",
+      "rate": "+8%",
+      "pitch": "-3Hz",
+      "start": 0.55,
+      "duration": 8.016,
+      "end": 8.566,
+      "words": 20
+    },
+    {
+      "id": "idea",
+      "text": "Back in two thousand nine, Jan Koum and Brian Acton started with a simple idea: make communication easier, faster, and more affordable. No games. No news feed. No ads fighting for your attention. Just messages.",
+      "emotion": "friendly",
+      "rate": "+7%",
+      "pitch": "-2Hz",
+      "start": 10.55,
+      "duration": 14.016,
+      "end": 24.566,
+      "words": 35
+    },
+    {
+      "id": "growth",
+      "text": "By twenty fourteen, WhatsApp had reached four hundred and fifty million monthly users, and it was adding more than a million new users every day. In less than five years, it had become one of the most used communication tools on the planet.",
+      "emotion": "excitement",
+      "rate": "+9%",
+      "pitch": "-2Hz",
+      "start": 25.05,
+      "duration": 12.504,
+      "end": 37.554,
+      "words": 43
+    },
+    {
+      "id": "deal",
+      "text": "Then Facebook made a deal that shocked the technology world: approximately nineteen billion dollars in total announced value. Sixteen billion in cash and stock, plus three billion in employee stock awards. For a company with fewer than sixty employees.",
+      "emotion": "dramatic",
+      "rate": "+8%",
+      "pitch": "-3Hz",
+      "start": 41.55,
+      "duration": 15.144,
+      "end": 56.694,
+      "words": 39
+    },
+    {
+      "id": "lesson",
+      "text": "WhatsApp didn't need to become a complicated product. It solved a problem people experienced every single day. And when millions of people depend on your product, its value can become enormous. Not because of what it added. But because of what it refused to add.",
+      "emotion": "confidence",
+      "rate": "+11%",
+      "pitch": "-2Hz",
+      "start": 58.0,
+      "duration": 13.848,
+      "end": 71.848,
+      "words": 45
+    },
+    {
+      "id": "ending",
+      "text": "The next billion-dollar idea might not be complicated. It might be a simple solution to a problem everyone has. Have a problem worth solving? Let's build something useful.",
+      "emotion": "reflection",
+      "rate": "+9%",
+      "pitch": "-2Hz",
+      "start": 74.3,
+      "duration": 9.744,
+      "end": 84.044,
+      "words": 28
+    }
+  ],
+  "cues": [
+    {
+      "start": 0.643,
+      "end": 4.576,
+      "text": "Imagine building an app that barely relies on traditional advertising\u2026"
+    },
+    {
+      "start": 4.832,
+      "end": 8.395,
+      "text": "and Facebook offers nearly nineteen billion dollars to acquire it."
+    },
+    {
+      "start": 10.655,
+      "end": 11.843,
+      "text": "Back in two thousand nine,"
+    },
+    {
+      "start": 12.069,
+      "end": 14.974,
+      "text": "Jan Koum and Brian Acton started with a simple idea:"
+    },
+    {
+      "start": 15.375,
+      "end": 18.759,
+      "text": "make communication easier, faster, and more affordable."
+    },
+    {
+      "start": 18.973,
+      "end": 19.822,
+      "text": "No games."
+    },
+    {
+      "start": 20.036,
+      "end": 21.049,
+      "text": "No news feed."
+    },
+    {
+      "start": 21.274,
+      "end": 23.257,
+      "text": "No ads fighting for your attention."
+    },
+    {
+      "start": 23.459,
+      "end": 24.39,
+      "text": "Just messages."
+    },
+    {
+      "start": 25.142,
+      "end": 27.797,
+      "text": "By twenty fourteen, WhatsApp had reached four hundred and fifty"
+    },
+    {
+      "start": 27.917,
+      "end": 30.366,
+      "text": "million monthly users, and it was adding more than a"
+    },
+    {
+      "start": 30.486,
+      "end": 32.492,
+      "text": "million new users every day."
+    },
+    {
+      "start": 32.688,
+      "end": 34.081,
+      "text": "In less than five years,"
+    },
+    {
+      "start": 34.201,
+      "end": 37.377,
+      "text": "it had become one of the most used communication tools on the planet."
+    },
+    {
+      "start": 41.643,
+      "end": 44.766,
+      "text": "Then Facebook made a deal that shocked the technology world:"
+    },
+    {
+      "start": 45.115,
+      "end": 48.701,
+      "text": "approximately nineteen billion dollars in total announced value."
+    },
+    {
+      "start": 48.923,
+      "end": 50.877,
+      "text": "Sixteen billion in cash and stock,"
+    },
+    {
+      "start": 51.099,
+      "end": 53.782,
+      "text": "plus three billion in employee stock awards."
+    },
+    {
+      "start": 54.027,
+      "end": 56.502,
+      "text": "For a company with fewer than sixty employees."
+    },
+    {
+      "start": 58.101,
+      "end": 60.514,
+      "text": "WhatsApp didn't need to become a complicated product."
+    },
+    {
+      "start": 60.703,
+      "end": 63.633,
+      "text": "It solved a problem people experienced every single day."
+    },
+    {
+      "start": 63.845,
+      "end": 66.02,
+      "text": "And when millions of people depend on your product,"
+    },
+    {
+      "start": 66.198,
+      "end": 68.543,
+      "text": "its value can become enormous."
+    },
+    {
+      "start": 68.743,
+      "end": 69.86,
+      "text": "Not because of what it added."
+    },
+    {
+      "start": 70.072,
+      "end": 71.674,
+      "text": "But because of what it refused to add."
+    },
+    {
+      "start": 74.392,
+      "end": 77.327,
+      "text": "The next billion-dollar idea might not be complicated."
+    },
+    {
+      "start": 77.511,
+      "end": 80.859,
+      "text": "It might be a simple solution to a problem everyone has."
+    },
+    {
+      "start": 81.078,
+      "end": 82.384,
+      "text": "Have a problem worth solving?"
+    },
+    {
+      "start": 82.603,
+      "end": 83.864,
+      "text": "Let's build something useful."
+    }
+  ]
+}

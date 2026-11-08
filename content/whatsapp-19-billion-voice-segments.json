@@ -1,0 +1,78 @@
+{
+  "voiceId": "SD_VOICE_03",
+  "voiceName": "Nathan Cole",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "direction": "Premium cinematic technology documentary read. Deep, expressive, natural male voice, globally clear. Curious and confident in the hook, warm and grounded in the 2009 origin story, measured awe through the growth numbers, restrained gravity at the acquisition, then generous and direct in the business lesson. Never robotic. Never shouty. Leave the final line room to breathe before the brand close.",
+  "storyDurationSeconds": 88,
+  "totalDurationSeconds": 88,
+  "leadInSeconds": 0.35,
+  "maxInternalPauseSeconds": 0.24,
+  "segments": [
+    {
+      "id": "hook",
+      "text": "Imagine building an app that barely relies on traditional advertising… and Facebook offers nearly nineteen billion dollars to acquire it.",
+      "emotion": "suspense",
+      "rate": "+8%",
+      "pitch": "-3Hz",
+      "volume": "+1%",
+      "pauseAfterSeconds": 0.4,
+      "sceneStartSeconds": 0.55,
+      "voiceOffsetSeconds": 0
+    },
+    {
+      "id": "idea",
+      "text": "Back in two thousand nine, Jan Koum and Brian Acton started with a simple idea: make communication easier, faster, and more affordable. No games. No news feed. No ads fighting for your attention. Just messages.",
+      "emotion": "friendly",
+      "rate": "+7%",
+      "pitch": "-2Hz",
+      "volume": "+0%",
+      "pauseAfterSeconds": 0.45,
+      "sceneStartSeconds": 10.55,
+      "voiceOffsetSeconds": 0
+    },
+    {
+      "id": "growth",
+      "text": "By twenty fourteen, WhatsApp had reached four hundred and fifty million monthly users, and it was adding more than a million new users every day. In less than five years, it had become one of the most used communication tools on the planet.",
+      "emotion": "excitement",
+      "rate": "+9%",
+      "pitch": "-2Hz",
+      "volume": "+1%",
+      "pauseAfterSeconds": 0.45,
+      "sceneStartSeconds": 25.05,
+      "voiceOffsetSeconds": 0
+    },
+    {
+      "id": "deal",
+      "text": "Then Facebook made a deal that shocked the technology world: approximately nineteen billion dollars in total announced value. Sixteen billion in cash and stock, plus three billion in employee stock awards. For a company with fewer than sixty employees.",
+      "emotion": "dramatic",
+      "rate": "+8%",
+      "pitch": "-3Hz",
+      "volume": "+1%",
+      "pauseAfterSeconds": 0.45,
+      "sceneStartSeconds": 41.55,
+      "voiceOffsetSeconds": 0
+    },
+    {
+      "id": "lesson",
+      "text": "WhatsApp didn't need to become a complicated product. It solved a problem people experienced every single day. And when millions of people depend on your product, its value can become enormous. Not because of what it added. But because of what it refused to add.",
+      "emotion": "confidence",
+      "rate": "+11%",
+      "pitch": "-2Hz",
+      "volume": "+1%",
+      "pauseAfterSeconds": 0.5,
+      "sceneStartSeconds": 58.0,
+      "voiceOffsetSeconds": 0
+    },
+    {
+      "id": "ending",
+      "text": "The next billion-dollar idea might not be complicated. It might be a simple solution to a problem everyone has. Have a problem worth solving? Let's build something useful.",
+      "emotion": "reflection",
+      "rate": "+9%",
+      "pitch": "-2Hz",
+      "volume": "+0%",
+      "pauseAfterSeconds": 0.3,
+      "sceneStartSeconds": 74.3,
+      "voiceOffsetSeconds": 0
+    }
+  ]
+}

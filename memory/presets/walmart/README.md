@@ -194,7 +194,6 @@ Suggested rotations live in `PALETTE_ROTATIONS`:
 ## Sound
 
 - Default voice: **`SD_VOICE_03 — Nathan Cole`**.
-- Alternate: **`SD_VOICE_09 — James Carter`**, only when the brief names it.
 - Voice gain 0.92.
 - Energetic funk-pop bed, licensed, normalised to **−19 LUFS** with a 2.6 kHz
   speech carve.

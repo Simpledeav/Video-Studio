@@ -17,8 +17,8 @@ Read it before touching a composition.
   queue. The delivery is Remotion Studio in the browser.
 - **Three formats per film.** Vertical 1080×1920, horizontal 1920×1080 and cover
   1080×1350 (1 frame). The horizontal is recomposed, never cropped.
-- **Default voice is `SD_VOICE_03 — Nathan Cole`.** Use `SD_VOICE_09 — James
-  Carter` only when the brief explicitly names it. One voice per film.
+- **Voice is `SD_VOICE_03 — Nathan Cole` only.** No other voice is permitted.
+  One voice per film.
 - **Default preset is `house`.** Use `walmart` (Editorial Pop) only when the
   brief asks for the bright retail-documentary look.
 - **Every film gets a record** in `videos/<slug>/` with the prompt, description

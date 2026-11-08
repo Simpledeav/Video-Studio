@@ -29,7 +29,7 @@ It replaces guesswork with four decisions that are already made:
 memory/
   index.json                  Machine-readable manifest of every default.
   voice/                      Voice identities, audio paths, prosody, rules.
-    default.json              DEFAULT = SD_VOICE_03; ALTERNATE = SD_VOICE_09.
+    default.json              ONLY = SD_VOICE_03.
     voices/                   Human-readable identity sheets.
   design/                     The shared visual language.
     house-style.md            Full house-style document.
@@ -62,6 +62,6 @@ node scripts/voice-lookup.mjs "SD_VOICE_03"
 ## The four hard rules
 
 - **No rendering.** No MP4, WebM, 4K or render queue. Browser preview only.
-- **Default voice is `SD_VOICE_03`.** `SD_VOICE_09` only when named.
+- **Voice is `SD_VOICE_03 — Nathan Cole` only.**
 - **Three formats per film.** Vertical, horizontal and cover.
 - **No heavy files in Git.** Audio, images and video stay local.

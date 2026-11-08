@@ -3,9 +3,9 @@
   "updated": "2026-11-08",
   "default": "SD_VOICE_03",
   "defaultName": "Nathan Cole",
-  "alternate": "SD_VOICE_09",
-  "alternateName": "James Carter",
-  "rule": "Use SD_VOICE_03 — Nathan Cole for every video. Use SD_VOICE_09 — James Carter only when the brief explicitly names it. Never substitute a voice silently.",
+  "alternate": "SD_VOICE_03",
+  "alternateName": "Nathan Cole",
+  "rule": "Use SD_VOICE_03 — Nathan Cole for every video. No other voice is permitted.",
   "selection": {
     "acceptedForms": [
       "SD_VOICE_03",
@@ -214,107 +214,6 @@
       },
       "description": "A rich, smooth, intelligent male voice for professional American technology narration. Conversational enough for a founder story, polished enough for a product film.",
       "usage": "Select with `resolveVoice(\"SD_VOICE_03\")` or `resolveVoice(\"SD_VOICE_03 — Nathan Cole\")`. In Remotion use `<VoiceNarration voice=\"SD_VOICE_03\" emotion=\"calm\" />`. Paths are relative to `public/`. This identity is permanent; do not rename it. If the asset is missing, fail loudly — never substitute another voice."
-    },
-    {
-      "id": "SD_VOICE_09",
-      "name": "James Carter",
-      "role": "alternate",
-      "gender": "male",
-      "register": "deep, natural baritone",
-      "texture": "expressive, conversational, slightly breathy",
-      "accent": "Canadian (General Canadian, close to American)",
-      "personality": "empathetic, sincere, adaptable",
-      "narrationStyle": "emotional storytelling; natural conversational pacing, intimate close-mic feel, honest emphasis without melodrama",
-      "primaryEmotion": "emotional storytelling",
-      "speakingSpeed": "measured, 161.5 wpm (identity sample)",
-      "idealVideoTypes": [
-        "founder stories",
-        "emotional brand films",
-        "customer stories",
-        "human-interest documentaries"
-      ],
-      "preferredEmotions": [
-        "reflection",
-        "concern",
-        "friendly",
-        "confidence"
-      ],
-      "engineVoice": "en-CA-LiamNeural",
-      "audioDir": "public/audio/voice-library/SD_VOICE_09_James_Carter",
-      "publicPathPattern": "audio/voice-library/SD_VOICE_09_James_Carter/{emotion}.wav",
-      "emotions": [
-        "calm",
-        "curiosity",
-        "suspense",
-        "excitement",
-        "seriousness",
-        "concern",
-        "confidence",
-        "reflection",
-        "dramatic",
-        "friendly"
-      ],
-      "prosody": {
-        "base": {
-          "rate_percent": 0,
-          "pitch_hz": -4,
-          "volume_percent": 0
-        },
-        "emotions": {
-          "calm": {
-            "rate_percent": 0,
-            "pitch_hz": -4,
-            "volume_percent": 0
-          },
-          "curiosity": {
-            "rate_percent": 4,
-            "pitch_hz": -1,
-            "volume_percent": 0
-          },
-          "suspense": {
-            "rate_percent": -5,
-            "pitch_hz": -6,
-            "volume_percent": 0
-          },
-          "excitement": {
-            "rate_percent": 8,
-            "pitch_hz": 0,
-            "volume_percent": 3
-          },
-          "seriousness": {
-            "rate_percent": -3,
-            "pitch_hz": -5,
-            "volume_percent": 0
-          },
-          "concern": {
-            "rate_percent": -5,
-            "pitch_hz": -3,
-            "volume_percent": 0
-          },
-          "confidence": {
-            "rate_percent": -1,
-            "pitch_hz": -4,
-            "volume_percent": 2
-          },
-          "reflection": {
-            "rate_percent": -7,
-            "pitch_hz": -5,
-            "volume_percent": -1
-          },
-          "dramatic": {
-            "rate_percent": -9,
-            "pitch_hz": -7,
-            "volume_percent": 5
-          },
-          "friendly": {
-            "rate_percent": 3,
-            "pitch_hz": -2,
-            "volume_percent": 1
-          }
-        }
-      },
-      "description": "A deep, expressive male voice with a natural conversational texture. It moves easily between warmth, concern, and quiet confidence, which makes it the most emotionally flexible identity in the library.",
-      "usage": "Select with `resolveVoice(\"SD_VOICE_09\")` or `resolveVoice(\"SD_VOICE_09 — James Carter\")`. In Remotion use `<VoiceNarration voice=\"SD_VOICE_09\" emotion=\"calm\" />`. Paths are relative to `public/`. This identity is permanent; do not rename it. If the asset is missing, fail loudly — never substitute another voice."
     }
   ],
   "integration": {

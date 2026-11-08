@@ -1,0 +1,21 @@
+{
+  "slug": "whatsapp-19-billion",
+  "title": "WhatsApp — The  Billion App",
+  "created": "2026-11-08",
+  "status": "draft",
+  "preset": "house",
+  "voice": "SD_VOICE_03",
+  "durationSeconds": 80,
+  "formats": [
+    "vertical",
+    "horizontal",
+    "cover"
+  ],
+  "compositions": {
+    "vertical": "WhatsAppTheBillionApp",
+    "horizontal": "WhatsAppTheBillionAppWide",
+    "cover": "WhatsAppTheBillionAppCover"
+  },
+  "tags": [],
+  "source": "user brief"
+}

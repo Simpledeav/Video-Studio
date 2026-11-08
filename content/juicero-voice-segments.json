@@ -1,0 +1,92 @@
+{
+  "voiceId": "SD_VOICE_03",
+  "voiceName": "Nathan Cole",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "direction": "Premium cinematic business documentary read with dry, knowing humour. Natural, conversational American male voice, globally clear. Curious and confident in the hook, ambitious through the startup montage, lightly sarcastic at the hand-squeeze reveal, restrained and serious through the collapse, then direct and generous in the developer lesson. Never robotic. Never shouty. Leave the joke to land in silence.",
+  "storyDurationSeconds": 90,
+  "totalDurationSeconds": 90,
+  "leadInSeconds": 0.4,
+  "maxInternalPauseSeconds": 0.22,
+  "segments": [
+    {
+      "id": "hook",
+      "text": "Imagine spending four hundred dollars on a machine… just to discover your hands could do the same thing.",
+      "emotion": "suspense",
+      "rate": "+10%",
+      "pitch": "-2Hz",
+      "volume": "+1%",
+      "pauseAfterSeconds": 0.55,
+      "sceneStartSeconds": 0.2
+    },
+    {
+      "id": "dream",
+      "text": "Meet Juicero. A startup that wanted to revolutionize fresh juice. The idea? A sophisticated, internet-connected machine that squeezed specially prepared produce packs. The pitch was simple: fresh juice, without the mess.",
+      "emotion": "excitement",
+      "rate": "+14%",
+      "pitch": "-2Hz",
+      "volume": "+1%",
+      "pauseAfterSeconds": 0.45,
+      "sceneStartSeconds": 7.1
+    },
+    {
+      "id": "millions",
+      "text": "Investors poured approximately one hundred and twenty million dollars into the company. The machine launched at six hundred and ninety-nine dollars, before the price was reduced. It looked like the future of breakfast.",
+      "emotion": "confidence",
+      "rate": "+13%",
+      "pitch": "-3Hz",
+      "volume": "+1%",
+      "pauseAfterSeconds": 0.55,
+      "sceneStartSeconds": 22.55
+    },
+    {
+      "id": "reveal-a",
+      "text": "Then Bloomberg tested something nobody wanted to admit. The juice packs could be squeezed by hand… and the machine wasn't necessary for the basic result.",
+      "emotion": "suspense",
+      "rate": "+10%",
+      "pitch": "-4Hz",
+      "volume": "+1%",
+      "pauseAfterSeconds": 0.4,
+      "sceneStartSeconds": 35.8
+    },
+    {
+      "id": "reveal-b",
+      "text": "To be fair, Juicero promised consistency, convenience, and freshness checks. But the internet only saw the hands.",
+      "emotion": "seriousness",
+      "rate": "+12%",
+      "pitch": "-3Hz",
+      "volume": "+0%",
+      "pauseAfterSeconds": 0.6,
+      "sceneStartSeconds": 47.2
+    },
+    {
+      "id": "collapse",
+      "text": "The backlash was brutal. Juicero offered refunds and suspended sales in September twenty seventeen. The company shut down.",
+      "emotion": "concern",
+      "rate": "+10%",
+      "pitch": "-2Hz",
+      "volume": "+0%",
+      "pauseAfterSeconds": 0.7,
+      "sceneStartSeconds": 56.0
+    },
+    {
+      "id": "lesson",
+      "text": "And this is where developers should pay attention. We sometimes spend weeks building complex systems, AI features, and beautiful dashboards… when the customer simply wants their problem solved.",
+      "emotion": "dramatic",
+      "rate": "+14%",
+      "pitch": "-3Hz",
+      "volume": "+1%",
+      "pauseAfterSeconds": 0.65,
+      "sceneStartSeconds": 67.6
+    },
+    {
+      "id": "ending",
+      "text": "So before you build the next big thing, ask yourself: would the customer still need it without the fancy technology?",
+      "emotion": "reflection",
+      "rate": "+9%",
+      "pitch": "-3Hz",
+      "volume": "+0%",
+      "pauseAfterSeconds": 0.4,
+      "sceneStartSeconds": 80.4
+    }
+  ]
+}
